@@ -1798,6 +1798,34 @@
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source": "Hugging Face",
       "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "38c536bcaaca4d75": {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "norm_title": "harvards699startupbootcampoffersaiavatarsofitsinstructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-23T09:58:25.706535+00:00"
+    },
+    "a21f2a44b3aed6bf": {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "norm_title": "inherentfoundedbydeepmindalumnisaysitsaiteammatejustoutperformedanthropicandopenaiatreplicatingresearch",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-23T09:58:25.706535+00:00"
+    },
+    "b7f1a247d1f6b8a5": {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "norm_title": "openaisayscaliforniashouldstrengthenitsaisafetybill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-23T09:58:25.706535+00:00"
+    },
+    "e21ceaab5b06ae6f": {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "norm_title": "frontierailabsstillwontsayhowtheydcontainaroguemodel",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-23T09:58:25.706535+00:00"
     }
   }
 }
