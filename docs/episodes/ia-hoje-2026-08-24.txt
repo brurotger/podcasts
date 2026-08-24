@@ -1,0 +1,111 @@
+ANA: Bom dia, bom dia! Hoje é segunda-feira, vinte e quatro de agosto de dois mil e vinte e seis, e esse é mais um episódio do I A Hoje. Bora, Marcos, cheguei com uma lista pesada hoje.
+
+MARCOS: Bom dia, Ana! Pesada como assim, difícil ou triste?
+
+ANA: Um pouco dos dois, na verdade. Tem coisa que vai te dar raiva, tem coisa que vai te deixar pensativo. Posso começar pela mais dura?
+
+MARCOS: Pode.
+
+ANA: A revista Wired publicou uma reportagem sobre professores nos Estados Unidos que estão virando alvo de deepfakes sexualizados, feitos por alunos, usando inteligência artificial. E o pior: quatro professores contaram que é quase impossível responsabilizar quem faz isso.
+
+MARCOS: É, e isso não é um caso isolado, infelizmente. A gente já vinha ouvindo falar de deepfakes sexualizados envolvendo colegas de escola, adolescentes fazendo isso uns com os outros. O que essa reportagem da Wired traz de novo é que os próprios professores estão sendo alvo dos alunos. Ou seja, virou uma ferramenta de assédio, de humilhação, dentro do ambiente escolar, e agora mirando quem está do outro lado da sala de aula.
+
+ANA: Mas como isso é possível hoje em dia? Não tem ferramenta que bloqueia esse tipo de conteúdo?
+
+MARCOS: Tem, só que o problema é a facilidade de acesso. Existem aplicativos e sites, muitos deles fora dos Estados Unidos, que fazem esse tipo de imagem em segundos, só com uma foto do rosto da pessoa tirada de rede social. E o buraco de responsabilização que a reportagem mostra é justamente esse: a escola não sabe se é caso de polícia, os pais dos alunos às vezes nem acreditam, e a legislação está sempre um passo atrás da tecnologia.
+
+ANA: E daí, o que acontece na prática pra essas pessoas? Elas conseguem alguma reparação?
+
+MARCOS: Segundo a Wired, muito raramente. Alguns estados americanos já têm leis específicas contra deepfake sexual, mas fazer a ligação entre "esse aluno criou essa imagem" e "esse aluno deve ser punido" esbarra em prova, em jurisdição, em maioridade penal. É basicamente o mesmo problema que a gente vê com bullying digital há anos, só que turbinado pela I A, que faz a imagem parecer muito mais real e se espalhar muito mais rápido.
+
+ANA: Isso não é hype, né? Isso é o lado feio mesmo da tecnologia.
+
+MARCOS: É o lado feio mesmo. E o ponto que eu acho mais importante aqui é: a gente sempre fala de I A generativa pensando em produtividade, em arte, em código. Essa reportagem é um lembrete de que a mesma tecnologia que gera uma imagem bonita pra ilustrar um post também gera esse tipo de abuso, com o mesmo clique de facilidade.
+
+ANA: Deixa eu trocar de clima, porque a próxima é mais sobre ciência mesmo. Vi na M I T Technology Review uma matéria com um título que me pegou: "crianças aprendem mais que a I A, e a gente ainda não sabe por quê".
+
+MARCOS: Adorei essa pauta. O ponto de partida da reportagem é meio poético: faz pelo menos cem mil anos que humanos conversam entre si, e durante todo esse tempo só existiu uma coisa no mundo capaz de aprender um idioma humano com fluência perfeita, que é uma criança humana. E agora, quatro anos depois do lançamento do Chat G P T, surgiu uma segunda coisa capaz disso, que são os modelos de linguagem.
+
+ANA: Só que o título diz que as crianças ainda ganham. Ganham como?
+
+MARCOS: Ganham em eficiência de aprendizado. Uma criança de dois, três anos ouve uma fração gigantesca menos de palavras do que um modelo de linguagem precisa processar pra chegar num nível parecido de domínio da língua. A gente está falando de uma criança exposta a, no máximo, alguns milhões de palavras nos primeiros anos de vida, enquanto um modelo como os que sustentam esses assistentes de hoje é treinado com trilhões de palavras, texto da internet inteira, basicamente. E mesmo assim, no fim, a criança entende nuance, ironia, contexto social, de um jeito que a máquina ainda tropeça.
+
+ANA: Então por que ninguém sabe explicar isso? A gente não construiu a própria I A, não devia saber exatamente como ela aprende?
+
+MARCOS: Saber como ela aprende a gente sabe, no sentido técnico: é estatística, é prever a próxima palavra a partir de padrões enormes de texto. O que ninguém sabe direito é como a criança faz isso com tão pouco dado. Existe uma trave decorrente disso, que os cientistas chamam de eficiência amostral, ou seja, quanto de informação você precisa pra aprender uma coisa. E o cérebro humano parece ter algum mecanismo, seja ele inato ou construído nos primeiros meses de vida, que nenhum modelo de I A ainda replicou.
+
+ANA: E isso muda o quê pra quem trabalha com I A? Ou é só curiosidade científica?
+
+MARCOS: Muda bastante, porque é meio que o Santo Graal da área. Se alguém descobrir o "truque" que o cérebro da criança usa, isso pode abrir caminho pra modelos muito mais eficientes, que aprendem com menos dado e menos energia. Hoje a gente resolve o problema "na força", jogando quantidade absurda de texto e poder computacional. A criança resolve com muito menos recurso e generaliza melhor. Então essa pergunta não é só filosófica, ela tem um valor prático gigante pra quem constrói esses sistemas.
+
+ANA: Fico feliz que ainda tem espaço pra humano ganhar de máquina em alguma coisa.
+
+MARCOS: Por enquanto, sim.
+
+ANA: Vamos pra próxima, que é puro mistério. O TechCrunch escreveu sobre um modelo de I A chamado "Ox Alpha", que segundo a matéria colocou "certos cantos da internet" numa frenesi de especulação. Confesso que nunca tinha ouvido falar.
+
+MARCOS: Pois é, e o motivo do frenesi é justamente esse: ninguém sabe, com certeza, quem fez o Ox Alpha. Isso é o que chamamos de "stealth model", ou modelo disfarçado: uma inteligência artificial que aparece do nada, geralmente em algum site de comparação de modelos ou em uma interface de testes, sem nenhuma empresa assinando embaixo.
+
+ANA: Mas por que uma empresa faria isso? Por que não simplesmente lançar o modelo com o nome dela?
+
+MARCOS: Existem algumas razões possíveis, e essa é exatamente a graça da especulação. Uma é testar a reação do público antes de colocar a marca em jogo, coisa que grandes laboratórios já fizeram antes: veio à tona depois que outros modelos "sem nome" bem avaliados em rankings eram, na verdade, versões de teste do Gêmini do Google ou de modelos da Open A I, disfarçados justamente pra coletar dado de comparação sem gerar expectativa prévia. Outra razão é markting mesmo: gerar esse burburinho de "quem será que fez isso" vira notícia de graça, como está acontecendo agora com a gente falando disso aqui.
+
+ANA: E o modelo é bom mesmo, ou é só hype de nome misterioso?
+
+MARCOS: Segundo o TechCrunch, ele vem performando muito bem em testes as cegas, os chamados benchmarks, onde usuários comparam respostas de dois modelos sem saber qual é qual e votam no melhor. Isso dá indício de que não é só fumaça, tem qualidade técnica real por trás. Mas repare que "performar bem em benchmark" não é a mesma coisa que "ser revolucionário": às vezes é só um modelo competente de uma empresa que ainda não quer se expor.
+
+ANA: E o que você acha, quem você acha que está por trás?
+
+MARCOS: Eu não vou arriscar nome, porque até a comunidade especializada está dividida, tem gente apostando em laboratórios chineses, tem gente apostando em algum player americano menos conhecido testando antes de um lançamento grande. O que eu acho relevante aqui não é quem é, é o padrão: isso virou uma estratégia recorrente no mercado de I A, lançar sem nome pra testar terreno. Vale prestar atenção nisso, porque prova como o hype em torno de modelo novo hoje em dia é quase um jogo de marketing tão calculado quanto o próprio treinamento técnico.
+
+ANA: Combinado, vamos ficar de olho. Próxima notícia muda de assunto de novo: vigilância. O TechCrunch fala da Flock Safety, e o C E O da empresa pedindo "compromisso" enquanto a empresa enfrenta uma reação negativa crescente.
+
+MARCOS: A Flock Safety é uma empresa americana que vende câmeras com leitura automática de placa de carro, muito usada por polícias locais e por associações de moradores nos Estados Unidos. A ideia original é ajudar a rastrear carros ligados a crimes. O problema é que, com o tempo, ficou claro que essas câmeras formam uma rede gigantesca de vigilância, e os dados coletados por elas podem ser usados pra muito mais do que pegar ladrão de carro.
+
+ANA: Tipo o quê?
+
+MARCOS: Tipo rastrear o deslocamento de qualquer pessoa, em qualquer cidade que tenha essas câmeras, sem mandado judicial na maioria dos casos. Já teve reportagem mostrando esses dados sendo usados pra investigar mulheres que atravessaram fronteira estadual atrás de aborto, em estados americanos onde isso é proibido, e também casos de agências de imigração acessando essas informações pra rastrear pessoas. É esse tipo de uso que gerou a reação negativa que a matéria descreve.
+
+ANA: E o que o C E O está propondo com esse tal "compromisso"?
+
+MARCOS: Pelo que o TechCrunch relata, ele está tentando um meio-termo: manter o produto no mercado, mas aceitando algumas restrições de uso, tipo limitar quem pode acessar os dados e por quanto tempo eles ficam guardados. É a jogada clássica de empresa sob pressão: não recuar totalmente, mas ceder o mínimo pra aliviar a bronca pública e regulatória.
+
+ANA: Isso resolve o problema de verdade ou é só imagem?
+
+MARCOS: Depende muito de como esse compromisso vira regra de fato, e não só discurso. O histórico de empresas de vigilância prometendo autorregulação não é dos melhores, geralmente essas restrições valem até a próxima cliente grande pedir acesso mais amplo. O que eu acho importante aqui, além do caso específico da Flock, é o padrão que ele representa: a gente construiu, quase sem perceber, uma infraestrutura de vigilância em massa nos Estados Unidos, usando inteligência artificial pra ler placa, reconhecer padrão, cruzar dado, e só agora a sociedade está discutindo os limites disso.
+
+ANA: É tipo instalar a câmera em toda esquina primeiro e só depois perguntar se pode.
+
+MARCOS: Exatamente essa lógica. E é um caso pra ficar de olho, porque o desfecho vai servir de precedente pra outras empresas do setor.
+
+ANA: Última notícia do dia, e essa é jurídica, mas prometo que vou tentar simplificar: é legal treinar modelo de I A com livro protegido por direito autoral? O TechCrunch dedicou uma matéria inteira só pra explicar por que essa pergunta é tão complicada.
+
+MARCOS: E é complicada mesmo, porque mistura direito autoral antigo com uma tecnologia que ninguém previu quando essas leis foram escritas. O ponto de partida da matéria é forte: praticamente todo autor publicado, sem saber e sem consentir, ajudou a treinar as mesmas ferramentas de I A que hoje ameaçam o sustento dele. Isso porque grandes empresas de I A usaram bases enormes de livros digitalizados, muitos deles pirateados, pra treinar seus modelos de linguagem.
+
+ANA: Isso parece claramente ilegal. Por que é complicado, então?
+
+MARCOS: Porque existe, nos Estados Unidos, um princípio chamado "uso justo", que permite usar obra protegida sem autorização em certas situações, por exemplo pra crítica, paródia, pesquisa. E as empresas de I A argumentam que treinar um modelo se encaixa nisso, porque o modelo não está copiando o livro, está aprendendo padrão de linguagem a partir dele, meio como um estudante que lê muito e depois escreve com o próprio estilo.
+
+ANA: Mas ler um livro pirateado pra treinar não é diferente de ler emprestado numa biblioteca?
+
+MARCOS: É exatamente esse o racha nos tribunais agora. Teve decisão recente nos Estados Unidos, envolvendo a Anthropic, favorável à ideia de que treinar com livro pode ser uso justo, mas ao mesmo tempo o juiz distinguiu isso do fato de ter baixado o livro de forma pirata, que é ilegal independente do uso final. Ou seja, mesmo que treinar seja permitido, o jeito como a empresa conseguiu o livro pode não ser. São duas perguntas jurídicas diferentes, e essa mistura é o que deixa tudo tão nebuloso, como o próprio título do TechCrunch resume.
+
+ANA: E pro autor, na prática, isso muda alguma coisa? Ele recebe algo, ele consegue impedir?
+
+MARCOS: Hoje, na prática, muito pouco. Tem ações coletivas rolando, alguns acordos bilionários já fechados entre empresas de I A e grupos de autores, mas a legislação em si ainda não foi atualizada pra dar um caminho claro de remuneração. Então a gente está numa fase de definir as regras do jogo depois que o jogo já começou, com bilhões de dólares em jogo e autores tentando correr atrás.
+
+ANA: É tipo usar o trabalho de alguém de graça e só depois debater se devia ter pago.
+
+MARCOS: É praticamente isso, e por isso essa discussão vai continuar dando pano pra manga nos próximos anos, porque toca direto no bolso de duas indústrias gigantes: a de livros e a de inteligência artificial.
+
+ANA: Muita coisa pra digerir hoje, hein.
+
+MARCOS: Foi um dia mais denso mesmo, mas eu acho importante a gente trazer esse tipo de pauta também, não só lançamento de produto bonito.
+
+ANA: Concordo total. Então deixa eu recapitular rapidinho pra quem só quer o resumo. Professores nos Estados Unidos estão sendo alvo de deepfakes sexualizados feitos por alunos, e o sistema ainda não sabe como responsabilizar ninguém. Crianças continuam aprendendo idioma de um jeito muito mais eficiente que qualquer modelo de I A, e a ciência ainda não entende exatamente por quê. Um modelo misterioso chamado Ox Alpha está gerando especulação sobre quem estaria por trás dele, num mercado onde lançar sem assinatura virou estratégia. A Flock Safety tenta acalmar a reação negativa contra sua rede de câmeras de vigilância propondo um meio-termo que ainda precisa provar que é sério. E treinar I A com livro protegido por direito autoral segue numa zona cinzenta jurídica, com tribunais tentando separar o que é uso justo do que é pirataria.
+
+MARCOS: Resumo perfeito.
+
+ANA: Por hoje é isso, gente. Obrigada por ouvir mais um I A Hoje com a gente. Amanhã tem mais notícia fresquinha, um beijo e até lá!
+
+MARCOS: Até amanhã, pessoal!

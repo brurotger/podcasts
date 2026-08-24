@@ -1826,6 +1826,41 @@
       "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "source": "TechCrunch",
       "seen_at": "2026-08-23T09:58:25.706535+00:00"
+    },
+    "8fc83fec2bee8463": {
+      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+      "norm_title": "theydedicatedtheirlivestoteachingthenthedeepfakesstarted",
+      "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+      "source": "Wired",
+      "seen_at": "2026-08-24T11:03:17.650230+00:00"
+    },
+    "5c88c00f00b0e24b": {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "norm_title": "kidsoutlearnaiandwestilldontknowwhy",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-24T11:03:17.650230+00:00"
+    },
+    "60c7c5dda4ffea80": {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "norm_title": "whosbehindthenewstealthmodeloxalpha",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-24T11:03:17.650230+00:00"
+    },
+    "a46a364fc5b063fb": {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "norm_title": "flockceocallsforcompromiseassurveillancecompanyfacesgrowingbacklash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-24T11:03:17.650230+00:00"
+    },
+    "f7f4b46bd15f8f4f": {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "norm_title": "isitlegaltotrainaimodelsoncopyrightedbooksitscomplicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-24T11:03:17.650230+00:00"
     }
   }
 }
