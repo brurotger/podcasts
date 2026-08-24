@@ -1,5 +1,5 @@
-# Claude
-Para salvar meus projetos do claude
+# podcasts
+Podcasts de IA criado com o claude
 
 ## Projetos
 
