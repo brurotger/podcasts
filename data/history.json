@@ -1861,6 +1861,104 @@
       "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
       "source": "TechCrunch",
       "seen_at": "2026-08-24T11:03:17.650230+00:00"
+    },
+    "29fafe619a282aa0": {
+      "title": "It Should Be Harder to Apply for a Job. No, Really",
+      "norm_title": "itshouldbehardertoapplyforajobnoreally",
+      "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+      "source": "Wired",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "e9c772759db5ba98": {
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "norm_title": "openaisubpoenaedbyalabamaagoverhuggingfacehack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "source": "The Verge",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "ed531618544dcbab": {
+      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "norm_title": "spiritairlineswantstosellitsdatatogoogleformerflightattendantsarefreakedout",
+      "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+      "source": "Wired",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "3039bd97728623f1": {
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "norm_title": "ispentadayatarobotcarnivalinshanghaihereswhatisaw",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "c1da8c0b14fb59ee": {
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "norm_title": "situationalawarenessstaraihedgefundthatnearlyimplodednowbeingprobedbythesec",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "96dccaec4e4da26e": {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "norm_title": "disruptinganewcovertinfluencecampaignfromrussia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "781a9a89339b5be8": {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "norm_title": "wireitrunitdeployitaiworkflowsingradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "8d98168645f848a4": {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "norm_title": "aiishittingentryleveljobshardeststanfordstudyfinds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "db3afedaf503b83b": {
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "norm_title": "trumpboughtspacexsharestwoweeksafterblockbusteripo",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "3d1f712ebc6c117b": {
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "norm_title": "amjadmasadceoandcofounderofreplitjoinsthedisruptstageattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "5d2bfae876afd0db": {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "norm_title": "instinctspowerfulaiassistantisraisingprivacyandsecurityconcerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "7465e2fc12670b64": {
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "norm_title": "nvidiaseniormanagerlinkedtosupermicroschemesmugglingaiserverstochina",
+      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "625f82fdfc9c1684": {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "norm_title": "valorpoint72backgeneralintuitionat6bvaluationasaistartuppushesintorobotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "97dd71abe3ac7ee6": {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "norm_title": "openaiisbuildingaiagentsforeverythingwilleveryoneusethem",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-25T10:10:44.507438+00:00"
     }
   }
 }
