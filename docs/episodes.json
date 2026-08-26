@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-26",
+    "title": "IA Hoje — 26 de agosto de 2026",
+    "file": "ia-hoje-2026-08-26.mp3",
+    "duration": 847,
+    "size": 5079261,
+    "published_at": "2026-08-26T10:58:42.639424+00:00",
+    "news": [
+      {
+        "title": "Raised on AI",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
+      },
+      {
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
+      },
+      {
+        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
+      },
+      {
+        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
+      },
+      {
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+      },
+      {
+        "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
+      },
+      {
+        "title": "How loveholidays is making everyone a builder with Codex",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/loveholidays"
+      },
+      {
+        "title": "World humanoid robot games show runners breaking records, bursting into flames",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
+      },
+      {
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
+      },
+      {
+        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+      },
+      {
+        "title": "5 ways to upgrade your home decor with Google Search",
+        "source": "Google AI",
+        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+      },
+      {
+        "title": "Granite 4.2 LLMs: How They're Built",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+      },
+      {
+        "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
+      },
+      {
+        "title": "Gamma acquires Accel-backed design startup Lica",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-25",
     "title": "IA Hoje — 25 de agosto de 2026",
     "file": "ia-hoje-2026-08-25.mp3",
@@ -841,86 +921,6 @@
         "title": "Twitch streamers can now opt out from training Amazon’s AI",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "title": "IA Hoje — 12 de agosto de 2026",
-    "file": "ia-hoje-2026-08-12.mp3",
-    "duration": 890,
-    "size": 5341773,
-    "published_at": "2026-08-12T11:40:50.475967+00:00",
-    "news": [
-      {
-        "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
-      },
-      {
-        "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/"
-      },
-      {
-        "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/"
-      },
-      {
-        "title": "You’re Thinking About Online Trends All Wrong",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/"
-      },
-      {
-        "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive"
-      },
-      {
-        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
-      },
-      {
-        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
-      },
-      {
-        "title": "ChatGPT and Gemini both just passed 1 billion users",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users"
-      },
-      {
-        "title": "OpenAI launches ChatGPT desktop app for Linux",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
-      },
-      {
-        "title": "Google’s Gemini app surges to 1 billion users",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
-      },
-      {
-        "title": "Another OpenAI executive takes off",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure"
-      },
-      {
-        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
-      },
-      {
-        "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
-      },
-      {
-        "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-        "source": "Google AI",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
       }
     ]
   }

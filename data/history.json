@@ -1959,6 +1959,104 @@
       "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "source": "TechCrunch",
       "seen_at": "2026-08-25T10:10:44.507438+00:00"
+    },
+    "36264dbf3f442c3a": {
+      "title": "Raised on AI",
+      "norm_title": "raisedonai",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "401ca268b0631286": {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "norm_title": "aimodelsflubtheseintelligencetestscanyoufareanybetter",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "e0a9d85e05e1e0dd": {
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "norm_title": "billgatessayswevepassedaisdangerthresholdsnowwhat",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "513d5b281876baef": {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "norm_title": "indiasringggetsbackingfrompeakxvasitpushesvoiceaipastthephonecall",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "2a6b4816a386773e": {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "norm_title": "roboticsstartupgeneralistreaches3bvaluationsourcessay",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "f3b35218cbb84d60": {
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "norm_title": "openailosesatopdatacenterexecasstreamofhighprofiledeparturescontinues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "07b8370be02c8e20": {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "norm_title": "howloveholidaysismakingeveryoneabuilderwithcodex",
+      "url": "https://openai.com/index/loveholidays",
+      "source": "OpenAI",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "f229b6c4df890f68": {
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "norm_title": "worldhumanoidrobotgamesshowrunnersbreakingrecordsburstingintoflames",
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "d950e7a23404c6d1": {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "norm_title": "stabilityaimakerofimagegeneratorstablediffusionraises76millioninfreshfunding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "fe757097388e8ac5": {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "norm_title": "claudecoworkfinallyrememberswhatyoutoldtheappinchat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "04941bfbbbfcf3a7": {
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "norm_title": "5waystoupgradeyourhomedecorwithgooglesearch",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "Google AI",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "2ba6a6417d79c070": {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "norm_title": "granite42llmshowtheyrebuilt",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "fd817f3c1767e2d8": {
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "norm_title": "aiwontreplaceradiologistsbutitwilldramaticallychangetheirjobs",
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
+    },
+    "82262f6f2935111f": {
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "norm_title": "gammaacquiresaccelbackeddesignstartuplica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-26T10:58:42.642793+00:00"
     }
   }
 }
