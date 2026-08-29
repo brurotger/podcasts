@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-08-29",
+    "title": "IA Hoje — 29 de agosto de 2026",
+    "file": "ia-hoje-2026-08-29.mp3",
+    "duration": 628,
+    "size": 3766413,
+    "published_at": "2026-08-29T09:06:09.761084+00:00",
+    "news": [
+      {
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+      },
+      {
+        "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+      },
+      {
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
+      },
+      {
+        "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-28",
     "title": "IA Hoje — 28 de agosto de 2026",
     "file": "ia-hoje-2026-08-28.mp3",
@@ -841,86 +876,6 @@
         "title": "State of Open Models: Summer 2026 Observations",
         "source": "Hugging Face",
         "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "title": "IA Hoje — 14 de agosto de 2026",
-    "file": "ia-hoje-2026-08-14.mp3",
-    "duration": 906,
-    "size": 5435229,
-    "published_at": "2026-08-14T11:34:11.137763+00:00",
-    "news": [
-      {
-        "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/"
-      },
-      {
-        "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/"
-      },
-      {
-        "title": "Apple trained its own AI model for China with help from Alibaba",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
-      },
-      {
-        "title": "The Safety Reckoning Inside OpenAI",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/"
-      },
-      {
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
-      },
-      {
-        "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/"
-      },
-      {
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
-      },
-      {
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
-      },
-      {
-        "title": "OpenAI is losing its second executive this week",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
-      },
-      {
-        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
-      },
-      {
-        "title": "IBM partners with OpenAI to bolster enterprise AI push",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
-      },
-      {
-        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
-      },
-      {
-        "title": "The new Instagram logo is the perfect embodiment of AI slop",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
-      },
-      {
-        "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
       }
     ]
   }

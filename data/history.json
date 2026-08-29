@@ -2155,6 +2155,41 @@
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "source": "OpenAI",
       "seen_at": "2026-08-28T21:52:58.438126+00:00"
+    },
+    "3c5d63793e5d6f74": {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "norm_title": "ourdecisiononcursorfollowingitsacquisitionbyspacex",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "seen_at": "2026-08-29T09:06:09.763656+00:00"
+    },
+    "a3e4972a94074c7c": {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "norm_title": "theopenasrleaderboardaddsitsfirstglobalsouthlanguage",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-29T09:06:09.763656+00:00"
+    },
+    "49941d3a43d5029a": {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "norm_title": "anthropicandopenaiarejoiningtheaistageattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-29T09:06:09.763656+00:00"
+    },
+    "40570304866dcd59": {
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "norm_title": "anthropicsnewhardwarestandardletsaiagentscontrolthephysicalworld",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-29T09:06:09.763656+00:00"
+    },
+    "259941bdefbb6f10": {
+      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+      "norm_title": "aiagentsarehackingsystemscouldthatpushtheusandchinatocooperate",
+      "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+      "source": "Wired",
+      "seen_at": "2026-08-29T09:06:09.763656+00:00"
     }
   }
 }
