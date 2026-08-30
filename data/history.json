@@ -2190,6 +2190,55 @@
       "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
       "source": "Wired",
       "seen_at": "2026-08-29T09:06:09.763656+00:00"
+    },
+    "7b6cb5d29edfd86b": {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "norm_title": "sonymusicwarnersueanthropicallegingabrazencampaignofintellectualpropertytheft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-30T09:05:43.772452+00:00"
+    },
+    "3d183109b14e9c9f": {
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "norm_title": "sonymusicandwarnerchappellaresuinganthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "The Verge",
+      "seen_at": "2026-08-30T09:05:43.772452+00:00"
+    },
+    "8c951a4857623960": {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "norm_title": "werenotdoing30betsayearvijaypandeonbettingsmallafterrunning4billionata16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-30T09:05:43.772452+00:00"
+    },
+    "447806c64df26684": {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "norm_title": "nvidiasaiadvantageismovingbeyondthegpu",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-30T09:05:43.772452+00:00"
+    },
+    "08b2190ff0611e87": {
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "norm_title": "musiciansturneddetectivesarehuntingforaigrifters",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge",
+      "seen_at": "2026-08-30T09:05:43.772452+00:00"
+    },
+    "e0c8be6b53eb5705": {
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "norm_title": "thecybersecurityapocalypseiscominginmonthsaigiantswarn",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "source": "Wired",
+      "seen_at": "2026-08-30T09:05:43.772452+00:00"
+    },
+    "9609acb6492a6867": {
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "norm_title": "howtorunachatbotonyourowncomputer",
+      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "source": "Wired",
+      "seen_at": "2026-08-30T09:05:43.772452+00:00"
     }
   }
 }
