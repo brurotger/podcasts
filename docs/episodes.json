@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-08-31",
+    "title": "IA Hoje — 31 de agosto de 2026",
+    "file": "ia-hoje-2026-08-31.mp3",
+    "duration": 711,
+    "size": 4265373,
+    "published_at": "2026-08-31T09:05:59.335407+00:00",
+    "news": [
+      {
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+      },
+      {
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+      },
+      {
+        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+      },
+      {
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+      },
+      {
+        "title": "Why the Hottest New Wearables Want to Be Ignored",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "title": "IA Hoje — 30 de agosto de 2026",
     "file": "ia-hoje-2026-08-30.mp3",
@@ -816,36 +851,6 @@
         "title": "Rogue AI aren’t science fiction anymore",
         "source": "The Verge",
         "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "title": "IA Hoje — 16 de agosto de 2026",
-    "file": "ia-hoje-2026-08-16.mp3",
-    "duration": 726,
-    "size": 4356093,
-    "published_at": "2026-08-16T09:57:53.556762+00:00",
-    "news": [
-      {
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
-      },
-      {
-        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
-      },
-      {
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-      },
-      {
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
       }
     ]
   }

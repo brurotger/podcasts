@@ -2239,6 +2239,41 @@
       "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
       "source": "Wired",
       "seen_at": "2026-08-30T09:05:43.772452+00:00"
+    },
+    "72be18e7873eab72": {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "norm_title": "theusisbuildingbarriersarounddronesandrobotsbutchinahasscaletogetaroundthem",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-31T09:05:59.339158+00:00"
+    },
+    "07aa8ffc42a55d39": {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "norm_title": "musksfasterpathtomoregasturbinescomeswithpollutionproblem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-31T09:05:59.339158+00:00"
+    },
+    "f376906e2a247741": {
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "norm_title": "texasgovernorabbottblocksfundingformoreflockcameras",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "source": "The Verge",
+      "seen_at": "2026-08-31T09:05:59.339158+00:00"
+    },
+    "e8857b20fc551b07": {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "norm_title": "caterpillarisbringingtoaideploymentwhatitlearnedfromautomatingmining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-31T09:05:59.339158+00:00"
+    },
+    "3e204800af153892": {
+      "title": "Why the Hottest New Wearables Want to Be Ignored",
+      "norm_title": "whythehottestnewwearableswanttobeignored",
+      "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+      "source": "Wired",
+      "seen_at": "2026-08-31T09:05:59.339158+00:00"
     }
   }
 }
