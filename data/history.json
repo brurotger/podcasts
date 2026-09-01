@@ -2274,6 +2274,104 @@
       "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
       "source": "Wired",
       "seen_at": "2026-08-31T09:05:59.339158+00:00"
+    },
+    "22455782a6f9254a": {
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "norm_title": "nvidiascontroversialdlss5arrivesseptember3rdandrequiresseriousgpuhorsepower",
+      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "source": "The Verge",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "8fb2f290c68c998c": {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "norm_title": "applesharesshockingevidenceagainstformeremployeeaccusedofstealingcompanydataforopenai",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "74dbc1def928b803": {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "norm_title": "thepentagonnowhasitsownversionofchatgptandgrok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "26495f8a90b642e7": {
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "norm_title": "instagramputsnewlimitsonundisclosedaiprofiles",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "ecaa74d522483ead": {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "norm_title": "harvardlawdropoutraises6mforbluevoicetobuildaharveyforpoliceofficers",
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "c7eb40f13831d743": {
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "norm_title": "zlibrarymybelovedanthropicstaffchatsextollingpiracycitedinsonysuit",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "1186b181472bf684": {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "norm_title": "thehuggingfacehackcouldindicateculturalissuesatopenai",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "0c48e36f00aec492": {
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "norm_title": "cliptousesaitosearchterabytesofvideoandisnowvaluedat250m",
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "92ad6d2fef302a05": {
+      "title": "Debian won’t ban AI code from its Linux distribution",
+      "norm_title": "debianwontbanaicodefromitslinuxdistribution",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "source": "The Verge",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "9080f0f2e91d1a22": {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "norm_title": "nvidias35bmediatekbetrevealsitsplanfortacklingbigtechsaichipbuildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "fe467ebcf85c3938": {
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "norm_title": "newyorkgovernorkathyhochulthinksaishouldbelessevil",
+      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "source": "The Verge",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "8e561d4eb82f87e1": {
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "norm_title": "chatgptandredditnowfaceeustoughestonlinesafetyrules",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "fc9b0dc2ddb036f3": {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "norm_title": "chatgpttofacetougherregulationintheeu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "source": "The Verge",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "cd3d410c46835da4": {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "norm_title": "instagramcracksdownonaiaccountspretendingtobehuman",
+      "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "source": "The Verge",
+      "seen_at": "2026-09-01T13:51:53.203801+00:00"
     }
   }
 }

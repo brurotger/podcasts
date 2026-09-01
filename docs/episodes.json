@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-01",
+    "title": "IA Hoje — 1 de setembro de 2026",
+    "file": "ia-hoje-2026-09-01.mp3",
+    "duration": 947,
+    "size": 5680893,
+    "published_at": "2026-09-01T13:51:53.200481+00:00",
+    "news": [
+      {
+        "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27"
+      },
+      {
+        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+      },
+      {
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+      },
+      {
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+      },
+      {
+        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+      },
+      {
+        "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
+      },
+      {
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+      },
+      {
+        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+      },
+      {
+        "title": "Debian won’t ban AI code from its Linux distribution",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+      },
+      {
+        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+      },
+      {
+        "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
+      },
+      {
+        "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
+      },
+      {
+        "title": "ChatGPT to face tougher regulation in the EU",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+      },
+      {
+        "title": "Instagram cracks down on AI accounts pretending to be human",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "title": "IA Hoje — 31 de agosto de 2026",
     "file": "ia-hoje-2026-08-31.mp3",
@@ -801,56 +881,6 @@
         "title": "The Defender’s Window",
         "source": "OpenAI",
         "url": "https://openai.com/index/the-defenders-window"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "title": "IA Hoje — 17 de agosto de 2026",
-    "file": "ia-hoje-2026-08-17.mp3",
-    "duration": 821,
-    "size": 4925325,
-    "published_at": "2026-08-17T10:22:06.740244+00:00",
-    "news": [
-      {
-        "title": "What happens when a kid’s robot best friend dies?",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
-      },
-      {
-        "title": "Get closer to the game with Gemini and Pixel",
-        "source": "Google AI",
-        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
-      },
-      {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
-      },
-      {
-        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-      },
-      {
-        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
-      },
-      {
-        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
-      },
-      {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
-      },
-      {
-        "title": "Rogue AI aren’t science fiction anymore",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
       }
     ]
   }
