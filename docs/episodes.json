@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-02",
+    "title": "IA Hoje — 2 de setembro de 2026",
+    "file": "ia-hoje-2026-09-02.mp3",
+    "duration": 801,
+    "size": 4807533,
+    "published_at": "2026-09-02T13:08:50.478067+00:00",
+    "news": [
+      {
+        "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
+      },
+      {
+        "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/"
+      },
+      {
+        "title": "Google needs Hollywood more than the studios need AI",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
+      },
+      {
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+      },
+      {
+        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+      },
+      {
+        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/allenai/benchmirt"
+      },
+      {
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+      },
+      {
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
+      },
+      {
+        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
+      },
+      {
+        "title": "The latest AI news we announced in August 2026",
+        "source": "Google AI",
+        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
+      },
+      {
+        "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"
+      },
+      {
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+      },
+      {
+        "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack"
+      },
+      {
+        "title": "Apple accuses OpenAI of destroying evidence",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit"
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "title": "IA Hoje — 1 de setembro de 2026",
     "file": "ia-hoje-2026-09-01.mp3",
@@ -801,86 +881,6 @@
         "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "title": "IA Hoje — 18 de agosto de 2026",
-    "file": "ia-hoje-2026-08-18.mp3",
-    "duration": 742,
-    "size": 4452861,
-    "published_at": "2026-08-18T10:08:03.043872+00:00",
-    "news": [
-      {
-        "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/"
-      },
-      {
-        "title": "Anthropic’s annualized revenue surges to $65B",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
-      },
-      {
-        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
-      },
-      {
-        "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
-      },
-      {
-        "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
-      },
-      {
-        "title": "What Flock’s defenders are missing",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
-      },
-      {
-        "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
-      },
-      {
-        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
-      },
-      {
-        "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-      },
-      {
-        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
-      },
-      {
-        "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
-      },
-      {
-        "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review"
-      },
-      {
-        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
-      },
-      {
-        "title": "The Defender’s Window",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/the-defenders-window"
       }
     ]
   }

@@ -2372,6 +2372,104 @@
       "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
       "source": "The Verge",
       "seen_at": "2026-09-01T13:51:53.203801+00:00"
+    },
+    "0f76ec40d9281269": {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "norm_title": "openaifaces30morelawsuitstiedtotumblerridgeshooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "895a81c163e3a0f2": {
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "norm_title": "pangramhasemergedasthegoldstandardofaidetectionshouldyoutrustit",
+      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "source": "Wired",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "651830907a160807": {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "norm_title": "googleneedshollywoodmorethanthestudiosneedai",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "source": "The Verge",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "e3b3d120fe39ab6c": {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "norm_title": "afterqueryreportedlybecomesycombinatorsfastesteverunicornnowvaluedat32b",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "40c8767453d2d2a4": {
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+      "norm_title": "anthropiclaunchesclaudefable51andsaysitsupto45percentcheaperforagenticwork",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "source": "The Verge",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "303ed91034b93f41": {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "norm_title": "benchmirtwhatarellmbenchmarksactuallymeasuring",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "89a83a016c1d1fe7": {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "norm_title": "openaisastramodelisonthewayandverygoodatbreakingintocomputersystems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "a6320c69c3e4be6d": {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "norm_title": "googlesandroidupdatetacklesmotionsicknessaccessibilityandmore",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "051b569fb1b59fcf": {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "norm_title": "openaidelayeditsnewmodelsdevelopmentafterthehuggingfacehack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "source": "The Verge",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "5f798601c31561ee": {
+      "title": "The latest AI news we announced in August 2026",
+      "norm_title": "thelatestainewsweannouncedinaugust2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "bd7515f954327459": {
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "norm_title": "openaiisabouttoreleaseitsfirstaimodelwithcriticalcyberabilities",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "source": "Wired",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "5527874958e20413": {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "norm_title": "anthropicsnewfablereleaseischeaperlessrestrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "fa021159722f2af6": {
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "norm_title": "theriseofaicivilizationsandthefallofcorporateresponsibility",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "source": "The Verge",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "926d0889630c72c5": {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "norm_title": "appleaccusesopenaiofdestroyingevidence",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "source": "The Verge",
+      "seen_at": "2026-09-02T13:08:50.480283+00:00"
     }
   }
 }
