@@ -1,145 +1,5 @@
 {
   "items": {
-    "34fedea61281ac25": {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "norm_title": "afterkillerquarterpalantirceoalexkarpcallsaiindustrymarxist",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "4c4e14bd296c4bf3": {
-      "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
-      "norm_title": "didanaimusicappjustsnitchonthesongofthesummer",
-      "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
-      "source": "Wired",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "f28de7c2a9ebaf02": {
-      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-      "norm_title": "uscompanysailetsukrainescheapkamikazedronestracktargetsontheirown",
-      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "e8bb4bc3bca62de9": {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "norm_title": "awsishelpingvibecodingstartupsuperblocksandtheimplicationsarebig",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "26416ada660498f4": {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "norm_title": "designarenacreatorsraise79milliontobringtastetoaimodels",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "cb2a4bdf17c1a379": {
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "norm_title": "influencersdrawbacklashforattendingopenaisfirstluxurytrip",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "399453a331f4a8fa": {
-      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-      "norm_title": "anaisupervisedremoteexamwentsobadlythat58000studentsmustretakeit",
-      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "740d2132efb143ab": {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "norm_title": "applefinallyfixedsirisowhydoesitfeelanticlimactic",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "21937dab66657738": {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "norm_title": "trumpsaiprotectionismhascomeforrobotics",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "f02b19ba0a039472": {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "norm_title": "europesailabelingandtransparencyrulesarenowineffect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "ac3f2161fc52416d": {
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "norm_title": "congressfavoriteaitoolchatgpt",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "a300a17bd8a25883": {
-      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-      "norm_title": "chinasalibabatakesanotherswipeatamericasaisupremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "05b9c853690b1812": {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "norm_title": "amarcbenioffbackedstartupthinksaicansolvetheaideploymentproblem",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "77d7793f4170702e": {
-      "title": "AI Conquered Coding. Fast Food Is Next",
-      "norm_title": "aiconqueredcodingfastfoodisnext",
-      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-      "source": "Wired",
-      "seen_at": "2026-08-04T02:38:44.052120+00:00"
-    },
-    "57e0ed5a40543caf": {
-      "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-      "norm_title": "theguardrailguywentviralforpostingaboutflockcamerasthensomeonedestroyedthem",
-      "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
-      "source": "Wired",
-      "seen_at": "2026-08-04T03:05:56.720474+00:00"
-    },
-    "99b4ff42c9782d6e": {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "norm_title": "hereswhyaiagentslieandcheattoreachtheirgoals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-08-04T03:05:56.720474+00:00"
-    },
-    "cd86d8ad22f871f8": {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "norm_title": "howwebuiltarealtimesystemforresponsivevoiceaiinsixmonths",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI",
-      "seen_at": "2026-08-04T03:05:56.720474+00:00"
-    },
-    "2a1de56e6eb977c5": {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "norm_title": "circlespowerstelcopersonalizationwithopenaitechnology",
-      "url": "https://openai.com/index/circles",
-      "source": "OpenAI",
-      "seen_at": "2026-08-04T03:05:56.720474+00:00"
-    },
-    "be5eb08679f8b485": {
-      "title": "Sam Altman and AI’s decel debate",
-      "norm_title": "samaltmanandaisdeceldebate",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T03:05:56.720474+00:00"
-    },
-    "b53d6222712f0b68": {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "norm_title": "fendersceoseemstothinkyourbandmatesarejustanalogai",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "source": "The Verge",
-      "seen_at": "2026-08-04T03:05:56.720474+00:00"
-    },
     "65df8535b468f329": {
       "title": "Spotify expands AI remix and covers project with Merlin partnership",
       "norm_title": "spotifyexpandsairemixandcoversprojectwithmerlinpartnership",
@@ -2470,6 +2330,104 @@
       "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
       "source": "The Verge",
       "seen_at": "2026-09-02T13:08:50.480283+00:00"
+    },
+    "74c329b4fac4cb98": {
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "norm_title": "nvidiartxsparksuperchipthefirstaipcsarehere",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "source": "Wired",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "0f364d36087f935a": {
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "norm_title": "nvidiashuggingfaceacquisitionisa129billionbetonopensourceai",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "source": "Wired",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "7c3f8b560ce433cd": {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "norm_title": "nvidiaconfirmsitwillbuyhuggingfacefor129billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "dc58165d67efcd99": {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "norm_title": "nvidiaisbuyinghuggingfaceforalmost13billion",
+      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "source": "The Verge",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "0b0734f32822ad1c": {
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "norm_title": "thisisflocksaisearchtoolforcops",
+      "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+      "source": "Wired",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "9f2c759d17e2800d": {
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "norm_title": "metapushesitsnewaiagentonemployeesbuteasesoffontokenmaxxing",
+      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "source": "Wired",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "6f282efafe6e9336": {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "norm_title": "finetuninga350mmodelforbetterstructuredoutputsin100grposteps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "2717c6b7b0cc73fb": {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "norm_title": "giveyourcodingagentsamemoryyouown",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "593d144d02e1e57e": {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "norm_title": "trainingacodingmodeltopaintwatercolourswithtrlandopenenv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "505cda1e34e11dde": {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "norm_title": "thebuildersstagebringspracticalstrategiesforscalingstartupstotechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "4c1f87407a42c6fd": {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "norm_title": "paloaltonetworkspaid500mforthrivebackedconsolesourcessay",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "905ecce00caf27dc": {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "norm_title": "techcrunchdisrupt2026snewrealworldaistagefeaturesnvidiarobotsandextinctanimals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "671a64a825d86e5c": {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "norm_title": "openaisnewreasoningtechniquealarmsaisafetyexperts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "a08e8c8756f337eb": {
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "norm_title": "googlesaysitsnewgemini38flashmodelworksharderbutmightcostmore",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source": "The Verge",
+      "seen_at": "2026-09-03T13:09:44.416469+00:00"
     }
   }
 }

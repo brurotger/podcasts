@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-03",
+    "title": "IA Hoje — 3 de setembro de 2026",
+    "file": "ia-hoje-2026-09-03.mp3",
+    "duration": 794,
+    "size": 4766637,
+    "published_at": "2026-09-03T13:09:44.412823+00:00",
+    "news": [
+      {
+        "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/"
+      },
+      {
+        "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
+      },
+      {
+        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+      },
+      {
+        "title": "Nvidia is buying Hugging Face for almost $13 billion",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+      },
+      {
+        "title": "This Is Flock’s AI Search Tool for Cops",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/flock-ai-search-user-interface/"
+      },
+      {
+        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
+      },
+      {
+        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
+      },
+      {
+        "title": "Give Your Coding Agents a Memory You Own",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/funes"
+      },
+      {
+        "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/train-to-paint-with-code"
+      },
+      {
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
+      },
+      {
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
+      },
+      {
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "title": "IA Hoje — 2 de setembro de 2026",
     "file": "ia-hoje-2026-09-02.mp3",
@@ -801,86 +881,6 @@
         "title": "OpenAI hit the brakes. Now what?",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "title": "IA Hoje — 19 de agosto de 2026",
-    "file": "ia-hoje-2026-08-19.mp3",
-    "duration": 886,
-    "size": 5313549,
-    "published_at": "2026-08-19T10:23:15.379333+00:00",
-    "news": [
-      {
-        "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
-      },
-      {
-        "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/flock-safety-os-investigate/"
-      },
-      {
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
-      },
-      {
-        "title": "ChatGPT Ads expands across Europe",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
-      },
-      {
-        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
-      },
-      {
-        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
-      },
-      {
-        "title": "Strengthening democratic oversight in national security",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
-      },
-      {
-        "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/"
-      },
-      {
-        "title": "How Much Memory Does Your Agent Actually Need?",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-      },
-      {
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-      },
-      {
-        "title": "Etched’s valuation doubles to $21B in a month",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
-      },
-      {
-        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
-      },
-      {
-        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
-      },
-      {
-        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
       }
     ]
   }
