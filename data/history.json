@@ -1,201 +1,5 @@
 {
   "items": {
-    "65df8535b468f329": {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "norm_title": "spotifyexpandsairemixandcoversprojectwithmerlinpartnership",
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "868c7ff1749ac94d": {
-      "title": "Texas halts new data centers as governor calls for audits",
-      "norm_title": "texashaltsnewdatacentersasgovernorcallsforaudits",
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "df47a0b5bb0183eb": {
-      "title": "Texas says data centers must pass an audit before connecting to the grid",
-      "norm_title": "texassaysdatacentersmustpassanauditbeforeconnectingtothegrid",
-      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "source": "The Verge",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "5ca60ec759619c99": {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "norm_title": "elonmuskspendshalfhistimetalkingrobotsandaionteslaearningscalls",
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "1e2155a873309b89": {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "norm_title": "applesaysmoreexemployeesmayhavetakenconfidentialdatatoopenai",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "4d189bf5555693bd": {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "norm_title": "deploylocalagentseverywherewithlfm2526b",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "dfa154c3a12d12bf": {
-      "title": "The latest AI news we announced in July 2026",
-      "norm_title": "thelatestainewsweannouncedinjuly2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "10b2d9b157c69fdf": {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "norm_title": "isthefutureofdatacentersportablerunwarebuildsapodtofindout",
-      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "07820af27eb84d84": {
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "norm_title": "eonwantstomovethedatasuperhighwayfromoceanfibertospacelasers",
-      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "8cda2744e3bc10f7": {
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "norm_title": "openaidragsappleslawsuitintothecourtofpublicopinion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "source": "The Verge",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "6275811fea3586c7": {
-      "title": "Is This Poker Player Bluffing? The AI Thinks So",
-      "norm_title": "isthispokerplayerbluffingtheaithinksso",
-      "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
-      "source": "Wired",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "c6f8674252dfd59d": {
-      "title": "How One Startup Built a (Mostly) China-Free Robot",
-      "norm_title": "howonestartupbuiltamostlychinafreerobot",
-      "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-      "source": "Wired",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "09c81ef4bf58a6e9": {
-      "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-      "norm_title": "everyoneisdoingitthetruthaboutaiinhollywood",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
-      "source": "Wired",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "5835e3d21b29c2f2": {
-      "title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "norm_title": "canredditfendoffanewwaveofaiseospam",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "source": "The Verge",
-      "seen_at": "2026-08-04T16:33:39.139931+00:00"
-    },
-    "25bd9701ed39a092": {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "norm_title": "aimakesweatherpredictionbettercanwindbornemakeitlucrative",
-      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "d197773ea34176f5": {
-      "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
-      "norm_title": "anewdeviceeasesoneofthemostannoyingpartsofroutinephysicals",
-      "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
-      "source": "Wired",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "69eaf8b39e3a98c7": {
-      "title": "The AI Notetaker Has Been Invited to All the Meetings",
-      "norm_title": "theainotetakerhasbeeninvitedtoallthemeetings",
-      "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
-      "source": "Wired",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "92a1c7a5c1614026": {
-      "title": "AI Influencers Are Heading Into Uncharted Territory",
-      "norm_title": "aiinfluencersareheadingintounchartedterritory",
-      "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
-      "source": "Wired",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "dd65acd3cee6484e": {
-      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-      "norm_title": "okwellrogueaiagentsarehackingagain",
-      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-      "source": "Wired",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "1dea2792c75be2ad": {
-      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "norm_title": "thewhitehouseiskeepingitsaicybersecurityframeworksecret",
-      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "source": "Wired",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "38621319cf477483": {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "norm_title": "spacexhasbought329mworthofteslamegapackssofarthisyear",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "73cbd952623b4446": {
-      "title": "AMD’s data center business is booming while gaming takes a backseat",
-      "norm_title": "amdsdatacenterbusinessisboomingwhilegamingtakesabackseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "source": "The Verge",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "55be73191b1cd106": {
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "norm_title": "spacexmademorerevenueasanaicompanythanaspacecompany",
-      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "source": "The Verge",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "5f443b78324c8987": {
-      "title": "Texas halts data center connections to power grid amid overwhelming demand",
-      "norm_title": "texashaltsdatacenterconnectionstopowergridamidoverwhelmingdemand",
-      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "bfd23b1845bc9e7a": {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "norm_title": "openweightaimodelsarecatchinguptothefrontierthesafetygapremains",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "9685c3cd98c20d06": {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "norm_title": "anthropicsigns10bdealwithaicloudstartupvolta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "d70c83ac64170f89": {
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "norm_title": "meetwrinklesanappthatuncoversthehiddenstoriesoftheplacesaroundyou",
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
-    "89495a590c0d4755": {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "norm_title": "nvidiadoesntmessaroundaweekafteropenaiindustrygroupformeditsalreadyshowingprogress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-05T12:33:47.283362+00:00"
-    },
     "bb3f5690b00033d3": {
       "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
       "norm_title": "googlestopaibrainsareleavingtolaunchdiscoveryloop",
@@ -2428,6 +2232,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
       "source": "The Verge",
       "seen_at": "2026-09-03T13:09:44.416469+00:00"
+    },
+    "f9aa79af0178fc1a": {
+      "title": "Instagram’s AI detection is a mess (again)",
+      "norm_title": "instagramsaidetectionisamessagain",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "source": "The Verge",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "cd2d4f3372b628a7": {
+      "title": "Why AI food looks like that",
+      "norm_title": "whyaifoodlookslikethat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "source": "The Verge",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "7e5abf00bd998c37": {
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "norm_title": "microsoftsprojectzenithisadistractionfreewindowsexperiencefordevelopers",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "source": "The Verge",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "dbd045e1afa6bf12": {
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "norm_title": "samaltmanapologizesformessygpt6astrarolloutthatslockedoutpayingusers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "source": "The Verge",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "b974ce72bacf599c": {
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "norm_title": "aiuseinthejobmarketiscreatinganinfinitedoomloop",
+      "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "source": "Wired",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "7bbd19e967d31511": {
+      "title": "This NAS company wants to run your local smart home",
+      "norm_title": "thisnascompanywantstorunyourlocalsmarthome",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "source": "The Verge",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "1408fa082f960f92": {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "norm_title": "datafromdronesinukraineisfuelinganewwildwestmarketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "88eef01bcaf7fe48": {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "norm_title": "thesamenessproblembehindthoseunappetizingaigeneratedmenus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "55d881a5ca11164a": {
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "norm_title": "crusoereportedlyraises3bata30bvaluation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "ab4d03e6d2e908fa": {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "norm_title": "nobodyissayingwhyopenaiandanthropichadoutagestoday",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "Wired",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "682c09e53372c394": {
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "norm_title": "predictionmarketbettingisgettingpeoplebannedandarrested",
+      "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "source": "Wired",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "5c8f8a43491ec065": {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "norm_title": "accelreportedlyintalkstolead1broundforthinkingmachinesat40bvaluation",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "efb006ac045a28fd": {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "norm_title": "abliterationaiismakingabusinessoutofremovingaiguardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
+    },
+    "24993330973eddb6": {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "norm_title": "metaispayingtopeekathowyouusetheirlatestaimodel",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-04T13:03:59.401190+00:00"
     }
   }
 }
