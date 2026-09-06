@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-09-06",
+    "title": "IA Hoje — 6 de setembro de 2026",
+    "file": "ia-hoje-2026-09-06.mp3",
+    "duration": 660,
+    "size": 3958509,
+    "published_at": "2026-09-06T12:29:49.555086+00:00",
+    "news": [
+      {
+        "title": "My Brief Summer Fling With Siri AI",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/"
+      },
+      {
+        "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/"
+      },
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+      },
+      {
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "title": "IA Hoje — 5 de setembro de 2026",
     "file": "ia-hoje-2026-09-05.mp3",
@@ -816,71 +851,6 @@
         "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "title": "IA Hoje — 22 de agosto de 2026",
-    "file": "ia-hoje-2026-08-22.mp3",
-    "duration": 1109,
-    "size": 6653613,
-    "published_at": "2026-08-22T09:58:43.664732+00:00",
-    "news": [
-      {
-        "title": "The Unlikely Place at the Center of China’s AI Boom",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/"
-      },
-      {
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
-      },
-      {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
-      },
-      {
-        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
-      },
-      {
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
-      },
-      {
-        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
-      },
-      {
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-      },
-      {
-        "title": "Major YouTube creators are facing backlash for accepting AI money",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash"
-      },
-      {
-        "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-        "source": "Google DeepMind",
-        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-      },
-      {
-        "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
-      },
-      {
-        "title": "Measuring benchmark optimization in speech recognition",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/asr-benchmark-optimization"
       }
     ]
   }

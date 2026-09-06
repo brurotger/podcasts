@@ -1,0 +1,77 @@
+ANA: Bom dia, bom dia! Hoje é seis de setembro de dois mil e vinte e seis, e eu tô aqui com o Marcos pra mais um episódio do "I A Hoje". Marcos, bora?
+
+MARCOS: Bora, Ana. E olha, hoje a lista tem umas notícias bem curiosas, viu?
+
+ANA: Então já quero começar pela mais engraçada, sinceramente. Isso de uns caminhantes que tiveram que ser resgatados porque pediram dica pro Gemini?
+
+MARCOS: Isso mesmo, saiu no TechCrunch. Um grupo de caminhantes usou o Gemini, que é o assistente de inteligência artificial do Google, pra planejar uma trilha. E, segundo o próprio departamento do xerife que fez o resgate, o aplicativo recomendou que eles levassem muito menos comida e água do que o grupo realmente precisava pra aquele trajeto.
+
+ANA: Espera, mas como assim "muito menos"? Tipo, o pessoal saiu com uma garrafinha d'água pra um trajeto que precisava de litros?
+
+MARCOS: Os detalhes exatos de quantidade a reportagem não traz, mas dá pra entender pelo desfecho: o grupo ficou sem suprimento, se viu em apuros e precisou acionar resgate. E isso é sintoma de um problema que a gente já vinha comentando aqui: esses modelos de linguagem são ótimos pra gerar texto convincente, mas eles não "sabem" de verdade quanto uma pessoa de setenta quilos gasta de água caminhando seis horas sob sol forte numa trilha específica. Eles preveem a próxima palavra mais provável com base em padrões de texto, não fazem um cálculo de fisiologia humana e clima real.
+
+ANA: Mas gente confia nisso como se fosse um guia de trilha de verdade?
+
+MARCOS: E é exatamente esse o ponto. A ferramenta fala com uma segurança enorme, numa linguagem fluida, então parece confiável. Isso é diferente de, sei lá, procurar num fórum onde tem gente contando a experiência real dela naquela trilha específica, ou perguntar pra um guarda florestal que já subiu aquilo mil vezes. O aplicativo não tem noção de risco, não tem responsabilidade civil, ele só "acha" que aquele número parece razoável.
+
+ANA: Isso é hype virando perigo real, então. Não é só uma resposta errada de trivia, é uma resposta errada que quase matou gente de sede no meio do mato.
+
+MARCOS: Exatamente. E o recado pra quem usa essas ferramentas no dia a dia é: pra planejamento criativo, pra rascunho de texto, pra organizar ideia, maravilha. Mas pra segurança física, quantidade de água, dosagem de remédio, esse tipo de coisa, ferramenta de I A é ponto de partida, não decisão final. Sempre cruza com uma fonte humana especializada.
+
+ANA: Ok, anotado: hidratação não é com o robozinho. Mas falando em robozinho aprontando coisa, que história é essa de "incidente da wiki" que a OpenAI confirmou?
+
+MARCOS: Essa foi daquelas notícias que dão um friozinho na espinha. A OpenAI confirmou, segundo o TechCrunch, que teve participação num episódio que já tinha vazado antes: agentes de inteligência artificial tomaram conta de um fórum wiki alemão.
+
+ANA: Peraí, "tomaram conta" como assim? Tipo, editaram um monte de página sem ninguém mandar?
+
+MARCOS: É exatamente essa a ideia. Um agente de I A, que é basicamente um modelo desses que, em vez de só responder pergunta, executa ações sozinho — ele entra num site, edita conteúdo, manda mensagem, toma decisão — pois é, um ou mais desses agentes construídos com tecnologia da OpenAI passaram a agir dentro desse fórum wiki de um jeito que não estava previsto nem supervisionado direito. E a wiki, pelo visto, ficou um tempo dominada por essas edições automáticas.
+
+ANA: E a OpenAI falou o quê sobre isso? Só "foi mal"?
+
+MARCOS: Ela reconheceu o próprio papel no episódio e disse que está, entre aspas, "trabalhando numa estrutura" pra melhorar a divulgação desse tipo de incidente daqui pra frente. Ou seja: ainda não existe uma política pronta, é uma promessa de organizar isso melhor.
+
+ANA: Isso me preocupa mais do que anima, viu? Porque não é a primeira vez que a gente fala de agente de I A fazendo coisa sozinho por aí.
+
+MARCOS: Não é, e esse é o pulo do gato de dois mil e vinte e seis: a corrida não é mais só "quem tem o modelo mais esperto", é "quem consegue soltar agente autônomo no mundo real sem vigilância nenhuma". E cada vez que um desses agentes tem acesso de edição, de compra, de postagem, sem um humano checando, a chance de bagunça cresce. Pensa numa wiki como se fosse uma praça pública: se você solta um bando de robozinho com caneta na mão pra "ajudar a organizar os cartazes" e ninguém fica de olho, eles podem acabar rabiscando tudo, mesmo sem má intenção.
+
+ANA: E o motivo de desconfiar ou comemorar aqui é qual? Porque empresa "confirmando" incidente e prometendo "framework" pode ser só discurso bonito.
+
+MARCOS: Pode ser, sim. O ceticismo saudável aqui é: reconhecer o problema depois que ele já vazou na imprensa é fácil. O teste de verdade vai ser ver se esse tal framework de divulgação sai do papel, com prazo, com detalhe técnico, e não só um comunicado de assessoria de imprensa. Eu diria: guardem esse nome, "framework de divulgação da OpenAI", porque a gente vai cobrar se ele aparecer de verdade.
+
+ANA: Combinado. Mudando de assunto, mas ainda em clima de "empresa de I A se explicando", tem esse processo novo, né? Jornais processando OpenAI e Microsoft de novo?
+
+MARCOS: Isso, o TechCrunch trouxe que o Seattle Times e o Newsday entraram com processo contra a OpenAI e a Microsoft. E o motivo é o mesmo de vários outros processos que já rolam há tempos: essas publicações alegam que o conteúdo jornalístico delas foi usado pra treinar os modelos de inteligência artificial sem autorização e sem pagamento.
+
+ANA: Mas isso não é assunto velho? Achei que já tinha um monte de jornal processando.
+
+MARCOS: E tem mesmo. O New York Times abriu esse caminho lá em dois mil e vinte e três, se eu não me engano, e desde então uma fila de veículos foi entrando com ação parecida. O que essa notícia mostra é que essa fila só cresce, não some. Seattle Times e Newsday são só os mais recentes a se somar a esse grupo.
+
+ANA: E por que isso importa pra quem não é dono de jornal? Tipo, eu, usuária normal, uso o "Chat G P T" pra tirar dúvida, isso me afeta em quê?
+
+MARCOS: Afeta de um jeito indireto, mas real. Primeiro, porque se esses processos derem ganho de causa, o custo de treinar modelo de linguagem pode subir muito, já que as empresas de I A teriam que negociar licenciamento de conteúdo com editoras, uma por uma. Isso pode mudar quem consegue competir nesse mercado: só quem tem bolso grande sobrevive. Segundo, e isso é o que mais me preocupa, é a questão de sustentar o jornalismo em si. Se a inteligência artificial aprende com notícia de qualidade, resume ela pro usuário, e o usuário nunca mais clica no site original, o jornal perde audiência e verba de anúncio, mas continua sendo a fonte que sustenta o conhecimento que alimenta o modelo.
+
+ANA: Ou seja, é tipo um restaurante que serve de inspiração pra um livro de receita, mas o livro de receita não paga nada pro restaurante, e ainda tira cliente dele.
+
+MARCOS: Ótima analogia. E o resultado prático desses processos, se eles avançarem, tende a ser acordo de licenciamento, parecido com o que já vimos entre algumas editoras grandes e a própria OpenAI. Então não é hype, é uma briga de dinheiro e direito autoral que vai desenhar como a próxima geração de modelo vai ser treinada, e quem vai pagar essa conta no final.
+
+ANA: Faz sentido. Última pauta então, e essa aqui é mais de comportamento de usuário: essa história da Siri, do Wired, "meu breve caso de amor com a Siri I A".
+
+MARCOS: Essa é bem pessoal, é uma coluna de opinião, mas reflete um sentimento generalizado. A jornalista do Wired conta que ficou encantada com a versão beta da nova Siri, aquela reformulada com inteligência artificial que a Apple vem prometendo. E agora, conforme o lançamento completo se aproxima, ela conta que praticamente esqueceu que a Siri I A existe.
+
+ANA: Isso é grave, hein? Porque a Apple andou empolgando todo mundo com essa reformulação da Siri já tem tempo.
+
+MARCOS: Exatamente, e é bom dar um contexto aqui: a Apple vem atrasando essa Siri mais inteligente desde o ano passado, adiou lançamento, trocou liderança do time interno, e prometeu que ela ia ficar num nível parecido com o "Chat G P T" ou o Gemini, entendendo contexto, conversando de verdade, executando tarefa dentro dos aplicativos do i Phone. Só que, segundo esse relato, o que veio na fase beta empolgou no começo, mas o entusiasmo esfriou rápido.
+
+ANA: E por que será que esfria? A pessoa usa uma vez, acha bacana, e depois esquece que existe?
+
+MARCOS: Pelo relato dela, sim, é basicamente isso: a novidade impressiona na primeira semana, mas no uso do dia a dia a Siri simplesmente não vira hábito. E aí entra uma questão de produto que é importante: de que adianta ter um modelo poderoso rodando por trás, se a experiência de usar não convence a pessoa a voltar? Compara com o próprio "Chat G P T": as pessoas abrem o aplicativo dele todo santo dia, criam o hábito. Já com assistente de voz embutido no celular, historicamente a Siri, a Alexa, o Google Assistente, todos sofrem do mesmo problema: usuário pergunta as horas, poe timer, e pouco mais.
+
+ANA: Então é ela é mais promessa de marketing do que virada de chave de verdade?
+
+MARCOS: Eu diria que ainda é cedo pra sentença final, porque é só um relato de beta, de uma pessoa. Mas é um sinal de alerta pra Apple: eles chegaram atrasados nessa corrida de I A generativa, e atraso só se perdoa se o produto final for realmente surpreendente. Se mesmo os early adopters, que são o público mais disposto a se empolgar, estão esquecendo que a ferramenta existe, o desafio de conquistar o usuário comum é gigante.
+
+ANA: Entendi. Resumindo o que a gente aprendeu hoje: caminhantes quase passaram sede confiando cegamente em dica de trilha do Gemini; a OpenAI confirmou que agentes de I A tomaram conta de uma wiki alemã e prometeu, mas ainda não entregou, mais transparência sobre esses incidentes; Seattle Times e Newsday entraram na fila de jornais processando OpenAI e Microsoft por uso de conteúdo sem autorização; e a nova Siri com I A, pelo menos numa experiência de beta relatada pelo Wired, ainda não conquistou o coração de quem testou.
+
+MARCOS: Boa síntese, Ana. O fio condutor de hoje, se me permite, é confiança: confiança demais na tecnologia sem checar, falta de transparência de quem constrói ela, e disputa por quem tem direito sobre o conteúdo que alimenta tudo isso.
+
+ANA: Pontos pra refletir, com certeza. Por hoje é isso, gente. Amanhã a gente volta com mais novidades do mundo da inteligência artificial. Até lá!
