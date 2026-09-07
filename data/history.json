@@ -1,103 +1,5 @@
 {
   "items": {
-    "422ca811048e8442": {
-      "title": "How to Disable Gemini in Gmail and Google Docs",
-      "norm_title": "howtodisablegeminiingmailandgoogledocs",
-      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "source": "Wired",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "7dd884a6d3228384": {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "norm_title": "openaisaysitslowedastramodeldevelopmentoversecurityconcerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "fd32d411eb994e99": {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "norm_title": "afterripplingblewmillionsonaiinmonthsitbuiltanemployeeroitool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "b00eef809f481058": {
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "norm_title": "fenixflexinisntevendenyingusingaitomakerubberzanymore",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "source": "The Verge",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "b937e9584adda3b8": {
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "norm_title": "watchingrokusaichannelislikeeatingfromatrough",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "source": "The Verge",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "6876b8ef3ec133b5": {
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "norm_title": "openaiputsthebrakesonanewmodelbecauseitssupposedlytoopowerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "27a271fa347003c6": {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "norm_title": "tutormomentsdoaitutorsknowwhentohelpandwhentoholdback",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "30c3da9859b9762a": {
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "norm_title": "openaisexpensivesmartspeakerwillusemovingpartstoseemmorealive",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "8e6fdb2b1e4e2d2a": {
-      "title": "What’s behind the Google AI shake-up",
-      "norm_title": "whatsbehindthegoogleaishakeup",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "source": "The Verge",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "7fae578dcaa7ff02": {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "norm_title": "cloudflarelauncheskitesurfabrowserbuiltforaiagents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "9f9499a0328a8252": {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "norm_title": "respondingtothenextfrontierofcriticalcybercapabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "eb1f8b319a67f325": {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "norm_title": "airbnbsaysaiishelpingitshipfeaturesfasterasittestsanewsearchfunction",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "482869e27464ba66": {
-      "title": "Scientists Used AI to Create 16 New Viruses",
-      "norm_title": "scientistsusedaitocreate16newviruses",
-      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-      "source": "Wired",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
-    "71ee4721302b7276": {
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "norm_title": "jillleporeontheartificialstateandwhysiliconvalleysleadersarebadscifireaders",
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-08T10:20:37.666554+00:00"
-    },
     "23fd0d21c82719e9": {
       "title": "These AI Barons Are Ready to Give Away Their Fortunes",
       "norm_title": "theseaibaronsarereadytogiveawaytheirfortunes",
@@ -2267,6 +2169,62 @@
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "source": "TechCrunch",
       "seen_at": "2026-09-06T12:29:49.557798+00:00"
+    },
+    "886e7300b65a1451": {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "norm_title": "thecomplexcorporatewebbehinda32billionaidatacenter",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-07T14:38:31.079422+00:00"
+    },
+    "4dccd06950c59c9a": {
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "norm_title": "whisperingcomplaintsintoyourphonemaybethefutureofcustomerfeedback",
+      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "source": "Wired",
+      "seen_at": "2026-09-07T14:38:31.079422+00:00"
+    },
+    "7ae964678a717fb7": {
+      "title": "Supporting independent journalism in Ukraine",
+      "norm_title": "supportingindependentjournalisminukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI",
+      "seen_at": "2026-09-07T14:38:31.079422+00:00"
+    },
+    "49ca8af2c1e2949b": {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "norm_title": "seattletimesandnewsdaysueopenaiandmicrosoftforinfringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge",
+      "seen_at": "2026-09-07T14:38:31.079422+00:00"
+    },
+    "ff806cbcb24071a4": {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "norm_title": "authorspushbackaspublishersandagentsmakeclaimsonanthropicsettlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-07T14:38:31.079422+00:00"
+    },
+    "ca749c5946db5ba4": {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "norm_title": "traviskalanicksatomsmightbegettingintotherobotaxibusiness",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-07T14:38:31.079422+00:00"
+    },
+    "b92e9419d15dc3c5": {
+      "title": "An Alien Mind",
+      "norm_title": "analienmind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI",
+      "seen_at": "2026-09-07T14:38:31.079422+00:00"
+    },
+    "61e2e4acd4768303": {
+      "title": "Research acceleration: The view inside OpenAI",
+      "norm_title": "researchaccelerationtheviewinsideopenai",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI",
+      "seen_at": "2026-09-07T14:38:31.079422+00:00"
     }
   }
 }
