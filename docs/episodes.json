@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-09-08",
+    "title": "IA Hoje — 8 de setembro de 2026",
+    "file": "ia-hoje-2026-09-08.mp3",
+    "duration": 641,
+    "size": 3848493,
+    "published_at": "2026-09-08T13:12:02.801854+00:00",
+    "news": [
+      {
+        "title": "The Work Now Within Reach",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/the-work-now-within-reach"
+      },
+      {
+        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
+      },
+      {
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+      },
+      {
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "title": "IA Hoje — 7 de setembro de 2026",
     "file": "ia-hoje-2026-09-07.mp3",
@@ -836,41 +866,6 @@
         "title": "OpenAI is building AI agents for everything. Will everyone use them?",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "title": "IA Hoje — 24 de agosto de 2026",
-    "file": "ia-hoje-2026-08-24.mp3",
-    "duration": 857,
-    "size": 5140029,
-    "published_at": "2026-08-24T11:03:17.647406+00:00",
-    "news": [
-      {
-        "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/"
-      },
-      {
-        "title": "Kids outlearn AI—and we still don’t know why",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
-      },
-      {
-        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
-      },
-      {
-        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
-      },
-      {
-        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
       }
     ]
   }

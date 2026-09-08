@@ -10,6 +10,14 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>IA Hoje — 8 de setembro de 2026</title>
+      <description>Notícias de IA do dia 2026-09-08.&lt;ul&gt;&lt;li&gt;&lt;a href="https://openai.com/index/the-work-now-within-reach"&gt;The Work Now Within Reach&lt;/a&gt; (OpenAI)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"&gt;Adobe is trying to make its AI generators idiot-proof in Premiere&lt;/a&gt; (The Verge)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"&gt;This AI entrepreneur is developing agents that can plan ahead for the unexpected&lt;/a&gt; (MIT Technology Review)&lt;/li&gt;&lt;li&gt;&lt;a href="https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"&gt;Opaque recurrence, and other AI terms that you should probably know&lt;/a&gt; (TechCrunch)&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://brurotger.github.io/podcasts/episodes/ia-hoje-2026-09-08.mp3" length="3848493" type="audio/mpeg"/>
+      <guid isPermaLink="false">ia-hoje-2026-09-08.mp3</guid>
+      <pubDate>Tue, 08 Sep 2026 13:12:02 +0000</pubDate>
+      <itunes:duration>00:10:41</itunes:duration>
+    </item>
+    <item>
       <title>IA Hoje — 7 de setembro de 2026</title>
       <description>Notícias de IA do dia 2026-09-07.&lt;ul&gt;&lt;li&gt;&lt;a href="https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"&gt;The complex corporate web behind a $3.2 billion AI data center&lt;/a&gt; (Ars Technica)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/"&gt;Whispering Complaints Into Your Phone May Be the Future of Customer Feedback&lt;/a&gt; (Wired)&lt;/li&gt;&lt;li&gt;&lt;a href="https://openai.com/index/supporting-independent-journalism-in-ukraine"&gt;Supporting independent journalism in Ukraine&lt;/a&gt; (OpenAI)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"&gt;Seattle Times and Newsday sue OpenAI and Microsoft for infringement&lt;/a&gt; (The Verge)&lt;/li&gt;&lt;li&gt;&lt;a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"&gt;Authors push back as publishers and agents make claims on Anthropic settlement&lt;/a&gt; (TechCrunch)&lt;/li&gt;&lt;li&gt;&lt;a href="https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"&gt;Travis Kalanick’s Atoms might be getting into the robotaxi business&lt;/a&gt; (TechCrunch)&lt;/li&gt;&lt;li&gt;&lt;a href="https://openai.com/index/an-alien-mind"&gt;An Alien Mind&lt;/a&gt; (OpenAI)&lt;/li&gt;&lt;li&gt;&lt;a href="https://openai.com/index/research-acceleration-view-inside-openai"&gt;Research acceleration: The view inside OpenAI&lt;/a&gt; (OpenAI)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://brurotger.github.io/podcasts/episodes/ia-hoje-2026-09-07.mp3" length="4558125" type="audio/mpeg"/>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">ia-hoje-2026-08-25.mp3</guid>
       <pubDate>Tue, 25 Aug 2026 10:10:44 +0000</pubDate>
       <itunes:duration>00:12:37</itunes:duration>
-    </item>
-    <item>
-      <title>IA Hoje — 24 de agosto de 2026</title>
-      <description>Notícias de IA do dia 2026-08-24.&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.wired.com/story/teachers-deepfake-ai-students-content/"&gt;They Dedicated Their Lives to Teaching. Then the Deepfakes Started&lt;/a&gt; (Wired)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"&gt;Kids outlearn AI—and we still don’t know why&lt;/a&gt; (MIT Technology Review)&lt;/li&gt;&lt;li&gt;&lt;a href="https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"&gt;Who’s behind the new ‘stealth model’ Ox Alpha?&lt;/a&gt; (TechCrunch)&lt;/li&gt;&lt;li&gt;&lt;a href="https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"&gt;Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash&lt;/a&gt; (TechCrunch)&lt;/li&gt;&lt;li&gt;&lt;a href="https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"&gt;Is it legal to train AI models on copyrighted books? It’s complicated&lt;/a&gt; (TechCrunch)&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://brurotger.github.io/podcasts/episodes/ia-hoje-2026-08-24.mp3" length="5140029" type="audio/mpeg"/>
-      <guid isPermaLink="false">ia-hoje-2026-08-24.mp3</guid>
-      <pubDate>Mon, 24 Aug 2026 11:03:17 +0000</pubDate>
-      <itunes:duration>00:14:17</itunes:duration>
     </item>
   </channel>
 </rss>

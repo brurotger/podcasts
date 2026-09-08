@@ -1,40 +1,5 @@
 {
   "items": {
-    "23fd0d21c82719e9": {
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "norm_title": "theseaibaronsarereadytogiveawaytheirfortunes",
-      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-      "source": "Wired",
-      "seen_at": "2026-08-09T10:22:43.121007+00:00"
-    },
-    "3be37af28663f432": {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "norm_title": "plannedamazondatacentercouldbecomethebiggestclimatepolluterintheus",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-09T10:22:43.121007+00:00"
-    },
-    "02374249e957384c": {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "norm_title": "openaiacquirespresentationstartupnextslide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-09T10:22:43.121007+00:00"
-    },
-    "3d09cc13990820eb": {
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "norm_title": "anamazondatacentercouldhavetheworstpollutingpowerplantinthecountry",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "source": "The Verge",
-      "seen_at": "2026-08-09T10:22:43.121007+00:00"
-    },
-    "9ef8370624dc86c3": {
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "norm_title": "deepmindshurricanebreakthroughhassurprisedweatherscientists",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-09T10:22:43.121007+00:00"
-    },
     "b7bea15d3366d44d": {
       "title": "The AI Slop Backlash Is Actually Having an Impact",
       "norm_title": "theaislopbacklashisactuallyhavinganimpact",
@@ -2225,6 +2190,34 @@
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "source": "OpenAI",
       "seen_at": "2026-09-07T14:38:31.079422+00:00"
+    },
+    "86488f8f8d440d3a": {
+      "title": "The Work Now Within Reach",
+      "norm_title": "theworknowwithinreach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI",
+      "seen_at": "2026-09-08T13:12:02.804755+00:00"
+    },
+    "0b3a33078b0723f0": {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "norm_title": "adobeistryingtomakeitsaigeneratorsidiotproofinpremiere",
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "source": "The Verge",
+      "seen_at": "2026-09-08T13:12:02.804755+00:00"
+    },
+    "ffc5cf3cc1c6022f": {
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "norm_title": "thisaientrepreneurisdevelopingagentsthatcanplanaheadfortheunexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-08T13:12:02.804755+00:00"
+    },
+    "322a547baf30d958": {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "norm_title": "opaquerecurrenceandotheraitermsthatyoushouldprobablyknow",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-08T13:12:02.804755+00:00"
     }
   }
 }
