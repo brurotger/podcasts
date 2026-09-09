@@ -1,103 +1,5 @@
 {
   "items": {
-    "b7bea15d3366d44d": {
-      "title": "The AI Slop Backlash Is Actually Having an Impact",
-      "norm_title": "theaislopbacklashisactuallyhavinganimpact",
-      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-      "source": "Wired",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "e6613c55ef0dce18": {
-      "title": "Peer review is overwhelmed—can it survive in the AI era?",
-      "norm_title": "peerreviewisoverwhelmedcanitsurviveintheaiera",
-      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "50ccf7f4eabb366a": {
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "norm_title": "fordsnewaiassistantcancheckyourfuellevelsandtirepressure",
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "source": "The Verge",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "b7e0d6ec24202991": {
-      "title": "The Rise of the 1 am Job Interview",
-      "norm_title": "theriseofthe1amjobinterview",
-      "url": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-      "source": "Wired",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "56e903bc3f93f0d8": {
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "norm_title": "makingknowledgedistillationcheapenoughtorunatscale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "a3d19e7b68dd72ad": {
-      "title": "AI for science needs reasoning, not just data",
-      "norm_title": "aiforscienceneedsreasoningnotjustdata",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "dea7499e97d09eff": {
-      "title": "These startups are chasing the next big thing in LLMs",
-      "norm_title": "thesestartupsarechasingthenextbigthinginllms",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "ae6b1fa9cdef68a0": {
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "norm_title": "metaisbackwithmuseglimmerlocalagenticmultimodalandopensource",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "3d640be75ea8171b": {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "norm_title": "embattledhedgefundsituationalawarenessinvests400minchipstartupsourcefoundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "ee863c586e2b8243": {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "norm_title": "anthropicisturningclaudecodesautomodeonbydefault",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "8c706d01746d4868": {
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "norm_title": "historianjillleporesayssiliconvalleymisreadssciencefictionandunderminesdemocracy",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "ef9174d19be55c84": {
-      "title": "The AI safety test is becoming a safety risk",
-      "norm_title": "theaisafetytestisbecomingasafetyrisk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "55f7b785263de8eb": {
-      "title": "AI detectors are creating a new era of distrust",
-      "norm_title": "aidetectorsarecreatinganeweraofdistrust",
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "source": "The Verge",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
-    "b90a3fa9a91bdf5f": {
-      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-      "norm_title": "meetilyletsyoutranscribeandsummarizemeetingswithoutasubscriptionhereshow",
-      "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-      "source": "Wired",
-      "seen_at": "2026-08-10T11:41:10.054992+00:00"
-    },
     "c6dbd145c9d5bdbd": {
       "title": "A New Trick Reveals AI Models’ Inner Thoughts",
       "norm_title": "anewtrickrevealsaimodelsinnerthoughts",
@@ -2218,6 +2120,104 @@
       "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "TechCrunch",
       "seen_at": "2026-09-08T13:12:02.804755+00:00"
+    },
+    "9ddea268a00d5f9d": {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "norm_title": "instacartlaunchesanaigroceryshoppingassistantcalledclementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "c59490db6df3af9b": {
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "norm_title": "amazonprimevideosnewaitechmatcheslipstodubbedaudio",
+      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "source": "The Verge",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "887e46e1a581b56b": {
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "norm_title": "astealthstartupthinksitjusthackedthememoryshortage",
+      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "source": "Wired",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "414bfdb6e86d7051": {
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "norm_title": "besxarisbuildinganorbitalsemiconductorfactoryonespacexrocketatatime",
+      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "d0dbb4c92eedb1ae": {
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "norm_title": "sunoreplacesitsaimodelswithanewonetrainedonlicensedmusicascopyrightsuitspileup",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "327e8b6f08dc65da": {
+      "title": "Students who use AI generally score worse at school",
+      "norm_title": "studentswhouseaigenerallyscoreworseatschool",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "source": "The Verge",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "ce9dd53f296b9205": {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "norm_title": "mantoldchatgpthewasfeelingdelusionalchatgptinsistedhewasjesus",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "5371e91fda362818": {
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "norm_title": "worriedanthropicresearcherswarnthataicouldkillallhumans",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "source": "The Verge",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "e8a2c2554cad7172": {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "norm_title": "whatopenaislatestcontroversytellsusaboutthefutureofmath",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "92e628410440d081": {
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "norm_title": "whythismonthsmicrosoftpatchreleaseisadoozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "de2b39d856bd6a31": {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "norm_title": "hackersarestealingclaudetokensfromsubscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "83771d011f4ef5b8": {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "norm_title": "cognitionhits48bvaluationsignalinginvestorsbelieveaicodingisfarfromawinnertakeallmarket",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "9ea37e14cea328d4": {
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "norm_title": "dramaswirlsaroundopenaislegendarymathematicalmilestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "source": "The Verge",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "85813e4d9153290a": {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "norm_title": "chatgptsketchturnsyourbaddrawingsintodetailedaiimages",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source": "The Verge",
+      "seen_at": "2026-09-09T13:18:03.844343+00:00"
     }
   }
 }

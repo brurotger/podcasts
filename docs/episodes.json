@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-09",
+    "title": "IA Hoje — 9 de setembro de 2026",
+    "file": "ia-hoje-2026-09-09.mp3",
+    "duration": 714,
+    "size": 4281933,
+    "published_at": "2026-09-09T13:18:03.842057+00:00",
+    "news": [
+      {
+        "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+      },
+      {
+        "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
+      },
+      {
+        "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/"
+      },
+      {
+        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
+      },
+      {
+        "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/"
+      },
+      {
+        "title": "Students who use AI generally score worse at school",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa"
+      },
+      {
+        "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/"
+      },
+      {
+        "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
+      },
+      {
+        "title": "What OpenAI’s latest controversy tells us about the future of math",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
+      },
+      {
+        "title": "Why this month's Microsoft patch release is a doozy",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
+      },
+      {
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+      },
+      {
+        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+      },
+      {
+        "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
+      },
+      {
+        "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+      }
+    ]
+  },
+  {
     "date": "2026-09-08",
     "title": "IA Hoje — 8 de setembro de 2026",
     "file": "ia-hoje-2026-09-08.mp3",
@@ -786,86 +866,6 @@
         "title": "Gamma acquires Accel-backed design startup Lica",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "title": "IA Hoje — 25 de agosto de 2026",
-    "file": "ia-hoje-2026-08-25.mp3",
-    "duration": 757,
-    "size": 4542141,
-    "published_at": "2026-08-25T10:10:44.504120+00:00",
-    "news": [
-      {
-        "title": "It Should Be Harder to Apply for a Job. No, Really",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/"
-      },
-      {
-        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
-      },
-      {
-        "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/"
-      },
-      {
-        "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
-      },
-      {
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
-      },
-      {
-        "title": "Disrupting a new covert influence campaign from Russia",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
-      },
-      {
-        "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/gradio-workflow-guide"
-      },
-      {
-        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
-      },
-      {
-        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
-      },
-      {
-        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
-      },
-      {
-        "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
-      },
-      {
-        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
-      },
-      {
-        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
       }
     ]
   }
