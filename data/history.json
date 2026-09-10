@@ -1,103 +1,5 @@
 {
   "items": {
-    "c6dbd145c9d5bdbd": {
-      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "norm_title": "anewtrickrevealsaimodelsinnerthoughts",
-      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-      "source": "Wired",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "bc483b15c6a82fc7": {
-      "title": "AI Is Dead. Organoids Are Alive",
-      "norm_title": "aiisdeadorganoidsarealive",
-      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-      "source": "Wired",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "86fc08023652d430": {
-      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
-      "norm_title": "aiishelpingsolvetheintricategeneticpuzzleofschizophrenia",
-      "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
-      "source": "Wired",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "197daf7587cf0844": {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "norm_title": "openaireportedlycompleteda7billionemployeetenderoffer",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "60639bc317fd4b0a": {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "norm_title": "asailedattacksmultiplyopenailaunchesanewcybermodel",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "549795cdd9fb1dbd": {
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "norm_title": "withnewopenmodelsmetapitchesanotherrebootofitsstrugglingaistrategy",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "0a6ec614dab56b8e": {
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "norm_title": "markzuckerbergdoesntunderstandhowtolive",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "source": "The Verge",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "2171a64fe2ec648e": {
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "norm_title": "markzuckerbergsaimanifestoisexactlywhypeopledontlikeai",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "23199bf5d1997b86": {
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "norm_title": "amazonbackspowerplantthatmaybecometopsourceofusclimatepollution",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "654263957082e71c": {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "norm_title": "techindustryisbuzzingafteraclaudeagenthackedintoagym",
-      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "ad2bbfdb53f6f5f2": {
-      "title": "AI professors are negotiating the new realities of academic research",
-      "norm_title": "aiprofessorsarenegotiatingthenewrealitiesofacademicresearch",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "89c4b99f35b4bd7c": {
-      "title": "What building an AI-native finance function taught me",
-      "norm_title": "whatbuildinganainativefinancefunctiontaughtme",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "089af13372ded83c": {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "norm_title": "buildlowlatencymultilingualvoiceagentsopenweightsfulldeploymentcontrolwithnvidiamagpietts",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
-    "c01f4e050511e6e7": {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "norm_title": "metasnewglimmeraimodeloffersahintatzuckerbergspersonalintelligencevision",
-      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-11T11:38:39.336445+00:00"
-    },
     "786fc3ee34ba27c5": {
       "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
       "norm_title": "aicodetestingstartupblacksmithsvaluationjumpsalmost10xinlessthanayear",
@@ -2218,6 +2120,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
       "source": "The Verge",
       "seen_at": "2026-09-09T13:18:03.844343+00:00"
+    },
+    "561736738899f6d4": {
+      "title": "Powering AI is an architecture problem",
+      "norm_title": "poweringaiisanarchitectureproblem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "caf712a957b18e8e": {
+      "title": "Everything New You Can Do With Siri AI",
+      "norm_title": "everythingnewyoucandowithsiriai",
+      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "source": "Wired",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "764bfa3ee4a197dd": {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "norm_title": "clearviewaiistestinganaitoolthatwouldletcopsunearthyourlifeonline",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "source": "Wired",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "a95cf4aeba8bf6da": {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "norm_title": "airesearchstartuplistenlabsscrubbeda15bfundingroundforsalesforcetalks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "77272958072cf062": {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "norm_title": "rebuildingautomatic1111withgradioworkflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "be23b75ac7747ff0": {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "norm_title": "openaiaddsaprominentaidoomertoitsboardofdirectors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "adcf3a2e65aa3138": {
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "norm_title": "theairesearcherwhojustquitanthropicsaysitscrunchtimeforhumanity",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "source": "Wired",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "46c753c58b7938cd": {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "norm_title": "massachusettshitsdatacenterswithnewcleanpowerrules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "8f34ae858c6edc80": {
+      "title": "Suno releases its first AI music model made with record industry help",
+      "norm_title": "sunoreleasesitsfirstaimusicmodelmadewithrecordindustryhelp",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "source": "The Verge",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "88360735017fa81c": {
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "norm_title": "openaisslymathematicalbreakthroughsendsachillthroughacademia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "The Verge",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "ba4802b86b16152f": {
+      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "norm_title": "sanfranciscoordersmetatostopallowingaichildabuseads",
+      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+      "source": "Wired",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "632db64bb739cc01": {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "norm_title": "readtheappledocumentexplaininghownewlisteningfeaturesstillprotectyourprivacy",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "source": "The Verge",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "45c3317b8a1c764b": {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "norm_title": "applewatchsnewaifeaturesarenormalizingtheideathattechnologyisalwayslistening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "fae6b31acc8323cf": {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "norm_title": "sixchineseaifirmsaccusedofaggressivelycopyingusfrontiermodels",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-10T13:16:17.020956+00:00"
     }
   }
 }
