@@ -1,103 +1,5 @@
 {
   "items": {
-    "786fc3ee34ba27c5": {
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "norm_title": "aicodetestingstartupblacksmithsvaluationjumpsalmost10xinlessthanayear",
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "dad0e3cc21808afa": {
-      "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-      "norm_title": "thejobinterviewtattooguyeveryonegotmadatfinallyexplainshimself",
-      "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
-      "source": "Wired",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "bffe8a70e05198a1": {
-      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-      "norm_title": "ohlordaireportersareactuallybreakingbignews",
-      "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-      "source": "Wired",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "926c880483607c9a": {
-      "title": "You’re Thinking About Online Trends All Wrong",
-      "norm_title": "yourethinkingaboutonlinetrendsallwrong",
-      "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-      "source": "Wired",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "ce0d3e950d557db3": {
-      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-      "norm_title": "saberdeniesreplacingridesharestimulatorswriterswithchatgpt",
-      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "source": "The Verge",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "a132f6e9524290c0": {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "norm_title": "accelclosesoversubscribed550mindiafundwithinweeks19monthsafteritslast",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "9193d0f40c4f0f22": {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "norm_title": "geminibecomesgooglesfastestgrowingproducteverasithits1busers",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "36596fce25279b4e": {
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "norm_title": "chatgptandgeminibothjustpassed1billionusers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "f56b04df945291ce": {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "norm_title": "openailauncheschatgptdesktopappforlinux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "257a78108aa5824e": {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "norm_title": "googlesgeminiappsurgesto1billionusers",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "65fa519666a8570d": {
-      "title": "Another OpenAI executive takes off",
-      "norm_title": "anotheropenaiexecutivetakesoff",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "source": "The Verge",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "b4d13640d7071917": {
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "norm_title": "bradlightcapopenaislongtimecooisleavingtostartsomethingnew",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "13d2b5119b6888c9": {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "norm_title": "generalcatalystleads11broundinto2montholdriverai",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
-    "fa0d51ee1c73f702": {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "norm_title": "amieourresearchmedicalaisystemdemonstratesrealtimeclinicalvideoconsultationcapabilitiesinafirstofitskindstudy",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI",
-      "seen_at": "2026-08-12T11:40:50.478356+00:00"
-    },
     "4cc91e9a3418a7fc": {
       "title": "Claude's new Scarlet Letter watermark is invisible — for now",
       "norm_title": "claudesnewscarletletterwatermarkisinvisiblefornow",
@@ -2218,6 +2120,104 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
       "source": "Ars Technica",
       "seen_at": "2026-09-10T13:16:17.020956+00:00"
+    },
+    "0f6df5275d170446": {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "norm_title": "claudeusersfoundwaysaroundsafeguardsforbioweaponsresearch",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "e7ca5787b2c5cf0a": {
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "norm_title": "whysomanyairesearchersthinkthemachinescouldkilleveryone",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "source": "Wired",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "dd54d7c56bc75712": {
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "norm_title": "openaiwantstoknowifanaiindustryslowdownwouldevenbelegal",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "source": "Wired",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "8c140379bf3f560d": {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "norm_title": "jensenhuangexplainswhynvidiawillgrowanastounding70nextyear",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "4b5984cd30b72d71": {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "norm_title": "markwahlbergiscomingtotechcrunchdisrupt2026andhewantstotalkaboutyourworknothis",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "a8f55fa92f55dfe3": {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "norm_title": "slackcannowvibecodeinteractivechartsandreportsinsidechats",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "2a4750e667f9c7ce": {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "norm_title": "openaiputsprosubscriptionsonholdduetoastrademand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "082a562f36cc4b6d": {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "norm_title": "anthropicdetailsdistillationcampaignsfromalibabamoonshotaianddeepseek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "a0cf37fcb0adf94d": {
+      "title": "Is AI Actually Going to Kill Us All?",
+      "norm_title": "isaiactuallygoingtokillusall",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "source": "Wired",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "91f8d59c8a44b5e5": {
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "norm_title": "metasaiagentmuseisnowtheno2appintheus",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "a6692d3cc98507fe": {
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "norm_title": "schoolsarecatchingontobigtechsplaybook",
+      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "source": "The Verge",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "a286fe45b09c0465": {
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "norm_title": "panicbuildsoverbankruptspiritsloomingdatasaletogoogle",
+      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "f07f2c252e63ca47": {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "norm_title": "anthropicrevealsrogueaiagentshatecaptchasjustlikeyou",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "0c268cc18a74ba20": {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "norm_title": "indiaspocketfmdoublesrevenuerunrateto500masaipowers93ofaudiocontent",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-11T13:09:49.872128+00:00"
     }
   }
 }

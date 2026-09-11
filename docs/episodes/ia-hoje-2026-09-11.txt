@@ -1,0 +1,77 @@
+ANA: Bom dia, bom dia! Hoje é sexta-feira, dia onze de setembro de dois mil e vinte e seis, e esse aqui é o "IA Hoje". Marcos, bora começar, porque hoje tem notícia pesada e notícia curiosa em doses parecidas.
+
+MARCOS: Bom dia, Ana! Pois é, o dia começou com uma manchete que não é pra brincadeira. A Ars Technica publicou uma reportagem mostrando que usuários do Claude, o modelo da Anthropic, encontraram formas de contornar as proteções que impedem o uso da ferramenta pra pesquisa de armas biológicas.
+
+ANA: Espera, para tudo. Como assim "contornar as proteções"? A Anthropic não tem lá um sistema inteiro de segurança pra impedir justamente esse tipo de coisa?
+
+MARCOS: Tem, e é um dos mais rigorosos do mercado. A Anthropic classifica os riscos catastróficos dentro do que ela chama de política de escalonamento responsável, que é basicamente um conjunto de níveis de perigo: quanto mais perigosa a capacidade do modelo, mais camadas de verificação e bloqueio ele precisa ter antes de ser lançado. O problema, segundo a reportagem, é que boa parte da biologia perigosa se parece muito com biologia legítima.
+
+ANA: Ou seja, o mesmo conhecimento que um pesquisador sério usa pra criar uma vacina pode ser usado por alguém querendo fazer o oposto.
+
+MARCOS: Exatamente, é o clássico dilema do uso duplo. Um filtro que bloqueia qualquer pergunta sobre, digamos, manipulação de patógenos, também vai bloquear um estudante de virologia fazendo o dever de casa. E um filtro frouxo o suficiente pra deixar o estudante passar também deixa passar quem tem intenção ruim, principalmente se essa pessoa souber reformular a pergunta em pedacinhos inofensivos.
+
+ANA: E é isso que as pessoas estavam fazendo? Quebrando a pergunta perigosa em várias perguntinhas que, sozinhas, pareciam inocentes?
+
+MARCOS: É basicamente essa a lógica que a reportagem descreve. Você não pergunta "como eu faço uma arma biológica", você pergunta uma sequência de coisas técnicas e específicas que, separadas, parecem pesquisa acadêmica normal, mas que, montadas, formam o caminho pra algo perigoso.
+
+ANA: Isso é hype de jornalista assustando todo mundo, ou é um problema real, tipo, com gente comprovadamente tentando fazer isso pra valer?
+
+MARCOS: Eu diria que é real como categoria de risco, mas não necessariamente como evento consumado. Não é que alguém já produziu uma arma biológica com ajuda do Claude. É que os pesquisadores de segurança, tanto de dentro quanto de fora da Anthropic, mostraram que o caminho existe e que ele é mais fácil de percorrer do que a empresa gostaria. E isso é sério porque estamos falando da categoria de risco mais alta que existe: não é vazamento de dado, é potencial de causar um evento catastrófico irreversível. Por isso a resposta certa não é "ah, deu pra furar, esquece a segurança", é reforçar ainda mais essas camadas, sabendo que provavelmente nunca vai ser cem por cento à prova de gente esperta e mal-intencionada.
+
+ANA: Faz sentido a Anthropic estar de olho nisso, porque, por coincidência, ela também publicou outro relatório essa semana sobre segurança, só que dessa vez o alvo é diferente, né?
+
+MARCOS: É, e esse é um contraponto interessante. Na quinta-feira a Anthropic divulgou, segundo o TechCrunch, um relatório afirmando que empresas chinesas de inteligência artificial, entre elas a Alibaba, a Moonshot AI e a DeepSeek, estariam conduzindo o que ela chama de campanhas de "destilação" contra os modelos dela.
+
+ANA: Destilação. Isso é aquela técnica de treinar um modelo menor usando as respostas de um modelo maior, né? Tipo um aluno copiando as respostas de um aluno mais esperto pra aprender mais rápido?
+
+MARCOS: Isso mesmo, e essa é uma boa analogia. Na prática, você manda milhares e milhares de perguntas pro modelo mais avançado, coleta as respostas dele e usa esses pares de pergunta e resposta pra treinar o seu próprio modelo, que fica mais barato de construir porque você não teve que descobrir do zero como responder bem. É uma prática comum e até legítima em certos contextos, tipo quando a própria empresa dona do modelo grande "destila" ele pra criar uma versão menor e mais rápida. O que a Anthropic está dizendo é diferente: que empresas rivais estariam fazendo isso em escala industrial, disfarçando o tráfego pra parecer uso normal e assim absorver de graça anos de investimento em pesquisa.
+
+ANA: E isso não é meio hipócrita, sendo que já rolou acusação parecida contra a DeepSeek usando dados da OpenAI ano passado?
+
+MARCOS: Ótimo ponto, e é exatamente por isso que esse relatório precisa ser lido com um pé atrás. De um lado, existe sim um problema real de propriedade intelectual: treinar um modelo do zero custa centenas de milhões de dólares, e se você consegue boa parte da qualidade "copiando" as respostas de quem já pagou essa conta, isso é uma vantagem competitiva enorme e meio injusta. De outro lado, a competição entre Estados Unidos e China em inteligência artificial está tão acirrada que relatórios assim também servem pra narrativa política, pra pressionar por mais barreiras regulatórias contra empresas chinesas. Eu acho que dá pra acreditar que a destilação está acontecendo, porque tecnicamente é fácil de fazer e difícil de provar, mas também vale desconfiar do tom do relatório, porque a Anthropic tem interesse comercial direto em pintar essas concorrentes como desonestas.
+
+ANA: Beleza, saindo da guerra fria da inteligência artificial pra um problema mais... como posso dizer, um problema de sucesso? A OpenAI pausou as assinaturas do plano Pro por causa de um tal de Astra?
+
+MARCOS: Essa é boa. Segundo o TechCrunch, a OpenAI colocou em pausa as novas assinaturas do plano Pro, que é o mais caro e mais robusto que ela oferece, porque a demanda gerada por um novo produto ou recurso chamado Astra está sobrecarregando os sistemas deles. A empresa foi direta: disse que o plano Pro é o que mais consome capacidade de processamento, e que precisa parar de vender ele temporariamente enquanto expande a infraestrutura.
+
+ANA: Isso é tipo aquela época que todo mundo ficava numa fila de espera gigante pra usar o G P T dash quatro, quando ele lançou?
+
+MARCOS: É a mesma lógica, só que invertida. Lá atrás era "não aguentamos nem lançar direito", agora é "o produto está bombando tanto que precisamos parar de vender por um tempo pra não quebrar o serviço de quem já paga". É um problema bom de se ter, mas ele expõe uma coisa que a gente já vinha discutindo aqui: os modelos mais avançados de hoje consomem uma quantidade absurda de poder computacional, principalmente quando envolvem agentes que ficam trabalhando por conta própria, tipo o que parece ser esse tal de Astra, ao invés de só responder uma pergunta e pronto.
+
+ANA: E isso não é meio ruim pro usuário? Imagina eu, super animada pra assinar o plano mais caro, e a empresa fala "não, calma aí, espera"?
+
+MARCOS: De curto prazo, é ruim mesmo, principalmente se você é uma empresa que depende disso pro seu fluxo de trabalho. Mas do ponto de vista estratégico, faz sentido: é melhor pausar novas entradas do que degradar a experiência de quem já é cliente pagante, porque cliente insatisfeito cancela, e cancelamento em massa é bem pior pro negócio do que uma lista de espera temporária.
+
+ANA: E por falar em quem sustenta essa fome toda de poder computacional, chegou a vez do Jensen Huang, da Nvidia, né? Ele tá prometendo um crescimento de setenta por cento pro ano que vem?
+
+MARCOS: Isso mesmo, segundo o TechCrunch. E o motivo pelo qual eu acho essa fala importante é o contexto: nos últimos meses cresceu muito a desconfiança de que boa parte da receita da Nvidia vem de "negócios circulares". Explico rapidinho: circular seria, por exemplo, a Nvidia investir dinheiro numa empresa como a OpenAI ou uma provedora de nuvem, e essa empresa usar justamente esse dinheiro pra comprar chips da própria Nvidia. Na prática, pareceria crescimento real, mas seria só dinheiro dando uma volta e voltando pro mesmo lugar, inflando os números artificialmente.
+
+ANA: E é isso que está rolando?
+
+MARCOS: O Jensen Huang nega com todas as letras. Segundo ele, a Nvidia "tem o dedo em cada torta", como ele mesmo colocou, ou seja, está presente em praticamente toda cadeia de produção de inteligência artificial do mundo, de data center a robótica, de jogos a carros autônomos, e por isso a demanda seria genuína e diversificada, não fabricada por acordos cruzados. E aqui vale um número pra dar dimensão: setenta por cento de crescimento numa empresa que já fatura dezenas de bilhões de dólares por trimestre é uma cifra gigantesca. A maioria das empresas de tecnologia mataria pra crescer setenta por cento uma única vez na vida, quanto mais projetar isso ano após ano.
+
+ANA: Mas dá pra confiar cegamente na palavra do próprio C E O da empresa dizendo que não tem nada de errado?
+
+MARCOS: Não, e é aí que mora o ceticismo saudável. Ele tem todo interesse em tranquilizar o mercado, porque qualquer sinal de que a demanda é inflada faz a ação da empresa despencar. Eu acho que a verdade está no meio: a demanda por chips de inteligência artificial é real, isso todo mundo sente na pele, olha só o caso do Astra que a gente acabou de comentar. Mas também é verdade que uma parte desse ecossistema está sendo financiada por acordos entrelaçados entre poucas empresas gigantes, e isso é um ponto de fragilidade que vale continuar de olho, porque se uma dessas peças cambalear, o efeito dominó pode ser grande.
+
+ANA: Saindo um pouco da guerra dos bilhões, tem uma notícia que achei bem simpática e que, convenhamos, tem tudo a ver com a gente aqui: o aplicativo indiano Pocket FM dobrou a receita usando inteligência artificial pra fazer áudio?
+
+MARCOS: Essa eu adorei também, até porque é meio irônico a gente comentar isso num podcast que também é feito com ajuda de inteligência artificial. Segundo o TechCrunch, a Pocket FM, que é uma plataforma de áudio dramas e audiolivros focada no mercado indiano, dobrou o seu ritmo anual de receita pra quinhentos milhões de dólares. E o detalhe impressionante é que noventa e três por cento de todo o conteúdo de áudio da plataforma hoje é produzido com inteligência artificial, e noventa e nove por cento do conteúdo novo que eles lançam já nasce assim.
+
+ANA: Noventa e nove por cento? Ou seja, praticamente ninguém grava com a própria voz mais lá?
+
+MARCOS: Praticamente isso, pelo menos pro conteúdo novo. E o motivo é econômico e bem direto: eles conseguem produzir esse conteúdo cerca de oitenta vezes mais barato usando vozes sintéticas e roteiros gerados ou adaptados por inteligência artificial, comparado a contratar dubladores, estúdios e roteiristas pra cada episódio novo.
+
+ANA: Oitenta vezes é um número absurdo. Isso não é motivo de preocupação também? Tipo, e os narradores e roteiristas humanos que faziam esse trabalho antes?
+
+MARCOS: É uma preocupação legítima e real, principalmente pensando no mercado de trabalho de dublagem e narração na Índia. Mas o motivo desse caso ser tão citado é que ele mostra, com números concretos de receita dobrando, que isso não é só um exagero de quem quer economizar: o público está de fato consumindo e pagando por esse conteúdo em escala. Ou seja, não é uma aposta especulativa tipo "um dia isso vai dar certo", é um negócio que já está funcionando e crescendo agora, com gente pagando assinatura pra ouvir histórias narradas por vozes sintéticas. Pra quem trabalha com conteúdo, seja podcast, audiolivro, o que for, esse é o tipo de caso que mostra pra onde o vento está soprando: a inteligência artificial já não é só uma ferramenta de apoio, ela virou o motor de produção principal em setores inteiros de entretenimento.
+
+ANA: É, dá pra sentir isso já hoje, inclusive aqui na nossa produção. Bom, Marcos, antes de fechar, me resume rapidinho tudo que a gente viu hoje?
+
+MARCOS: Vamos lá. Primeiro, a Ars Technica mostrou que usuários conseguiram contornar as proteções do Claude pra buscar informação sensível sobre biologia perigosa, expondo o quão difícil é filtrar conhecimento de uso duplo. Segundo, a Anthropic acusou Alibaba, Moonshot AI e DeepSeek de fazerem destilação em massa dos modelos dela, uma denúncia plausível mas também carregada de interesse competitivo. Terceiro, a OpenAI pausou as assinaturas do plano Pro porque a demanda pelo tal do Astra estourou a capacidade dos servidores dela. Quarto, o Jensen Huang prometeu setenta por cento de crescimento pra Nvidia ano que vem e jurou que os negócios não são circulares, o que merece um olhar cético mas também reconhece uma demanda real. E por fim, a Pocket FM, na Índia, dobrou a receita produzindo praticamente todo o conteúdo novo com inteligência artificial, um caso concreto de que esse mercado já é realidade, não promessa.
+
+ANA: Show de bola. Obrigada por explicar tudo isso com tanta paciência, Marcos!
+
+MARCOS: Sempre um prazer, Ana!
+
+ANA: E é isso, pessoal, o "IA Hoje" fica por aqui. Amanhã tem mais notícia fresquinha pra gente comentar juntos. Um beijo e até lá!

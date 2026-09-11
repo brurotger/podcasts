@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-11",
+    "title": "IA Hoje — 11 de setembro de 2026",
+    "file": "ia-hoje-2026-09-11.mp3",
+    "duration": 786,
+    "size": 4715661,
+    "published_at": "2026-09-11T13:09:49.868689+00:00",
+    "news": [
+      {
+        "title": "Claude users found ways around safeguards for bioweapons research",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
+      },
+      {
+        "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/"
+      },
+      {
+        "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/"
+      },
+      {
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
+      },
+      {
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "Slack can now vibe-code interactive charts and reports inside chats",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+      },
+      {
+        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+      },
+      {
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+      },
+      {
+        "title": "Is AI Actually Going to Kill Us All?",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/"
+      },
+      {
+        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+      },
+      {
+        "title": "Schools are catching on to Big Tech’s playbook",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids"
+      },
+      {
+        "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/"
+      },
+      {
+        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
+      },
+      {
+        "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "title": "IA Hoje — 10 de setembro de 2026",
     "file": "ia-hoje-2026-09-10.mp3",
@@ -786,86 +866,6 @@
         "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
         "source": "Wired",
         "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "title": "IA Hoje — 28 de agosto de 2026",
-    "file": "ia-hoje-2026-08-28.mp3",
-    "duration": 875,
-    "size": 5251485,
-    "published_at": "2026-08-28T21:52:58.434217+00:00",
-    "news": [
-      {
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-      },
-      {
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-      },
-      {
-        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
-      },
-      {
-        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
-      },
-      {
-        "title": "Trump’s EPA wants to let data centers hide their air pollution",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit"
-      },
-      {
-        "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
-      },
-      {
-        "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/"
-      },
-      {
-        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
-      },
-      {
-        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
-      },
-      {
-        "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/"
-      },
-      {
-        "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/"
-      },
-      {
-        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
-      },
-      {
-        "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/"
-      },
-      {
-        "title": "Supporting Thailand’s next generation of AI startups",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
       }
     ]
   }
