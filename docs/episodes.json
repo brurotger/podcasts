@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-12",
+    "title": "IA Hoje — 12 de setembro de 2026",
+    "file": "ia-hoje-2026-09-12.mp3",
+    "duration": 896,
+    "size": 5374173,
+    "published_at": "2026-09-12T12:33:21.242445+00:00",
+    "news": [
+      {
+        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      },
+      {
+        "title": "I spent $4,000 on a robot dog from China",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/"
+      },
+      {
+        "title": "OpenAI just wants to win",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"
+      },
+      {
+        "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/"
+      },
+      {
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+      },
+      {
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+      },
+      {
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+      },
+      {
+        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
+      },
+      {
+        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
+      },
+      {
+        "title": "Roundtables: AI’s apocalypse crisis",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+      },
+      {
+        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
+      },
+      {
+        "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
+      },
+      {
+        "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "title": "IA Hoje — 11 de setembro de 2026",
     "file": "ia-hoje-2026-09-11.mp3",
@@ -831,41 +911,6 @@
         "title": "How to Run a Chatbot on Your Own Computer",
         "source": "Wired",
         "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "title": "IA Hoje — 29 de agosto de 2026",
-    "file": "ia-hoje-2026-08-29.mp3",
-    "duration": 628,
-    "size": 3766413,
-    "published_at": "2026-08-29T09:06:09.761084+00:00",
-    "news": [
-      {
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
-      },
-      {
-        "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
-      },
-      {
-        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
-      },
-      {
-        "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/"
       }
     ]
   }

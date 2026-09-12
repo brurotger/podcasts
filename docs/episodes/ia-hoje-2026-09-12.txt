@@ -1,0 +1,105 @@
+MARCOS: Bom dia, Ana!
+
+ANA: Bom dia, Marcos! Hoje é dia doze de setembro de dois mil e vinte e seis, e olha, a lista de notícias de inteligência artificial de hoje tá gigante. Mas antes de começar, já aviso: hoje eu não vou deixar você escapar com respostas rasas, viu?
+
+MARCOS: Combinado, pode cobrar. Por onde a gente começa?
+
+ANA: Vamos pela que mais me deixou de queixo caído. A própria Open AI publicou no blog dela que a Perplexity, aquela empresa de busca com IA, agora confia o sistema inteiro dela pro modelo mais novo deles, o G P T seis Astra. Isso quer dizer o quê exatamente?
+
+MARCOS: Segundo o post da Open AI, a Perplexity está usando o Astra pra escrever comunicações internas, alterar código de produção e até monitorar os próprios sistemas em funcionamento. E o detalhe mais importante: eles checam o trabalho do modelo com muito menos frequência do que faziam com as versões anteriores.
+
+ANA: Espera, "monitorar produção" e "checar menos" juntos me deixam com um pé atrás. Isso não é meio perigoso?
+
+MARCOS: É exatamente o ponto que eu acho mais interessante aqui. Até pouco tempo atrás, o padrão da indústria era usar IA como copiloto: ela sugere, um humano revisa linha por linha antes de aprovar. O que a Perplexity está descrevendo é diferente, é um salto pra autonomia real, onde o modelo toma decisões e age sozinho em sistemas que, se falharem, tiram o produto do ar pra milhões de usuários.
+
+ANA: E isso é hype de marketing da Open AI vendendo o próprio modelo, ou é confiável mesmo?
+
+MARCOS: Tem um pouco dos dois. Por um lado, é um caso de uso real, contado pela própria empresa que usa, não é só a Open AI se gabando. Por outro, óbvio que a Open AI escolheu contar essa história porque ela é boa pra vender o Astra. O que eu olho é: será que esse nível de confiança é generalizável, ou só funciona porque a Perplexity tem uma infraestrutura de testes automatizados muito madura por trás? Pra maioria das empresas, ainda é cedo pra soltar a rédea assim.
+
+ANA: Então a real é: promissor, mas não é "pode confiar cegamente" pra qualquer um.
+
+MARCOS: Isso. É um sinal de pra onde a indústria está indo, não uma receita pronta pra todo mundo copiar amanhã.
+
+ANA: Beleza, próxima. E essa aqui é histórica de verdade: a Open AI resolveu um problema do Milênio. Isso é tão grande quanto parece?
+
+MARCOS: É grande, sim. Deixa eu explicar o que é um problema do Milênio, porque é importante pro tamanho da notícia. Em dois mil e, o Instituto Clay, nos Estados Unidos, listou sete problemas matemáticos considerados os mais difíceis e importantes ainda em aberto, e ofereceu um milhão de dólares pra quem resolvesse cada um. Até hoje, só um foi resolvido, a conjectura de Poincaré, lá em dois mil e três. Segundo o The Verge, a Open AI agora reivindica ter resolvido outro.
+
+ANA: E por que isso incomoda tanta gente? Eu vi que tem até uma carta aberta de matemáticos contra isso.
+
+MARCOS: Exatamente, e essa é a parte mais suculenta. A TechCrunch noticiou que vinte e cinco matemáticos importantes assinaram uma carta aberta dizendo que os laboratórios de IA estão ameaçando o trabalho intelectual deles. O ponto central da reclamação não é "a IA não pode resolver matemática". É sobre como isso é anunciado: a Open AI vem, segundo o The Verge, "plantando bandeiras" em competições e prêmios matemáticos nos últimos anos, meio que colecionando troféus pra usar como propaganda, sem necessariamente seguir o processo tradicional de revisão por pares que a comunidade matemática usa há séculos pra validar uma prova.
+
+ANA: Então o problema não é a capacidade da IA, é a forma como a empresa está jogando esse jogo?
+
+MARCOS: Isso mesmo. Pensa assim: é como se alguém aparecesse numa maratona, cortasse caminho por atalhos que só ele sabe que existem, cruzasse a linha de chegada primeiro e ainda exigisse ser reconhecido oficialmente como o campeão antes mesmo dos juízes revisarem o percurso. A matemática funciona por consenso da comunidade, prova revisada, publicada, criticada por pares. Quando uma empresa anuncia uma "vitória" antes desse processo terminar, ela tá otimizando pra manchete, não pra ciência.
+
+ANA: E isso é hype ou é real?
+
+MARCOS: A resolução matemática em si pode ser real e genuinamente impressionante, os modelos de raciocínio avançaram muito nos últimos dois anos. Mas o jeito como está sendo comunicado, sim, isso é estratégia de marketing competitivo. E a TechCrunch mostra que esse atrito só está crescendo, não é um caso isolado.
+
+ANA: Faz sentido esse desconforto. Vamos pra próxima, que também é sobre confiança, mas do lado mais sombrio: a Wired publicou que o mau uso do Claude, o modelo da Anthropic, está "em todo lugar" agora. Isso é alarmante como parece?
+
+MARCOS: A reportagem da Wired é parte de um resumo semanal de segurança, e cita relatórios da própria Anthropic sobre tentativas de uso malicioso do Claude, que vão desde ataques de hackers até, olha o nível, tentativas relacionadas a armas biológicas. Vale explicar: a Anthropic publica periodicamente relatórios de inteligência de ameaças, basicamente eles mesmos caçam e documentam quando alguém tenta usar o modelo deles pra coisa ruim.
+
+ANA: Isso não deveria assustar todo mundo que usa essas ferramentas?
+
+MARCOS: Eu vejo de um jeito um pouco diferente. O fato da Anthropic estar documentando e publicando isso é, paradoxalmente, um ponto a favor deles, porque mostra que existe monitoramento ativo. O alarmante seria se isso estivesse acontecendo em silêncio. Agora, o dado real e preocupante é a variedade: não é só um tipo de abuso, são hackers usando o modelo pra escrever código malicioso, gente tentando extrair informação perigosa sobre biologia. Isso mostra uma coisa que a indústria toda enfrenta: quanto mais capaz o modelo fica, maior o espectro de mau uso possível, não só o volume.
+
+ANA: E dá pra resolver isso, ou é tipo um jogo de gato e rato pra sempre?
+
+MARCOS: Realisticamente, é gato e rato mesmo, igual acontece com segurança digital em geral desde sempre. A diferença aqui é a velocidade: técnicas de contorno de segurança, os chamados "jailbreaks", circulam rápido, e os laboratórios correm atrás pra fechar brechas. A mesma reportagem da Wired, aliás, menciona que a Meta também está falhando em barrar vídeos gerados por IA de abuso infantil, o que reforça que isso não é um problema exclusivo de um modelo ou de uma empresa, é estrutural da tecnologia.
+
+ANA: Ok, isso é preocupante de um jeito diferente do hype de mercado. Vamos pra uma notícia que pra mim resume bem o "e daí" de tudo isso: um advogado foi multado por causa de IA. Conta os detalhes.
+
+MARCOS: Essa saiu tanto no The Verge quanto na Ars Technica. A Suprema Corte do Novo México multou o advogado Stephen Aarons em cinco mil dólares e o considerou em desacato ao tribunal. O motivo: ele incluiu, num recurso de apelação de uma condenação por assassinato, testemunhas e depoimentos policiais que simplesmente não existem, foram inventados pelo ChatGPT.
+
+ANA: Espera, isso foi num caso de assassinato de verdade? As consequências ali são sérias pra valer.
+
+MARCOS: Exatamente por isso essa notícia importa tanto. A gente vem falando de IA errando em coisas relativamente baixo risco, tipo um resumo de reunião torto. Aqui é o oposto: a vida de uma pessoa condenada dependia daquele recurso, e o advogado citou testemunhas fictícias como se fossem reais. E segundo a Ars Technica, a defesa dele foi, literalmente, "eu não sabia que a IA podia alucinar fatos".
+
+ANA: Isso é desculpa que se aceite hoje em dois mil e vinte e seis? Já não tá mais do que documentado que IA inventa coisa?
+
+MARCOS: É esse exatamente o ponto que acho mais forte aqui. Não é dois mil e vinte e três, quando "alucinação" ainda era um conceito meio novo pro público geral. A corte não aceitou a desculpa, e olha que essa nem é a primeira vez que isso acontece nos Estados Unidos, já teve casos parecidos em outros tribunais desde dois mil e vinte e três. O recado é claro: usar IA generativa sem checar cada fato citado, numa profissão onde precisão é literalmente o produto, não é mais erro de novato ingênuo, é negligência.
+
+ANA: Então a lição pra qualquer um que usa essas ferramentas pra trabalho sério é: a ferramenta não substitui a checagem, ela é só um rascunho.
+
+MARCOS: Isso, e esse caso vai virar referência, porque mostra que os tribunais estão parando de tratar isso como desculpa aceitável.
+
+ANA: Vamos aliviar um pouco o clima e falar de robô. A Ars Technica publicou que um repórter gastou quatro mil dólares num cachorro-robô chinês, da Unitree. Isso é curiosidade ou é notícia de verdade?
+
+MARCOS: É mais sério do que parece à primeira vista. A matéria argumenta que a Unitree pode ser a empresa de robótica mais importante do mundo hoje, e o motivo é preço e acessibilidade. Robôs quadrúpedes, tipo os famosos "robôs cachorro" da Boston Dynamics, custavam dezenas de milhares de dólares e eram praticamente inacessíveis fora de empresas e universidades. A Unitree trouxe um produto parecido por quatro mil dólares, ou seja, uma fração do preço.
+
+ANA: E isso muda o quê pra quem não trabalha com robótica?
+
+MARCOS: Democratiza o acesso. Quando o preço de entrada despenca desse jeito, você passa a ter desenvolvedores independentes, pesquisadores de universidades menores e até curiosos comprando o hardware pra brincar e criar aplicações, exatamente como aconteceu com computadores pessoais nos anos oitenta. Isso acelera a inovação porque tira o gargalo de "só quem tem orçamento corporativo consegue testar".
+
+ANA: E tem ligação com aquela outra notícia, da Mecka AI perto de meio bilhão de dólares de avaliação, num aporte liderado pela Sequoia?
+
+MARCOS: Tem tudo a ver, e é por isso que juntei essas duas na cabeça. A TechCrunch conta que a Mecka, uma startup de só dois anos, tá perto de meio bilhão de dólares de valor de mercado, poucos meses depois da rodada Série A dela. E o motivo do investidor correr atrás é "dados de treinamento pra robôs". Isso é o gargalo real da robótica hoje: modelos de linguagem tiveram a internet inteira pra aprender, mas não existe um "internet de movimentos físicos" pronta por aí. Empresas como a Mecka existem pra capturar dados de robôs realizando tarefas do mundo físico e vender esse treinamento pra quem fabrica os robôs.
+
+ANA: Então quanto mais barato fica o hardware, tipo o cachorro da Unitree, mais dados de uso real existem pra treinar esses modelos, e mais essas startups de dados valem.
+
+MARCOS: Exatamente, é um ciclo se retroalimentando. Hardware acessível gera mais dados, mais dados melhora os modelos, modelos melhores tornam os robôs mais úteis, o que justifica ainda mais investimento. É basicamente o mesmo ciclo que vimos com carros autônomos, só que replicado pra robótica geral.
+
+ANA: Última notícia do dia, e essa é pesada: a Wired informou que a Meta foi processada por causa dos dados usados pra treinar a IA dela. O que exatamente tá sendo alegado?
+
+MARCOS: É uma ação coletiva, uma "class action", que alega que a Meta coletou ilegalmente fotos do Facebook e do Instagram das pessoas pra treinar tanto os modelos de geração de imagem dela quanto um recurso de reconhecimento facial ainda não lançado, chamado "NameTag".
+
+ANA: Espera, reconhecimento facial? Isso não é uma linha vermelha que empresas já tinham evitado por causa de processos anteriores?
+
+MARCOS: É exatamente por isso que esse processo chama atenção. A própria Meta, antes chamada Facebook, já pagou bilhões de dólares em acordos judiciais no passado justamente por reconhecimento facial sem consentimento, teve um caso enorme em Illinois há alguns anos. Anunciar um recurso chamado "NameTag" sugere que eles estão testando esse território de novo, e o processo atual argumenta que as fotos usadas pra treinar isso, e também os modelos geradores de imagem, vieram das pessoas comuns sem autorização explícita.
+
+ANA: E isso é diferente dos outros processos de direitos autorais contra IA que a gente já comentou aqui no podcast, tipo artistas processando geradores de imagem?
+
+MARCOS: É parecido na lógica, mas o dado sensível aqui é diferente. Processos de direitos autorais são sobre uso comercial de obras protegidas. Aqui estamos falando de fotos pessoais, muitas vezes de rostos de pessoas que nunca imaginaram que aquela selfie de férias ia virar dado de treinamento pra reconhecimento facial. É uma categoria de dado muito mais sensível, biometria facial é considerada dado sensível na maioria das legislações de privacidade sérias.
+
+ANA: Isso é grave então, não é só mais um processo de rotina contra big tech.
+
+MARCOS: Se as alegações se confirmarem, sim, porque mistura duas coisas que juntas pesam muito: uso de dado pessoal sem consentimento e reconhecimento facial, que é uma tecnologia que já tem histórico de resistência regulatória forte nos Estados Unidos.
+
+ANA: Que dia cheio, hein? Vamos recapitular rapidinho.
+
+MARCOS: A Open AI mostrou a Perplexity confiando o sistema inteiro dela ao novo modelo Astra, sinal de que a indústria está migrando de copiloto pra autonomia real. A vitória da Open AI num problema do Milênio reacendeu a briga com a comunidade matemática sobre como essas conquistas são anunciadas. A Anthropic documentou mau uso do Claude em áreas que vão de hackeamento a tentativas ligadas a armas biológicas. Um advogado foi multado em cinco mil dólares por citar testemunhas inventadas pelo ChatGPT num caso de assassinato. O cachorro-robô de quatro mil dólares da Unitree e a alta avaliação da Mecka AI mostram o mesmo ciclo: hardware barato gerando os dados que faltam pra treinar robôs. E a Meta foi processada por, supostamente, usar fotos do Facebook e do Instagram sem consentimento pra treinar IA generativa e um recurso de reconhecimento facial.
+
+ANA: Foi um episódio denso, mas eu saio de cada bloco desses entendendo de verdade o que tá em jogo, que é a ideia. Obrigada, Marcos!
+
+MARCOS: Um prazer, Ana. Até amanhã, gente, tem mais IA Hoje chegando!

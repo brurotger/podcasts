@@ -1,103 +1,5 @@
 {
   "items": {
-    "4cc91e9a3418a7fc": {
-      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
-      "norm_title": "claudesnewscarletletterwatermarkisinvisiblefornow",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "cb006376def253d5": {
-      "title": "How kids feel about AI, in their own words",
-      "norm_title": "howkidsfeelaboutaiintheirownwords",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "94ac2b135a7e597a": {
-      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-      "norm_title": "theresafattyliverepidemicaicouldhelpgetaheadofit",
-      "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-      "source": "Wired",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "0a4074e0420e3b40": {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "norm_title": "someclaudeusersaremadthatanthropicsnewwatermarkswillcatchthemusingitattheirjobsclasses",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "b54ed2354b6d4f9b": {
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "norm_title": "thewebsnewestweaponagainstaiscrapersisafont",
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "a6856dcf52df32ee": {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "norm_title": "terabytesofcredentialsleakedinmassivesupplychainattack",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "699e22c34cf54b36": {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "norm_title": "twitchcontenthastrainedamazonaiforyearsbutuserscanoptoutnow",
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "6185ba50ccca7280": {
-      "title": "The White House Is Going to Expand Its AI Policy",
-      "norm_title": "thewhitehouseisgoingtoexpanditsaipolicy",
-      "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-      "source": "Wired",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "256491251a797116": {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "norm_title": "amazonwilltrainontwitchstreamerscontentbydefaultunlesstheyoptout",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "dcf97bdc55a92244": {
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "norm_title": "rogueaiagentsarenteviltheyrejusteagertoplease",
-      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-      "source": "Wired",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "8af7b55ff1c4901e": {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "norm_title": "aicodingstartupcognitionreportedlyalreadyintalkstoraiseat40bvaluation",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "0eb5d7e15a2bb978": {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "norm_title": "asaisafetyconcernsmountthreepioneersmakethecaseforstayingopen",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "05cd8d8a79eceae8": {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "norm_title": "openaibackedthriveholdingsraises2btobringaitotheenterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
-    "58542aada925bb39": {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "norm_title": "twitchstreamerscannowoptoutfromtrainingamazonsai",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "source": "The Verge",
-      "seen_at": "2026-08-13T11:39:32.567652+00:00"
-    },
     "869f81710ddeb3ba": {
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
       "norm_title": "thesemasturbationconsultantswerehiredtopleasurethemselveswithai",
@@ -2218,6 +2120,104 @@
       "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
       "source": "TechCrunch",
       "seen_at": "2026-09-11T13:09:49.872128+00:00"
+    },
+    "009abccf940a8512": {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "norm_title": "perplexitytrustsgpt6astrawithendtoendsystems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "e1cf5e34b63f07ea": {
+      "title": "I spent $4,000 on a robot dog from China",
+      "norm_title": "ispent4000onarobotdogfromchina",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "da2ff31169e42092": {
+      "title": "OpenAI just wants to win",
+      "norm_title": "openaijustwantstowin",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "e85cce4242c290f2": {
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "norm_title": "fromhackstobioweaponsclaudemisuseisnoweverywhere",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "source": "Wired",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "2ff05ee5f91df1a6": {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "norm_title": "meckaainears500mvaluationinsequoialeddealamidrushforrobottrainingdata",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "74fffe27b85cfa27": {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "norm_title": "ycombinatorsgarrytanwantsusopenweightailabstodistillfrontiermodelstoo",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "01b65b07f90dd909": {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "norm_title": "openaisfeudwithmathematiciansisonlyescalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "1f024ba88606651a": {
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "norm_title": "lawyerfined5koveraihallucinatedwitnessesinamurdercase",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "source": "The Verge",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "bd4ab85c95880521": {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "norm_title": "oneweeklefttobookyourexhibittableattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "f43c7f2428618ca5": {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "norm_title": "finalfinalfinalcallfortechcrunchdisrupt2026sideevents",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "c462fcf9a62e8c77": {
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "norm_title": "roundtablesaisapocalypsecrisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "eeef0f9dd63be64a": {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "norm_title": "kimimakermoonshotaitargets2binannualrevenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "31acacce0e159922": {
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "norm_title": "chatgptusinglawyerpunishedforcitingfaketestimonyfrommadeupwitnesses",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
+    },
+    "0ba77e748f7270d3": {
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "norm_title": "metasuedovertrainingdataforitsaiandfacerecognitionsystems",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "source": "Wired",
+      "seen_at": "2026-09-12T12:33:21.245773+00:00"
     }
   }
 }
