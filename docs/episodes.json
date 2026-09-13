@@ -1,5 +1,50 @@
 [
   {
+    "date": "2026-09-13",
+    "title": "IA Hoje — 13 de setembro de 2026",
+    "file": "ia-hoje-2026-09-13.mp3",
+    "duration": 759,
+    "size": 4551789,
+    "published_at": "2026-09-13T13:34:38.605642+00:00",
+    "news": [
+      {
+        "title": "AI Agents Are Thirsty for Power",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/"
+      },
+      {
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
+      },
+      {
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
+      },
+      {
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+      },
+      {
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+      },
+      {
+        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+      },
+      {
+        "title": "Trump is giving data centers a pass to pollute",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "title": "IA Hoje — 12 de setembro de 2026",
     "file": "ia-hoje-2026-09-12.mp3",
@@ -866,51 +911,6 @@
         "title": "Why the Hottest New Wearables Want to Be Ignored",
         "source": "Wired",
         "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "title": "IA Hoje — 30 de agosto de 2026",
-    "file": "ia-hoje-2026-08-30.mp3",
-    "duration": 842,
-    "size": 5050029,
-    "published_at": "2026-08-30T09:05:43.768575+00:00",
-    "news": [
-      {
-        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
-      },
-      {
-        "title": "Sony Music and Warner Chappell are suing Anthropic",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
-      },
-      {
-        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
-      },
-      {
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
-      },
-      {
-        "title": "Musicians-turned-detectives are hunting for AI grifters",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
-      },
-      {
-        "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/"
-      },
-      {
-        "title": "How to Run a Chatbot on Your Own Computer",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/"
       }
     ]
   }
