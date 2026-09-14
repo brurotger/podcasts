@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-09-14",
+    "title": "IA Hoje — 14 de setembro de 2026",
+    "file": "ia-hoje-2026-09-14.mp3",
+    "duration": 758,
+    "size": 4546461,
+    "published_at": "2026-09-14T15:25:53.894127+00:00",
+    "news": [
+      {
+        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
+      },
+      {
+        "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
+      },
+      {
+        "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/"
+      },
+      {
+        "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/"
+      },
+      {
+        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+      },
+      {
+        "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/"
+      },
+      {
+        "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/"
+      },
+      {
+        "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/"
+      },
+      {
+        "title": "Trump and Mike Johnson think the AI industry is overreacting",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
+      },
+      {
+        "title": "What’s behind the AI industry’s latest warnings of doom?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+      },
+      {
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "title": "IA Hoje — 13 de setembro de 2026",
     "file": "ia-hoje-2026-09-13.mp3",
@@ -876,41 +946,6 @@
         "title": "Instagram cracks down on AI accounts pretending to be human",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "title": "IA Hoje — 31 de agosto de 2026",
-    "file": "ia-hoje-2026-08-31.mp3",
-    "duration": 711,
-    "size": 4265373,
-    "published_at": "2026-08-31T09:05:59.335407+00:00",
-    "news": [
-      {
-        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
-      },
-      {
-        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
-      },
-      {
-        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
-      },
-      {
-        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
-      },
-      {
-        "title": "Why the Hottest New Wearables Want to Be Ignored",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/"
       }
     ]
   }

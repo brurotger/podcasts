@@ -1,96 +1,5 @@
 {
   "items": {
-    "ab0af5680c336f13": {
-      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-      "norm_title": "amazoncanuseyourtwitchcontenttotrainitsaiunlessyouoptout",
-      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-      "source": "Wired",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "aba9c4a6b432d9b4": {
-      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-      "norm_title": "thenextbiginfluenceristhis4foottallrobotfromchina",
-      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-      "source": "Wired",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "4786b5f66b899262": {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "norm_title": "suspectingcourtofusingaimaninjectedpromptsinfilingstotrytowincase",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "82e426e60351cc7d": {
-      "title": "Mark Zuckerberg has an Instagzam",
-      "norm_title": "markzuckerberghasaninstagzam",
-      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "source": "The Verge",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "4698f1fbe8d40f74": {
-      "title": "You can now turn off Google Gemini’s visible watermarks",
-      "norm_title": "youcannowturnoffgooglegeminisvisiblewatermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "6d754284a3916d96": {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "norm_title": "googlewillnowallowuserstoremovevisiblewatermarkfromitsaigenerations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "cb0d9eb7dc00cdfd": {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "norm_title": "doesmarkzuckerbergreallybelieveaiisforeveryone",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "2b16fbb646d8c3a7": {
-      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-      "norm_title": "techvisionarysaysthebigailabsdontgetwhatpeoplewant",
-      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-      "source": "Wired",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "e78c6df50e7e8ef7": {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "norm_title": "kogisgoingdeepertosqueezemoreinferenceoutofgpus",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "f09472dd075e1420": {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "norm_title": "openaiandanthropicinpricewaraschineseairivalsgainground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "e14eb33ae1358f0e": {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "norm_title": "hyperscalersmightregretembracingnaturalgasifnewforecastprovescorrect",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "e2503c7a4149bc36": {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "norm_title": "metasopenaianda250mdealgoneverywrong",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
-    "73f3a9f98cc48693": {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "norm_title": "stateofopenmodelssummer2026observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-15T09:54:56.925841+00:00"
-    },
     "0b018320c58c34d4": {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "norm_title": "womanclaimsherstepfatherusedgroktotransformchildhoodphotointoexplicitimagery",
@@ -2169,6 +2078,90 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
       "source": "The Verge",
       "seen_at": "2026-09-13T13:34:38.609148+00:00"
+    },
+    "b8c65d7d672b879e": {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "norm_title": "onlyattechcrunchdisrupt2026whathappenswhenopenaishipsyourroadmap",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "b8352bfaa359c736": {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "norm_title": "superhumanacquiresycbackednotetakerfathomasproductivityplatformspushforagenticwork",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "8f332a35ef762efd": {
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "norm_title": "hearhowaicanengineernaturescomebackattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "65041ad4ee28fec0": {
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "norm_title": "5dayslefttoexhibitattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "acdb986a7c8f17aa": {
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "norm_title": "avinylbarinshibuyaisastartupofferingfunmusicappswithoutanyaiprompting",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "6da5d415325e12d4": {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "norm_title": "microsoftsayspeoplemattermorethanaifollowingsafetyconcerns",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "source": "The Verge",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "b3315f11b4f14543": {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "norm_title": "aileadersarecallingforaslowdowntrumpsteamsaysitsonthem",
+      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "source": "Wired",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "ca3f6f6880253f40": {
+      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+      "norm_title": "sexuallyexplicitdeepfakesitestarget100pluspoliticiansineurope",
+      "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+      "source": "Wired",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "3d20a2e45976640c": {
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "norm_title": "ilikemybigratwifemeetthepeopleusingchatbotstowritecustomfiction",
+      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "source": "Wired",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "86c010448ed75393": {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "norm_title": "trumpandmikejohnsonthinktheaiindustryisoverreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "c3017bcee8363cdf": {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "norm_title": "whatsbehindtheaiindustryslatestwarningsofdoom",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "caf7515d78f4545a": {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "norm_title": "obamaurgesdemocratstohaveaclearplanforaisafeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-14T15:25:53.897793+00:00"
     }
   }
 }
