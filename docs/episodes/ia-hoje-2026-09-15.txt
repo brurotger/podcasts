@@ -1,0 +1,93 @@
+ANA: Bom dia, pessoal! Hoje é dia quinze de setembro de dois mil e vinte e seis e esse é mais um episódio do I A Hoje. Marcos, bora que hoje o dia tá cheio de fogos de artifício no mundo da inteligência artificial.
+
+MARCOS: Bom dia, Ana! Pois é, foi um final de semana daqueles. Teve gente pedindo pra desacelerar a inteligência artificial e teve gente prometendo que isso nunca vai acontecer. Bom começo de conversa.
+
+ANA: Justamente por aí eu quero começar. Me explica direito: quem pediu pra desacelerar o quê?
+
+MARCOS: O Dario Amodei, que é o presidente-executivo da Anthropic, publicou um ensaio longo chamado, em tradução livre, "Precisamos Marcar o Ritmo da Fronteira". A ideia central é que o desenvolvimento dos modelos mais avançados de inteligência artificial, os chamados modelos de fronteira, está andando rápido demais pra segurança acompanhar. E segundo o The Verge, ao longo do fim de semana o Sam Altman, da OpenAI, o Demis Hassabis, cofundador do Google Deep Mind, e até o Elon Musk, da SpaceX, toparam parcialmente essa ideia de "marcar o ritmo".
+
+ANA: Espera, isso não parece familiar? Eu juro que já vi gente pedindo pausa em inteligência artificial antes.
+
+MARCOS: Você lembrou certo. Em dois mil e vinte e três teve aquela carta aberta pedindo uma pausa de seis meses no treinamento de modelos gigantes, também assinada pelo Musk, entre outros. E não aconteceu nada, ninguém pausou coisa nenhuma. A diferença agora é que ninguém tá pedindo parar: é um ritmo mais controlado, não um freio de mão.
+
+ANA: Tá, mas isso é sincero ou é só teatro? Porque, sei lá, parece estranho os líderes que já estão na frente pedirem pra todo mundo ir mais devagar.
+
+MARCOS: Exatamente o ponto que o The Verge levantou, numa matéria com um título ótimo: "é um pacto de segurança ou é um cartel?" E o ceticismo faz sentido: se as empresas que já lideram a corrida conseguem convencer todo mundo a desacelerar, isso trava exatamente os concorrentes menores que estão tentando alcançar. Ou seja, desacelerar "a fronteira" pode, na prática, proteger quem já está nela.
+
+ANA: Então é interesse disfarçado de responsabilidade.
+
+MARCOS: Pode ser uma leitura, sim. Mas nem todo mundo concordou, e aí que a coisa fica ainda mais interessante. O Jensen Huang, presidente-executivo da Nvidia, discordou publicamente e com estilo. A TechCrunch e o The Verge contaram que ele estava no palco do evento All In Summit, recebeu uma ligação ao vivo do presidente Trump e colocou no viva-voz, na frente da plateia inteira.
+
+ANA: Peraí, ele botou o presidente dos Estados Unidos no viva-voz no meio de um evento? Isso é surreal.
+
+MARCOS: Totalmente. E na ligação o Trump falou sobre robôs não vão dominar o mundo, esse tipo de comentário. Mas o recado do Huang foi direto: ele disse que a Nvidia não vai deixar a desaceleração acontecer. Faz todo sentido do ponto de vista de negócio dele: a Nvidia vende os chips que treinam esses modelos gigantes. Quanto mais rápido e mais gente treinando, melhor pro caixa da empresa.
+
+ANA: Então no fundo isso não é debate de segurança, é debate de quem ganha dinheiro com o quê.
+
+MARCOS: Em grande parte, sim. De um lado, os laboratórios que já têm modelo de ponta falando em cautela. Do outro, quem vende a infraestrutura, querendo o acelerador todo pisado. Vale acompanhar quem vai ceder primeiro, porque até agora foi só declaração, nada de trava real na prática.
+
+ANA: Justo. E por falar em quem tá na frente e quem tá alcançando, eu vi uma notícia sobre modelo aberto que parece bem reveladora.
+
+MARCOS: Essa é boa. A Ars Technica teve acesso antecipado a um relatório da fundação Mozilla que calculou uma coisa muito concreta: pagar pelos modelos de inteligência artificial mais caros e fechados, os de fronteira, hoje só compra uma vantagem de quatro meses de capacidade, a um custo cinco vezes maior.
+
+ANA: Quatro meses e cinco vezes o preço. Isso é pouco ou é muito?
+
+MARCOS: Pra mim, é pouco. Pensa assim: é como comprar um carro de luxo que roda só dez por cento mais rápido que o carro popular, mas custa cinco vezes mais caro. Em algum momento você se pergunta se vale a pena. E o motivo desse relatório existir agora é que modelos abertos, boa parte deles chineses, avançaram muito rápido nos últimos meses e fecharam boa parte da diferença de qualidade.
+
+ANA: Isso já não tinha acontecido antes, com aquele modelo chinês que bombou no início do ano passado?
+
+MARCOS: Exatamente, aquele foi o primeiro susto grande pro mercado americano, mostrando que dava pra treinar modelo competitivo gastando muito menos. O que esse relatório da Mozilla faz agora é colocar número em cima disso, de um jeito mais estruturado: não é só "os modelos abertos melhoraram", é "aqui está exatamente o quanto você está pagando a mais por quatro meses de vantagem".
+
+ANA: E isso muda o quê pra quem usa, no dia a dia? Tipo, uma empresa que hoje paga caro numa dessas inteligências artificiais de ponta.
+
+MARCOS: Muda a régua de decisão. Se você é uma empresa e não precisa necessariamente do modelo mais esperto do planeta, só de algo bom o suficiente pra sua tarefa, o cálculo financeiro passa a favorecer forte os modelos abertos. Isso pressiona os laboratórios de fronteira a justificar o preço com alguma coisa além de "somos um pouco melhores".
+
+ANA: Faz sentido. E olha que combina com outra notícia de hoje, sobre um modelo feito sob medida pra vendas e atendimento.
+
+MARCOS: Isso, o Koa, da Salesforce. Segundo a TechCrunch, é um modelo de raciocínio construído em cima do Nemotron, que é o modelo de peso aberto da própria Nvidia, e foi treinado especificamente pra tarefas de vendas, marketing e atendimento ao cliente. A manchete da TechCrunch foi provocadora: disse que esse modelo é tudo que os grandes laboratórios de inteligência artificial deveriam temer.
+
+ANA: Temer por quê? Não é só mais um modelo no meio de tantos?
+
+MARCOS: A diferença é que ele não tenta ser um modelo generalista, tipo os que competem em tudo ao mesmo tempo. Ele é afiado numa fatia específica, onde a Salesforce já tem milhões de clientes corporativos usando o sistema de gestão de relacionamento com cliente dela. Construir em cima de um modelo aberto, mais barato, e vender isso encaixado dentro do produto que a empresa já usa, corta o meio de campo dos laboratórios que vendem acesso avulso via interface de programação, o famoso A P I.
+
+ANA: Dá um exemplo prático disso pra eu visualizar.
+
+MARCOS: Imagina uma empresa que já usa o sistema da Salesforce pra gerenciar vendas. Antes, se ela quisesse um assistente de inteligência artificial esperto, precisava contratar separado um serviço de outro laboratório e integrar tudo na mão. Agora, o assistente já vem dentro da ferramenta que ela já paga, especializado exatamente nessas tarefas de vendas e suporte. É mais barato, mais simples, e resolve o problema sem depender do modelo mais badalado do mercado.
+
+ANA: Então isso é uma ameaça de verdade, não só marketing.
+
+MARCOS: Eu diria que é um sinal real de uma tendência: modelos verticais, focados numa função específica, ameaçando o modelo de negócio dos generalistas. Não vai acabar com os laboratórios de fronteira, mas mostra que a especialização é um caminho concorrente sério.
+
+ANA: Ótimo, mudando de assunto: eu vi uma notícia que parecia até brincadeira, sobre gente vendendo seguro contra agente de inteligência artificial descontrolado.
+
+MARCOS: Não é brincadeira, não. A TechCrunch contou que uma startup chamada Artificial Intelligence Underwriting Company, ou simplesmente A, I, U, C, levantou quarenta milhões de dólares numa rodada Série A liderada pela Ribbit Capital, com participação da First Harmonic. Quem fundou foi uma das primeiras contratações da Anthropic e a ex-diretora de operações de uma organização chamada METR, que avalia o risco de modelos de inteligência artificial antes de eles saírem por aí.
+
+ANA: Mas o que eles fazem, exatamente? Underwriting é aquele processo de avaliar risco pra vender seguro, né?
+
+MARCOS: Isso mesmo. Eles avaliam o comportamento de agentes de inteligência artificial dentro de uma empresa e oferecem algo parecido com uma apólice de seguro: se o agente tomar uma decisão ruim sozinho e causar prejuízo, tem uma cobertura pra isso.
+
+ANA: E daí, isso é um medo real das empresas ou é mais um produto pra vender pânico?
+
+MARCOS: É medo real, sim. Cada vez mais empresas colocam agentes de inteligência artificial tomando decisões sozinhos: aprovando compras, respondendo cliente, até escrevendo e publicando código. E o pesadelo de um agente "alucinar", ou seja, inventar uma informação errada com convicção, e isso custar dinheiro de verdade, é um risco que gestor nenhum quer assumir sem rede de proteção.
+
+ANA: É tipo contratar seguro pra carro autônomo, então.
+
+MARCOS: Exatamente essa analogia. E o fato de um fundo sério como a Ribbit Capital, que já investiu em fintechs grandes, estar apostando nisso, mostra que o mercado está amadurecendo: saiu da fase de "vamos usar inteligência artificial em tudo" e entrou na fase de "como a gente se protege quando der errado".
+
+ANA: Última pergunta antes de fecharmos: OpenAI comprando uma empresa de câmera de celular. Isso é sério?
+
+MARCOS: É sério e é uma quantia grande. Segundo a TechCrunch, a OpenAI comprou a Glass Imaging por trezentos milhões de dólares. A empresa foi fundada por dois ex-engenheiros da Apple que lideraram justamente o desenvolvimento do modo retrato do i Phone, aquele efeito de desfocar o fundo da foto.
+
+ANA: Mas por que uma empresa que faz inteligência artificial de texto e conversa quer tecnologia de câmera?
+
+MARCOS: Porque a OpenAI já vinha sinalizando, desde uma parceria anunciada com o designer Jony Ive, que quer construir um dispositivo físico próprio, não só oferecer um aplicativo. Câmera com processamento de imagem via inteligência artificial é uma peça central de qualquer aparelho desses. Comprar uma equipe pequena e extremamente especializada, o que no mercado se chama de "aquihire", é um sinal concreto de que esse hardware está saindo do papel.
+
+ANA: É hype ou tem chão?
+
+MARCOS: Trezentos milhões de dólares por uma equipe pequena não é hype, é dinheiro de verdade saindo do caixa. É como quando o Google comprou parte da H T C pra pegar know-how de montar celular. Não significa que o produto final vai ser incrível, mas significa que o plano é real e está em andamento.
+
+ANA: Fechou. Resumindo o dia de hoje: os grandes nomes da inteligência artificial dividiram opiniões sobre desacelerar o desenvolvimento, com a Nvidia batendo o pé contra qualquer freio; um relatório mostrou que pagar caro pelo modelo mais avançado hoje só compra quatro meses de vantagem a cinco vezes o custo; a Salesforce lançou um modelo de raciocínio especializado que ameaça o modelo de negócio dos grandes laboratórios; surgiu uma startup vendendo seguro contra agentes de inteligência artificial descontrolados; e a OpenAI comprou uma empresa de câmera, reforçando os planos de um hardware próprio.
+
+MARCOS: Um dia e tanto pro setor. Até amanhã, pessoal!
+
+ANA: Isso, amanhã tem mais! Até lá!

@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-15",
+    "title": "IA Hoje — 15 de setembro de 2026",
+    "file": "ia-hoje-2026-09-15.mp3",
+    "duration": 687,
+    "size": 4119357,
+    "published_at": "2026-09-15T14:00:24.720062+00:00",
+    "news": [
+      {
+        "title": "New insights from Google’s AI & Economy ATLAS",
+        "source": "Google AI",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
+      },
+      {
+        "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
+      },
+      {
+        "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
+      },
+      {
+        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
+      },
+      {
+        "title": "What’s at stake in AI’s trillion-dollar gamble",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+      },
+      {
+        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
+      },
+      {
+        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+      },
+      {
+        "title": "What execs and politicians are saying about slowing down AI development",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
+      },
+      {
+        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
+      },
+      {
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+      },
+      {
+        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
+      },
+      {
+        "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/"
+      },
+      {
+        "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "title": "IA Hoje — 14 de setembro de 2026",
     "file": "ia-hoje-2026-09-14.mp3",
@@ -866,86 +946,6 @@
         "title": "Apple accuses OpenAI of destroying evidence",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "title": "IA Hoje — 1 de setembro de 2026",
-    "file": "ia-hoje-2026-09-01.mp3",
-    "duration": 947,
-    "size": 5680893,
-    "published_at": "2026-09-01T13:51:53.200481+00:00",
-    "news": [
-      {
-        "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27"
-      },
-      {
-        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
-      },
-      {
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
-      },
-      {
-        "title": "Instagram puts new limits on undisclosed AI profiles",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
-      },
-      {
-        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
-      },
-      {
-        "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
-      },
-      {
-        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
-      },
-      {
-        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
-      },
-      {
-        "title": "Debian won’t ban AI code from its Linux distribution",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
-      },
-      {
-        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
-      },
-      {
-        "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
-      },
-      {
-        "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
-      },
-      {
-        "title": "ChatGPT to face tougher regulation in the EU",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
-      },
-      {
-        "title": "Instagram cracks down on AI accounts pretending to be human",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
       }
     ]
   }

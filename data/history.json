@@ -1,33 +1,5 @@
 {
   "items": {
-    "0b018320c58c34d4": {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "norm_title": "womanclaimsherstepfatherusedgroktotransformchildhoodphotointoexplicitimagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-16T09:57:53.559643+00:00"
-    },
-    "7da9c60970c4360d": {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "norm_title": "havealaughataisexpensebyroleplayingasachatbot",
-      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "source": "The Verge",
-      "seen_at": "2026-08-16T09:57:53.559643+00:00"
-    },
-    "19db9e318c73e845": {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "norm_title": "anthropicsharesmoredetailsabouthowclaudesnewwatermarkswillwork",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-16T09:57:53.559643+00:00"
-    },
-    "21c4d7581adfa89a": {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "norm_title": "spacexofficiallyclosesitscursoracquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-16T09:57:53.559643+00:00"
-    },
     "1383268dde291ef3": {
       "title": "What happens when a kid’s robot best friend dies?",
       "norm_title": "whathappenswhenakidsrobotbestfrienddies",
@@ -2162,6 +2134,104 @@
       "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
       "source": "TechCrunch",
       "seen_at": "2026-09-14T15:25:53.897793+00:00"
+    },
+    "a000824a8f43396c": {
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "norm_title": "newinsightsfromgooglesaieconomyatlas",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "Google AI",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "c79c02a4896f69e3": {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "norm_title": "earlyanthropichireformermetrcoohavefoundawaytoreininrogueaiagents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "03d343840374afe3": {
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "norm_title": "exclusivepayingforfrontieraimodelsbuys4monthheadstartat5xthecost",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "0e94ebc569f48bcc": {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "norm_title": "salesforceandnvidiasnewreasoningmodeliseverythingtheailabsshouldfear",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "447df69655838946": {
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "norm_title": "whatsatstakeinaistrilliondollargamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "7cd87e433c51cd69": {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "norm_title": "jensenhuangtookacallfromtrumpandshowedoffsomethingelsetoo",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "7fd4f34fd996023a": {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "norm_title": "isbigtechsaislowdownasafetypactoracartel",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "74fd87f82c5db607": {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "norm_title": "nvidiaceojensenhuangtellstrumpwerenotgoingtoletanaislowdownhappen",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "2826a6c002b170b8": {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "norm_title": "whatexecsandpoliticiansaresayingaboutslowingdownaidevelopment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source": "The Verge",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "d2954730dda2fb32": {
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "norm_title": "aibotstimmyrenandjackiearefloodingsocialmediawithslop",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "643650ed204e0a33": {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "norm_title": "openaibuyssmartphonecameramakerglassimagingfor300millionreportsays",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "77c055b0a7ef6e47": {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "norm_title": "jensenhuangputstrumponspeakerphoneonstagetoannouncerobotswonttakeovertheworld",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "source": "The Verge",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "ddfee71e88c776b4": {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "norm_title": "openaistuckfightingmuskantitrustsuitafterapplefindsawayout",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
+    },
+    "7810852d25161608": {
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "norm_title": "founderscostcuttingobsessiondroveunitreeleadincheaphumanoidrobots",
+      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-15T14:00:24.723720+00:00"
     }
   }
 }
