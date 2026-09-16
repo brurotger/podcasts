@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-16",
+    "title": "IA Hoje — 16 de setembro de 2026",
+    "file": "ia-hoje-2026-09-16.mp3",
+    "duration": 955,
+    "size": 5732445,
+    "published_at": "2026-09-16T13:53:59.041586+00:00",
+    "news": [
+      {
+        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/"
+      },
+      {
+        "title": "Reimagining advertising with AI",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai"
+      },
+      {
+        "title": "Former Infosys chief’s AI startup nabs another $53M",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
+      },
+      {
+        "title": "Building the materials foundation for AI",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+      },
+      {
+        "title": "A brief history of AI executives calling for regulation",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation"
+      },
+      {
+        "title": "Amazon launches Alexa+ in India with Hindi support",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
+      },
+      {
+        "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
+      },
+      {
+        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+      },
+      {
+        "title": "AI and data centers are incredibly unpopular in every poll",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+      },
+      {
+        "title": "The AI data center boom is colliding with cities scarred by big industry",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
+      },
+      {
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      },
+      {
+        "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/"
+      },
+      {
+        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "title": "IA Hoje — 15 de setembro de 2026",
     "file": "ia-hoje-2026-09-15.mp3",
@@ -866,86 +946,6 @@
         "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-02",
-    "title": "IA Hoje — 2 de setembro de 2026",
-    "file": "ia-hoje-2026-09-02.mp3",
-    "duration": 801,
-    "size": 4807533,
-    "published_at": "2026-09-02T13:08:50.478067+00:00",
-    "news": [
-      {
-        "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
-      },
-      {
-        "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/"
-      },
-      {
-        "title": "Google needs Hollywood more than the studios need AI",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
-      },
-      {
-        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
-      },
-      {
-        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
-      },
-      {
-        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/allenai/benchmirt"
-      },
-      {
-        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
-      },
-      {
-        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
-      },
-      {
-        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
-      },
-      {
-        "title": "The latest AI news we announced in August 2026",
-        "source": "Google AI",
-        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
-      },
-      {
-        "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"
-      },
-      {
-        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
-      },
-      {
-        "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack"
-      },
-      {
-        "title": "Apple accuses OpenAI of destroying evidence",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit"
       }
     ]
   }
