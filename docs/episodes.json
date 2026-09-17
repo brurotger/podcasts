@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-17",
+    "title": "IA Hoje — 17 de setembro de 2026",
+    "file": "ia-hoje-2026-09-17.mp3",
+    "duration": 861,
+    "size": 5167101,
+    "published_at": "2026-09-17T13:57:44.897181+00:00",
+    "news": [
+      {
+        "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
+      },
+      {
+        "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
+      },
+      {
+        "title": "Inside the suddenly explosive world of AI safety",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic"
+      },
+      {
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
+      },
+      {
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
+      },
+      {
+        "title": "Al Gore says the real AI risk isn’t data centers",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
+      },
+      {
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+      },
+      {
+        "title": "An OpenAI Agent Tried to Jailbreak Itself",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
+      },
+      {
+        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+      },
+      {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+      },
+      {
+        "title": "Washington Won’t Be Regulating AI Anytime Soon",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/"
+      },
+      {
+        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review"
+      },
+      {
+        "title": "The AI data center e-waste problem is huge — and getting bigger",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+      }
+    ]
+  },
+  {
     "date": "2026-09-16",
     "title": "IA Hoje — 16 de setembro de 2026",
     "file": "ia-hoje-2026-09-16.mp3",
@@ -866,86 +946,6 @@
         "title": "Meta is paying to peek at how you use their latest AI model",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-03",
-    "title": "IA Hoje — 3 de setembro de 2026",
-    "file": "ia-hoje-2026-09-03.mp3",
-    "duration": 794,
-    "size": 4766637,
-    "published_at": "2026-09-03T13:09:44.412823+00:00",
-    "news": [
-      {
-        "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/"
-      },
-      {
-        "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
-      },
-      {
-        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
-      },
-      {
-        "title": "Nvidia is buying Hugging Face for almost $13 billion",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
-      },
-      {
-        "title": "This Is Flock’s AI Search Tool for Cops",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/flock-ai-search-user-interface/"
-      },
-      {
-        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
-      },
-      {
-        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
-      },
-      {
-        "title": "Give Your Coding Agents a Memory You Own",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/funes"
-      },
-      {
-        "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/train-to-paint-with-code"
-      },
-      {
-        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
-      },
-      {
-        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
-      },
-      {
-        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
       }
     ]
   }
