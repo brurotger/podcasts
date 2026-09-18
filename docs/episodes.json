@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-18",
+    "title": "IA Hoje — 18 de setembro de 2026",
+    "file": "ia-hoje-2026-09-18.mp3",
+    "duration": 987,
+    "size": 5921085,
+    "published_at": "2026-09-18T13:17:56.145448+00:00",
+    "news": [
+      {
+        "title": "Co-creating the future of fashion with Google",
+        "source": "Google AI",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
+      },
+      {
+        "title": "Could AI really kill us all? Your questions, answered.",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+      },
+      {
+        "title": "The Leftist Split Over AI Doom",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/"
+      },
+      {
+        "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/"
+      },
+      {
+        "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/"
+      },
+      {
+        "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+      },
+      {
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+      },
+      {
+        "title": "PrismML hopes its tiny LLM will change how we all use AI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+      },
+      {
+        "title": "Here’s What the AI Apocalypse Could Look Like",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/"
+      },
+      {
+        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+      },
+      {
+        "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
+      },
+      {
+        "title": "The fix for rogue AI agents could be more AI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+      },
+      {
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
+      },
+      {
+        "title": "Google announces new experimental \"CC\" AI agent for families",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "title": "IA Hoje — 17 de setembro de 2026",
     "file": "ia-hoje-2026-09-17.mp3",
@@ -866,86 +946,6 @@
         "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-04",
-    "title": "IA Hoje — 4 de setembro de 2026",
-    "file": "ia-hoje-2026-09-04.mp3",
-    "duration": 838,
-    "size": 5031165,
-    "published_at": "2026-09-04T13:03:59.397741+00:00",
-    "news": [
-      {
-        "title": "Instagram’s AI detection is a mess (again)",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion"
-      },
-      {
-        "title": "Why AI food looks like that",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
-      },
-      {
-        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"
-      },
-      {
-        "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"
-      },
-      {
-        "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/"
-      },
-      {
-        "title": "This NAS company wants to run your local smart home",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"
-      },
-      {
-        "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-      },
-      {
-        "title": "The sameness problem behind those unappetizing AI-generated menus",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
-      },
-      {
-        "title": "Crusoe reportedly raises $3B at a $30B valuation",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
-      },
-      {
-        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
-      },
-      {
-        "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/"
-      },
-      {
-        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
-      },
-      {
-        "title": "Abliteration.ai is making a business out of removing AI guardrails",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
-      },
-      {
-        "title": "Meta is paying to peek at how you use their latest AI model",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
       }
     ]
   }
