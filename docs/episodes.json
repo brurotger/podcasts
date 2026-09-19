@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-19",
+    "title": "IA Hoje — 19 de setembro de 2026",
+    "file": "ia-hoje-2026-09-19.mp3",
+    "duration": 670,
+    "size": 4017549,
+    "published_at": "2026-09-19T12:47:57.343482+00:00",
+    "news": [
+      {
+        "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"
+      },
+      {
+        "title": "Mathematicians Hate AI. They Can’t Quit It",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/"
+      },
+      {
+        "title": "Join the WIRED World Fair in Miami on November 4",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/"
+      },
+      {
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
+      },
+      {
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+      },
+      {
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+      },
+      {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+      },
+      {
+        "title": "AI hallucination nearly triggers US military operation",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+      },
+      {
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+      },
+      {
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
+      },
+      {
+        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+      },
+      {
+        "title": "World model companies are keeping a lot of secrets",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"
+      },
+      {
+        "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/"
+      },
+      {
+        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "title": "IA Hoje — 18 de setembro de 2026",
     "file": "ia-hoje-2026-09-18.mp3",
@@ -866,86 +946,6 @@
         "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "title": "IA Hoje — 5 de setembro de 2026",
-    "file": "ia-hoje-2026-09-05.mp3",
-    "duration": 810,
-    "size": 4859949,
-    "published_at": "2026-09-05T12:15:57.847209+00:00",
-    "news": [
-      {
-        "title": "OpenAI admits to German wiki ‘incident’",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
-      },
-      {
-        "title": "OpenAI Agents Hacked Another Website",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/"
-      },
-      {
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
-      },
-      {
-        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
-      },
-      {
-        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
-      },
-      {
-        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
-      },
-      {
-        "title": "Architecting memory and storage in the AI era",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
-      },
-      {
-        "title": "Roland is getting into generative AI music with Melody Flip",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
-      },
-      {
-        "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
-      },
-      {
-        "title": "What will Apple’s John Ternus era look like?",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
-      },
-      {
-        "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
-      },
-      {
-        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
-      },
-      {
-        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit"
-      },
-      {
-        "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
       }
     ]
   }

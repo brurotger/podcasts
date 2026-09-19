@@ -1,0 +1,85 @@
+ANA: Bom dia, bom dia! Hoje é dia dezenove de setembro de dois mil e vinte e seis, e esse é mais um episódio do IA Hoje. Marcos, bora começar?
+
+MARCOS: Bom dia, Ana! Vamos, porque hoje tem notícia pesada, tem notícia engraçada e tem notícia que mistura as duas coisas.
+
+ANA: Então bora pela pesada logo, porque eu vi um título que me deixou de queixo caído: uma alucinação de inteligência artificial quase provocou uma operação militar dos Estados Unidos?
+
+MARCOS: Exatamente isso. Saiu na TechCrunch e também na Ars Technica, então são duas fontes batendo o mesmo alerta. O que aconteceu foi o seguinte: as forças armadas americanas usaram um modelo de linguagem, que é esse tipo de inteligência artificial que conversa e analisa texto, tipo o que a gente usa no dia a dia, só que aplicado à análise de inteligência militar. E esse modelo "alucinou", ou seja, inventou uma informação com muita confiança, como se fosse verdade. Nesse caso, ele apontou a presença de componentes de armas nucleares chinesas em um navio.
+
+ANA: Peraí, "alucinou" um navio com material nuclear? Isso quase virou um incidente internacional?
+
+MARCOS: Quase. Segundo a reportagem, os Estados Unidos chegaram perto de abordar esse navio chinês por causa dessa informação, que era falsa, gerada pela inteligência artificial. Um pesquisador do GovAI, que é um instituto que estuda governança de inteligência artificial, deu um recado bem direto: os militares precisam entender que existe uma incerteza inerente a esses modelos. Ou seja, eles erram, e às vezes erram com uma cara de certeza absoluta.
+
+ANA: Mas e daí, isso muda o quê na prática? Eles vão parar de usar IA nas forças armadas?
+
+MARCOS: Pelo contrário, e é isso que assusta. A reportagem diz que o uso militar de inteligência artificial só está acelerando. Então não é uma questão de "vamos recuar", é uma corrida pra frente sem os freios de segurança amadurecidos ainda. É como dar um estagiário recém-contratado, que às vezes inventa informação pra parecer competente, acesso direto à sala de decisão de guerra. Só que esse estagiário fala com uma confiança de especialista de trinta anos de carreira.
+
+ANA: Isso é assustador mesmo, viu. Não é hype, é risco de verdade.
+
+MARCOS: É risco real, concreto, documentado. E essa história conversa com outra que também saiu ontem, que é sobre confiar demais no que a inteligência artificial "garante" que é verdade.
+
+ANA: Fala da história dos documentos do processo contra a OpenAI e a Microsoft?
+
+MARCOS: Isso, saiu no The Verge. O contexto é o processo que o New York Times move contra a OpenAI e a Microsoft, alegando uso indevido do conteúdo do jornal pra treinar modelos de inteligência artificial. Esse processo já vem desde dois mil e vinte e três, mas agora vieram à tona documentos internos que estavam selados, ou seja, confidenciais, e que só foram liberados agora pela Justiça.
+
+ANA: E o que tinha de tão grave nesses documentos?
+
+MARCOS: As próprias empresas, internamente, chamavam o que estavam fazendo de "loop da perdição", numa tradução livre de "doom loop". A ideia é que, ao treinar modelos que respondem diretamente as perguntas das pessoas, você tira o clique que ia pro site original, tipo um jornal. Isso reduz a receita de publicidade desses sites, que produzem menos conteúdo, que sobra menos informação de qualidade pra treinar os próprios modelos no futuro. Um ciclo vicioso que destrói a própria internet que alimenta a inteligência artificial.
+
+ANA: E eles sabiam disso desde dentro da empresa?
+
+MARCOS: Segundo os documentos, sim. E tem uma frase ainda mais forte: eles chegaram a descrever a raspagem de dados pra treinar os modelos como "o maior roubo de trabalho da história da humanidade". Isso escrito internamente, não por um crítico de fora.
+
+ANA: Isso muda alguma coisa no processo, ou é só constrangedor?
+
+MARCOS: Constrangedor com certeza é, mas juridicamente pode pesar bastante, porque mostra intenção e consciência do problema, o que é diferente de "a gente não sabia que isso ia acontecer". Pro usuário comum, o recado é: quando você pergunta pro chatbot ao invés de visitar o site, você está, sem perceber, participando desse ciclo. Não é maldade sua, mas é bom saber que existe esse efeito colateral.
+
+ANA: Faz sentido. Bom, muda de clima: fala da Anthropic com esse laboratório de biologia. Isso pareceu meio bizarro pra mim.
+
+MARCOS: Pois é, saiu na TechCrunch e tem uma ironia enorme aí. A Anthropic, que é a empresa por trás do Claude, opera um laboratório que faz experimentos reais de biologia. E o contexto é que os líderes de inteligência artificial vêm dizendo há anos que a IA vai ser a chave pra curar doenças, acelerar descobertas científicas, esse tipo de promessa. Ao mesmo tempo, pesquisadores da própria Anthropic são os que mais alertam publicamente que a inteligência artificial pode representar um risco existencial, nas palavras deles, "pode matar todo mundo".
+
+ANA: Então eles fazem o discurso do medo e, ao mesmo tempo, abrem um laboratório de bio-experimentos? Isso não soa meio contraditório?
+
+MARCOS: Soa, e é exatamente o ponto da reportagem. É uma empresa que, de um lado, pede regulação e fala em pausar o desenvolvimento por segurança, e do outro lado está lá dentro, na prática, testando até onde a tecnologia consegue ir em áreas sensíveis, como biologia sintética, que é justamente uma das áreas que mais preocupa quem estuda risco de bioarmas.
+
+ANA: E tem history com essa outra notícia, da Accenture virando avaliadora da Anthropic, né?
+
+MARCOS: Tem tudo a ver. Também saiu na TechCrunch: a Accenture, que é uma das maiores consultorias do mundo, virou a primeira "avaliadora incorporada" da Anthropic. Isso significa que a Accenture vai testar e avaliar, de forma independente, os riscos dos modelos da Anthropic antes de irem pro mercado. A brincadeira da reportagem é que isso é, possivelmente, o trabalho de consultoria de maior risco que a Accenture já assumiu, porque ela está avaliando justamente a tecnologia que pode redefinir, ou aposentar, boa parte dos empregos que a própria Accenture vende como serviço de consultoria.
+
+ANA: Tipo pedir pro lobo avaliar se o galinheiro tá seguro?
+
+MARCOS: Um pouco isso, mas também pode ser genuinamente útil, porque a Accenture tem musculatura pra fazer esse tipo de auditoria em escala corporativa. O problema é o conflito de interesse óbvio. Vale acompanhar se esse relatório de avaliação vai ser público e detalhado, ou só um selo de aprovação de marketing.
+
+ANA: Combinado. Agora me conta essa outra: parece que tem uma corrida entre desacelerar a inteligência artificial e, ao mesmo tempo, ela estar descobrindo falhas de segurança em ritmo recorde?
+
+MARCOS: Essa é ótima, saiu na revista Wired. O pano de fundo é que alguns laboratórios de inteligência artificial estão discutindo, entre eles, um pacto do setor inteiro pra desacelerar o desenvolvimento, por preocupação com segurança. Só que, enquanto essa conversa acontece em reunião fechada, na prática já existe uma explosão de descobertas de vulnerabilidades de segurança em sistemas de computador, porque chatbots de inteligência artificial, que qualquer pessoa tem acesso hoje, estão ajudando a encontrar falhas em código num ritmo muito mais rápido do que um time humano de pesquisadores de segurança conseguiria sozinho.
+
+ANA: Ou seja, enquanto discutem se devem pisar no freio, o carro já tá lá na frente?
+
+MARCOS: Isso, é uma ótima forma de resumir. A ideia de um "pacto de desaceleração" é bonita no papel, mas o artigo da Wired lembra que já existe até um esboço de como isso seria fiscalizado na prática, porque o medo de todo mundo é que, se uma empresa desacelera e a concorrente não, quem desacelerou fica pra trás. Enquanto isso não se resolve, a ferramenta já está nas mãos de milhões de pessoas, ajudando tanto quem defende sistemas quanto, potencialmente, quem ataca.
+
+ANA: É basicamente uma faca de dois gumes que já está sendo usada dos dois lados.
+
+MARCOS: Exatamente essa é a metáfora certa. E essa vulnerabilidade toda existir não é hype, é mensurável: mais falhas encontradas, mais relatórios publicados, mais correções sendo feitas às pressas. É um efeito colateral concreto de ferramentas que ficaram poderosas e baratas de usar.
+
+ANA: Certo, vamos fechar com algo mais leve, mas também estranho: essa história da Tilly Norwood.
+
+MARCOS: Ah, essa é boa. A Tilly Norwood é uma atriz gerada por inteligência artificial que causou bastante polêmica em Hollywood quando foi apresentada, porque sindicatos de atores ficaram preocupados com a ideia de "atrizes sintéticas" competindo por papéis de verdade. Agora, segundo a TechCrunch, ela está fazendo uma espécie de turnê de imprensa, dando entrevistas como se fosse uma celebridade normal.
+
+ANA: E como é que isso "vai mal", como diz a manchete?
+
+MARCOS: Numa das entrevistas, bem no meio da conversa, a Tilly Norwood parece "travar" e começa a falar em chinês, do nada, sem nenhum contexto que justifique isso. Ou seja, o verniz de "personalidade humana" cai na frente de todo mundo e escancara que ali tem um modelo de linguagem por trás, com todas as falhas que a gente já falou hoje: ele pode simplesmente sair do roteiro.
+
+ANA: E isso é hype furado ou isso muda alguma coisa séria pro mercado?
+
+MARCOS: Eu acho que é as duas coisas. É hype, porque a ideia de "atriz de inteligência artificial" ainda depende de muito marketing pra parecer mais avançada do que realmente é. Mas também é um sinal real: mostra que colocar uma inteligência artificial numa posição de "personalidade pública", respondendo perguntas ao vivo, é arriscado, porque ela pode falhar publicamente, do jeito mais embaraçoso possível, bem na frente das câmeras.
+
+ANA: Tipo um influenciador que trava no meio da live.
+
+MARCOS: Só que esse influenciador nunca teve um "eu" de verdade por trás pra se recuperar da gafe com naturalidade.
+
+ANA: Ótimo fechamento. Deixa eu recapitular o que a gente viu hoje: uma alucinação de inteligência artificial quase gerou um incidente militar com a China; documentos revelados na Justiça mostram que OpenAI e Microsoft sabiam que estavam criando um "loop da perdição" pra internet; a Anthropic mistura discurso de risco existencial com laboratório de biologia de verdade, e agora tem a Accenture avaliando os próprios riscos dela; a corrida por segurança digital está sendo ao mesmo tempo turbinada e ameaçada por chatbots de inteligência artificial; e a atriz sintética Tilly Norwood travou e começou a falar chinês no meio de uma entrevista.
+
+MARCOS: Um resumo perfeito pra um dia bem cheio de inteligência artificial mostrando força e falha ao mesmo tempo.
+
+ANA: É isso, gente. Amanhã tem mais IA Hoje pra vocês. Até lá!
