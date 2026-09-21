@@ -1,82 +1,5 @@
 {
   "items": {
-    "eda5463486967759": {
-      "title": "The Unlikely Place at the Center of China’s AI Boom",
-      "norm_title": "theunlikelyplaceatthecenterofchinasaiboom",
-      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "source": "Wired",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "0012a19669e19f06": {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "norm_title": "anthropicsopus46isasmutmachine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "f46f82384b54ef01": {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "norm_title": "nvidiapartnerswithdatacenterdevelopercloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "9e0f84b22d567e79": {
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "norm_title": "over1millionpeoplehaveclickedlinkedinsaislopbutton",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "source": "The Verge",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "5818f147f549ec8d": {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "norm_title": "nvidiajustshowedthattheharnessnottheaimodelisnowtherealhero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "8d0c660669b040d8": {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "norm_title": "thedojisinvestigatinga16zwhatdoesthismeanforventurecapital",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "46cd46806528f829": {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "norm_title": "starcloudraises250millionfororbitaldatacentersaslaunchoptionsdryup",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "6c0c235aba8ceb4b": {
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "norm_title": "majoryoutubecreatorsarefacingbacklashforacceptingaimoney",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "source": "The Verge",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "f2da987762b16f91": {
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "norm_title": "fromataritoeveonlinebuildingon15yearsofairesearchingames",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "Google DeepMind",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "9052b1beed719ada": {
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "norm_title": "asdemandformetaaiglassesexplodesitshardertoavoidcreepyrecordings",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
-    "d42f12708b81f8c2": {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "norm_title": "measuringbenchmarkoptimizationinspeechrecognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-22T09:58:43.668162+00:00"
-    },
     "38c536bcaaca4d75": {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "norm_title": "harvards699startupbootcampoffersaiavatarsofitsinstructors",
@@ -2274,6 +2197,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
       "source": "The Verge",
       "seen_at": "2026-09-20T13:19:45.145704+00:00"
+    },
+    "d3cf4c24c38dbf84": {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "norm_title": "wherewillthenextbreakoutstartupcomefrombenchmarksfullpartnershipweighsinattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "091a3b20307b7c6f": {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "norm_title": "googles899googlebookisabetthatyoullbuyanewlaptopforgemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "80b64cc6d2cf96c5": {
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "norm_title": "fromfirstuserstobillionsgooglesrobbysteinjoinstechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "1f5db8d8795b4ac2": {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "norm_title": "meetthenextwaveofvcsjudgingstartupbattlefield200attechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "14a0ef1e1923580a": {
+      "title": "Can CEO John Ternus find Apple’s next big thing?",
+      "norm_title": "canceojohnternusfindapplesnextbigthing",
+      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "source": "The Verge",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "ecad2f8b79a66e56": {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "norm_title": "pruningllmslikeaphysicistblockremovalasanisingoptimizationproblem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "7e8173080ac259ed": {
+      "title": "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+      "norm_title": "iphoneownerscannowsubmitaclaiminapples250millionsiriailawsuit",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "source": "The Verge",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "35a9150ad2f9ac99": {
+      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+      "norm_title": "gotanandroidphonegooglethinksyoullprobablywantagooglebooklaptop",
+      "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+      "source": "Wired",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "3fe73ccbfddee832": {
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "norm_title": "howwemadethefirstcomprehensivemapofdeathsalongtheusbordersvirtualwall",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "262a91c27188f4e4": {
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "norm_title": "4waystoaddressthefailureswefoundalongtheusbordersvirtualwall",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "d8c9dde911b91b8c": {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "norm_title": "theusspentbillionsonbordersurveillancewhycantitcatchpeoplebeforetheydie",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "c18c292c7be45ce2": {
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "norm_title": "shediedatthesandiegoborderasurveillancecamerawasinplainsight",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "62036b00437ba278": {
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "norm_title": "usandchinadiscussalertingeachothertoainationalsecuritythreats",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "source": "Wired",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "9761c62fcd5f77ef": {
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "norm_title": "unsaysaisafeguardscantwaitforcertainty",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "source": "The Verge",
+      "seen_at": "2026-09-21T15:30:16.267314+00:00"
     }
   }
 }
