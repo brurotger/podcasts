@@ -1,0 +1,129 @@
+MARCOS: Bom dia, Marcos! Poxa, hoje eu que abro.
+
+ANA: Ué, inverteu tudo hoje?
+
+MARCOS: Brincadeira, deixa eu te dar o bom dia direito. Bom dia, pessoal! Hoje é terça-feira, vinte e dois de setembro de dois mil e vinte e seis, e esse aqui é o "IA Hoje". Marcos, bora começar?
+
+ANA: Bora! E olha, hoje eu separei umas notícias que misturam dinheiro, tijolo e cérebro de rato. Literalmente.
+
+MARCOS: Literalmente mesmo, pode confiar.
+
+ANA: Então vamos pelo básico primeiro, que é chato mas importante: data center. A Techcrunch fez uma reportagem enorme sobre dois anos de brigas na Pensilvânia por causa da construção de data centers de IA. E o resumo é: todo mundo, mas todo mundo mesmo, acha um motivo pra odiar isso.
+
+MARCOS: Isso é engraçado porque parece que não tem lado certo. Se você é ambientalista, se preocupa com o consumo de água pra resfriar os servidores. Se você é morador comum, se preocupa com a conta de luz subindo, porque esses centros de dados consomem uma quantidade de energia absurda e às vezes disputam a mesma rede elétrica que a sua casa. Se você é a favor de empregos e desenvolvimento econômico, promete vagas, mas a maioria delas é temporária, só durante a obra.
+
+ANA: E por que a Pensilvânia especificamente virou o campo de batalha?
+
+MARCOS: Porque é um estado com infraestrutura elétrica relativamente robusta, perto de grandes centros urbanos da costa leste americana, e com terreno disponível. Então virou um dos destinos favoritos de empresas de tecnologia e de desenvolvedores desses complexos. O problema é que, pra alimentar um data center de IA de grande porte, você precisa de uma quantidade de energia comparável à de uma cidade média inteira. Isso não é exagero, é conta de engenharia elétrica mesmo.
+
+ANA: Tá, mas isso é balão de ensaio ou é um problema real que vai travar o avanço da IA?
+
+MARCOS: É real, e é um gargalo que já está aparecendo em vários lugares dos Estados Unidos, não só na Pensilvânia. O motivo de eu achar essa notícia importante não é só a briga local. É que ela mostra o limite físico de um boom que, até agora, parecia só limite de dinheiro e de chip. Você pode ter capital infinito pra construir data center, mas se a rede elétrica da região não aguenta, ou se a comunidade barra o licenciamento, o projeto simplesmente não sai do papel, ou sai atrasado e mais caro.
+
+ANA: Então não é só "não no meu quintal", tem substância técnica por trás.
+
+MARCOS: Tem as duas coisas juntas, na verdade. E isso é o que torna difícil de resolver: não dá pra simplesmente convencer a população com uma boa campanha de relações públicas, porque parte da reclamação é sobre custo de energia que vai bater no bolso de verdade.
+
+ANA: Falando em dinheiro pesado em infraestrutura de IA, vamos pra outra notícia que conversa direto com essa: a abertura de capital da Nscale.
+
+MARCOS: Ah, essa é interessante. A Nscale é uma desenvolvedora britânica de data centers voltados pra IA, e segundo a Techcrunch, ela vai testar o apetite de Wall Street por apostas concentradas em IA mais uma vez. A palavra-chave aqui é "concentrada".
+
+ANA: Concentrada como assim?
+
+MARCOS: A receita da Nscale depende fortemente de só dois clientes: Microsoft e Anthropic, a empresa que faz o Claude. Ou seja, não é uma empresa com uma base de clientes diversificada. Se um desses dois contratos mudar de rumo, cancelar, renegociar pra baixo, o impacto no faturamento da Nscale é enorme.
+
+ANA: E isso assusta investidor ou anima investidor?
+
+MARCOS: As duas coisas, dependendo de quem você pergunta. Anima porque mostra contratos grandes e de longo prazo com gigantes que não vão sumir do mapa. Assusta porque é o oposto de diversificação de risco, que é uma regra básica de investimento. A reportagem usa a expressão "mais uma vez" de propósito: já vimos esse roteiro antes, com outras empresas de infraestrutura de IA que abriram capital dependendo de poucos clientes gigantes, tipo a CoreWeave, e o mercado ficou dividido sobre se aquilo era genial ou perigoso.
+
+ANA: E isso conecta com a notícia da Pensilvânia como?
+
+MARCOS: Conecta porque as duas mostram o mesmo fenômeno por ângulos diferentes. De um lado, comunidades reclamando do custo físico e social de construir essa infraestrutura. Do outro, o mercado financeiro tentando precificar o risco de apostar bilhões nela. É a mesma corrida, vista do chão e vista da bolsa de valores.
+
+ANA: Beleza, saindo de tijolo e dinheiro, vamos pra uma que eu fiquei besta quando li: inteligência artificial feita com cérebro de rato de verdade.
+
+MARCOS: Essa é da Wired, e é sensacional. Uma empresa chamada "The Biological Computing Company" está levando suas ferramentas de IA pra rodar na nuvem da Amazon, a A W S, a Amazon Web Services. E isso é descrito como um grande impulso pra um campo que até pouco tempo atrás era considerado meio marginal: o de misturar biologia de verdade com computação.
+
+ANA: Calma, calma. Cérebro de rato dentro de um computador? Isso existe mesmo?
+
+MARCOS: Existe, e não é tão novo quanto parece. Desde dois mil e vinte e dois a gente já via experimentos, como o de um laboratório australiano chamado Cortical Labs, que pegou neurônios de rato cultivados numa placa e conseguiu fazer eles aprenderem a jogar o joguinho Pong, controlando a raquete na tela. A ideia por trás disso é: neurônios biológicos processam informação de um jeito muito mais eficiente em termos de energia do que um chip de silício. Um cérebro gasta pouquíssima energia comparado a um data center inteiro rodando um modelo de linguagem.
+
+ANA: Então a promessa é computação que gasta muito menos energia?
+
+MARCOS: Exatamente, e olha como isso conversa com as duas notícias anteriores: se um dos maiores problemas da IA hoje é o consumo de energia gigantesco pra treinar e rodar modelos, uma tecnologia que usa tecido biológico vivo pra processar informação com uma fração da energia é, em teoria, extremamente atraente.
+
+ANA: Mas "em teoria" pesa bastante nessa frase.
+
+MARCOS: Pesa, e é por isso que o anúncio de hoje importa: levar essa tecnologia pra rodar na nuvem da Amazon significa que, pela primeira vez, empresas e pesquisadores comuns vão poder acessar e testar esse tipo de computação biológica sem precisar ter um laboratório próprio com placas de neurônios vivos. Isso tira o campo do nicho acadêmico e coloca ele em contato com o mercado.
+
+ANA: E é sério mesmo, ou é aquele tipo de notícia que parece ficção científica mas na prática ainda não escala pra nada útil?
+
+MARCOS: Hoje ainda é uma tecnologia em estágio muito inicial, longe de substituir data centers de verdade. Mas o motivo de eu não descartar como hype é que o problema que ela tenta resolver, o consumo de energia da IA, é o mesmo problema que está causando a briga na Pensilvânia. Se em alguns anos isso amadurecer, pode ser uma resposta real pra parte desse impasse. Por enquanto, é pesquisa promissora, não é produto.
+
+ANA: Justo. Bom, agora deixa eu trazer uma que é quase um contraponto a tudo que a gente falou até aqui, porque é sobre desconfiar do próprio hype da IA.
+
+MARCOS: Essa reportagem da MIT Technology Review é ótima, porque ela faz um apanhado do que ela chama de "o verão do hype de IA". E o fio condutor é meio inquietante.
+
+ANA: Conta.
+
+MARCOS: No fim de abril, a Anthropic afirmou que o modelo dela, chamado Claude Mythos, era melhor do que a maioria dos especialistas em segurança pra encontrar vulnerabilidades em softwares. Uma afirmação e tanto, porque encontrar falha de segurança em código é um trabalho altamente especializado, que profissionais levam anos pra dominar.
+
+ANA: E isso é verdade ou é marketing?
+
+MARCOS: Aí que entra o resto da história. Pouco depois, aconteceu um incidente de hackeamento envolvendo a OpenAI e a Hugging Face, que é a maior plataforma de compartilhamento de modelos de IA do mundo. E depois desse episódio, tanto a Anthropic quanto a Meta acabaram divulgando incidentes parecidos envolvendo os próprios modelos delas. A Anthropic divulgou meio que com orgulho, mostrando transparência. Já a Meta, segundo a reportagem, divulgou meio a contragosto.
+
+ANA: Espera, então a mesma tecnologia que supostamente é ótima pra achar vulnerabilidade também está sendo usada, ou explorada, pra causar vulnerabilidade?
+
+MARCOS: Exatamente esse é o ponto da reportagem. A IA é uma faca de dois gumes na segurança digital: o mesmo modelo que ajuda a encontrar falha também pode ajudar a explorar falha, e às vezes o próprio modelo é o alvo do ataque. A matéria da MIT Technology Review usa esses episódios em sequência pra argumentar que a gente precisa separar o que é conquista real do que é anúncio bonito de blog corporativo.
+
+ANA: E qual é o critério pra separar isso, na prática?
+
+MARCOS: O critério que eu uso, e que a reportagem meio que sugere também, é perguntar: essa afirmação foi testada por alguém de fora da empresa, de forma independente? Ou é só a própria empresa avaliando o próprio modelo com os próprios critérios? Quando a mesma empresa que vende o produto é a única fonte da comparação, o ceticismo tem que ser maior.
+
+ANA: Isso é bom resumo pra gente aplicar em toda notícia de IA daqui pra frente, inclusive as nossas.
+
+MARCOS: Com certeza. E por sinal, tem uma notícia de hoje que é quase um exemplo prático desse lado sombrio da segurança.
+
+ANA: Ah, a do malware guiado por inteligência artificial! Essa me deu um arrepio.
+
+MARCOS: Da Wired, sobre pesquisadores da Cisco Talos, que é a divisão de inteligência de ameaças da Cisco, uma das maiores empresas de infraestrutura de internet do mundo. Eles criaram uma nova ferramenta pra identificar malwares e ferramentas de invasão que dependem de chatbots de inteligência artificial pra funcionar. E, ao testar essa ferramenta, encontraram algo que ninguém esperava: um sistema de comando autônomo, sem humano nenhum no controle direto.
+
+ANA: Como assim, sem humano? Quem manda no ataque então?
+
+MARCOS: É basicamente uma espécie de "colmeia" de agentes de IA que se coordenam entre si pra tomar decisões de ataque, sem precisar que uma pessoa esteja digitando comandos em tempo real. Pensa assim: em vez de um hacker sentado no teclado decidindo o próximo passo, você tem vários modelos de IA conversando entre eles, tipo uma equipe automatizada, decidindo sozinhos qual servidor invadir, como se esconder, quando avançar.
+
+ANA: E isso já é usado em ataque real, ou é prova de conceito de pesquisador?
+
+MARCOS: Foi encontrado em uso real, o que é o dado mais preocupante da reportagem. Até pouco tempo atrás, a gente falava de IA em cibersegurança como ferramenta de apoio: o atacante usa um chatbot pra escrever um pedaço de código malicioso, por exemplo. Isso já é sério. Mas um sistema autônomo que coordena toda a operação sozinho é um salto de complexidade, porque tira o gargalo humano, que antes limitava a velocidade e a escala dos ataques.
+
+ANA: E dá pra conectar isso com a notícia anterior, né? Isso é exatamente o tipo de coisa que devia deixar qualquer anúncio de "nossa IA é super segura" sob suspeita.
+
+MARCOS: Exatamente essa é a ligação. A mesma capacidade que permite um modelo achar vulnerabilidade de software também permite ele orquestrar um ataque sozinho. A tecnologia é neutra, o uso é que decide o lado.
+
+ANA: Depois de duas notícias pesadas eu preciso de uma mais leve pra fechar. E olha que achei uma bem bonitinha: um chatbot pra decifrar grego antigo.
+
+MARCOS: Essa é um respiro bem-vindo mesmo. Também da Wired: pesquisadores desenvolveram um modelo de linguagem, batizado de Apollo, especializado em preencher lacunas de fragmentos de papiro escritos em grego antigo.
+
+ANA: Papiro tipo aqueles pedaços de papel super antigos, rasgados, que sobraram de registros da Grécia clássica?
+
+MARCOS: Isso mesmo. Historicamente, esses papiros chegam até os pesquisadores incompletos, rasgados, com pedaços faltando, às vezes ilegíveis por causa do desgaste do tempo. E até hoje, preencher essas lacunas dependia de especialistas em filologia clássica trabalhando manualmente, comparando com outros textos conhecidos, usando conhecimento profundo de gramática e vocabulário da época.
+
+ANA: E o modelo Apollo faz isso automaticamente?
+
+MARCOS: Ele foi treinado especificamente em texto grego antigo pra sugerir como preencher os trechos que sumiram, baseado em padrões linguísticos e no contexto do que sobrou legível. A ideia não é substituir o especialista, é dar a ele um ponto de partida, uma sugestão qualificada, que acelera muito o trabalho de reconstrução.
+
+ANA: E isso pode realmente revelar coisa nova sobre a vida na Grécia antiga, ou é só um truque acadêmico bonitinho?
+
+MARCOS: Pode revelar coisa nova sim, porque existem milhares de fragmentos de papiro em arquivos ao redor do mundo que nunca foram totalmente decifrados, simplesmente porque não há especialistas suficientes pra examinar cada um manualmente. Se a ferramenta acelerar esse processo, dá pra reabrir arquivos inteiros que estavam parados. É um exemplo bem gostoso de usar IA pra algo que não tem nada a ver com chatbot de empresa nem data center bilionário, é ciência histórica pura.
+
+ANA: Adorei fechar com essa. Bom, então vamos recapitular o que a gente viu hoje?
+
+MARCOS: Vamos lá. Na Pensilvânia, a construção de data centers de IA está gerando conflito porque afeta energia, água e conta de luz das comunidades locais. A Nscale vai testar se Wall Street ainda tem apetite por apostar em empresas de infraestrutura de IA dependentes de pouquíssimos clientes gigantes. Uma empresa está levando computação feita com neurônios biológicos de rato pra nuvem da Amazon, uma aposta de longo prazo contra o gasto de energia da IA tradicional. A MIT Technology Review nos lembra que boa parte do hype de segurança em IA deste verão precisa ser vista com desconfiança, já que a mesma tecnologia que promete proteger também pode atacar. A Cisco Talos encontrou malware coordenado por um enxame de agentes de IA sem controle humano direto. E, pra fechar bem, um modelo chamado Apollo está ajudando historiadores a reconstruir fragmentos perdidos de grego antigo.
+
+ANA: Foi um daqueles dias que mostra a IA em todos os tamanhos possíveis: do tijolo do data center ao neurônio de rato, passando pelo crime organizado por robô e terminando em papiro de dois mil anos atrás.
+
+MARCOS: Um resumo e tanto do nosso trabalho aqui.
+
+ANA: Gente, por hoje é isso! Amanhã a gente volta com mais novidades. Um beijo e até lá!
+
+MARCOS: Até amanhã, pessoal!

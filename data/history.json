@@ -1,33 +1,5 @@
 {
   "items": {
-    "38c536bcaaca4d75": {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "norm_title": "harvards699startupbootcampoffersaiavatarsofitsinstructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-23T09:58:25.706535+00:00"
-    },
-    "a21f2a44b3aed6bf": {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "norm_title": "inherentfoundedbydeepmindalumnisaysitsaiteammatejustoutperformedanthropicandopenaiatreplicatingresearch",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-23T09:58:25.706535+00:00"
-    },
-    "b7f1a247d1f6b8a5": {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "norm_title": "openaisayscaliforniashouldstrengthenitsaisafetybill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-23T09:58:25.706535+00:00"
-    },
-    "e21ceaab5b06ae6f": {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "norm_title": "frontierailabsstillwontsayhowtheydcontainaroguemodel",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-23T09:58:25.706535+00:00"
-    },
     "8fc83fec2bee8463": {
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
       "norm_title": "theydedicatedtheirlivestoteachingthenthedeepfakesstarted",
@@ -2295,6 +2267,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
       "source": "The Verge",
       "seen_at": "2026-09-21T15:30:16.267314+00:00"
+    },
+    "fc3124979f4fa3ff": {
+      "title": "Its $500 toothbrush disappeared from stores. Dyson won’t fully explain why",
+      "norm_title": "its500toothbrushdisappearedfromstoresdysonwontfullyexplainwhy",
+      "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "7a89e49f25be2551": {
+      "title": "Everyone can find a reason to dislike data center construction",
+      "norm_title": "everyonecanfindareasontodislikedatacenterconstruction",
+      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "e78be9c04b3622e2": {
+      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+      "norm_title": "vituresvonderglassesaremeanttomapyourmind",
+      "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+      "source": "Wired",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "bf3eec9841714f97": {
+      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+      "norm_title": "aimodelsbuiltfromratbrainsjustgotclosertoreality",
+      "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+      "source": "Wired",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "c92fc30562650fa0": {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "norm_title": "nscalesipowilltestwallstreetsappetiteforconcentratedaibetsonceagain",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "62d3e158e9d4cbb9": {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "norm_title": "dontbefooledbythissummerofaihype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "59d0bf6f34606339": {
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "norm_title": "ibuiltaiclonesofmycoworkersthingsgotweird",
+      "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+      "source": "Wired",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "52fd3c78e8616980": {
+      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+      "norm_title": "pattiharrisonhaddreamsofatechutopiasiliconvalleysmashedthem",
+      "url": "https://www.wired.com/story/big-interview-patti-harrison/",
+      "source": "Wired",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "220362a664dd2041": {
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "norm_title": "anewtoolfoundmalwarethatsguidedbyanaihivemindnohumansinsight",
+      "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "source": "Wired",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "f3c5ac1ae2179121": {
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "norm_title": "anewchatbotwantstounlockthesecretsintatteredancientgreekrecords",
+      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+      "source": "Wired",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "68673fba1b2d0691": {
+      "title": "How to Use AI With Your Privacy Intact",
+      "norm_title": "howtouseaiwithyourprivacyintact",
+      "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+      "source": "Wired",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "6cfe3de547a05196": {
+      "title": "Transformers now runs llama.cpp quants",
+      "norm_title": "transformersnowrunsllamacppquants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "c66192e3b56f1e4a": {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "norm_title": "junkimomlxcreatorandmaintainerjoinshuggingfacetosupportthemlxcommunity",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "560862ed4850b432": {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "norm_title": "themanwhobuiltapplesstoresdoesntbuysiliconvalleysbetonaishopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-22T13:49:16.103377+00:00"
     }
   }
 }
