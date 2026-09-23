@@ -1,40 +1,5 @@
 {
   "items": {
-    "8fc83fec2bee8463": {
-      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-      "norm_title": "theydedicatedtheirlivestoteachingthenthedeepfakesstarted",
-      "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-      "source": "Wired",
-      "seen_at": "2026-08-24T11:03:17.650230+00:00"
-    },
-    "5c88c00f00b0e24b": {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "norm_title": "kidsoutlearnaiandwestilldontknowwhy",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-08-24T11:03:17.650230+00:00"
-    },
-    "60c7c5dda4ffea80": {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "norm_title": "whosbehindthenewstealthmodeloxalpha",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-24T11:03:17.650230+00:00"
-    },
-    "a46a364fc5b063fb": {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "norm_title": "flockceocallsforcompromiseassurveillancecompanyfacesgrowingbacklash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-24T11:03:17.650230+00:00"
-    },
-    "f7f4b46bd15f8f4f": {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "norm_title": "isitlegaltotrainaimodelsoncopyrightedbooksitscomplicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-24T11:03:17.650230+00:00"
-    },
     "29fafe619a282aa0": {
       "title": "It Should Be Harder to Apply for a Job. No, Really",
       "norm_title": "itshouldbehardertoapplyforajobnoreally",
@@ -2365,6 +2330,104 @@
       "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
       "source": "TechCrunch",
       "seen_at": "2026-09-22T13:49:16.103377+00:00"
+    },
+    "b585c3f6a9cb5a05": {
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "norm_title": "knowwhospokewhenbuildrealtimemultispeakeraiwithnvidianemotron3diarization",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "cfed0f4b557427cc": {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "norm_title": "openaiextendscyberaccesstoukraineforciviliandefense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "4b9aa0725e413ee1": {
+      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "norm_title": "spotifysisgivingyouthekeystoitsrecommendationalgorithmwithuslaunchoftasteprofile",
+      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "028f37d6ceae8a33": {
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "norm_title": "metasmuseaiassistantrolledoutwithaserioussecurityflaw",
+      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "source": "Wired",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "ce2444c70ed8d754": {
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "norm_title": "emaraises77masaistartseatingintoenterprisesoftwareandservices",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "4490594a2c938f97": {
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "norm_title": "openainabskeypatreonexecsaheadofupcomingannouncement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "source": "The Verge",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "43757305a8946937": {
+      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+      "norm_title": "attisautomatingawayjobsanditsoldtelecomempire",
+      "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+      "source": "Wired",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "51dae5292e6ee9e4": {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "norm_title": "werealreadyfightingyesterdaysbattlegreecesprimeministergetscandidaboutai",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "65766e486ff33154": {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "norm_title": "openaiwantstoconsultelitemathematiciansabouthowtonotfumbleagain",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "The Verge",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "ae3841d2ec9db675": {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "norm_title": "grabandopenaibringpracticalaiskillstosoutheastasia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "source": "OpenAI",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "d7fe98b092e2570a": {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "norm_title": "techcrunchfoundersummitsagendarevealedunlockfundraisinghiringandaiinsightsinbostononnovember4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "7368bc208e13c27c": {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "norm_title": "snorkelaitriplesvaluationto35basdemandforaitrainingdatabooms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "2a1f7944dc1db3be": {
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "norm_title": "newanthropicopenaimodelsmakesamepromisealittlemoreforalotlessmoney",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "e0113910a7a5af4b": {
+      "title": "Better prompt caching for GPT-6",
+      "norm_title": "betterpromptcachingforgpt6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI",
+      "seen_at": "2026-09-23T14:01:21.482820+00:00"
     }
   }
 }

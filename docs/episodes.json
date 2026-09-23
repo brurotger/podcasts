@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-23",
+    "title": "IA Hoje — 23 de setembro de 2026",
+    "file": "ia-hoje-2026-09-23.mp3",
+    "duration": 961,
+    "size": 5763549,
+    "published_at": "2026-09-23T14:01:21.476971+00:00",
+    "news": [
+      {
+        "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization"
+      },
+      {
+        "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+      },
+      {
+        "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
+      },
+      {
+        "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/"
+      },
+      {
+        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+      },
+      {
+        "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam"
+      },
+      {
+        "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/"
+      },
+      {
+        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
+      },
+      {
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+      },
+      {
+        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
+      },
+      {
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+      },
+      {
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+      },
+      {
+        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+      },
+      {
+        "title": "Better prompt caching for GPT-6",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "title": "IA Hoje — 22 de setembro de 2026",
     "file": "ia-hoje-2026-09-22.mp3",
@@ -991,86 +1071,6 @@
         "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
         "source": "Ars Technica",
         "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "title": "IA Hoje — 9 de setembro de 2026",
-    "file": "ia-hoje-2026-09-09.mp3",
-    "duration": 714,
-    "size": 4281933,
-    "published_at": "2026-09-09T13:18:03.842057+00:00",
-    "news": [
-      {
-        "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
-      },
-      {
-        "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
-      },
-      {
-        "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/"
-      },
-      {
-        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
-      },
-      {
-        "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/"
-      },
-      {
-        "title": "Students who use AI generally score worse at school",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa"
-      },
-      {
-        "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/"
-      },
-      {
-        "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
-      },
-      {
-        "title": "What OpenAI’s latest controversy tells us about the future of math",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
-      },
-      {
-        "title": "Why this month's Microsoft patch release is a doozy",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
-      },
-      {
-        "title": "Hackers are stealing Claude tokens from subscribers",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
-      },
-      {
-        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
-      },
-      {
-        "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
-      },
-      {
-        "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
       }
     ]
   }
