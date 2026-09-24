@@ -1,103 +1,5 @@
 {
   "items": {
-    "29fafe619a282aa0": {
-      "title": "It Should Be Harder to Apply for a Job. No, Really",
-      "norm_title": "itshouldbehardertoapplyforajobnoreally",
-      "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-      "source": "Wired",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "e9c772759db5ba98": {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "norm_title": "openaisubpoenaedbyalabamaagoverhuggingfacehack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "source": "The Verge",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "ed531618544dcbab": {
-      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-      "norm_title": "spiritairlineswantstosellitsdatatogoogleformerflightattendantsarefreakedout",
-      "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
-      "source": "Wired",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "3039bd97728623f1": {
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "norm_title": "ispentadayatarobotcarnivalinshanghaihereswhatisaw",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "c1da8c0b14fb59ee": {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "norm_title": "situationalawarenessstaraihedgefundthatnearlyimplodednowbeingprobedbythesec",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "96dccaec4e4da26e": {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "norm_title": "disruptinganewcovertinfluencecampaignfromrussia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "781a9a89339b5be8": {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "norm_title": "wireitrunitdeployitaiworkflowsingradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "8d98168645f848a4": {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "norm_title": "aiishittingentryleveljobshardeststanfordstudyfinds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "db3afedaf503b83b": {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "norm_title": "trumpboughtspacexsharestwoweeksafterblockbusteripo",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "3d1f712ebc6c117b": {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "norm_title": "amjadmasadceoandcofounderofreplitjoinsthedisruptstageattechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "5d2bfae876afd0db": {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "norm_title": "instinctspowerfulaiassistantisraisingprivacyandsecurityconcerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "7465e2fc12670b64": {
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "norm_title": "nvidiaseniormanagerlinkedtosupermicroschemesmugglingaiserverstochina",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "625f82fdfc9c1684": {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "norm_title": "valorpoint72backgeneralintuitionat6bvaluationasaistartuppushesintorobotics",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
-    "97dd71abe3ac7ee6": {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "norm_title": "openaiisbuildingaiagentsforeverythingwilleveryoneusethem",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-25T10:10:44.507438+00:00"
-    },
     "36264dbf3f442c3a": {
       "title": "Raised on AI",
       "norm_title": "raisedonai",
@@ -2428,6 +2330,104 @@
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "source": "OpenAI",
       "seen_at": "2026-09-23T14:01:21.482820+00:00"
+    },
+    "b8b7b13cd0cb09e3": {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "norm_title": "australiatoinvestigateifopenaihackofgovernmenthealthwebsitebrokethelaw",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "6828ce9fe4732235": {
+      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "norm_title": "openaiagentshackedanaustraliangovernmentwebsiteinsearchfordata",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "source": "The Verge",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "97430d630b9913f2": {
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "norm_title": "anopenaiagenthackedaustraliashealthservicetheirgovernmentfoundoutmonthslater",
+      "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "source": "Wired",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "5344192c1e30bab0": {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "norm_title": "gemini4isalmostreadysaysnewgoogledeepmindchief",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "source": "The Verge",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "85f12aa29e5a652b": {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "norm_title": "everythingnewcomingtometasaiagentmuse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "15d69a6bf10e4dcd": {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "norm_title": "metamadeatamagotchilikewearableforitsmuseaiagent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "93af2b00959e0d1b": {
+      "title": "Meta is making a standalone Muse AI gadget",
+      "norm_title": "metaismakingastandalonemuseaigadget",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "source": "The Verge",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "fe9a9f05b644e905": {
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "norm_title": "metavrglassesraybanmetaaudioraybanmetagen3specsfeaturesprices",
+      "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "source": "Wired",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "115909cfa861b651": {
+      "title": "Muse is coming to Meta smart glasses",
+      "norm_title": "museiscomingtometasmartglasses",
+      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "source": "The Verge",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "b6f9e434342992c9": {
+      "title": "Meta introduces camera-free AI glasses",
+      "norm_title": "metaintroducescamerafreeaiglasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "4d1d203bad4db24f": {
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "norm_title": "metaditchesthecameraonitsnewestsmartglasses",
+      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "source": "The Verge",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "5697efda4ba9d9bd": {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "norm_title": "metaismakingmusemorepowerfulandwillletyouvideochatwithittoo",
+      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "source": "The Verge",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "068d09d3bb7b8431": {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "norm_title": "metaconnect2026thebiggestnewsandannouncements",
+      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "source": "The Verge",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
+    },
+    "b03bfc1af99c9054": {
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "norm_title": "metaconnect2026liveblogonthegroundatmarkzuckerbergsnextbigproductlaunch",
+      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "source": "The Verge",
+      "seen_at": "2026-09-24T13:57:00.104363+00:00"
     }
   }
 }

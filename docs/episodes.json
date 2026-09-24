@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-24",
+    "title": "IA Hoje — 24 de setembro de 2026",
+    "file": "ia-hoje-2026-09-24.mp3",
+    "duration": 750,
+    "size": 4500237,
+    "published_at": "2026-09-24T13:57:00.100784+00:00",
+    "news": [
+      {
+        "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
+      },
+      {
+        "title": "OpenAI agents hacked an Australian government website in search for data",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+      },
+      {
+        "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+      },
+      {
+        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
+      },
+      {
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+      },
+      {
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+      },
+      {
+        "title": "Meta is making a standalone Muse AI gadget",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+      },
+      {
+        "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/"
+      },
+      {
+        "title": "Muse is coming to Meta smart glasses",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
+      },
+      {
+        "title": "Meta introduces camera-free AI glasses",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+      },
+      {
+        "title": "Meta ditches the camera on its newest smart glasses",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
+      },
+      {
+        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
+      },
+      {
+        "title": "Meta Connect 2026: The biggest news and announcements",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
+      },
+      {
+        "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "title": "IA Hoje — 23 de setembro de 2026",
     "file": "ia-hoje-2026-09-23.mp3",
@@ -991,86 +1071,6 @@
         "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "title": "IA Hoje — 10 de setembro de 2026",
-    "file": "ia-hoje-2026-09-10.mp3",
-    "duration": 794,
-    "size": 4765197,
-    "published_at": "2026-09-10T13:16:17.017645+00:00",
-    "news": [
-      {
-        "title": "Powering AI is an architecture problem",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
-      },
-      {
-        "title": "Everything New You Can Do With Siri AI",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/"
-      },
-      {
-        "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/"
-      },
-      {
-        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
-      },
-      {
-        "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/gradio-workflow-1111"
-      },
-      {
-        "title": "OpenAI adds a prominent AI doomer to its board of directors",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
-      },
-      {
-        "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/"
-      },
-      {
-        "title": "Massachusetts hits data centers with new clean power rules",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
-      },
-      {
-        "title": "Suno releases its first AI music model made with record industry help",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
-      },
-      {
-        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
-      },
-      {
-        "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/"
-      },
-      {
-        "title": "Read the Apple document explaining how new listening features still protect your privacy",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"
-      },
-      {
-        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
-      },
-      {
-        "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
       }
     ]
   }
