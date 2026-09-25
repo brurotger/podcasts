@@ -1,0 +1,119 @@
+ANA: Bom dia, bom dia! Hoje é sexta-feira, dia vinte e cinco de setembro de dois mil e vinte e seis, e esse é o "IA Hoje". Comigo, como sempre, o Marcos. Marcos, bom dia!
+
+MARCOS: Bom dia, Ana! Dia cheio hoje, cheio de coisa boa e coisa preocupante também. Vamos misturar um pouco de produto novo com uns temas mais espinhosos.
+
+ANA: Adoro quando você fala assim, já fico curiosa. Por onde a gente começa?
+
+MARCOS: Vamos começar pelo lado "produto", que é mais leve. A Microsoft lançou oficialmente hoje o novo aplicativo do Copilot, o que ela está chamando de "super app". A empresa vinha testando isso desde o mês passado, mas hoje virou lançamento de verdade, segundo reportagem do The Verge.
+
+ANA: Espera, "super app"? Isso não é só o Copilot de sempre com roupa nova?
+
+MARCOS: Não exatamente. A ideia é juntar três coisas que hoje estão espalhadas em produtos diferentes da Microsoft: o chat de conversação, uma ferramenta de programação e agentes que executam tarefas por você. Tudo isso numa interface só. E tem uma renomeação interessante: aquele assistente pessoal que a Microsoft mostrou lá na conferência Build, no meio do ano, chamado "Scout", agora se chama "Autopilot".
+
+ANA: E por que juntar tudo isso importa? Pra mim, usuária comum, isso muda o quê?
+
+MARCOS: Muda o comportamento esperado do app. Hoje, se você quer conversar com uma inteligência artificial, você abre um app. Se quer que ela programe algo, abre outro. Se quer que ela faça uma tarefa por você sozinha, tipo reservar algo ou organizar sua agenda, é outra ferramenta ainda. A Microsoft está apostando que o futuro é um app só que decide, dependendo do que você pede, se vai só responder, se vai codar, ou se vai agir sozinha como um agente.
+
+ANA: E faz sentido a comparação que o título da matéria faz? Eles estão dizendo que esse app pode ser tão importante quanto o Office foi.
+
+MARCOS: Aí que fica bonito no marketing e eu fico com um pé atrás. O Office virou padrão de mercado porque resolveu um problema muito claro, editar texto, planilha, apresentação, e levou décadas construindo esse hábito. Um app de IA lançado essa semana ainda não provou que virou hábito de ninguém. Pode ser importante, sim, a lógica de juntar chat, código e agentes num só lugar é o caminho que todo mundo, Google, OpenAI, está seguindo. Mas comparar com o Office no dia do lançamento é embarcar guaxa muito antes de a maré subir.
+
+ANA: Então é mais "aposta estratégica" do que "vitória já garantida".
+
+MARCOS: Exatamente essa é a leitura certa.
+
+ANA: Ok, próxima. Vi uma matéria do The Verge bem legal sobre câmeras de segurança residencial com IA. Isso é sobre o quê exatamente?
+
+MARCOS: É uma daquelas reportagens de "testei na prática". A jornalista comparou os recursos de inteligência artificial das câmeras de segurança da Apple, dentro do Apple Home, contra o Ring, da Amazon, e o Nest, do Google, que agora usa o Gemini. A ideia central da matéria é simples: hoje toda câmera te avisa "movimento detectado". Mas o que se busca agora é a câmera te dizer o que aconteceu, não só que aconteceu algo.
+
+ANA: Como assim, "o que aconteceu"? Dá um exemplo.
+
+MARCOS: A autora conta uma cena bem do dia a dia: ela estava numa caçada de ovos de Páscoa na praia com os filhos, o celular vibra, ela ignora, vibra de novo, ela olha e é só "movimento detectado" na câmera de casa. Isso não ajuda em nada, porque pode ser o vento, pode ser um gato, pode ser alguém tentando entrar. O que essas empresas estão prometendo agora é a câmera reconhecer: "é o carteiro deixando uma encomenda", ou "é uma pessoa desconhecida parada na porta há dois minutos", em vez de só "teve movimento".
+
+ANA: E aí, quem ganhou o teste?
+
+MARCOS: A matéria não é unânime, mas o retrato geral é que a Amazon e o Google, com o Ring e o Nest, estão um passo na frente porque já têm anos de dados de câmeras residenciais rodando esses modelos. A Apple está entrando nesse jogo mais tarde, com a vantagem de integrar tudo dentro do ecossistema da casa, mas ainda com menos "experiência de campo" nesse tipo de reconhecimento específico.
+
+ANA: E isso importa de verdade ou é só mais um recurso bonito pra vender câmera cara?
+
+MARCOS: Importa, porque resolve um problema real de sobrecarga de notificação. Se sua câmera te manda alerta toda vez que uma folha se move, você aprende a ignorar todos os alertas, inclusive o importante. Uma IA que filtra e descreve contexto reduz esse cansaço de notificação e, na teoria, te faz prestar atenção só quando importa. O ponto de desconfiança é outro: pra fazer esse reconhecimento bem, a câmera está processando e, em muitos casos, guardando imagens da sua casa, dos seus filhos, dos seus vizinhos. Então o ganho de conveniência vem com um custo de privacidade que a reportagem não esconde.
+
+ANA: Combina até com o próximo assunto que eu ia trazer, que é o Google Gemini com avatar.
+
+MARCOS: Combina mesmo. O Google lançou uma atualização chamada Gemini três ponto oito Live, e a novidade principal se chama "Live Avatar". Segundo o The Verge, agora dá pra ter uma conversa com o modelo enquanto se vê, na tela, um personagem animado respondendo em tempo real, com sincronia labial e expressões faciais mudando conforme a conversa.
+
+ANA: Então não é só voz, é literalmente um rosto de IA falando comigo?
+
+MARCOS: Isso. E por enquanto isso está restrito aos clientes do Gemini Enterprise, ou seja, empresas que pagam pela versão corporativa, não é pra todo mundo no aplicativo de celular ainda. A ideia é que esse avatar consiga transitar entre diferentes personas, o Google menciona que existem noventa e sete tipos diferentes disponíveis.
+
+ANA: Por que uma empresa quer um avatar com rosto em vez de só texto ou voz?
+
+MARCOS: Pensa em atendimento ao cliente, treinamento interno, ou um vendedor virtual num site. Estudos de interação humana mostram, há décadas, que as pessoas prestam mais atenção e confiam mais quando têm um rosto pra olhar, mesmo sabendo que é sintético. É a mesma lógica dos assistentes virtuais tipo aquela Amelia ou os avatares de call center que várias empresas testaram nos últimos anos, só que agora com um modelo de linguagem de verdade por trás, não um roteiro fixo.
+
+ANA: E isso é phishing puro pra hype, ou tem substância real?
+
+MARCOS: Tem uma parte técnica genuína, sincronizar expressão facial com uma resposta gerada em tempo real, sem atraso perceptível, não é trivial, isso mostra avanço de infraestrutura. Mas também tem um limite bem claro pra desconfiar: enquanto for exclusivo pra empresa grande, é uma ferramenta de atendimento corporativo, não uma revolução pra você e eu. E existe aquele "vale da estranheza", quando um rosto artificial fica quase realista demais e a pessoa sente desconforto em vez de confiança. O Google não resolveu isso, só amenizou.
+
+ANA: Ok, vamos pra parte mais pesada do episódio agora, pode ser?
+
+MARCOS: Pode. E essa aqui dói de verdade. A Ars Technica publicou uma reportagem sobre o governo americano, atualmente sob o comando do Trump, usando inteligência artificial pra negar cobertura médica de idosos dentro do Medicare, o sistema público de saúde pra pessoas mais velhas nos Estados Unidos.
+
+ANA: Espera, "negar cobertura" quer dizer o quê na prática? A IA decide que o idoso não recebe o tratamento?
+
+MARCOS: Basicamente isso. Empresas contratadas usam sistemas automatizados pra analisar pedidos de autorização de procedimento médico e decidir, em segundos, se aquilo é aprovado ou negado. A reportagem chama isso de "experimento desastroso" e cita uma frase muito forte: os fornecedores desses sistemas têm, entre aspas, "incentivo pra negar o máximo de pedidos possível".
+
+ANA: Por que teriam esse incentivo? Isso parece o contrário do que a saúde deveria fazer.
+
+MARCOS: Porque o modelo de negócio de muitas dessas empresas terceirizadas é ganhar dinheiro reduzindo custo pro plano de saúde ou pro programa público. Cada negativa de tratamento é, do ponto de vista financeiro delas, uma economia. Isso já era um problema antes da IA entrar, planos de saúde nos Estados Unidos negam pedidos há décadas, é praticamente uma tradição triste do sistema americano. O que muda agora é a escala e a velocidade: um funcionário humano levava tempo pra analisar um caso, um sistema automatizado nega milhares em minutos, com muito menos supervisão em cada decisão individual.
+
+ANA: E isso não devia ter alguém checando, um médico, alguém, antes de negar de verdade?
+
+MARCOS: Deveria, e é exatamente aí que está o escândalo. A promessa de todo sistema assim é "a IA sinaliza, um humano decide". Na prática, o volume é tão grande e o incentivo financeiro é tão forte pra negar, que a checagem humana vira formalidade, um carimbo em cima de uma decisão que o algoritmo já tomou. E quem paga o preço não é uma métrica abstrata, é um idoso que precisa de uma cirurgia ou de um remédio e recebe um "não" automatizado.
+
+ANA: Isso é um caso isolado ou é sinal de algo maior que vem crescendo nos Estados Unidos?
+
+MARCOS: É sinal de uma tendência maior, sim. A gente já vinha ouvindo, em episódios passados, de outras seguradoras processadas por usar algoritmo pra negar pedido em massa. A diferença aqui é que agora é o próprio governo, através do Medicare, that program federal, adotando essa lógica. Quando o setor privado faz isso, já é grave. Quando é o programa que devia proteger o idoso que faz isso, o problema fica de outra categoria.
+
+ANA: Ok, essa aqui não tem muito "olha que legal", né?
+
+MARCOS: Não tem. Essa é pra deixar o ouvinte incomodado mesmo, com razão.
+
+ANA: Falando em incomodar, vi uma notícia da MIT Technology Review sobre o Pentágono e detector de mentira com IA. Isso é sério ou é filme de ficção científica?
+
+MARCOS: É bem sério e bem real. Segundo a reportagem, o governo americano quer gastar trinta milhões e trezentos mil dólares ao longo dos próximos cinco anos num programa chamado "Polygraph Plus", também conhecido como "Polygraph Next", ou seja, um polígrafo, aquele detector de mentira tradicional, só que turbinado.
+
+ANA: Turbinado como? O polígrafo já não mede batimento e sudor?
+
+MARCOS: O polígrafo clássico mede reações fisiológicas, batimento cardíaco, pressão, sudor, e é notoriamente pouco confiável, tem décadas de crítica científica dizendo que ele erra muito e que é fácil enganar. O que o Pentágono quer agora é usar inteligência artificial e aprendizado de máquina pra melhorar os algoritmos que pontuam essas respostas, e também investir numa técnica chamada "sensoriamento a distância", que é medir sinais do corpo, como microexpressões faciais ou até mudanças de temperatura da pele, sem precisar dos eletrodos colados na pessoa.
+
+ANA: Então em vez de te ligar em fios, uma câmera com IA olha pra você e tenta adivinhar se você está mentindo?
+
+MARCOS: É essa a direção. E aqui entra o mesmo problema de sempre com IA aplicada a coisas psicológicas e comportamentais: o modelo aprende padrões estatísticos, não lê mente. Ele pode associar "sinais de nervosismo" a "mentira", mas nervosismo também aparece em quem está sendo interrogado e é inocente, ou em quem tem ansiedade, ou é de outra cultura com outra linguagem corporal. Trocar eletrodo por câmera não resolve o problema de fundo, que é a confiabilidade da premissa.
+
+ANA: E esse dinheiro é muito ou é pouco pro Pentágono?
+
+MARCOS: Trinta milhões espalhados em cinco anos é um valor relativamente pequeno pros padrões de orçamento militar americano, mas mostra intenção clara: o governo quer modernizar uma ferramenta que a comunidade científica já considera ultrapassada, em vez de abandoná-la. Isso preocupa justamente porque dá uma aparência de "ciência de ponta" pra uma tecnologia que continua com o problema original sem solução.
+
+ANA: Beleza, e pra fechar o episódio, você separou uma que é mais opinião do que notícia, né? O Jensen Huang falando sobre IA e mudança climática.
+
+MARCOS: Isso, e é daquelas falas que geram manchete forte. O Jensen Huang, que é o presidente executivo da Nvidia, a empresa que fabrica os chips mais usados pra treinar modelos de inteligência artificial hoje, foi entrevistado no podcast do Ezra Klein, do The Verge, sobre energia e clima. E ele defende que a inteligência artificial pode, sim, ajudar a combater a mudança climática, só que antes disso ela vai causar, entre aspas, "uma quantidade enorme de dor e sofrimento".
+
+ANA: Espera, o dono da empresa que vende os chips que fazem os data centers gastarem uma energia absurda está dizendo que IA vai causar dor e sofrimento antes de ajudar o planeta?
+
+MARCOS: Exatamente essa ironia que o The Verge destaca na matéria, inclusive comparando a fala dele a um vilão de filme, alguém que admite o mal que vai causar como etapa necessária pro bem maior. O argumento dele é: os data centers vão consumir uma quantidade gigantesca de energia agora, isso é fato, mas essa mesma pressão vai forçar avanço acelerado em energia limpa, em eficiência de rede elétrica, e a própria IA vai ajudar a otimizar sistemas de energia depois.
+
+ANA: Isso é ciência ou é ele se defendendo por vender a picareta da corrida do ouro?
+
+MARCOS: Um pouco dos dois, honestamente. Tem uma lógica real aí: picos de demanda de energia historicamente empurraram investimento em infraestrutura nova, isso já aconteceu com a industrialização, com a chegada do ar-condicionado em massa, com carro elétrico. Não é absurdo que a demanda de data center acelere modernização de rede elétrica e energia limpa. O problema é que quem fala isso é a pessoa com o maior interesse financeiro do mundo em que ninguém freie a construção de data centers agora. É julgamento fácil de dor e sofrimento futuro quando é sua empresa que está lucrando trilhões enquanto isso acontece.
+
+ANA: Então é aquele clássico "confia no processo" dito por quem ganha dinheiro com o processo.
+
+MARCOS: Isso resume bem. Pode até acontecer o final feliz que ele descreve, mas ele não é uma fonte neutra pra garantir isso.
+
+ANA: Fechando o dia então: Microsoft junta chat, código e agente num só app e aposta que vira hábito, tipo o Office foi um dia. Apple, Amazon e Google brigam pra fazer câmera de casa entender contexto, não só detectar movimento, e isso vem com preço de privacidade. Google dá rosto e expressão pro Gemini com o Live Avatar, mas só pra empresa por enquanto. O governo americano usa IA pra negar tratamento médico de idoso numa escala preocupante. O Pentágono quer modernizar detector de mentira com IA, sem resolver o problema de confiabilidade de fundo. E o Jensen Huang admite que IA vai trazer sofrimento antes de ajudar o clima, o que é uma fala e tanto vindo de quem lucra com isso.
+
+MARCOS: Resumo perfeito. Foi um dia de misturar produto bonito com decisão de poder que merece atenção.
+
+ANA: É isso, gente. Obrigada por ouvir mais um "IA Hoje". Amanhã tem mais notícia fresquinha pra gente destrinchar juntos. Um beijo e até lá!
+
+MARCOS: Até amanhã!
