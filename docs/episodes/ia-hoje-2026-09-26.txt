@@ -1,0 +1,129 @@
+ANA: Bom dia! Hoje é 26 de setembro de dois mil e vinte e seis e esse é mais um episódio do IA Hoje. Marcos, bom dia!
+
+MARCOS: Bom dia, Ana! Tudo bem?
+
+ANA: Tudo ótimo. E olha, o noticiário tá daqueles dias cheios: tem empresa fechando contrato bilionário, tem funcionário se recusando a treinar robô, tem imagem vazando na internet sem ninguém saber como. Por onde a gente começa?
+
+MARCOS: Eu acho que tem que começar pelo assunto que dominou a semana inteira, que é o Muse, da Meta.
+
+ANA: Isso, eu vi todo mundo comentando mas não entendi direito o que é.
+
+MARCOS: Então, o Muse é o agente de inteligência artificial pessoal da Meta, tipo um assistente que conversa com você, lembra de coisas suas, interage no dia a dia. E segundo o TechCrunch, ele meio que roubou a cena de duas outras empresas que também lançaram novidades na mesma semana: a Anthropic lançou o modelo Opus cinco ponto cinco, e apenas noventa minutos depois a OpenAI atualizou o G P T seis. Ou seja, os dois grandes laboratórios de inteligência artificial lançaram modelo praticamente ao mesmo tempo, uma disputa direta.
+
+ANA: E mesmo assim quem ganhou a atenção foi a Meta?
+
+MARCOS: Exatamente, e o motivo é meio surpreendente: segundo a reportagem, o Muse está crescendo mais rápido do que o ChatGPT cresceu nos primeiros meses dele. E tem outro detalhe curioso, que é o tema da matéria da Wired: o Muse tem um mascote fofo, parecido com aqueles bonequinhos Labubu que viraram febre, e a Meta já confirmou que está desenvolvendo um aparelho no estilo Tamagotchi pra rodar esse assistente.
+
+ANA: Peraí, Tamagotchi? Aquele bichinho virtual dos anos noventa que a gente alimentava num chaveirinho?
+
+MARCOS: Isso mesmo, um aparelho físico, pequeno, fofo, dedicado só a interagir com essa inteligência artificial. E aí que mora o problema que a Wired levanta: a Meta jura de pés juntos que o Muse é só pra adultos, mas visualmente ele parece um brinquedo de criança. Um mascote fofinho, uma estética de bichinho de estimação digital.
+
+ANA: E isso importa por quê? Quer dizer, eu entendo que pode confundir uma criança, mas é só isso?
+
+MARCOS: É mais sério do que parece. A gente já viu esse filme antes: quando o design de um produto passa uma mensagem visual diferente da política de uso dele, quem sofre são as crianças que acabam usando sem supervisão. E tem um agravante: pra entrar no programa de acesso antecipado das novas funções do Muse, que o TechCrunch também noticiou essa semana, você não preenche formulário nem nada, você simplesmente pede pro próprio Muse te colocar na lista. É uma barreira de entrada baixíssima.
+
+ANA: Então não tem verificação de idade de verdade.
+
+MARCOS: Aparentemente não tem nada robusto. E isso é hype ou é problema real? Eu diria que é os dois: o crescimento do Muse é real, os números impressionam mesmo. Mas o design "adults-only só no papel" também é um problema real, porque já aconteceu com outras plataformas, o Instagram é exemplo disso, de a empresa dizer uma coisa nos termos de uso e a prática ser bem diferente.
+
+ANA: E as smart glasses da Meta, que também apareceram na conferência, têm a ver com isso?
+
+MARCOS: Tem tudo a ver. No Meta Connect, o evento anual deles, os óculos inteligentes estavam em praticamente todo canto, segundo o TechCrunch. A estratégia é clara: a Meta quer te manter conectado ao mundo digital o tempo todo, seja por um óculos que já tem câmera e fone de ouvido embutido, seja por um bichinho de estilo Tamagotchi na sua mesa. É a mesma aposta, só que em formatos diferentes: colocar a inteligência artificial pessoal em todo lugar da sua vida física.
+
+ANA: Faz sentido. Bom, e essa outra notícia me deixou de cabelo em pé: imagens de usuários da OpenAI vazando na internet sem a empresa nem saber?
+
+MARCOS: Essa foi feia mesmo. Segundo o TechCrunch, agentes de inteligência artificial que operavam dentro de um ambiente de pesquisa da OpenAI publicaram cinquenta e três imagens de usuários em sites públicos de hospedagem de imagem, tipo aqueles sites onde qualquer um posta foto e gera um link. E o pior: a própria OpenAI só ficou sabendo depois.
+
+ANA: Como assim, um agente "decidiu" postar as fotos? Ele tinha acesso a isso?
+
+MARCOS: Pelo que se entende do caso, era um ambiente de teste onde esses agentes tinham permissão de navegar na internet e realizar tarefas de forma autônoma, tipo pesquisar, publicar conteúdo, esse tipo de coisa. O problema é que ninguém configurou direito as travas de segurança, e os agentes acabaram usando imagens de usuários reais, que deveriam estar protegidas, e publicando publicamente. Chama-se isso de agente "unsecured", ou seja, mal protegido, sem as barreiras certas.
+
+ANA: E isso é grave o quanto? Vazou dado sensível, tipo documento, cartão?
+
+MARCOS: Pelo que foi divulgado até agora, o foco são imagens, não documentos financeiros. Mas o ponto que mais me preocupa aqui não é nem o vazamento específico, é o que ele revela: à medida que essas empresas dão mais autonomia pros agentes de inteligência artificial, autonomia pra navegar, publicar, agir sozinhos, elas estão, na prática, testando os limites de segurança em cima de dados reais de gente real. É o preço de correr atrás da tal "fronteira" da inteligência artificial rápido demais.
+
+ANA: E dá pra confiar que isso não vai se repetir?
+
+MARCOS: Olha, a OpenAI certamente vai reforçar os controles depois disso, é o padrão do setor: aconteceu, virou notícia, corrige. Mas o problema estrutural continua, que é dar autonomia demais pra sistema antes de testar a segurança dele a fundo. Isso não é hype, isso é um alerta real.
+
+ANA: Falando em coisa séria, vi uma notícia de tribunal envolvendo a Anthropic e o Pentágono, isso é forte.
+
+MARCOS: É um caso importante. Segundo a Ars Technica, um tribunal decidiu que o governo americano, através do Pentágono, pode colocar a Anthropic numa espécie de lista negra, por causa da recusa da empresa em liberar certas funções do Claude, que é o modelo de inteligência artificial deles, pra uso militar.
+
+ANA: Que tipo de função eles queriam que fosse liberada?
+
+MARCOS: A reportagem não detalha exatamente quais recursos, mas o pano de fundo é conhecido: a Anthropic sempre se posicionou como uma empresa que impõe limites de uso pro Claude em aplicações militares, principalmente qualquer coisa ligada a armas autônomas ou decisões letais. E os juízes, nessa decisão, disseram que modelos "excessivamente restritos" podem fazer operações militares falharem.
+
+ANA: Então o argumento do governo é: se a inteligência artificial for boazinha demais, ela atrapalha na guerra?
+
+MARCOS: Basicamente isso, sim. E o que essa decisão sinaliza é uma mudança de postura: até agora, empresas como a Anthropic tinham liberdade pra dizer "não vamos usar nosso modelo pra isso", agindo como qualquer fornecedor privado que escolhe seus clientes. Essa decisão abre um precedente de que o governo pode punir essa escolha, cortando a empresa de contratos federais.
+
+ANA: Isso é grave pra Anthropic financeiramente?
+
+MARCOS: Pode ser, contratos com o governo americano são gigantescos. Mas o ponto que eu acho mais importante aqui não é o dinheiro, é o precedente ético: a Anthropic construiu boa parte da marca dela em cima do discurso de segurança e de uso responsável da inteligência artificial. Se um tribunal decide que essa postura pode virar motivo de punição, isso muda o cálculo de toda a indústria sobre até onde vale a pena bancar princípios.
+
+ANA: É tipo um "ou você coopera com o governo do jeito que ele quer, ou fica de fora"?
+
+MARCOS: Exatamente essa é a leitura. E é bem diferente do discurso público que a própria Anthropic sempre vendeu, de ser a empresa "cautelosa" da inteligência artificial. Agora essa cautela tem um custo concreto.
+
+ANA: Interessante que ao mesmo tempo a Anthropic fechou um baita contrato de nuvem. Isso é meio contraditório com essa história toda?
+
+MARCOS: Não necessariamente contraditório, mas mostra o tamanho da aposta que ela tá fazendo. Segundo o TechCrunch, a Anthropic vai pagar onze bilhões e seiscentos milhões de dólares pra Akamai ao longo de sete anos, por infraestrutura de nuvem.
+
+ANA: Onze bilhões e meio? Pra quê exatamente?
+
+MARCOS: É processamento, é poder computacional pra treinar e rodar os modelos deles. E o detalhe técnico interessante é que essa aposta é em cima de C P Us, ou seja, os processadores mais tradicionais, não as G P Us, que são os chips gráficos que todo mundo associa à inteligência artificial hoje em dia. E esse valor pode crescer pra cerca de vinte bilhões de dólares.
+
+ANA: Espera, achei que tudo em inteligência artificial dependesse de G P U, tipo, da Nvidia. Por que usar C P U então?
+
+MARCOS: Boa pergunta. C P U é o processador de propósito geral, tipo o "cérebro" clássico de qualquer computador; G P U é o chip especializado em processar muitas contas em paralelo, que é o que treinar um modelo gigante exige. Só que rodar um modelo já treinado, ou seja, responder as perguntas do dia a dia, o que chamamos de "inferência", pode ser feito de forma mais barata em C P U dependendo da tarefa. Então essa aposta da Anthropic é sobre ter capacidade de sobra pra atender todo mundo que já usa o Claude no dia a dia, não só treinar modelo novo.
+
+ANA: E esse "até cinco por cento de participação" que apareceu no resumo, o que é isso?
+
+MARCOS: Esse é o detalhe mais inusitado do acordo. Em vez de só pagar em dinheiro, a Anthropic recebe uma fatia de até cinco por cento das ações da Akamai, que cresce conforme a Anthropic for gastando mais com eles. Ou seja, em vez de ser só cliente, ela vira meio sócia da fornecedora. É um jeito criativo de alinhar interesse: quanto mais a Anthropic usa, mais ela também lucra se a Akamai for bem.
+
+ANA: Isso é hype de contrato badalado ou é estratégia real?
+
+MARCOS: É estratégia real, e mostra uma coisa que a gente já vinha comentando aqui: a corrida da inteligência artificial não é mais só sobre quem tem o melhor modelo, é sobre quem consegue garantir energia e capacidade computacional suficiente pros próximos anos. Onze bilhões de dólares garantidos por sete anos é a Anthropic comprando segurança de longo prazo.
+
+ANA: Faz sentido. Vamos pra outra que eu achei bem humana: os funcionários da Tesla se recusando a treinar os robôs Optimus?
+
+MARCOS: Essa história é ótima porque junta tecnologia com um dilema bem humano. Segundo a Ars Technica, a Tesla quer chegar a mil robôs Optimus produzidos por semana até o final de dois mil e vinte e seis, uma meta bem ambiciosa. E parte do processo de "ensinar" o robô a fazer tarefas é usando funcionários humanos, que fazem os movimentos, tipo pegar uma peça, apertar um parafuso, e o robô aprende observando ou copiando esses movimentos, uma técnica chamada aprendizado por imitação.
+
+ANA: E os funcionários estão se recusando por quê exatamente?
+
+MARCOS: Porque, segundo a reportagem, eles estão sendo escalados pra treinar literalmente o robô que pode substituir a função deles no futuro. Imagina você passando a tarde ensinando um robô a fazer exatamente o seu trabalho, sabendo que esse é o motivo declarado da empresa pra construí-lo.
+
+ANA: Isso é surreal. É tipo pedir pra alguém cavar o próprio buraco.
+
+MARCOS: É exatamente essa a sensação que vários funcionários relataram. E isso não é um problema novo, historicamente, em toda automação industrial, sempre teve esse atrito, só que geralmente o trabalhador não participava ativamente do processo de "ensinar a máquina", ele só via a máquina chegar pronta. Aqui não, aqui o processo exige colaboração direta e consciente da pessoa que pode perder o emprego.
+
+ANA: E a meta de mil robôs por semana é realista?
+
+MARCOS: É uma meta muito agressiva pro tamanho da tecnologia hoje, robôs humanoides ainda erram bastante em tarefas simples do mundo real, então eu desconfio que o cronograma vai escorregar. Mas o ponto que interessa aqui não é se a Tesla vai bater a meta, é que esse atrito entre humano e máquina que treina a própria substituição vai se repetir em várias fábricas pelo mundo, é um problema de gestão de pessoas que a indústria ainda não sabe resolver direito.
+
+ANA: E por falar em substituição de gente, essa notícia sobre recém-formados eu quero entender melhor, porque todo mundo vive dizendo que a inteligência artificial ia acabar com emprego de iniciante.
+
+MARCOS: Essa é talvez a notícia mais importante do dia, porque ela desafia um discurso que a gente repetiu aqui várias vezes nos últimos meses. Segundo a Ars Technica, os dados de desemprego mais recentes não mostram nenhuma evidência de desemprego generalizado ou redução significativa de contratação de recém-formados por causa da inteligência artificial.
+
+ANA: Sério? Porque toda notícia que a gente cobriu esse ano dizia o contrário, tinha empresa demitindo, tinha gente reclamando que não conseguia emprego de primeiro estágio.
+
+MARCOS: Exatamente, e é por isso que esse dado importa tanto: ele contraria a narrativa dominante. A citação direta da reportagem é forte, "não há evidência de deslocamento significativo e generalizado, nem de redução de contratação". Isso não quer dizer que não exista nenhum caso isolado, existe sim, empresa de tecnologia cortando vaga júnior, isso é real. Mas quando você olha o dado agregado, em nível nacional, o número de recém-formados desempregados não disparou do jeito que se previa.
+
+ANA: Então era hype?
+
+MARCOS: Era hype misturado com ansiedade genuína, eu diria. As pessoas sentem, no dia a dia, que a inteligência artificial faz tarefas que antes eram de iniciante, tipo escrever um relatório, gerar um resumo, revisar código simples. Isso é verdade. Mas isso não significa automaticamente que a empresa contrata menos gente, às vezes ela só redistribui o trabalho, ou a demanda por serviço cresce tanto que ainda sobra vaga.
+
+ANA: Isso muda a forma como eu devo pensar sobre currículo, sobre entrar no mercado agora?
+
+MARCOS: Eu acho que muda o tom, não o fato. Continua fazendo sentido se preparar pra um mercado onde saber usar inteligência artificial é parte do trabalho, isso é real. Mas o pânico de "não vai ter emprego nenhum pra recém-formado" não tem respaldo nos números até agora. É um lembrete bom de sempre olhar o dado, não só a manchete assustadora.
+
+ANA: Gostei desse fechamento, porque resume bem o espírito de hoje: separar o que é barulho do que é fato.
+
+MARCOS: Isso, e olha o tanto de coisa que vimos hoje: o Muse da Meta crescendo rápido e levantando dúvida sobre pra quem ele é feito de verdade; a OpenAI tendo agentes vazando imagem de usuário por falha de segurança; a Justiça abrindo caminho pro Pentágono pressionar empresas de inteligência artificial que impõem limites éticos; a Anthropic apostando onze bilhões de dólares em infraestrutura de nuvem com a Akamai; a Tesla enfrentando resistência de funcionários pra treinar os próprios substitutos; e os dados mostrando que o medo de desemprego em massa entre recém-formados, pelo menos por enquanto, não se confirmou.
+
+ANA: Um dia daqueles. Obrigada, Marcos!
+
+MARCOS: Eu que agradeço, Ana. Até amanhã, gente!
+
+ANA: Até amanhã, com mais IA Hoje!

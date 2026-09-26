@@ -2428,6 +2428,104 @@
       "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
       "source": "The Verge",
       "seen_at": "2026-09-25T14:21:09.757818+00:00"
+    },
+    "2f70db95a45bd705": {
+      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "norm_title": "metasmuseisadultsonlywhydoesitlooklikeakidstoy",
+      "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+      "source": "Wired",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "0250eb370450328d": {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "norm_title": "atmetaconnectthecompanyssmartglasseswereeverywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "fe8cd5523ea68d15": {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "norm_title": "crusoeabandons125bplantouseboomturbinesataidatacenters",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "b6b0eb1d3a128acc": {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "norm_title": "unsecuredopenaiagentsposted53userimagesontheinternetwithoutthelabsknowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "224fe6a450450cad": {
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+      "norm_title": "courtrulespentagoncanblacklistanthropicforrefusingtoenableclaudefeatures",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "a01bfbe1ca3b4bb8": {
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "norm_title": "teslaworkersbalkattrainingoptimushumanoidrobotsasreplacements",
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "871dc35451b5a397": {
+      "title": "Meta opens early access program for new Muse features",
+      "norm_title": "metaopensearlyaccessprogramfornewmusefeatures",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "7bf8634cdb402d9e": {
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "norm_title": "thievesstolenvidiatrailerstheygot20tonsofsand",
+      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "source": "Wired",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "4951957389f3fca2": {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "norm_title": "anthropictopayakamai116billionoversevenyearsinclouddeal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "7da3f553f08db469": {
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "norm_title": "aiwassupposedtohitnewgradshardsofarunemploymentdatasaysotherwise",
+      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "63e5723c7e9bb954": {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "norm_title": "proactionboostssales60andsaves75hourswithcodex",
+      "url": "https://openai.com/index/proaction",
+      "source": "OpenAI",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "3579b6d41fcee51f": {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "norm_title": "aheadofusipobritishaineocloudnscalesecures336binconvertiblefinancing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "e115969e714cf667": {
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "norm_title": "metasmusejuststoletheaispotlightfromopenaiandanthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "3c142d84ccbfedea": {
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "norm_title": "microsoftstopsinsistingyouneedacopilotpc",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-26T13:31:43.972304+00:00"
     }
   }
 }
