@@ -2526,6 +2526,41 @@
       "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
       "source": "Ars Technica",
       "seen_at": "2026-09-26T13:31:43.972304+00:00"
+    },
+    "4568fc9b58d7604e": {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "norm_title": "googletestsbuyingfromwalmartownedflipkartthroughgeminiandaimodeinindia",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-27T14:26:09.962240+00:00"
+    },
+    "24d5b0b4359e89b5": {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "norm_title": "insurersclaimaiisalreadyincreasinghealthcarecosts",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-27T14:26:09.962240+00:00"
+    },
+    "ffc561f976f8eda7": {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "norm_title": "openaipausestrainingofitsmostcapablemodels",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge",
+      "seen_at": "2026-09-27T14:26:09.962240+00:00"
+    },
+    "690936d16372fc70": {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "norm_title": "icreatedaninteractivedigitalavatarofmyselfandyoucantalktoit",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-27T14:26:09.962240+00:00"
+    },
+    "42cae968a86389e9": {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "norm_title": "cancloudflareceomatthewprincesavethewebfromai",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "source": "The Verge",
+      "seen_at": "2026-09-27T14:26:09.962240+00:00"
     }
   }
 }
