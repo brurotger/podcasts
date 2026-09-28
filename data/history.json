@@ -1,138 +1,5 @@
 {
   "items": {
-    "31b6b4b4c4e7d7cf": {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "norm_title": "neocloudlambdasecures1bindebttobuymorechips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "8313f17003a96af9": {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "norm_title": "ananthropicresearcherjustgaveusapeekatselfimprovingai",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "cc2acb7721ec6d10": {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "norm_title": "openweightaicompaniesarethevalleyshottestacquisitiontargets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "7ea844318ba8769f": {
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "norm_title": "trumpblacklistingofwokeanthropicdeemedillegalbyfederaljudge",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "fe7454c22b422bb8": {
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "norm_title": "trumpsepawantstoletdatacentershidetheirairpollution",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "source": "The Verge",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "4d83f70b7d63323d": {
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-      "norm_title": "metamakesaiglassesslightlylesscreepywithlimitonnonconsensualrecording",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "57325770e973a07f": {
-      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "norm_title": "aihashumandoctorsaskingwhatsleftforus",
-      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-      "source": "Wired",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "3eadd43c34b2efd6": {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "norm_title": "anthropicgetsitsfirstcourtwinoverthepentagonssupplychainrisklabel",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "5c7cf28c4a517aa7": {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "norm_title": "metaexecutiveleavesforopenaiasthesocialmediagiantfacesgrowingscrutinyinindia",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "936f6e03603fbf4c": {
-      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "norm_title": "hescrapedalloftheirartforainowhescollaboratingonatooltohelpthem",
-      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-      "source": "Wired",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "0f5a1571aac8c8da": {
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "norm_title": "insidemetaspushtoputrobotstoworkindatacenters",
-      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "source": "Wired",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "fac34dc11101d175": {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "norm_title": "anthropicwasillegallyblacklistedbythetrumpadministrationcourtrules",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "source": "The Verge",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "63cc9b0b3be18f8e": {
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "norm_title": "ajudgehasblockedthepentagonsattempttoblacklistanthropic",
-      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-      "source": "Wired",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "8904f60d3863d144": {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "norm_title": "supportingthailandsnextgenerationofaistartups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI",
-      "seen_at": "2026-08-28T21:52:58.438126+00:00"
-    },
-    "3c5d63793e5d6f74": {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "norm_title": "ourdecisiononcursorfollowingitsacquisitionbyspacex",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI",
-      "seen_at": "2026-08-29T09:06:09.763656+00:00"
-    },
-    "a3e4972a94074c7c": {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "norm_title": "theopenasrleaderboardaddsitsfirstglobalsouthlanguage",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "source": "Hugging Face",
-      "seen_at": "2026-08-29T09:06:09.763656+00:00"
-    },
-    "49941d3a43d5029a": {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "norm_title": "anthropicandopenaiarejoiningtheaistageattechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-29T09:06:09.763656+00:00"
-    },
-    "40570304866dcd59": {
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "norm_title": "anthropicsnewhardwarestandardletsaiagentscontrolthephysicalworld",
-      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "source": "Ars Technica",
-      "seen_at": "2026-08-29T09:06:09.763656+00:00"
-    },
-    "259941bdefbb6f10": {
-      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-      "norm_title": "aiagentsarehackingsystemscouldthatpushtheusandchinatocooperate",
-      "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-      "source": "Wired",
-      "seen_at": "2026-08-29T09:06:09.763656+00:00"
-    },
     "7b6cb5d29edfd86b": {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "norm_title": "sonymusicwarnersueanthropicallegingabrazencampaignofintellectualpropertytheft",
@@ -2561,6 +2428,104 @@
       "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
       "source": "The Verge",
       "seen_at": "2026-09-27T14:26:09.962240+00:00"
+    },
+    "e2c563e9e293f8aa": {
+      "title": "When can we say AI made a scientific discovery?",
+      "norm_title": "whencanwesayaimadeascientificdiscovery",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "1fa113535e184a76": {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "norm_title": "metalaunchesenterpriseaiplatformhiresmongodbceotoleadnewinitiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "ece6781d9ef7d572": {
+      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+      "norm_title": "walmartwonthikepricesbasedonyourshoppinghistoryceosays",
+      "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+      "source": "The Verge",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "07432284bd856ca8": {
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "norm_title": "openaihaltsfrontiermodeltrainingamidstringofagentmisalignmentincidents",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "6bd306486dc86ec2": {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "norm_title": "anthropicgammaandclaysharewhathappenswhenenterprisesactuallydeployaiattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "144a068799b4c664": {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "norm_title": "afteradeepfakevoicefooledhergrandfatherthisfoundersprangintoaction",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "a5245ee2dd2c52cb": {
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+      "norm_title": "next5vcsjudgingstartupbattlefield200contendersattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "22a068e8be070415": {
+      "title": "Modulate raises $25M for its voice models and analysis suite",
+      "norm_title": "modulateraises25mforitsvoicemodelsandanalysissuite",
+      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "7de7c705903aaaaf": {
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "norm_title": "insurtechoutmarketraises345mjustmonthsafterpriorround",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "d66d8af8093a7860": {
+      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+      "norm_title": "yourfinalchancetograbyourexhibittableattechcrunchdisrupt2026isoctober2",
+      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "fa83f01ba68f932b": {
+      "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
+      "norm_title": "thesaaspocalypsethatwasntwithatlassianceomikecannonbrookes",
+      "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+      "source": "The Verge",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "53b7e76041c49e89": {
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "norm_title": "viralaiagentinstinctraises1bseriescata10bvaluation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "55d07f5e25a9a144": {
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "norm_title": "nvidiasaysitsnewaisafetyplatformcancontainrogueagentswithinmilliseconds",
+      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "source": "The Verge",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "dacb1a9f86d24c18": {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "norm_title": "openaipausestrainingitsmostpowerfulmodelsafterrogueagentstargetgovernment",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "source": "Wired",
+      "seen_at": "2026-09-28T17:12:08.481984+00:00"
     }
   }
 }
