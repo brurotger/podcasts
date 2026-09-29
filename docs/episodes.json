@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-29",
+    "title": "IA Hoje — 29 de setembro de 2026",
+    "file": "ia-hoje-2026-09-29.mp3",
+    "duration": 550,
+    "size": 3301149,
+    "published_at": "2026-09-29T15:13:49.370222+00:00",
+    "news": [
+      {
+        "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+      },
+      {
+        "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+      },
+      {
+        "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
+      },
+      {
+        "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
+      },
+      {
+        "title": "Meta is expanding its AI agent Muse to small businesses",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+      },
+      {
+        "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+      },
+      {
+        "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
+      },
+      {
+        "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
+      },
+      {
+        "title": "Reco raises $55M as AI agent security startups crowd the market",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+      },
+      {
+        "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty"
+      },
+      {
+        "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
+      },
+      {
+        "title": "Making AI an asset, not an expense",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
+      },
+      {
+        "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/"
+      },
+      {
+        "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "title": "IA Hoje — 28 de setembro de 2026",
     "file": "ia-hoje-2026-09-28.mp3",
@@ -991,86 +1071,6 @@
         "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "title": "IA Hoje — 15 de setembro de 2026",
-    "file": "ia-hoje-2026-09-15.mp3",
-    "duration": 687,
-    "size": 4119357,
-    "published_at": "2026-09-15T14:00:24.720062+00:00",
-    "news": [
-      {
-        "title": "New insights from Google’s AI & Economy ATLAS",
-        "source": "Google AI",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
-      },
-      {
-        "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
-      },
-      {
-        "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
-      },
-      {
-        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
-      },
-      {
-        "title": "What’s at stake in AI’s trillion-dollar gamble",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
-      },
-      {
-        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
-      },
-      {
-        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
-      },
-      {
-        "title": "What execs and politicians are saying about slowing down AI development",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
-      },
-      {
-        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
-      },
-      {
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
-      },
-      {
-        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
-      },
-      {
-        "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/"
-      },
-      {
-        "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/"
       }
     ]
   }

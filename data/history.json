@@ -1,54 +1,5 @@
 {
   "items": {
-    "7b6cb5d29edfd86b": {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "norm_title": "sonymusicwarnersueanthropicallegingabrazencampaignofintellectualpropertytheft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-30T09:05:43.772452+00:00"
-    },
-    "3d183109b14e9c9f": {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "norm_title": "sonymusicandwarnerchappellaresuinganthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge",
-      "seen_at": "2026-08-30T09:05:43.772452+00:00"
-    },
-    "8c951a4857623960": {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "norm_title": "werenotdoing30betsayearvijaypandeonbettingsmallafterrunning4billionata16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-30T09:05:43.772452+00:00"
-    },
-    "447806c64df26684": {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "norm_title": "nvidiasaiadvantageismovingbeyondthegpu",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-30T09:05:43.772452+00:00"
-    },
-    "08b2190ff0611e87": {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "norm_title": "musiciansturneddetectivesarehuntingforaigrifters",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "source": "The Verge",
-      "seen_at": "2026-08-30T09:05:43.772452+00:00"
-    },
-    "e0c8be6b53eb5705": {
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "norm_title": "thecybersecurityapocalypseiscominginmonthsaigiantswarn",
-      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "source": "Wired",
-      "seen_at": "2026-08-30T09:05:43.772452+00:00"
-    },
-    "9609acb6492a6867": {
-      "title": "How to Run a Chatbot on Your Own Computer",
-      "norm_title": "howtorunachatbotonyourowncomputer",
-      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-      "source": "Wired",
-      "seen_at": "2026-08-30T09:05:43.772452+00:00"
-    },
     "72be18e7873eab72": {
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
       "norm_title": "theusisbuildingbarriersarounddronesandrobotsbutchinahasscaletogetaroundthem",
@@ -2526,6 +2477,104 @@
       "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
       "source": "Wired",
       "seen_at": "2026-09-28T17:12:08.481984+00:00"
+    },
+    "7b7b970f25c7004e": {
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "norm_title": "openaisaysplannedgpt61istooinsecuretorelease",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "b37ea73167a6c487": {
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "norm_title": "anthropicsipopitchincludesawarningabouthumanextinction",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "fe110e80717a620f": {
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+      "norm_title": "metasmuseaisentayoutubersaddresstoastranger",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "source": "The Verge",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "75cfb6e94c619f35": {
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "norm_title": "withdazzlemarissamayerbetsyourcamerarollhasmoreinfoonyourlifethanyourinbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "99807decef8b7ffb": {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "norm_title": "metaisexpandingitsaiagentmusetosmallbusinesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "796ad017fb0045f3": {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "norm_title": "gettingthesourcerightnotjustthefactsourceawareverificationformcpagents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "5f7489e80af42780": {
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "norm_title": "interviewfirefoxschiefonwhyhehopesaredesignwillhelpwinusersfromchrome",
+      "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "9edeeeebb020ccc0": {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "norm_title": "openaiapologizestoaustraliaafteritsaiagentsbreachedgovernmentsites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "7a2f8d5cfc4712cd": {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "norm_title": "recoraises55masaiagentsecuritystartupscrowdthemarket",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "6c97b8ffdf3cb0d6": {
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "norm_title": "willchineseaicompaniesslowdownatophousedemocratwantsanswers",
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "source": "The Verge",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "38fb0f326e900fe9": {
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "norm_title": "anthropicwarnsofcatastrophicairisksinitsownipofiling",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "source": "The Verge",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "5195f486ba73a101": {
+      "title": "Making AI an asset, not an expense",
+      "norm_title": "makingaianassetnotanexpense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "52652fb7654cc920": {
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "norm_title": "openaidelaysreleaseoflatestmodeloversafetyconcerns",
+      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "source": "Wired",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "691ca074014ae517": {
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "norm_title": "timnitgebrubelievesthereisnoexistentialthreatfromai",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "source": "Wired",
+      "seen_at": "2026-09-29T15:13:49.374344+00:00"
     }
   }
 }
