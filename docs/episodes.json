@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-30",
+    "title": "IA Hoje — 30 de setembro de 2026",
+    "file": "ia-hoje-2026-09-30.mp3",
+    "duration": 631,
+    "size": 3785709,
+    "published_at": "2026-09-30T15:29:27.180357+00:00",
+    "news": [
+      {
+        "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
+      },
+      {
+        "title": "Introducing SynthID Bio",
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+      },
+      {
+        "title": "Google reportedly tests paying publishers for AI search results",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+      },
+      {
+        "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"
+      },
+      {
+        "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+      },
+      {
+        "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/"
+      },
+      {
+        "title": "OpenAI delays IPO over AI safety concerns",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/"
+      },
+      {
+        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs"
+      },
+      {
+        "title": "Airbnb adds AI search, more social features",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
+      },
+      {
+        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+      },
+      {
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+      },
+      {
+        "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/open-tts-leaderboard"
+      },
+      {
+        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "title": "IA Hoje — 29 de setembro de 2026",
     "file": "ia-hoje-2026-09-29.mp3",
@@ -991,86 +1071,6 @@
         "title": "The AI data center e-waste problem is huge — and getting bigger",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-16",
-    "title": "IA Hoje — 16 de setembro de 2026",
-    "file": "ia-hoje-2026-09-16.mp3",
-    "duration": 955,
-    "size": 5732445,
-    "published_at": "2026-09-16T13:53:59.041586+00:00",
-    "news": [
-      {
-        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/"
-      },
-      {
-        "title": "Reimagining advertising with AI",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/reimagining-advertising-with-ai"
-      },
-      {
-        "title": "Former Infosys chief’s AI startup nabs another $53M",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
-      },
-      {
-        "title": "Building the materials foundation for AI",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
-      },
-      {
-        "title": "A brief history of AI executives calling for regulation",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation"
-      },
-      {
-        "title": "Amazon launches Alexa+ in India with Hindi support",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
-      },
-      {
-        "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
-      },
-      {
-        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
-      },
-      {
-        "title": "AI and data centers are incredibly unpopular in every poll",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
-      },
-      {
-        "title": "The AI data center boom is colliding with cities scarred by big industry",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
-      },
-      {
-        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
-      },
-      {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-      },
-      {
-        "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/"
-      },
-      {
-        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
       }
     ]
   }

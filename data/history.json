@@ -1,40 +1,5 @@
 {
   "items": {
-    "72be18e7873eab72": {
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "norm_title": "theusisbuildingbarriersarounddronesandrobotsbutchinahasscaletogetaroundthem",
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-31T09:05:59.339158+00:00"
-    },
-    "07aa8ffc42a55d39": {
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "norm_title": "musksfasterpathtomoregasturbinescomeswithpollutionproblem",
-      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-31T09:05:59.339158+00:00"
-    },
-    "f376906e2a247741": {
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "norm_title": "texasgovernorabbottblocksfundingformoreflockcameras",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "source": "The Verge",
-      "seen_at": "2026-08-31T09:05:59.339158+00:00"
-    },
-    "e8857b20fc551b07": {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "norm_title": "caterpillarisbringingtoaideploymentwhatitlearnedfromautomatingmining",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "source": "TechCrunch",
-      "seen_at": "2026-08-31T09:05:59.339158+00:00"
-    },
-    "3e204800af153892": {
-      "title": "Why the Hottest New Wearables Want to Be Ignored",
-      "norm_title": "whythehottestnewwearableswanttobeignored",
-      "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-      "source": "Wired",
-      "seen_at": "2026-08-31T09:05:59.339158+00:00"
-    },
     "22455782a6f9254a": {
       "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
       "norm_title": "nvidiascontroversialdlss5arrivesseptember3rdandrequiresseriousgpuhorsepower",
@@ -2575,6 +2540,104 @@
       "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
       "source": "Wired",
       "seen_at": "2026-09-29T15:13:49.374344+00:00"
+    },
+    "44c490972979c9f3": {
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "norm_title": "allthelatestnewsonmetascutecreepymuseaiagent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "source": "The Verge",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "df3df354d5a616ab": {
+      "title": "Introducing SynthID Bio",
+      "norm_title": "introducingsynthidbio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "467687f9d6260e3e": {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "norm_title": "googlereportedlytestspayingpublishersforaisearchresults",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "source": "The Verge",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "733135ff28028a62": {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "norm_title": "cerebrassystemsandrewfeldmanonwhetheraicankeepscalingattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "386c129185c9dd90": {
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "norm_title": "instagramisaddinganaiassistanttotellyouhowtopost",
+      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "source": "The Verge",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "a5571e5e758f048f": {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "norm_title": "restatelands20mastheneedfordurableinfrastructureincreaseswithaiagents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "fa886b3441db8020": {
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "norm_title": "3dayslefttoexhibitturnvisibilityintoyournextopportunityattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "39d4bf903611ac15": {
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "norm_title": "openaidelaysipooveraisafetyconcerns",
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "source": "Ars Technica",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "dc6902c951e1e858": {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "norm_title": "hereshowtechleaderswillselfpoliceaisafetyundertrumpsdeal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source": "The Verge",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "9bc7f5ac3f931fdb": {
+      "title": "Airbnb adds AI search, more social features",
+      "norm_title": "airbnbaddsaisearchmoresocialfeatures",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "6b81d50ce795e0a1": {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "norm_title": "werenotgoingtoshootourselvesinthefootoverhackfalloutsaysopenaischiefresearchofficer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "060f2f85caeee31c": {
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "norm_title": "samaltmansaysopenaiwontgopublicuntilitsmodelsaresafe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "The Verge",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "4dd23b8b5b66656b": {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "norm_title": "openttsleaderboardscalableevaluationformultilingualtexttospeechandvoicecloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
+    },
+    "ef7b2cc64eeb5df9": {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "norm_title": "americagovgetsreallyweirdwhenyouaskitaboutminecraftbutitsnotaglitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "TechCrunch",
+      "seen_at": "2026-09-30T15:29:27.184515+00:00"
     }
   }
 }
