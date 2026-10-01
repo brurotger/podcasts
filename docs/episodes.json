@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-01",
+    "title": "IA Hoje — 1 de outubro de 2026",
+    "file": "ia-hoje-2026-10-01.mp3",
+    "duration": 692,
+    "size": 4154061,
+    "published_at": "2026-10-01T15:52:44.178586+00:00",
+    "news": [
+      {
+        "title": "Brian Chesky interview: AI agents need their own operating system",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
+      },
+      {
+        "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/allenai/olmocore3"
+      },
+      {
+        "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+      },
+      {
+        "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+      },
+      {
+        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash"
+      },
+      {
+        "title": "Hearing tech startup Legato launches its AI hearing glasses",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
+      },
+      {
+        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+      },
+      {
+        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai"
+      },
+      {
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+      },
+      {
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+      },
+      {
+        "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+      },
+      {
+        "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/"
+      },
+      {
+        "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+      },
+      {
+        "title": "Gemini 4 Argon: our next era of frontier intelligence",
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "title": "IA Hoje — 30 de setembro de 2026",
     "file": "ia-hoje-2026-09-30.mp3",
@@ -991,86 +1071,6 @@
         "title": "Google announces new experimental \"CC\" AI agent for families",
         "source": "Ars Technica",
         "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-17",
-    "title": "IA Hoje — 17 de setembro de 2026",
-    "file": "ia-hoje-2026-09-17.mp3",
-    "duration": 861,
-    "size": 5167101,
-    "published_at": "2026-09-17T13:57:44.897181+00:00",
-    "news": [
-      {
-        "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
-      },
-      {
-        "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
-      },
-      {
-        "title": "Inside the suddenly explosive world of AI safety",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic"
-      },
-      {
-        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
-      },
-      {
-        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Snap tries to make the case again for its $2,200 smart glasses",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
-      },
-      {
-        "title": "Al Gore says the real AI risk isn’t data centers",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
-      },
-      {
-        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
-      },
-      {
-        "title": "An OpenAI Agent Tried to Jailbreak Itself",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
-      },
-      {
-        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
-      },
-      {
-        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
-      },
-      {
-        "title": "Washington Won’t Be Regulating AI Anytime Soon",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/"
-      },
-      {
-        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review"
-      },
-      {
-        "title": "The AI data center e-waste problem is huge — and getting bigger",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
       }
     ]
   }

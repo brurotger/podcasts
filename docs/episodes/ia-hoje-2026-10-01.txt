@@ -1,0 +1,111 @@
+ANA: Bom dia, pessoal! Está começando mais um "I A Hoje". Hoje é primeiro de outubro de dois mil e vinte e seis, e o dia está cheio. Marcos, bom dia!
+
+MARCOS: Bom dia, Ana! Bom dia a quem está ouvindo. É verdade, o dia está pesado. Tem modelo novo do Google, a OpenAI atacando a Meta, e uma conversa interessante sobre o futuro dos aplicativos.
+
+ANA: Então vamos começar pelo Google. Eu vi "Gemini quatro Argon" em tudo que é manchete. O que aconteceu?
+
+MARCOS: O Google anunciou o Gemini quatro Argon, o novo modelo de ponta dela. Segundo o The Verge e o blog do Google DeepMind, o modelo entrega desempenho de fronteira em engenharia de software de verdade, em trabalho de conhecimento em empresas, como direito e finanças, e em defesa cibernética. Quem disse isso foi o Koray Kavukcuoglu, o arquiteto-chefe de IA do Google.
+
+ANA: Até aí, parece mais um modelo novo dizendo que é o melhor de todos. Qual é a novidade?
+
+MARCOS: A novidade é o acesso. O Google está limitando o uso por enquanto. O The Verge diz que, por ser tão capaz, só os chamados "defensores cibernéticos de confiança" podem usar agora. E o Ars Technica pôs o título assim: "o Google anuncia o Gemini quatro Argon, mas você ainda não pode usar".
+
+ANA: Peraí. Eles anunciam um modelo e dizem "não é pra você"? Isso é marketing ou é sério?
+
+MARCOS: Pode ser os dois. Pense numa empresa que cria uma chave mestra capaz de abrir quase qualquer porta. Ela primeiro entrega a chave pra quem tranca as portas, os profissionais de segurança. Só depois, com calma, ela libera pro público. A lógica é que um modelo muito bom em achar falhas de segurança serve pra consertar, mas também pra invadir.
+
+ANA: E por que isso importa pra mim, que não sou hacker?
+
+MARCOS: Porque o seu banco, o seu app de entrega e o seu e-mail rodam em software cheio de falhas. Se a IA acha essas falhas muito mais rápido, quem chega primeiro, o defensor ou o atacante, faz diferença pra todo mundo. Dar o acesso antes aos defensores é uma tentativa de ganhar uns meses de vantagem.
+
+ANA: E aquela frase do Ars Technica, "tanto pior pro Gemini três ponto cinco Pro"? O que isso quer dizer?
+
+MARCOS: O Ars Technica brincou que o anúncio atropelou o Gemini três ponto cinco Pro. Pelo visto, o Google pulou direto pro número quatro. É uma leitura do veículo, mas faz sentido. Pra quem usa no dia a dia, o recado é: o modelo que você vai poder usar é o de agora, e o mais poderoso fica na prateleira por um tempo.
+
+ANA: Então minha opinião é: parece um bom sinal de cautela, mas a gente só acredita quando vir o modelo funcionando.
+
+MARCOS: Concordo. A gente não tem como checar os números, porque quase ninguém tem acesso. Eu comemoro a cautela, mas fico desconfiado de uma coisa: um modelo "perigoso demais pra liberar" também é um ótimo anúncio. A gente vai saber quando abrirem pro público.
+
+ANA: Falando em disputa, vamos pra OpenAI. O The Verge diz que o novo agente dela é "um tiro na Meta". Como é essa história?
+
+MARCOS: Foi no DevDay, o evento anual da OpenAI pra desenvolvedores. O Sam Altman subiu no palco, foi aplaudido e anunciou o Dots, que ele chamou de um agente "de verdade", movido pelo G P T seis Astra. Um agente, pra quem não conhece, é uma IA que não só responde, mas faz tarefas por você, como pesquisar, preencher coisas e tomar decisões em vários passos.
+
+ANA: E por que "tiro na Meta"?
+
+MARCOS: Porque a Meta tem uma plataforma de agentes chamada Muse, que, segundo o The Verge, fez um sucesso fulminante logo no começo. A pergunta do título da matéria é: dá pra competir com o grátis? Porque a Meta costuma oferecer tudo de graça, pagando a conta com publicidade e com o enorme alcance dela.
+
+ANA: Aí lembra aquela briga de sempre. O app que cobra versus o app gratuito que já está no seu celular.
+
+MARCOS: Exatamente. A OpenAI tem a vantagem de ter o modelo mais badalado, o G P T seis Astra. A Meta tem a vantagem de já estar em bilhões de telas. E o The Verge faz a pergunta certa: se o agente da Meta resolve mais ou menos o mesmo problema e não custa nada, quanto o usuário comum paga pelo melhor?
+
+ANA: E você, o que acha? Quem leva?
+
+MARCOS: Ainda é cedo. A reportagem fala de um lançamento no palco, e a gente não tem dados independentes de qualidade. Mas a história mostra que a briga mudou. Antes, era "meu modelo é mais inteligente". Agora é "meu agente é mais útil e está mais perto de você". A inteligência virou o motor, e a disputa agora é pelo carro inteiro.
+
+ANA: Isso conversa direto com a nossa próxima notícia, que é do TechCrunch: uma entrevista com o Brian Chesky, o CEO do Airbnb.
+
+MARCOS: Conversa mesmo. O Chesky falou sobre como deixar o Airbnb amigável pra agentes, sobre o estado da IA de consumo e defendeu que o mundo precisa de um sistema operacional feito pra IA, um "AI-native operating system".
+
+ANA: Sistema operacional, tipo Windows, Android?
+
+MARCOS: Isso. O sistema operacional é a camada que organiza o que o aparelho faz: abre apps, guarda arquivos, gerencia permissões. A ideia dele, como o TechCrunch resume, é que os agentes precisam da própria camada. Hoje um agente tem que "fingir" ser uma pessoa clicando em telas feitas pra humanos. Não é eficiente.
+
+ANA: E o que significa "deixar o Airbnb amigável pra agentes"?
+
+MARCOS: Imagine que você diga a um agente: "acha uma casa na praia pra seis pessoas, perto de um restaurante bom, até tanto por noite". Pra isso funcionar bem, o Airbnb precisa expor as informações e as ações, como buscar, reservar e cancelar, de um jeito que o agente entenda, e não só como uma tela bonita pra gente tocar.
+
+ANA: Faz sentido. Mas é muita fé de um CEO que tem interesse nisso, né?
+
+MARCOS: Tem, e vale desconfiar. Quem vende reservas quer estar no caminho do agente, porque se o agente escolher por você, a marca some. Então o Chesky também está defendendo o próprio lugar. Mas a observação técnica é boa: se agentes viram o jeito normal de usar a internet, precisa existir um padrão, senão cada empresa inventa o seu.
+
+ANA: E aí entra a Photon, que o TechCrunch noticiou com um título ótimo: "a Photon fez um funeral pros aplicativos".
+
+MARCOS: Essa é boa mesmo. A Photon levantou quatro milhões e meio de dólares pra ajudar desenvolvedores a criar agentes que funcionam dentro de iMessage, S M S, R C S, e-mail e outras plataformas de mensagem. A aposta é que o consumidor vai usar cada vez mais agentes, em vez de baixar aplicativos.
+
+ANA: Ou seja, em vez de baixar o app da pizzaria, eu mando uma mensagem e o agente resolve.
+
+MARCOS: Isso. R C S, aliás, é o sucessor do S M S, com recursos mais modernos. A vantagem é que a mensagem você já tem, e ninguém precisa instalar nada. Baixar app é um atrito enorme: abrir a loja, criar conta, dar permissão.
+
+ANA: Mas a gente já ouviu isso antes, não? Os chatbots de dois mil e dezesseis, que iam acabar com os apps...
+
+MARCOS: Ouvimos, e não aconteceu. Na época, os bots eram burros. Agora os agentes entendem pedidos bagunçados e executam tarefas. Mesmo assim, quatro milhões e meio é uma rodada pequena, então é uma aposta, não uma certeza. Eu acho que apps não morrem, mas alguns, os mais simples, podem virar uma conversa.
+
+ANA: Mudando de assunto, tem uma notícia da Wired com um título bem ácido: "o acordo de segurança de IA do Trump é um juramento de dedinho".
+
+MARCOS: A Wired conta que seis grandes empresas de IA assinaram nesta semana um acordo voluntário com a Casa Branca, prometendo implementar salvaguardas. O resumo da própria Wired é que não está claro o quanto isso importa.
+
+ANA: Voluntário é tipo "prometo que vou me comportar"?
+
+MARCOS: É. Não existe lei obrigando, nem multa clara se a empresa descumprir, pelo que a reportagem sugere. Compromissos assim têm valor de sinalização, ou seja, mostram que o assunto está na mesa. Mas a Wired aponta o problema clássico: quem fiscaliza?
+
+ANA: E tem ligação com o Gemini quatro? O Google segurando o modelo por segurança?
+
+MARCOS: Boa ligação. Eu diria que a restrição do Google é uma decisão da empresa, e o acordo é um compromisso geral. A gente não sabe se uma coisa tem a ver com a outra, e nenhuma das reportagens afirma isso. Mas mostra que a autorregulação, as empresas se vigiando sozinhas, é o que temos por enquanto.
+
+ANA: Por último, vi no The Verge uma investigação sobre um data center em Utah, ligado ao Kevin O'Leary. Aquele do programa de investidores?
+
+MARCOS: Esse mesmo. O Josh Dzieza, repórter do The Verge, passou meses investigando o plano de construir o maior data center do mundo. A ideia era um campus de IA de quarenta mil acres, com nove gigawatts de potência.
+
+ANA: Nove gigawatts. Isso é muito?
+
+MARCOS: É absurdo. Uma usina nuclear grande gera cerca de um gigawatt. Seriam algo como nove usinas dessas só pra alimentar computadores. E quarenta mil acres são uns dezesseis mil hectares, uma área maior que muitas cidades.
+
+ANA: E o título fala em "debacle", ou seja, fracasso. O que deu errado?
+
+MARCOS: Pelo que o The Verge apresenta, houve reação negativa e muitos problemas no projeto, e o título fala em "backlash". Eu não vou inventar detalhes que o resumo não traz. O que eu posso dizer é por que importa: a corrida da IA precisa de energia, terreno e água, e as comunidades locais estão começando a reagir. Anunciar um número gigante dá manchete, mas tirar do papel é outra história.
+
+ANA: Então a IA não é só software, é concreto, energia e vizinho reclamando.
+
+MARCOS: Exatamente. Fecha bem o dia.
+
+ANA: Vamos ao resumo, então. O Google anunciou o Gemini quatro Argon, mas deixou o acesso restrito a defensores cibernéticos de confiança por causa do poder do modelo.
+
+MARCOS: A OpenAI lançou o Dots, agente movido pelo G P T seis Astra, numa disputa direta com o Muse, da Meta, que é gratuito.
+
+ANA: O CEO do Airbnb, Brian Chesky, defendeu que agentes precisam de um sistema operacional próprio, e a Photon levantou quatro milhões e meio de dólares pra levar agentes às mensagens e substituir apps.
+
+MARCOS: A Wired chamou de promessa vazia o acordo voluntário de seis empresas com a Casa Branca, e o The Verge mostrou como o megaprojeto de data center de Kevin O'Leary em Utah virou uma dor de cabeça.
+
+ANA: Por hoje é isso! Obrigada por ouvir o "I A Hoje". Amanhã tem mais.
+
+MARCOS: Até amanhã, pessoal!
