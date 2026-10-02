@@ -1,0 +1,95 @@
+ANA: Bom dia, pessoal! Hoje é dia dois de outubro de dois mil e vinte e seis, e este é o I A Hoje. Eu sou a Ana, e aqui comigo está o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem ouve. Hoje o dia tem data center, preço de aparelho, falha de segurança e uma discussão filosófica bem boa.
+
+ANA: Então vamos começar pelo que está dando briga nos Estados Unidos. O The Verge noticiou que a Amazon publicou um texto enorme alertando as comunidades para não bloquearem data centers. Conta essa.
+
+MARCOS: Segundo o The Verge, é um post de mais de três mil palavras, assinado pelo Matt Garman, que é o chefe da Amazon Web Services, a divisão de nuvem da Amazon. Ele pede apoio aos projetos de data centers de I A. E diz que, se a oposição travar essas obras, o dano à economia e à segurança nacional americana pode ser irreparável.
+
+ANA: Irreparável? Que tom pesado pra um blog de empresa.
+
+MARCOS: Pois é. O Verge chamou de "blog assustador". E ele responde diretamente às preocupações do público: impacto em empregos, consumo de energia e por aí vai.
+
+ANA: Mas por que as pessoas estão incomodadas, afinal? Data center é um prédio com computador dentro.
+
+MARCOS: Antigamente era isso mesmo. Outra matéria do Verge conta que uma vereadora de San Antonio, a Ric Galvan, lembra que nos anos dois mil os data centers pareciam prédios de escritório discretos. Hoje são instalações gigantes, chamadas de "hiperescala", com milhões de pés quadrados, que abrigam a infraestrutura física da I A. É a diferença entre um galpão de bairro e um shopping center que consome energia como uma cidade pequena.
+
+ANA: E aí o vizinho olha pra aquilo e não gosta.
+
+MARCOS: Exatamente. E a matéria cita a Microsoft tentando uma saída curiosa: camuflar data centers no meio do mato, com inspiração na natureza. A pergunta do título é: se o data center estiver escondido na floresta, alguém vai odiar do mesmo jeito?
+
+ANA: Hahaha! Mas é hype ou é problema real?
+
+MARCOS: É problema real. Esconder o prédio não reduz o consumo de energia nem o barulho. Maquiagem resolve a estética, não a conta de luz. Por outro lado, quando uma gigante publica um textão pedindo apoio, isso mostra que a resistência local já está atrapalhando de verdade. Minha opinião: as empresas vão precisar de mais transparência sobre energia e água, e menos retórica de ameaça.
+
+ANA: Falando em conta que chegou pro consumidor: o Ars Technica diz que o Nvidia Shield TV, aquele aparelho de assistir streaming, ficou cem dólares mais caro por causa da I A.
+
+MARCOS: Esse caso é muito ilustrativo. O Shield TV Pro foi lançado em dois mil e dezenove, tem sete anos de vida, e agora custa duzentos e noventa e nove dólares e noventa e nove centavos. Pela matéria, o aumento é de cem dólares.
+
+ANA: Mas o que a I A tem a ver com um aparelho de sete anos?
+
+MARCOS: A reportagem atribui o aumento à I A. Eu não tenho o detalhamento aqui, mas o mecanismo usual é este: a corrida por I A disputa componentes, como chips de memória, com todo o resto da eletrônica. Quando a demanda dos data centers sobe, o preço do que sobra pro consumidor sobe junto. É como uma obra enorme na cidade que compra todo o cimento: a reforma da sua casa fica mais cara.
+
+ANA: Ou seja, o impacto da I A já chegou na sala de estar, sem ninguém ter pedido.
+
+MARCOS: Isso. E o fato de ser um produto antigo e mesmo assim encarecer é sinal de como a pressão é forte. Aqui não tem exagero: é a economia da I A vazando pro bolso de quem nem usa chatbot.
+
+ANA: Agora um assunto de segurança. A Wired contou que havia uma falha no aplicativo do ChatGPT para Mac.
+
+MARCOS: Sim. Segundo a Wired, uma vulnerabilidade, já corrigida, poderia ter permitido que hackers pegassem dados sensíveis. Eu não vou inventar detalhes técnicos que a matéria resumida não traz, mas o recado do texto é claro.
+
+ANA: Qual recado?
+
+MARCOS: Muita gente fala do que agentes de I A conseguem fazer como hackers. Mas o próprio software de I A é alvo. Pensa assim: você instala no computador um assistente que enxerga seus arquivos, suas conversas, às vezes suas senhas. Se ele tem uma brecha, vira uma porta aberta pra dentro da sua casa digital.
+
+ANA: E o que o usuário faz? Fico sem usar?
+
+MARCOS: Não precisa pânico. A falha foi corrigida. O que vale é manter o aplicativo atualizado e lembrar que app de I A merece o mesmo cuidado de qualquer programa com acesso amplo ao seu computador. Quanto mais poder o assistente tem, mais atraente ele é pra atacante.
+
+ANA: Agora vem o texto filosófico. A MIT Technology Review publicou um artigo com o título "Não se deixe enganar: os modelos de linguagem não raciocinam".
+
+MARCOS: Esse é interessante pela autoria. O autor abre contando que, numa tarde em Seul, em março de dois mil e dezesseis, viu o programa que ele ajudou a construir jogar uma pedra na quinta linha do tabuleiro de Go, o famoso lance trinta e sete da segunda partida. Parecia tão absurdo que alguns comentaristas acharam que era um erro. Era o AlphaGo, da DeepMind, contra um campeão humano.
+
+ANA: E por que ele começa por aí?
+
+MARCOS: Porque aquele lance veio de um sistema que realmente buscava, avaliava e planejava jogadas. A tese do artigo, pelo título, é que os modelos de linguagem, como os que alimentam os chatbots de hoje, não fazem isso do mesmo jeito. Eles preveem a próxima palavra com base em padrões imensos. Parece raciocínio, mas o autor diz que não é.
+
+ANA: Mas se a resposta sai certa, qual a diferença?
+
+MARCOS: Boa pergunta. A diferença aparece quando a situação foge do que o modelo já viu. Um aluno que decorou mil exercícios resolve a prova parecida, mas trava na questão diferente. Quem entendeu a matéria se vira. A discussão é se esses modelos entendem ou decoram muito bem.
+
+ANA: E você concorda?
+
+MARCOS: Em parte. Acho que a palavra "raciocinar" é escorregadia e cada lado a usa de um jeito. O que importa pra quem usa é o seguinte: o modelo pode errar com muita confiança, então checar o resultado continua sendo obrigatório. Isso conversa com outra matéria do Verge.
+
+ANA: Aquela das alucinações e dos clientes?
+
+MARCOS: Essa. O texto começa com a Madison, uma garçonete em Nova York que pergunta a cada mesa sobre alergias. Ela conta que, às vezes, o cliente diz que tem alergia a frutos do mar e, quando ela volta, ninguém ligou pra isso, e já houve situações de risco.
+
+ANA: Mas o que isso tem a ver com I A?
+
+MARCOS: O título diz que as alucinações da I A estão deixando clientes ainda mais folgados. Alucinação é quando o modelo inventa uma informação com cara de verdade. A ideia é que as pessoas confiam em respostas de I A, chegam com expectativas erradas, e quem trabalha no atendimento é quem paga a conta. Eu só tenho o trecho inicial da matéria, então não vou detalhar casos além disso. Mas o ponto é forte: o erro da máquina não some, ele se transfere pra um trabalhador de carne e osso.
+
+ANA: Que pesado. A I A erra e o garçom é quem leva o pito.
+
+MARCOS: E isso se repete na matéria da Wired sobre a Palantir na saúde. Um gigante hospitalar e uma rede de radiologia adotaram o software da Palantir pra agilizar agendamentos. Mas enfermeiros e outros funcionários dizem que o sistema causa erros, esgotamento e frustração.
+
+ANA: Ou seja, a promessa era simplificar e virou mais trabalho.
+
+MARCOS: É o padrão. A tecnologia chega com a promessa de eficiência, mas quem está na ponta tem que consertar o que ela bagunça. Em agendamento hospitalar, um erro não é só incômodo: pode atrasar exame e atendimento. Eu desconfio sempre quando a decisão de comprar vem de cima e quem usa não foi ouvido.
+
+ANA: Vamos terminar com algo mais leve. A Suno, conhecida por gerar música com I A, agora gera voz falada.
+
+MARCOS: Isso. Segundo o The Verge, a Suno lançou em beta público, na web e no celular, um recurso de fala. Você escreve um roteiro ou descreve como quer a voz, e ela gera a locução. E dá pra gerar a voz e a música de fundo ao mesmo tempo.
+
+ANA: Pensa num podcast, tipo o nosso!
+
+MARCOS: Hahaha, pensa. Mas o uso mais direto é vídeo curto, anúncio, narração de apresentação. A Suno diz que a música sempre será o centro dela, mas é um movimento natural: quem já faz trilha agora quer a voz junto, num lugar só. A concorrência em voz sintética é grande, então o diferencial deles é justamente esse pacote integrado.
+
+ANA: Então vamos ao resumo do dia?
+
+MARCOS: Vamos. A Amazon pediu apoio aos data centers num textão, e a Microsoft tenta camuflar os prédios no mato. O Nvidia Shield TV subiu cem dólares por causa da pressão da I A sobre componentes. Uma falha no app do ChatGPT para Mac foi corrigida, lembrando que software de I A também é alvo. A MIT Technology Review defende que modelos de linguagem não raciocinam de verdade. As alucinações da I A estão sobrando pra quem trabalha no atendimento, e a Palantir na saúde mostra que sistema novo pode virar dor de cabeça. E a Suno agora gera voz falada além de música.
+
+ANA: Obrigada, Marcos! E obrigada a você que ouviu até aqui. Amanhã tem mais I A Hoje. Até lá!
+
+MARCOS: Até amanhã!

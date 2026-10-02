@@ -1,103 +1,5 @@
 {
   "items": {
-    "0f76ec40d9281269": {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "norm_title": "openaifaces30morelawsuitstiedtotumblerridgeshooting",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "895a81c163e3a0f2": {
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "norm_title": "pangramhasemergedasthegoldstandardofaidetectionshouldyoutrustit",
-      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-      "source": "Wired",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "651830907a160807": {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "norm_title": "googleneedshollywoodmorethanthestudiosneedai",
-      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "source": "The Verge",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "e3b3d120fe39ab6c": {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "norm_title": "afterqueryreportedlybecomesycombinatorsfastesteverunicornnowvaluedat32b",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "40c8767453d2d2a4": {
-      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-      "norm_title": "anthropiclaunchesclaudefable51andsaysitsupto45percentcheaperforagenticwork",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "source": "The Verge",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "303ed91034b93f41": {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "norm_title": "benchmirtwhatarellmbenchmarksactuallymeasuring",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "89a83a016c1d1fe7": {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "norm_title": "openaisastramodelisonthewayandverygoodatbreakingintocomputersystems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "a6320c69c3e4be6d": {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "norm_title": "googlesandroidupdatetacklesmotionsicknessaccessibilityandmore",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "051b569fb1b59fcf": {
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "norm_title": "openaidelayeditsnewmodelsdevelopmentafterthehuggingfacehack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "source": "The Verge",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "5f798601c31561ee": {
-      "title": "The latest AI news we announced in August 2026",
-      "norm_title": "thelatestainewsweannouncedinaugust2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "bd7515f954327459": {
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "norm_title": "openaiisabouttoreleaseitsfirstaimodelwithcriticalcyberabilities",
-      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-      "source": "Wired",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "5527874958e20413": {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "norm_title": "anthropicsnewfablereleaseischeaperlessrestrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "fa021159722f2af6": {
-      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-      "norm_title": "theriseofaicivilizationsandthefallofcorporateresponsibility",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "source": "The Verge",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
-    "926d0889630c72c5": {
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "norm_title": "appleaccusesopenaiofdestroyingevidence",
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "source": "The Verge",
-      "seen_at": "2026-09-02T13:08:50.480283+00:00"
-    },
     "74c329b4fac4cb98": {
       "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
       "norm_title": "nvidiartxsparksuperchipthefirstaipcsarehere",
@@ -2638,6 +2540,104 @@
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "source": "Google DeepMind",
       "seen_at": "2026-10-01T15:52:44.182758+00:00"
+    },
+    "0c367060ef1a78a7": {
+      "title": "The latest AI news we announced in September 2026",
+      "norm_title": "thelatestainewsweannouncedinseptember2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "3d0ab315d822e253": {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "norm_title": "techcrunchdisrupt2026blackstonesjaskhairaonbuildingthenextgenerationofaigiants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "7b1daf258b4dce1b": {
+      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "norm_title": "trumpscrazyairebrandwasaloyaltytestfortechexecsanditworked",
+      "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+      "source": "Wired",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "9323bf5acd7bac70": {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+      "norm_title": "the7yearoldnvidiashieldtvisnow100moreexpensivethankstoai",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "bae8ba33b75f24d7": {
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "norm_title": "techcrunchdisrupt2026clayskareemaminontheriseofthegtmengineer",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "cfb8cd4325532f3d": {
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "norm_title": "last24hoursexhibitattechcrunchdisrupt2026andreach10000techleaders",
+      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "035e74294ffbaac1": {
+      "title": "AI hallucinations are making entitled customers even worse",
+      "norm_title": "aihallucinationsaremakingentitledcustomersevenworse",
+      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "source": "The Verge",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "ac85aa91104b0f03": {
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "norm_title": "ifadatacenteriscamouflagedinthewoodswillanyonehateit",
+      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "source": "The Verge",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "17ac726eee47fd6d": {
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "norm_title": "amazonwritesscaryblogwarningcommunitiesnottoblockdatacenters",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "source": "The Verge",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "8d53c75867202cd5": {
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "norm_title": "aflawinchatgptsmacappcouldhavelethackersgrabsensitivedata",
+      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "source": "Wired",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "dfb184fddb96e4ff": {
+      "title": "AI music maker Suno now generates spoken words",
+      "norm_title": "aimusicmakersunonowgeneratesspokenwords",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "9b8a40d89ed35d1b": {
+      "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+      "norm_title": "healthcareworkersaretiredofcleaninguppalantirsmess",
+      "url": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+      "source": "Wired",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "329753c5d9d94a2c": {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "norm_title": "dontbefooledllmsdontreason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "888e9d33d015fc17": {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "norm_title": "autosynthdatageneratingtrainingdataforenterpriseagents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-02T15:11:52.687646+00:00"
     }
   }
 }
