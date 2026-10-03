@@ -1,0 +1,123 @@
+ANA: Bom dia, pessoal! Hoje é dia três de outubro de dois mil e vinte e seis, e este é o IA Hoje. Eu sou a Ana, e aqui comigo está o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a todo mundo que nos ouve. Hoje o assunto é um só, com vários ângulos: os agentes de inteligência artificial que estão entrando no seu celular, na sua TV e até na sua torradeira.
+
+ANA: Torradeira? Calma, vamos com calma. Primeiro: o que é esse tal de Muse, que apareceu em três notícias hoje?
+
+MARCOS: O Muse é o novo agente de inteligência artificial da Meta. Agente, Ana, é uma I A que não só responde perguntas, mas faz coisas por você: manda mensagem, organiza agenda, mexe em arquivos. Segundo a Wired, milhões de pessoas já baixaram o Muse.
+
+ANA: Milhões! E qual é o problema? Porque a Wired trouxe o assunto com cara de alerta.
+
+MARCOS: A matéria diz que, para o Muse fazer o que você pede, ele paga um preço de privacidade. Segundo a Wired, ele cria perfis detalhados de todos os seus amigos e familiares. Ele lê suas conversas, vê quem é quem na sua vida e guarda isso para ser útil.
+
+ANA: Ai, mas isso não é meio inevitável? Se eu peço "marca um jantar com a minha irmã", ele precisa saber quem é minha irmã.
+
+MARCOS: Precisa, e esse é o dilema. Saber que ela é sua irmã é uma coisa. Montar um dossiê com os hábitos dela, o humor dela, os assuntos sensíveis, é outra. E tem um detalhe: sua irmã não aceitou nada. Ela não assinou termo de uso nenhum. Você deu a permissão por ela, sem querer.
+
+ANA: Nossa, é verdade. Os amigos viram dados sem ser consultados.
+
+MARCOS: Exatamente. Na minha opinião, é o ponto menos discutido dessa onda de agentes. A gente sempre pensa na nossa privacidade, e pouco na de quem conversa com a gente.
+
+ANA: E essa história de ler mensagens leva a outra notícia, né? A da Apple.
+
+MARCOS: Leva. Segundo o Ars Technica, a Meta disse que a permissão chamada acesso total ao disco, que em inglês é Full Disk Access, não seria suficiente para o Muse ler suas mensagens. E a Apple discordou.
+
+ANA: Espera, o que é esse acesso total ao disco?
+
+MARCOS: No Mac, os programas normalmente vivem em quartinhos separados. Um app não entra no quarto do outro. O acesso total ao disco é uma chave-mestra: o app abre todas as portas, e então enxerga mensagens, e-mails, histórico de navegação, tudo. Antigamente isso era usado por antivírus e programas de backup.
+
+ANA: E agora os agentes querem essa chave-mestra.
+
+MARCOS: Querem, porque para fazer tudo por você, eles precisam ver tudo. Segundo o TechCrunch e o The Verge, a Apple anunciou nesta sexta-feira novos controles para essa permissão. A justificativa é que agentes de I A aumentam de forma substancial o risco de dar esse acesso.
+
+ANA: E o que muda na prática?
+
+MARCOS: Pelo que a Apple disse, só quem realmente quer conceder esse nível extraordinário de acesso vai conseguir, e com mais barreiras para isso. Não vi todos os detalhes técnicos ainda, então vale esperar a documentação. Mas o recado é claro: a Apple não quer que um clique distraído entregue sua vida inteira a um robô.
+
+ANA: Isso é proteção ou é a Apple defendendo o quintal dela?
+
+MARCOS: Boa pergunta, e as duas coisas podem ser verdade. Proteger o usuário é real, a lógica de segurança faz sentido. Mas a Apple também controla a porta, e isso dá poder sobre quem vai ter agentes bons no Mac. Dá para aplaudir a medida e ficar de olho no efeito concorrencial.
+
+ANA: Ok. Agora me explica a torradeira. O que a Meta quer com isso?
+
+MARCOS: Segundo o TechCrunch, a Meta quer o Muse na sua TV e na sua torradeira, então vai distribuir o código de graça. E o The Verge detalhou: a empresa liberou o código aberto, o chamado código aberto, ou open source, para qualquer pessoa montar seus próprios aparelhos com o Muse.
+
+ANA: Que tipo de aparelho?
+
+MARCOS: A Meta sugeriu projetos como colocar o Muse numa tela de tinta eletrônica colorida, daquelas parecidas com leitor de livro digital, para mostrar lembretes. Ou num dongle H D M I, que é aquele bastãozinho que você pluga na TV, para ver o Muse na tela grande.
+
+ANA: Fofo. Mas por que a Meta daria isso de graça?
+
+MARCOS: Porque a Meta não vende software, ela vende presença. Se milhares de gambiarras e produtos usam o Muse, ele vira padrão, como o Android virou nos celulares. Foi o mesmo movimento do Llama, o modelo aberto deles. Dá a base de graça, e fica no centro do ecossistema.
+
+ANA: Mas tem a tensão com a primeira notícia, né? Ele cria perfis de todo mundo, e agora vai estar na TV da sala.
+
+MARCOS: Essa é a minha preocupação. Um agente que sabe muito sobre você, solto em dezenas de aparelhos feitos por qualquer um, multiplica os pontos de vazamento. Mas também abre espaço para projetos criativos e para quem quer rodar tudo em casa. É empolgante e arriscado ao mesmo tempo.
+
+ANA: Falando em agentes, a OpenAI também lançou o dela.
+
+MARCOS: Lançou. Segundo o The Verge, é uma plataforma de agentes chamada Dots, cheia de bonequinhos que fazem tarefas por você. Mas o texto conta que, ao contrário do Muse, que é super acessível, os Dots parecem software de trabalho, que por acaso consegue pedir seu jantar.
+
+ANA: Ou seja, um programa de escritório que sabe pedir um burrito.
+
+MARCOS: Isso! E repara na estratégia. A Meta mira o consumidor, o cotidiano, a casa. A OpenAI mira a empresa, onde o cliente paga mais e fica mais tempo. Duas apostas diferentes para a mesma ideia de agente.
+
+ANA: E quem ganha?
+
+MARCOS: Ainda é cedo. Mas o TechCrunch fez uma lista dos agentes que já vivem dentro das suas mensagens de texto, de assistentes gerais a agentes para família, viagem e trabalho. O que mostra que o campo está cheio, e que o jeito mais natural de usar um agente é conversar como você conversa com um amigo.
+
+ANA: Só que tem outro número hoje que me chamou atenção. Dois por cento.
+
+MARCOS: Esse vem de um podcast do TechCrunch, com o título de que, chame de I A ou de superinteligência, só dois por cento dos consumidores estão comprando. A conversa tratou dessa semana na Casa Branca.
+
+ANA: Conta isso, que eu quase não acreditei.
+
+MARCOS: Segundo o TechCrunch, a Casa Branca reuniu quase todos os grandes executivos de tecnologia, entre eles Zuckerberg, Bezos, Musk e Dario Amodei, da Anthropic, para assinar um compromisso de segurança em I A que o presidente Trump chamou de moralmente vinculante. Trump também assinou uma ordem executiva rebatizando a I A oficialmente como superinteligência.
+
+ANA: Rebatizar? Só o nome?
+
+MARCOS: Pelo que foi relatado, sim, o foco é o nome. E repare: o termo superinteligência tem um peso enorme na área. Significava uma I A muito mais capaz que humanos, algo que ninguém tem hoje. Chamar os produtos atuais disso é marketing político, não descrição técnica.
+
+ANA: E o compromisso moralmente vinculante? Isso tem força de lei?
+
+MARCOS: Essa expressão é curiosa, porque moralmente vinculante não é legalmente vinculante. É uma promessa de boa-fé, sem multa nem fiscalização que eu saiba. Pode ter valor simbólico, mas eu esperaria ver ações concretas antes de comemorar.
+
+ANA: E o dois por cento?
+
+MARCOS: A ideia é que, apesar de tanta empolgação, só uma pequena parte dos consumidores paga por I A. Muita gente usa de graça, e o dinheiro grande ainda vem de empresas. Por isso Meta e OpenAI estão colocando rostos mais simpáticos nos produtos, para ver se conquistam o público comum.
+
+ANA: Então o Muse fofinho e os Dots bonitinhos são, em parte, uma tentativa de fazer a gente abrir a carteira.
+
+MARCOS: Em parte, sim. Eu sou cauteloso aqui: não tenho o detalhamento da pesquisa, só o que o TechCrunch trouxe, então trate o dois por cento como um indicador, não como verdade absoluta.
+
+ANA: Tá. Vamos mudar um pouco de assunto. Música. O Sean Parker está de volta?
+
+MARCOS: Está. Segundo o TechCrunch, Sean Parker, aquele do Napster, que ensinou a indústria da música o que é pedir perdão em vez de permissão, agora está reconstruindo a Stability AI em torno de música. E desta vez com a bênção e o dinheiro das gravadoras.
+
+ANA: Que reviravolta! O pirata virou parceiro.
+
+MARCOS: A ironia é deliciosa. Os selos estavam processando empresas de música por I A por treinar com obras protegidas. Agora a saída parece ser licenciar, com autorização e pagamento. Eu vejo como um sinal de amadurecimento: ou você paga os artistas, ou será processado.
+
+ANA: E o Napster original, no começo dos anos dois mil...
+
+MARCOS: Foi o contrário: distribuir sem pedir, e a indústria reagiu com tribunais. Agora Parker chega com os selos ao lado. Mas ainda não sei os termos do acordo, então a pergunta que fica é quanto sobra para os artistas.
+
+ANA: Ainda dá tempo de uma última? Vi uma sobre chips da Nvidia.
+
+MARCOS: Rapidinho. Segundo o Ars Technica, os Estados Unidos prenderam o presidente de uma empresa de tecnologia acusado de contrabandear trezentos milhões de dólares em chips da Nvidia para a China. É o problema do contrabando de chips, que não some, porque os Estados Unidos restringem a venda desses processadores e a demanda do outro lado é gigante.
+
+ANA: Trezentos milhões em chips. Dá para esconder isso?
+
+MARCOS: Chip é pequeno e valioso, então o contrabando é tentador. Mostra que a corrida da I A também é uma disputa geopolítica pelo hardware.
+
+ANA: Então vamos ao resumo. Primeiro, o Muse, da Meta, ganhou milhões de downloads, mas, segundo a Wired, monta perfis detalhados de seus amigos e familiares.
+
+MARCOS: Segundo, a Meta liberou o código para fazer aparelhos com o Muse, de telas de tinta eletrônica a TVs. Terceiro, a Apple vai apertar o acesso total ao disco no Mac por causa dos riscos dos agentes.
+
+ANA: Quarto, a OpenAI lançou os Dots, agentes com cara de software de trabalho.
+
+MARCOS: Quinto, a Casa Branca rebatizou a I A de superinteligência, enquanto só dois por cento dos consumidores pagam por ela. Sexto, Sean Parker reconstrói a Stability AI em torno de música, agora com as gravadoras. E sétimo, mais uma prisão por contrabando de chips da Nvidia para a China.
+
+ANA: Pronto, gente! Obrigada por ficarem com a gente. Amanhã tem mais IA Hoje.
+
+MARCOS: Até amanhã! E pense duas vezes antes de dar a chave-mestra do seu computador a um robô.

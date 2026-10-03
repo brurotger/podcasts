@@ -1,103 +1,5 @@
 {
   "items": {
-    "74c329b4fac4cb98": {
-      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "norm_title": "nvidiartxsparksuperchipthefirstaipcsarehere",
-      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "source": "Wired",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "0f364d36087f935a": {
-      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-      "norm_title": "nvidiashuggingfaceacquisitionisa129billionbetonopensourceai",
-      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-      "source": "Wired",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "7c3f8b560ce433cd": {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "norm_title": "nvidiaconfirmsitwillbuyhuggingfacefor129billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "dc58165d67efcd99": {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "norm_title": "nvidiaisbuyinghuggingfaceforalmost13billion",
-      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "source": "The Verge",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "0b0734f32822ad1c": {
-      "title": "This Is Flock’s AI Search Tool for Cops",
-      "norm_title": "thisisflocksaisearchtoolforcops",
-      "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
-      "source": "Wired",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "9f2c759d17e2800d": {
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "norm_title": "metapushesitsnewaiagentonemployeesbuteasesoffontokenmaxxing",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "source": "Wired",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "6f282efafe6e9336": {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "norm_title": "finetuninga350mmodelforbetterstructuredoutputsin100grposteps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "2717c6b7b0cc73fb": {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "norm_title": "giveyourcodingagentsamemoryyouown",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "593d144d02e1e57e": {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "norm_title": "trainingacodingmodeltopaintwatercolourswithtrlandopenenv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "505cda1e34e11dde": {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "norm_title": "thebuildersstagebringspracticalstrategiesforscalingstartupstotechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "4c1f87407a42c6fd": {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "norm_title": "paloaltonetworkspaid500mforthrivebackedconsolesourcessay",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "905ecce00caf27dc": {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "norm_title": "techcrunchdisrupt2026snewrealworldaistagefeaturesnvidiarobotsandextinctanimals",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "671a64a825d86e5c": {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "norm_title": "openaisnewreasoningtechniquealarmsaisafetyexperts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
-    "a08e8c8756f337eb": {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "norm_title": "googlesaysitsnewgemini38flashmodelworksharderbutmightcostmore",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "source": "The Verge",
-      "seen_at": "2026-09-03T13:09:44.416469+00:00"
-    },
     "f9aa79af0178fc1a": {
       "title": "Instagram’s AI detection is a mess (again)",
       "norm_title": "instagramsaidetectionisamessagain",
@@ -2638,6 +2540,104 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "source": "Hugging Face",
       "seen_at": "2026-10-02T15:11:52.687646+00:00"
+    },
+    "dc8d071ac16e0a4e": {
+      "title": "All the AI agents that can live in your text messages",
+      "norm_title": "alltheaiagentsthatcanliveinyourtextmessages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "6e187230b175bca0": {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "norm_title": "musecreatesdetailedprofilesofallyourfriendsandfamily",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "source": "Wired",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "4ded431806900a01": {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "norm_title": "metawantsyournextgadgettobemuseinfused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "c57093ff01e47fbb": {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "norm_title": "applechangesfulldiskaccesspermissionstocurbabusefromaiagents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "4778cda9b62cc301": {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "norm_title": "seanparkerisrebuildingstabilityaiaroundmusic",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "b3db75591e9361e3": {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "norm_title": "metaopensourcescodetoletyoumakemuseaigadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "f48356e0a0ff2cec": {
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "norm_title": "amazons1bplantocombatdatacenterbacklashdrawsmorebacklash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "4195a4e2c026a5fe": {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "norm_title": "applewilllimitmacdiskaccessasaiagentssubstantiallyincreaserisk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "The Verge",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "145670a922a59a94": {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "norm_title": "usarreststechceoaccusedofsmuggling300minnvidiachipsintochina",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "4da132516f6c0750": {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "norm_title": "applesaysitstighteningmacosfulldiskaccesscontrolsduetonewrisksfromaiagents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "5e8ad9b3045b33dc": {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "norm_title": "openaisdotagentisenterprisesoftwarethatcanalsoorderyourdinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "source": "The Verge",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "f58af0451a4a3849": {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "norm_title": "callitaicallitsuperintelligenceonly2ofconsumersarebuyingit",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "b7b1a6ea8f0381cf": {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "norm_title": "itsnotaianymoreitssuperintelligenceaccordingtothewhitehouse",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
+    },
+    "0d5c8f30ba8d64f1": {
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "norm_title": "breakingupwithelonmuskishardtodo",
+      "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+      "source": "The Verge",
+      "seen_at": "2026-10-03T14:05:37.154146+00:00"
     }
   }
 }
