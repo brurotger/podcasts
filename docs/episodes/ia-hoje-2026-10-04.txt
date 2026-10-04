@@ -1,0 +1,87 @@
+ANA: Bom dia, pessoal! Hoje é dia quatro de outubro de dois mil e vinte e seis, e este é o IA Hoje. Eu sou a Ana, e está aqui comigo, como sempre, o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia, ouvintes. Hoje a pauta tem muita coisa sobre o custo físico da inteligência artificial e também uma saída barulhenta lá da OpenAI.
+
+ANA: Então vamos começar pela saída barulhenta, que eu fiquei curiosa. O que aconteceu?
+
+MARCOS: Um funcionário de segurança da OpenAI, o David Robinson, pediu demissão e publicou um texto de opinião na revista The Atlantic. Segundo o TechCrunch, ele diz que a cultura da empresa está quebrada. E, segundo o The Verge, ele era quem escrevia os relatórios de segurança que acompanhavam cada lançamento importante de modelo da empresa.
+
+ANA: Espera. Então não é um estagiário qualquer. É a pessoa que escrevia o relatório dizendo "olha, esse modelo é seguro, ou nem tanto".
+
+MARCOS: Exatamente. Ele sabe o que passou pela mesa antes de cada lançamento. E o próprio Robinson admite que é meio clichê: o funcionário de uma empresa de IA que pede demissão e solta um alerta dramático. O TechCrunch cita essa autocrítica dele.
+
+ANA: E por que isso importa? Porque, convenhamos, já teve outras saídas assim.
+
+MARCOS: Teve, e esse é o ponto. O Verge comenta que dá para ficar cínico, com tanta gente aparecendo para avisar dos perigos. Eu entendo o cansaço. Mas tem uma diferença entre alguém de fora opinando e alguém que fazia o trabalho de documentar riscos por dentro.
+
+ANA: Mas isso é hype, Marcos? Ou é um sinal real?
+
+MARCOS: Eu seria cuidadoso. Eu só tenho o resumo das reportagens, não li o texto completo da Atlantic, então não vou inventar acusações específicas. O que dá para dizer é que uma pessoa dessas escolher a via pública, em vez de brigar por dentro, mostra que ela sentiu que os canais internos não bastavam. Isso é um dado. Não é uma prova de que algo grave aconteceu, mas merece atenção.
+
+ANA: E pra quem usa o ChatGPT no dia a dia, muda alguma coisa amanhã?
+
+MARCOS: Amanhã, não. Mas pense assim: é como o inspetor de qualidade de uma fábrica de carros dizendo publicamente que se demitiu. O carro continua rodando, só que você passa a olhar com mais atenção para o selo de segurança. O ideal é que a empresa responda com detalhes, e não só com nota padrão.
+
+ANA: Bom, vamos para o outro lado da moeda: o chão onde a IA mora. Tem a notícia da Amazon e os data centers.
+
+MARCOS: Isso. O TechCrunch conta que o CEO da AWS, a divisão de nuvem da Amazon, tentou reagir à desconfiança generalizada contra data centers. Entre as coisas ditas, a Amazon afirma que não usa mais acordos de confidencialidade, os famosos NDAs, nesse tipo de projeto.
+
+ANA: Pera, por que tinha NDA em obra de data center?
+
+MARCOS: Porque a empresa fechava projetos com prefeituras e fornecedores sem revelar quem era o cliente final. A comunidade ficava sabendo de uma obra enorme, que consome muita energia e água, sem saber quem estava por trás. Isso gerou muita desconfiança.
+
+ANA: Dá pra entender. Imagina descobrir que vão construir um prédio gigante do lado da sua casa e ninguém pode te dizer de quem é.
+
+MARCOS: Pois é. Então dizer que não usa mais NDA é um gesto de transparência. Agora, eu tenho um pé atrás: é uma declaração da própria empresa, e o resumo não detalha se vale para contratos antigos ou só para novos. Vale acompanhar se isso vira prática verificável.
+
+ANA: E tem a ver com a matéria da Wired sobre incentivo fiscal, né?
+
+MARCOS: Tem tudo a ver. A Wired diz que, pela lei chamada One Big Beautiful Bill Act, projetos de data center em áreas rurais podem ter grandes benefícios fiscais a partir do ano que vem. E o detalhe curioso é que algumas das gigantes, as chamadas hyperscalers, não parecem ansiosas para pegar esse dinheiro de graça.
+
+ANA: Dinheiro grátis e a empresa não quer? Isso é estranho!
+
+MARCOS: É contraintuitivo, né? Uma hipótese minha, e é só hipótese: data centers de IA precisam de energia farta, fibra óptica boa e proximidade de mão de obra e de outras instalações. Área rural pode ter terreno barato, mas faltar infraestrutura. E tem o fator político: com a resistência das comunidades, receber subsídio público pode piorar a imagem.
+
+ANA: Ou seja, o incentivo existe, mas o encaixe com a realidade é complicado.
+
+MARCOS: Isso. Por isso eu juntaria as duas notícias. A indústria quer construir rápido e em muita escala, só que a população está desconfiada, e a equação entre dinheiro, energia e aceitação social não fecha tão fácil.
+
+ANA: E esse custo físico chega até o consumidor, não é? Tem a história do Nvidia Shield.
+
+MARCOS: Chega, sim. A Wired conta que o Nvidia Shield TV, aquele aparelho de streaming que já tem sete anos de idade, ficou cem dólares mais caro. O motivo apontado é que o preço de tudo que tem memória está disparando por causa da IA.
+
+ANA: Mas por que a IA encarece um aparelhinho de TV?
+
+MARCOS: Porque os fabricantes de chips de memória estão priorizando os produtos mais lucrativos, as memórias usadas nos aceleradores de IA dos data centers. Sobra menos para o resto, e o preço sobe. É como se todo mundo, de repente, quisesse comprar o mesmo ingrediente, e o restaurante do bairro pagasse mais caro pelo tomate.
+
+ANA: E o mais louco é que o Shield é velho. Ele ficou mais caro mesmo sem ser novidade.
+
+MARCOS: Exatamente. Isso mostra que o efeito é geral. Não é só placa de vídeo ou celular novo: até produto envelhecido paga a conta. Para o consumidor, a dica é que talvez valha comprar antes de novos reajustes, se você já estava planejando.
+
+ANA: Vamos para uma notícia mais leve, mas que me deixou pensando: a Capcom.
+
+MARCOS: Essa é interessante. O The Verge conta que o jogo Pragmata da Capcom fala justamente dos horrores da IA, mas o estúdio não parece tão contra a tecnologia na prática. Numa apresentação na Capcom Open Conference de dois mil e vinte e seis, o programador Satoshi Ishida falou do chamado projeto REX, que quer evoluir o motor de jogos da empresa, o R E Engine.
+
+ANA: O motor do Resident Evil, né?
+
+MARCOS: Esse mesmo. O título da reportagem diz que a Capcom se prepara para um futuro em que cria jogos junto com a IA. Eu só tenho o resumo, então não sei exatamente quais ferramentas entram. Mas o recado é claro: a indústria de jogos está incorporando IA no processo, e não apenas no discurso.
+
+ANA: E isso é bom ou ruim? Porque muita gente da área de games tem medo de perder emprego.
+
+MARCOS: É o ponto central. IA pode acelerar tarefas repetitivas, como testar e preencher cenários. Mas se for usada para substituir artistas e roteiristas, a reação do público e dos profissionais vai ser forte. A ironia de um jogo sobre os perigos da IA, feito por um estúdio que a adota, é digna de nota. Eu esperaria para ver como a Capcom detalha isso.
+
+ANA: Fechando, a gente tem uma entrevista que eu achei ótima, a do CEO da Splice.
+
+MARCOS: Kakul Srivastava, que comanda a Splice, plataforma de samples usada por produtores. Segundo o The Verge, trechos de lá aparecem em sucessos como "Money", da Lisa, e "Espresso", da Sabrina Carpenter. E o título da entrevista traz a opinião dela de que e-mails escritos por IA estão matando as conversas.
+
+ANA: Isso eu sinto na pele! Aquele e-mail perfeito, polido, e totalmente sem alma.
+
+MARCOS: Pois é. A ideia é que, quando todo mundo usa IA para escrever, a mensagem perde a voz de quem enviou, e a troca deixa de ser conversa. Há uma ligação com música: sample bom tem personalidade. Mas veja, tenho só o resumo e o título, então não detalho os argumentos dela além disso.
+
+ANA: Bom, então vamos ao resumo do dia.
+
+MARCOS: Primeiro, um funcionário de segurança da OpenAI saiu criticando a cultura da empresa na The Atlantic. Segundo, a Amazon diz que não usa mais NDAs em data centers, em meio à desconfiança das comunidades. Terceiro, a Wired mostra que incentivos fiscais rurais para data centers podem não empolgar as gigantes. Quarto, a IA está encarecendo até o Nvidia Shield, por causa da memória. Quinto, a Capcom mira um futuro de criar jogos com IA. E, por último, a CEO da Splice acha que e-mail escrito por IA mata a conversa.
+
+ANA: Obrigada, Marcos! E obrigada a você que ouviu até aqui. Amanhã tem mais IA Hoje. Até lá!
+
+MARCOS: Até amanhã, pessoal!
