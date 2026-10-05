@@ -1,0 +1,87 @@
+ANA: Bom dia, pessoal! Hoje é dia 5 de outubro de 2026, e este é o IA Hoje. Eu sou a Ana, e aqui comigo está o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem está ouvindo. Hoje tem polêmica, tem enxame de robôs chinês e tem Mac perdendo doze gigas.
+
+ANA: Doze gigas eu quero entender direitinho. Mas vamos começar pelo assunto mais pesado. O Sam Altman, da OpenAI, disse que o mundo deveria aceitar que "algumas coisas ruins" vão acontecer por causa da IA. O que foi isso?
+
+MARCOS: Segundo o The Verge, ele deu essa declaração numa entrevista. A ideia é que os benefícios da IA serão tão grandes que a sociedade precisa tolerar alguns custos. Ele citou invasões de sistemas, golpes e "outras coisas ruins". O argumento é que as pessoas vão fazer, nas palavras dele, ordens de grandeza mais coisas boas do que ruins.
+
+ANA: Pera. Golpe e hacker são "coisas ruins" que a gente tem que aceitar? Soa meio frio.
+
+MARCOS: Soa mesmo, e o argumento em si não é novo. Todo tecnologia grande trouxe riscos. O carro trouxe acidentes, a internet trouxe fraude. O problema é quem decide o que é aceitável. Quando quem diz "vamos aceitar os riscos" é o dono da empresa que vende a tecnologia, tem conflito de interesse. Quem paga o custo do golpe é a vovó que perdeu a aposentadoria, não a empresa.
+
+ANA: E tem outra matéria do The Verge que parece combinar com isso, né?
+
+MARCOS: Combina demais. A entrevista foi com o Mark Guiducci, da Vanity Fair. Ele perguntou ao Altman sobre o caso de um usuário do ChatGPT que se suicidou. Segundo o Verge, a assessora de imprensa da OpenAI tentou mudar de assunto. Ela avisou que o tempo estava acabando e disse que queria "seguir em frente" para outro tema.
+
+ANA: Nossa. Num assunto sobre uma morte?
+
+MARCOS: Pois é. Assessor de imprensa existe pra proteger a empresa, então não é surpresa que ele tente desviar. Mas a cena é simbólica. De um lado, o CEO diz que alguns males são o preço do progresso. Do outro, a empresa não quer falar de um caso concreto desses males. Eu acho que é aí que a confiança se desgasta. Se vamos aceitar custos, a gente precisa ao menos conversar abertamente sobre eles.
+
+ANA: E isso muda o quê pra quem usa o ChatGPT?
+
+MARCOS: Muda a pergunta que a gente faz. Não é "a IA é boa ou ruim?", é "que proteções existem pra quem está vulnerável?". Quem usa o chatbot como confidente, por exemplo, merece saber o que a empresa faz nessas situações. Eu não vou julgar o caso específico, porque só temos o resumo da reportagem. Mas o desconforto de evitar o tema diz muito.
+
+ANA: Falando em OpenAI, outra notícia dela hoje: anúncios. Agora vai ter propaganda no gerador de imagens?
+
+MARCOS: Vai. O TechCrunch conta que a OpenAI lançou anúncios visuais que aparecem depois que o resultado da imagem que você pediu é exibido. Por enquanto, só nos Estados Unidos.
+
+ANA: E por que isso importa? É só um banner a mais.
+
+MARCOS: O contexto é o seguinte. Rodar esses modelos custa muito caro, e a assinatura sozinha nem sempre paga a conta de milhões de usuários gratuitos. Publicidade é o caminho clássico, o mesmo do Google e do Facebook. O que preocupa é o que a propaganda faz com o incentivo. Quando a sua receita depende de atenção, o produto tende a empurrar você a ficar mais tempo ali.
+
+ANA: Mas pedir imagem é diferente de conversar, né? Não é tão íntimo.
+
+MARCOS: É verdade, e eu acho que por isso começaram por aí. Imagem é um terreno mais seguro pra testar anúncio do que uma conversa pessoal. Mas é um primeiro passo. Se funcionar, a tendência é expandir. Pra quem usa, vale a atenção: o assistente que parecia só uma ferramenta passa a ser também um espaço de venda.
+
+ANA: Anotado. Agora uma notícia que parece filme de espionagem. Pesquisadores estão rastreando uma "frota de agentes" chinesa.
+
+MARCOS: Essa é muito curiosa. Segundo o TechCrunch, pesquisadores independentes descobriram um enxame de agentes de IA que parece rodar na infraestrutura da Tencent e que mira o Amap, o serviço de mapas da Alibaba.
+
+ANA: Agente, de novo, é aquela IA que faz tarefas sozinha, certo?
+
+MARCOS: Isso. Em vez de só responder perguntas, ela navega, clica e executa ações, e aqui são muitos agentes coordenados, o tal enxame. A matéria resumida não diz o que exatamente eles fazem no Amap, então eu prefiro não especular. O que dá pra dizer é que o fato em si já é significativo.
+
+ANA: Por quê?
+
+MARCOS: Porque mostra que agentes em escala já são usados no mundo real, e não só em demonstração de laboratório. Também mostra um problema novo: quando uma empresa grande aluga infraestrutura, tipo servidores de nuvem, quem garante o que roda nela? E repare que são duas gigantes chinesas, uma hospedando algo que mira a outra. Eu não tiraria conclusão sobre quem está por trás. Isso é só o que os pesquisadores observaram até agora, e é bom esperar mais detalhes.
+
+ANA: Tá, mudando de clima. O HackerRank agora tem um entrevistador de IA. Eu faria uma entrevista de emprego com um robô?
+
+MARCOS: Se você ainda não fez, talvez faça. Segundo o TechCrunch, o entrevistador de IA do HackerRank já conduziu mais de quinhentas mil entrevistas. Entre as empresas que testaram no começo estão a Snowflake, a Snorkel e a Capgemini.
+
+ANA: Quinhentas mil! Isso é bastante.
+
+MARCOS: É bastante. O HackerRank é conhecido por testes de programação, então faz sentido que ele tenha começado por aí. A vantagem pra empresa é óbvia: escala. Um recrutador humano faz poucas entrevistas por dia, e o robô faz milhares ao mesmo tempo, sem cansaço.
+
+ANA: E pra quem é entrevistado? Parece meio desumano.
+
+MARCOS: É o ponto fraco. Tem quem goste, porque o robô não tem humor ruim, e todo mundo recebe as mesmas perguntas. Mas tem o risco de o candidato se sentir avaliado por uma máquina sem poder explicar o contexto. E se o modelo tiver vieses, ele repete o viés em escala. Minha opinião: como triagem inicial, faz sentido. Como decisão final, eu teria cuidado.
+
+ANA: Outro assunto que mexe com privacidade: a Noruega e os óculos de IA.
+
+MARCOS: Segundo o Ars Technica, esse é o primeiro grande enfrentamento de um governo contra os óculos de IA. A Noruega quer tempo pra escrever regras permanentes para óculos que podem gravar quem está por perto.
+
+ANA: Ou seja, eu poderia estar sendo filmada sem saber.
+
+MARCOS: Exatamente. Quando alguém aponta um celular, você percebe. Já os óculos parecem óculos comuns. O debate é como garantir que as pessoas ao redor saibam e consintam. A matéria resumida não detalha as medidas, só que o país quer tempo pra definir regras permanentes. Mas eu acho que a Noruega pode virar o exemplo que outros países seguem.
+
+ANA: E dá pra proibir isso de verdade?
+
+MARCOS: É difícil, e é por isso que a discussão é interessante. Mas é melhor discutir agora, enquanto o produto é novo, do que depois que milhões de pessoas já usam.
+
+ANA: Por último, uma notícia que me interessou porque eu tenho Mac: tem uma ferramenta que apaga doze gigas de dados da Apple Intelligence?
+
+MARCOS: Tem. O Verge conta que é uma ferramenta de código aberto, de linha de comando, chamada RemoveMacAI. Antes existia um botão nas configurações pra desativar a Apple Intelligence, mas ele foi removido no macOS 27. Agora os modelos ficam no disco, ocupando uns doze gigas, mesmo que você não use.
+
+ANA: Ou seja, a Apple tirou a opção e alguém criou um jeito de fazer por fora.
+
+MARCOS: É. Pra quem tem um Mac com pouco armazenamento, doze gigas faz diferença. Agora um alerta: ferramenta de terceiros mexendo no sistema exige cuidado. Faça backup e entenda o que está rodando antes de usar.
+
+ANA: Bom, Marcos, vamos ao resumo do dia?
+
+MARCOS: Vamos. Primeiro: Sam Altman disse que o mundo deve aceitar algumas coisas ruins em nome dos benefícios da IA, e a assessoria da OpenAI tentou desviar quando perguntaram sobre um usuário que se suicidou. Segundo: a OpenAI começou a mostrar anúncios visuais junto de imagens geradas, só nos Estados Unidos por enquanto. Terceiro: pesquisadores rastreiam uma frota de agentes de IA que parece rodar na Tencent e mira o mapa da Alibaba. Quarto: o entrevistador de IA do HackerRank já fez mais de quinhentas mil entrevistas. Quinto: a Noruega quer tempo pra criar regras para óculos de IA que gravam pessoas. E sexto: o RemoveMacAI apaga doze gigas de Apple Intelligence do seu Mac.
+
+ANA: Obrigada, Marcos! E obrigada a você que ouviu até aqui. Amanhã tem mais IA Hoje. Até lá!
+
+MARCOS: Até amanhã, pessoal!

@@ -1,103 +1,5 @@
 {
   "items": {
-    "1a32deaef917ce05": {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "norm_title": "openaiadmitstogermanwikiincident",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "aeef9b6547d3af92": {
-      "title": "OpenAI Agents Hacked Another Website",
-      "norm_title": "openaiagentshackedanotherwebsite",
-      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "source": "Wired",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "2737282f1ada1b61": {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "norm_title": "xdofjustthreemonthsoutofstealthisintalksforaseriesbata12bvaluation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "2aa506a1a3caf1e9": {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "norm_title": "openaisrogueagentskeepescapingwithnoformalprocesstoinvestigatethem",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "7627347a0b6377c9": {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "norm_title": "openaiagentsdiscussedwaystoescapetheirsandboxonpublicwiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "51f96bf71ba99c1e": {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "norm_title": "aicomputeprovidernscaleislookingfor35binpreipofinancing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "b4a8c3865ad7b93c": {
-      "title": "Architecting memory and storage in the AI era",
-      "norm_title": "architectingmemoryandstorageintheaiera",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "9d0ea1657cd1b7a6": {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "norm_title": "rolandisgettingintogenerativeaimusicwithmelodyflip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "source": "The Verge",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "3791f89144c983f7": {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "norm_title": "oncepopularforattackingaiasciismugglingisembracedbyspammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "84c37b42be39aec6": {
-      "title": "What will Apple’s John Ternus era look like?",
-      "norm_title": "whatwillapplesjohnternuseralooklike",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "1cb0b8e6774696a4": {
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "norm_title": "anthropics2trillionipoputspowerfulexternaltrusteesinspotlight",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "e3b5bcf8644157dc": {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "norm_title": "anotherswarmofopenaiagentsreachedtheopeninternetwithoutthefrontierlabsknowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "5dd090fffd293398": {
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "norm_title": "microsoftsaysvirtuallynobodywasgrabbingnytarticlesthroughitschatbot",
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "source": "The Verge",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
-    "a4e220c869547fe3": {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "norm_title": "applesternuserabeginsasnvidiabetsonthewholeaistack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-05T12:15:57.849551+00:00"
-    },
     "9c3aba3548c4dd82": {
       "title": "My Brief Summer Fling With Siri AI",
       "norm_title": "mybriefsummerflingwithsiriai",
@@ -2596,6 +2498,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
       "source": "The Verge",
       "seen_at": "2026-10-04T14:31:49.638665+00:00"
+    },
+    "c5ec30fe068b536e": {
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "norm_title": "hotgirlhotlineislikedearabbyfortheaiera",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "731d2fa1cfde39ea": {
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "norm_title": "openaiprtellsjournalisttomoveonwhileaskingsamaltmanaboutachatgptuserssuicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "source": "The Verge",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "07a5625cea006d1f": {
+      "title": "Sam Altman says ‘some bad things’ will happen but AI is totally worth it",
+      "norm_title": "samaltmansayssomebadthingswillhappenbutaiistotallyworthit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "source": "The Verge",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "732b0ea2d2589f25": {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "norm_title": "hackerranksaiintervieweroffersaglimpseintowhatjobinterviewscouldbecome",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "b992876b015d3179": {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "norm_title": "connectingaiagentstoenterpriseknowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "f04a4728819ffc25": {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "norm_title": "openailaunchesvisualadsthatappearalongsideimagegenerationresults",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "b9d3394df89b41c4": {
+      "title": "Our approach to EU text provenance rules",
+      "norm_title": "ourapproachtoeutextprovenancerules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "38260bd6035274b0": {
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "norm_title": "openorclosedaihowfoundersarechoosingwhattobuildonattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "da5a52c8db5febcf": {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "norm_title": "researchersaretrackingachineseaiagentfleet",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "451384a2e2e2d957": {
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "norm_title": "meetthestartupbattlefield200judgeswholldecidethewinnerattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "28adfa6f55522e6d": {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "norm_title": "senadamschiffonairegulationfreespeechandimpeachingtrumponemoretime",
+      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "source": "The Verge",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "930b3dc6e68aa445": {
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "norm_title": "thefinaldisruptstagelineupthreedaysofconversationsyouwonthearanywhereoutsideoftechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "68427d3174497d17": {
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "norm_title": "anopensourcetoolletsyoudelete12gbofappleintelligencedataonmacos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "source": "The Verge",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "c37993f39e2ea1f0": {
+      "title": "AI glasses face their first major government crackdown",
+      "norm_title": "aiglassesfacetheirfirstmajorgovernmentcrackdown",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-05T17:35:00.636313+00:00"
     }
   }
 }
