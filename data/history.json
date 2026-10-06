@@ -1,40 +1,5 @@
 {
   "items": {
-    "9c3aba3548c4dd82": {
-      "title": "My Brief Summer Fling With Siri AI",
-      "norm_title": "mybriefsummerflingwithsiriai",
-      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-      "source": "Wired",
-      "seen_at": "2026-09-06T12:29:49.557798+00:00"
-    },
-    "dc702cd598226931": {
-      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
-      "norm_title": "whychinaisthebogeymandatacenterenthusiastsjustcantquit",
-      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
-      "source": "Wired",
-      "seen_at": "2026-09-06T12:29:49.557798+00:00"
-    },
-    "41be9b09cf39b7a2": {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "norm_title": "seattletimesandnewsdayarethelatestpublicationstosueopenaiandmicrosoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-06T12:29:49.557798+00:00"
-    },
-    "928cc512f82ed81b": {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "norm_title": "hikersrescuedafterusinggooglegeminiforplanning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-06T12:29:49.557798+00:00"
-    },
-    "f5e72aaa18212486": {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "norm_title": "openaiconfirmswikiincidentsaysitsworkingonaframeworkformoredisclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-06T12:29:49.557798+00:00"
-    },
     "886e7300b65a1451": {
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "norm_title": "thecomplexcorporatewebbehinda32billionaidatacenter",
@@ -2596,6 +2561,104 @@
       "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
       "source": "Ars Technica",
       "seen_at": "2026-10-05T17:35:00.636313+00:00"
+    },
+    "1f94bfe1882c4e5d": {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "norm_title": "libreofficesaysnoaiisnowasoftwarefeature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "dd8fcdae64eb24ec": {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "norm_title": "mistralsnew1tmodelaimstoleapfrogclosedandopenrivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "3a7b00612beb579f": {
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "norm_title": "pinterestsainowturnsbeautypinsintoactionplans",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "2b84d8e9678d70a5": {
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "norm_title": "getallyourquestionsansweredattechcrunchdisrupt2026thefullbreakoutsessionagendarevealed",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "9ccf9184d098f5ef": {
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "norm_title": "googleisabouttoremovefreeaccesstogeminiflashandpro",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "source": "The Verge",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "6a738f0b0b6796c6": {
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "norm_title": "mistralsaysitsnewaimodellechonkisthebestopenweightofferingoutsideofchina",
+      "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "source": "Wired",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "77576fe641151f0c": {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "norm_title": "openaiagentstriedtohackwikipediatoolsandfloodeditwithtraffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "1857a9b40e4418af": {
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "norm_title": "amazonalexapluskeepscreepilysinginglalalaforminutesonend",
+      "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "source": "The Verge",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "27abc36eec9b00fe": {
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "norm_title": "kevinroosedidntuseaitowritehisbookaboutai",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "source": "Wired",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "82256a4b798dcca4": {
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "norm_title": "falconemiratiwhenanllmlearnsthedialectthecultureandthenuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "f7c928c3ae532616": {
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "norm_title": "geminicallformemighttellyourmomyourerunninglate",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "ba86983783fe8955": {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "norm_title": "mcpforagenttoagentcommsmaybetheriskiestprotocolyouveneverheardof",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "ce5edf98d96e9831": {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "norm_title": "openaiwillstartwatermarkingchatgptstextintheeu",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "fc8f1ddccbeb05e2": {
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "norm_title": "thisstartupisissuingaigeneratedacneprescriptions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "source": "The Verge",
+      "seen_at": "2026-10-06T15:35:15.167548+00:00"
     }
   }
 }

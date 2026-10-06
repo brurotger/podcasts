@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-06",
+    "title": "IA Hoje — 6 de outubro de 2026",
+    "file": "ia-hoje-2026-10-06.mp3",
+    "duration": 790,
+    "size": 4741869,
+    "published_at": "2026-10-06T15:35:15.163093+00:00",
+    "news": [
+      {
+        "title": "LibreOffice says ‘no AI’ is now a software feature",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
+      },
+      {
+        "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+      },
+      {
+        "title": "Pinterest’s AI now turns beauty Pins into action plans",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/"
+      },
+      {
+        "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/"
+      },
+      {
+        "title": "Google is about to remove free access to Gemini Flash and Pro",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+      },
+      {
+        "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/"
+      },
+      {
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+      },
+      {
+        "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end"
+      },
+      {
+        "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/"
+      },
+      {
+        "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+      },
+      {
+        "title": "Gemini Call for Me might tell your mom you’re running late",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
+      },
+      {
+        "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+      },
+      {
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+      },
+      {
+        "title": "This startup is issuing AI-generated acne prescriptions",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "title": "IA Hoje — 5 de outubro de 2026",
     "file": "ia-hoje-2026-10-05.mp3",
@@ -961,86 +1041,6 @@
         "title": "Better prompt caching for GPT-6",
         "source": "OpenAI",
         "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "title": "IA Hoje — 22 de setembro de 2026",
-    "file": "ia-hoje-2026-09-22.mp3",
-    "duration": 921,
-    "size": 5525661,
-    "published_at": "2026-09-22T13:49:16.100874+00:00",
-    "news": [
-      {
-        "title": "Its $500 toothbrush disappeared from stores. Dyson won’t fully explain why",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/"
-      },
-      {
-        "title": "Everyone can find a reason to dislike data center construction",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
-      },
-      {
-        "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/"
-      },
-      {
-        "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/"
-      },
-      {
-        "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
-      },
-      {
-        "title": "Don’t be fooled by this summer of AI hype",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
-      },
-      {
-        "title": "I Built AI Clones of My Coworkers. Things Got Weird",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/"
-      },
-      {
-        "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/big-interview-patti-harrison/"
-      },
-      {
-        "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"
-      },
-      {
-        "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/"
-      },
-      {
-        "title": "How to Use AI With Your Privacy Intact",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/"
-      },
-      {
-        "title": "Transformers now runs llama.cpp quants",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
-      },
-      {
-        "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/omlx"
-      },
-      {
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
       }
     ]
   }
