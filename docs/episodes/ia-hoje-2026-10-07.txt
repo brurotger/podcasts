@@ -1,0 +1,99 @@
+ANA: Bom dia, pessoal! Eu sou a Ana, hoje é dia sete de outubro de dois mil e vinte e seis, e este é o IA Hoje. Marcos, bom dia! Hoje tem agente de inteligência artificial no iPad, Pentágono, célula virtual e um modelo com nome de bicho fofo.
+
+MARCOS: Bom dia, Ana! Bom dia a todo mundo. Tem muita coisa boa hoje, e algumas bem sérias também.
+
+ANA: Vamos começar pelo Muse, da Meta. Eu vi que ele chegou ao iPad. Mas antes me explica: o que é o Muse? Eu só sei que ficou semanas no topo da App Store.
+
+MARCOS: Segundo o The Verge, o Muse é uma ferramenta de agente de inteligência artificial da Meta. Ele foi lançado faz quase um mês e passou várias semanas como o aplicativo gratuito número um da loja da Apple. Agora a atualização trouxe suporte nativo para o iPad. Já existia uma versão para Mac, lançada um tempo antes.
+
+ANA: Espera. Agente. Toda hora eu ouço essa palavra. Qual a diferença de um agente para um chatbot normal?
+
+MARCOS: Boa pergunta. O chatbot conversa com você: você pergunta, ele responde. O agente recebe um objetivo e vai fazendo os passos sozinho. Por exemplo, "organiza minha viagem": ele pesquisa, compara, preenche coisas e volta com o resultado. É a diferença entre um amigo que te dá opinião e um assistente que vai lá e resolve.
+
+ANA: Isso eu quero! E quem mais faz isso?
+
+MARCOS: O Verge diz que o Muse foi feito para competir com o OpenClaw, com o Dots, que é o agente do ChatGPT, e com o Grok Bot. Ou seja, o agente virou o campo de batalha da vez. Lembra quando todo mundo lançava chatbot? Agora todo mundo lança agente.
+
+ANA: E o iPad muda o quê? Parece detalhe.
+
+MARCOS: É um detalhe importante. Um agente só vale a pena se estiver onde você está. Se ele está só no celular, você usa pouco. Com Mac, iPad e iPhone, ele vira uma ferramenta de rotina. Para a Meta, é isso que importa: ficar na rotina das pessoas.
+
+ANA: E é hype ou é real? Ficar em primeiro lugar da loja não quer dizer que as pessoas usem de verdade, né?
+
+MARCOS: Exato, e esse é o meu ponto. Ranking de download mede curiosidade. Ainda não temos dados públicos de uso diário. Mas ficar semanas no topo, e não só um fim de semana, é um sinal bom. A Meta tem uma vantagem: ela já tem bilhões de usuários e sabe distribuir produto. Vale ficar de olho.
+
+ANA: Certo. Mudando de assunto, uma notícia mais pesada. A Wired fala do Pentágono e de cinco minutos de vídeo. O que é isso?
+
+MARCOS: É uma matéria bem interessante. O governo americano tem uma iniciativa chamada Tradewinds, que facilita a compra de tecnologia de empresas que não são fornecedoras tradicionais de defesa. Tradicionalmente, vender para o Pentágono é um processo longo, cheio de papelada, que só grandes contratadas conseguem encarar. A Tradewinds simplifica isso. Segundo a Wired, a empresa pode apresentar a proposta em um vídeo de cerca de cinco minutos.
+
+ANA: Cinco minutos? Para vender para o Pentágono?
+
+MARCOS: Pois é. A ideia é acelerar. E a matéria diz que isso tornou mais fácil colocar milhões de dólares em empresas "não tradicionais", entre elas OpenAI, Anthropic e Google. E o título fala em "kill chain", a cadeia de decisões que vai da detecção de um alvo até a ação contra ele.
+
+ANA: Calma. Isso quer dizer que a inteligência artificial vai decidir quem atacar?
+
+MARCOS: Não é isso que a matéria afirma, e eu não quero exagerar. O que o resumo diz é que o processo de compra de IA para essa área ficou mais rápido. Mas o ponto é real: quanto mais fácil comprar, menos tempo há para avaliar. E o tema sensível é onde a IA entra: ela pode ajudar a analisar informação e sugerir opções, e a pergunta é até onde vai a decisão humana.
+
+ANA: E por que isso importa para quem não tem nada a ver com defesa?
+
+MARCOS: Por dois motivos. Primeiro, essas empresas são as mesmas que fazem os assistentes que a gente usa no dia a dia. Então o que elas aceitam fazer para o governo diz algo sobre o rumo delas. Segundo, é um precedente de velocidade: governo comprando IA rápido, com avaliação de risco ainda em debate. Minha opinião é que acelerar a burocracia é positivo, porque o processo antigo era lento demais. Mas em área de vida e morte, rápido precisa vir com regra clara, e eu gostaria de ver mais transparência.
+
+ANA: Faz sentido. Vamos para algo mais esperançoso? A Meta e o Google juntos, investindo em célula virtual.
+
+MARCOS: Essa é bem curiosa. Segundo o The Verge, citando a Reuters, o Google DeepMind, a Meta e a Isomorphic Labs, que é uma startup de descoberta de remédios com IA, vão investir juntos trezentos milhões de dólares no Biohub. O Biohub é uma organização sem fins lucrativos de pesquisa biomédica fundada por Mark Zuckerberg e Priscilla Chan. O dinheiro faz parte de uma iniciativa de um bilhão e oitocentos milhões de dólares.
+
+ANA: Tá, e o que é uma célula virtual? Parece nome de filme.
+
+MARCOS: Imagina um simulador de uma célula humana dentro do computador. Hoje, para saber o que acontece quando você mexe em um gene ou testa um remédio, você precisa fazer experimento no laboratório, que é lento e caro. A ideia da célula virtual é você perguntar ao modelo e ele prever o resultado. O texto diz que o objetivo é criar bases de dados de IA que permitam aos pesquisadores perguntar, prever e por aí vai.
+
+ANA: Tipo um Google Maps da biologia?
+
+MARCOS: Gostei! Só que o mapa ainda está sendo desenhado. E o gargalo não é só o modelo, é o dado. Para treinar uma IA que simule células, você precisa de muitos dados biológicos bem medidos, e isso quase não existe organizado. Por isso o dinheiro vai para construir bases de dados.
+
+ANA: Então é promessa de longo prazo.
+
+MARCOS: Sim. Mas é uma das aplicações de IA que eu acho mais promissoras, bem mais do que mais um gerador de imagem. Se der certo, encurta anos de pesquisa de remédios. E é curioso ver Google e Meta, que competem em quase tudo, no mesmo projeto. Aqui a cooperação faz sentido, porque ninguém sozinho tem os dados.
+
+ANA: Agora uma ferramenta que eu acho que muita gente vai usar. O Google lançou um site novo do SynthID. Explica pra mim.
+
+MARCOS: Claro. O SynthID é uma tecnologia do Google que coloca uma marca d'água invisível em conteúdo gerado por IA, seja imagem, vídeo ou áudio. Você não vê nem ouve, mas um detector consegue achar. Segundo o TechCrunch, o Google lançou na terça-feira um site onde qualquer pessoa pode verificar se uma mídia foi gerada por IA. E o Ars Technica diz que esse detector melhorou e está disponível no mundo todo, e que agora identifica conteúdo do Google, da OpenAI e de outras empresas.
+
+ANA: Então eu mando uma foto suspeita e ele me diz se é falsa?
+
+MARCOS: Quase. Ele diz se encontrou a marca. E aí mora o limite: se a imagem foi feita por uma ferramenta que não usa marca d'água, ou se alguém alterou muito o arquivo, o detector pode não achar nada. Resultado negativo não significa que a imagem é real. Só significa que ele não encontrou a marca.
+
+ANA: Ah, isso é importante. Senão a pessoa acha que "não detectou" é igual a "é verdadeiro".
+
+MARCOS: Exatamente. Mesmo assim, é um passo bom. O que eu mais gosto é que o detector reconhece conteúdo de mais de uma empresa. Antes, cada companhia tinha seu sistema, e ninguém ia testar cinco sites. Um lugar só facilita para jornalista, professor e para você, quando chega aquele vídeo estranho no grupo da família.
+
+ANA: Esse vídeo sempre chega. Vamos para o Mistral. O nome do modelo é Le Chonk?
+
+MARCOS: É! O Ars Technica traz que a Mistral, a empresa francesa de IA, diz que o Le Chonk consegue rivalizar com os melhores modelos fechados, mantendo os pesos abertos. A palavra "chonk", em inglês de internet, é um jeito fofo de dizer "bem gordinho". Dá para imaginar que seja um modelo grande.
+
+ANA: Pesos abertos? O que é isso?
+
+MARCOS: Pesos são os números que o modelo aprendeu no treinamento, o cérebro dele. Quando uma empresa libera os pesos, qualquer um pode baixar, rodar no próprio servidor e adaptar. Diferente do ChatGPT, por exemplo, que você só acessa pela empresa. Isso importa para quem não quer mandar dados sensíveis para fora, como bancos e governos.
+
+ANA: E ele é tão bom quanto os melhores mesmo?
+
+MARCOS: Aí a gente precisa de cuidado. Quem diz isso é a própria Mistral. Todo lançamento vem com gráfico mostrando que ganhou em tal teste. A gente só sabe de verdade depois que a comunidade testa em tarefas reais. Minha leitura: se a alegação ficar de pé, ainda que seja "quase tão bom", já é muito relevante, porque dá a empresas uma opção forte sem depender de três ou quatro gigantes americanas. Mas eu esperaria os testes independentes antes de comemorar.
+
+ANA: Combinado. Última grande: o Google Playground, para criar jogos.
+
+MARCOS: Essa é divertida. O Google Labs, que é a área de experimentos do Google, está testando uma plataforma chamada Playground. Segundo o TechCrunch e o blog do próprio Google, você descreve em texto o jogo que quer e ela cria um jogo que roda no navegador. E dá para jogar e compartilhar o que foi criado.
+
+ANA: Então eu escrevo "um jogo de uma capivara pulando obstáculos" e sai o jogo?
+
+MARCOS: Essa é a ideia. É uma plataforma experimental, então não espere algo no nível de um grande lançamento. Mas é um bom exemplo de uma tendência: criar software só descrevendo o que você quer. Primeiro foi texto, depois imagem, agora jogo.
+
+ANA: Isso acaba com os desenvolvedores de jogos?
+
+MARCOS: Não. Fazer um jogo bom envolve ideia, equilíbrio e diversão, e isso um comando de texto não resolve. Mas para quem nunca programou, a barreira cai muito. Pense em quem fazia vídeo antes e depois dos celulares. Surgiu muita coisa ruim, mas também muita gente talentosa que nunca teria começado.
+
+ANA: Bonito. Então vamos ao resumo do dia. Marcos, me ajuda.
+
+MARCOS: Vamos lá. A Meta levou o agente Muse para o iPad e segue brigando com Dots, do ChatGPT, e com outros. O Pentágono está acelerando a compra de IA com vídeos de cinco minutos, e isso exige atenção sobre as regras. Google, Meta e Isomorphic Labs colocaram trezentos milhões de dólares no Biohub para tentar criar uma célula virtual. O Google lançou um site global do SynthID para detectar conteúdo de IA, lembrando que "não achou a marca" não é "é real". A Mistral diz que o Le Chonk encara os melhores modelos fechados, com pesos abertos, e agora precisa provar. E o Google Labs testa o Playground, para criar jogos só com texto.
+
+ANA: Fechamos por hoje. Obrigada por ouvir o IA Hoje! Se você gostou, conta para alguém. Amanhã tem mais novidade. Até lá!
+
+MARCOS: Até amanhã, pessoal!

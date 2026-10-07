@@ -1,61 +1,5 @@
 {
   "items": {
-    "886e7300b65a1451": {
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "norm_title": "thecomplexcorporatewebbehinda32billionaidatacenter",
-      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-07T14:38:31.079422+00:00"
-    },
-    "4dccd06950c59c9a": {
-      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "norm_title": "whisperingcomplaintsintoyourphonemaybethefutureofcustomerfeedback",
-      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-      "source": "Wired",
-      "seen_at": "2026-09-07T14:38:31.079422+00:00"
-    },
-    "7ae964678a717fb7": {
-      "title": "Supporting independent journalism in Ukraine",
-      "norm_title": "supportingindependentjournalisminukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "source": "OpenAI",
-      "seen_at": "2026-09-07T14:38:31.079422+00:00"
-    },
-    "49ca8af2c1e2949b": {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "norm_title": "seattletimesandnewsdaysueopenaiandmicrosoftforinfringement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge",
-      "seen_at": "2026-09-07T14:38:31.079422+00:00"
-    },
-    "ff806cbcb24071a4": {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "norm_title": "authorspushbackaspublishersandagentsmakeclaimsonanthropicsettlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-07T14:38:31.079422+00:00"
-    },
-    "ca749c5946db5ba4": {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "norm_title": "traviskalanicksatomsmightbegettingintotherobotaxibusiness",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-07T14:38:31.079422+00:00"
-    },
-    "b92e9419d15dc3c5": {
-      "title": "An Alien Mind",
-      "norm_title": "analienmind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI",
-      "seen_at": "2026-09-07T14:38:31.079422+00:00"
-    },
-    "61e2e4acd4768303": {
-      "title": "Research acceleration: The view inside OpenAI",
-      "norm_title": "researchaccelerationtheviewinsideopenai",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI",
-      "seen_at": "2026-09-07T14:38:31.079422+00:00"
-    },
     "86488f8f8d440d3a": {
       "title": "The Work Now Within Reach",
       "norm_title": "theworknowwithinreach",
@@ -2659,6 +2603,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
       "source": "The Verge",
       "seen_at": "2026-10-06T15:35:15.167548+00:00"
+    },
+    "e0873d3e70d75bfa": {
+      "title": "Muse launches on the iPad",
+      "norm_title": "muselaunchesontheipad",
+      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "source": "The Verge",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "eaf56327ed563dd3": {
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "norm_title": "thepentagonhopestospeedupkillchainaibuyswith5minutevideos",
+      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "source": "Wired",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "4ee38b1c05af8ef6": {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "norm_title": "healthleapraises38mforitsaithatflagshospitalpatientswhomayneedacloserlook",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "d869578f35af72cd": {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "norm_title": "tonyfadellonwhythefirstwaveofaigadgetsfailedandwhatcomesnext",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "87225992d25c8ce0": {
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "norm_title": "googleinvestsmillionsinmarkzuckerbergseffortstocreateavirtualcell",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "source": "The Verge",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "8816a1b816e2fc27": {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "norm_title": "googleexperimentswithanaipoweredgamingplatform",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "606b1255436e39c4": {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "norm_title": "openaisalexanderembiricosiscomingtotechcrunchdisrupt2026daysafterthelaunchofdots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "3d54c1d69d167a34": {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "norm_title": "gethandsonthefulllineupofinteractiveroundtablesattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "909f730876a518a1": {
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "norm_title": "mistralsayslechonkcanchallengethebestaimodels",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "4585872529b81f04": {
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "norm_title": "googlerollsoutimprovedsynthidaicontentdetectornowavailableglobally",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "3d8f14779605a729": {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "norm_title": "6daystotechcrunchdisrupt2026saveonyourpassbeforedoorsopen",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "8c97220110507982": {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "norm_title": "googlesnewsynthidwebsitecanidentifyaigeneratedmedia",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "08dab4f65d0ee87b": {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "norm_title": "onemodelfamilytwogoldlevelresultsfinetuningnemotronforioiandimo",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "7a3f707faf4121ef": {
+      "title": "Introducing Playground: Create and play custom games",
+      "norm_title": "introducingplaygroundcreateandplaycustomgames",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI",
+      "seen_at": "2026-10-07T15:56:22.867365+00:00"
     }
   }
 }
