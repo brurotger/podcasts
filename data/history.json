@@ -1,33 +1,5 @@
 {
   "items": {
-    "86488f8f8d440d3a": {
-      "title": "The Work Now Within Reach",
-      "norm_title": "theworknowwithinreach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "source": "OpenAI",
-      "seen_at": "2026-09-08T13:12:02.804755+00:00"
-    },
-    "0b3a33078b0723f0": {
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "norm_title": "adobeistryingtomakeitsaigeneratorsidiotproofinpremiere",
-      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "source": "The Verge",
-      "seen_at": "2026-09-08T13:12:02.804755+00:00"
-    },
-    "ffc5cf3cc1c6022f": {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "norm_title": "thisaientrepreneurisdevelopingagentsthatcanplanaheadfortheunexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-08T13:12:02.804755+00:00"
-    },
-    "322a547baf30d958": {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "norm_title": "opaquerecurrenceandotheraitermsthatyoushouldprobablyknow",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-08T13:12:02.804755+00:00"
-    },
     "9ddea268a00d5f9d": {
       "title": "Instacart launches an AI grocery shopping assistant called Clementine",
       "norm_title": "instacartlaunchesanaigroceryshoppingassistantcalledclementine",
@@ -2701,6 +2673,104 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "source": "Google AI",
       "seen_at": "2026-10-07T15:56:22.867365+00:00"
+    },
+    "8a42220e380eb618": {
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "norm_title": "hearfromambrosiaenergyandbloomenergyexecsonwheretheaiinfrastructureboomiscreatingopportunityattechcrunchdisrupt2026",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "653b5ea6beaf87f3": {
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "norm_title": "googleislaunchingaonestopgeminiagentforyourworktasks",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "source": "The Verge",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "50f34cc232db8abd": {
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "norm_title": "5daystotechcrunchdisrupt2026dontpaymoreatthedoorforyourpass",
+      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "2420e43bd51bda33": {
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "norm_title": "calais19yearoldfounderjustraised10mforhisnewaistartup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "4fba04dcdf0a2c8e": {
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "norm_title": "canyoutrustmetasmuseoropenaisdotstorunyourlife",
+      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "source": "The Verge",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "97952af04a607f90": {
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "norm_title": "artificialisawickedsatirethatalsostickstothefacts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+      "source": "The Verge",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "ae4816c5f36d0b40": {
+      "title": "Google releases a new local-first Granola competitor",
+      "norm_title": "googlereleasesanewlocalfirstgranolacompetitor",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "2897576440bae36b": {
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "norm_title": "chinasmanusraisesover500minfirstfundingroundsincesplitwithmeta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "30bb3b05d3d2b558": {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "norm_title": "nvidiasbigbetonphysicalaiaimsforsaferrobotaxishumanoidrobots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "b3a0b8c0f78d3204": {
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "norm_title": "tristanharristechnonprofitislayingoffmoststaffandgoingfounderled",
+      "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "source": "Wired",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "e8a7f4cd8200d697": {
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "norm_title": "aibreakthroughsinroboticswontchangeyourlifeanytimesoon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "4973ff2559eb82f9": {
+      "title": "Building a safer path to autonomous industrial AI",
+      "norm_title": "buildingasaferpathtoautonomousindustrialai",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "6636189dff67f20b": {
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "norm_title": "microsofteventdebutsnewaifriendlyhardwareandwindowschanges",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "a73a6d3443ec08cf": {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "norm_title": "disruptingaienabledfalsefrontoperations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI",
+      "seen_at": "2026-10-08T15:59:07.863661+00:00"
     }
   }
 }

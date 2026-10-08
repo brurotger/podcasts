@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-08",
+    "title": "IA Hoje — 8 de outubro de 2026",
+    "file": "ia-hoje-2026-10-08.mp3",
+    "duration": 590,
+    "size": 3542205,
+    "published_at": "2026-10-08T15:59:07.859384+00:00",
+    "news": [
+      {
+        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
+      },
+      {
+        "title": "Google is launching a one-stop Gemini agent for your work tasks",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+      },
+      {
+        "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/"
+      },
+      {
+        "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
+      },
+      {
+        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
+      },
+      {
+        "title": "Artificial is a wicked satire that also sticks to the facts",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts"
+      },
+      {
+        "title": "Google releases a new local-first Granola competitor",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
+      },
+      {
+        "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+      },
+      {
+        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+      },
+      {
+        "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/"
+      },
+      {
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+      },
+      {
+        "title": "Building a safer path to autonomous industrial AI",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+      },
+      {
+        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
+      },
+      {
+        "title": "Disrupting AI-enabled “false front” operations",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "title": "IA Hoje — 7 de outubro de 2026",
     "file": "ia-hoje-2026-10-07.mp3",
@@ -961,86 +1041,6 @@
         "title": "Jensen Huang talks about AI and climate change like a supervillain",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "title": "IA Hoje — 24 de setembro de 2026",
-    "file": "ia-hoje-2026-09-24.mp3",
-    "duration": 750,
-    "size": 4500237,
-    "published_at": "2026-09-24T13:57:00.100784+00:00",
-    "news": [
-      {
-        "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
-      },
-      {
-        "title": "OpenAI agents hacked an Australian government website in search for data",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
-      },
-      {
-        "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
-      },
-      {
-        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
-      },
-      {
-        "title": "Everything new coming to Meta’s AI agent Muse",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
-      },
-      {
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
-      },
-      {
-        "title": "Meta is making a standalone Muse AI gadget",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
-      },
-      {
-        "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/"
-      },
-      {
-        "title": "Muse is coming to Meta smart glasses",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
-      },
-      {
-        "title": "Meta introduces camera-free AI glasses",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
-      },
-      {
-        "title": "Meta ditches the camera on its newest smart glasses",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
-      },
-      {
-        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
-      },
-      {
-        "title": "Meta Connect 2026: The biggest news and announcements",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
-      },
-      {
-        "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
       }
     ]
   }

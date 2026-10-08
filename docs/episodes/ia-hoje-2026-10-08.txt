@@ -1,0 +1,87 @@
+ANA: Bom dia, pessoal! Aqui é o IA Hoje, e hoje é quinta-feira, oito de outubro de dois mil e vinte e seis. Eu sou a Ana, e está comigo o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem está ouvindo. Hoje o dia foi cheio de agentes de inteligência artificial, então já aviso: vai ter bastante assunto sobre robôs digitais fazendo tarefa por você.
+
+ANA: Então vamos começar por aí. O Google anunciou um agente do Gemini que promete fazer tudo no trabalho. Isso é real?
+
+MARCOS: Segundo o The Verge, o Google lançou um agente "universal" do Gemini, apresentado no evento Gemini at Work, nesta quinta. Ele fica dentro do aplicativo Gemini Enterprise, que é a versão do Gemini para empresas. A ideia é você conversar com um único agente, numa única tela, e passar tarefas pra ele. Ele trabalha em segundo plano, passando por vários aplicativos e dispositivos.
+
+ANA: Calma. Em segundo plano como? Eu peço e ele some fazendo coisa?
+
+MARCOS: É isso. Antes, a maioria dos assistentes respondia uma pergunta e parava. Aqui você delega. Por exemplo: "junte os números de vendas da semana, monte um resumo e me mande por e-mail". Você segue com seu dia e ele vai trabalhando. É a diferença entre perguntar o caminho a um passante e contratar um motorista.
+
+ANA: E por que "universal"? O Google já tinha vários assistentes, não?
+
+MARCOS: Tinha, e esse é o ponto. Cada produto tinha seu assistente: um no e-mail, outro nos documentos, outro em outra ferramenta. Agora o Google tenta juntar tudo num ponto de entrada só. Isso também é uma resposta aos concorrentes, porque OpenAI, Microsoft e outros estão brigando pelo mesmo espaço: ser a porta de entrada do trabalho de escritório.
+
+ANA: E você compraria essa promessa?
+
+MARCOS: Com cautela. O resumo que li não traz detalhes de preço nem de quais tarefas funcionam bem. Agente que age sozinho erra de um jeito mais caro do que chatbot: um chatbot erra e você lê o erro, um agente pode mandar o e-mail errado. Então eu esperaria ver como ele se comporta em empresas reais antes de comemorar.
+
+ANA: Falando em agentes, o The Verge também fez um episódio do podcast Decoder com a repórter Hayden Field sobre a nova onda de agentes pessoais. Tem até o Muse, da Meta, e o Dots, da OpenAI. Que história é essa?
+
+MARCOS: A discussão é: dá pra confiar nesses agentes pra tocar a sua vida? O pano de fundo é que entusiastas já usavam agentes caseiros. O resumo cita as configurações artesanais com o OpenClaw, que chegaram a provocar uma alta nas vendas de Mac Mini, porque a galera deixava um computador ligado o dia todo só pro agente. Agora as grandes empresas querem entregar isso pronto, pro consumidor comum.
+
+ANA: E qual é o problema? Parece ótimo, alguém cuidando da minha agenda.
+
+MARCOS: O problema é a privacidade. Pra cuidar da sua vida, o agente precisa ler suas mensagens, seu calendário, seus contatos, às vezes seus pagamentos. Você está entregando a chave de casa. O título do episódio já faz a pergunta certa: você confia nessa empresa com isso? Eu diria que a tecnologia está avançando mais rápido que as garantias.
+
+ANA: Então hype ou real?
+
+MARCOS: As duas coisas. O uso é real, o interesse dos entusiastas prova isso. Mas "agente que roda sua vida" ainda é promessa maior que entrega. Eu começaria com tarefas pequenas e de baixo risco.
+
+ANA: E no mesmo assunto tem um garoto de dezenove anos, né?
+
+MARCOS: Tem. Segundo o TechCrunch, Zach Yadegari, que cofundou o Cal AI, aquele aplicativo popular de contar calorias, levantou dez milhões de dólares para uma nova startup de agente pessoal. Ele compete com Instinct, Muse e Bee.
+
+ANA: Dez milhões com dezenove anos! Mas por que investidor aposta nele?
+
+MARCOS: Porque ele já mostrou que sabe transformar um produto de consumo em sucesso. Só que veja o outro lado: o mercado de agentes pessoais está lotado, e tem gigante como a Meta no páreo. Dez milhões é um bom começo, mas é pouco perto do que as grandes gastam. A dúvida é se uma startup pequena consegue ganhar da distribuição das big techs.
+
+ANA: Mudando de assunto: o Google também lançou um concorrente do Granola, certo? Eu nem sei o que é Granola.
+
+MARCOS: Granola é um aplicativo de anotações de reunião com IA: ele escuta a conversa e te entrega as notas prontas. Segundo o TechCrunch, o Google lançou o AI Edge Foresight, que faz isso: transcreve conversas, gera notas e responde perguntas sobre a reunião.
+
+ANA: E o diferencial?
+
+MARCOS: Ele é "local-first": funciona offline, com IA rodando no próprio aparelho. Pense assim: em vez de mandar a gravação da sua reunião para um servidor distante, o processamento acontece no seu telefone ou computador. Pra quem fala de coisa confidencial, isso é um alívio enorme. Combina com o tema de hoje: privacidade virou argumento de venda.
+
+ANA: Agora uma notícia de dinheiro: a Manus, da China, levantou mais de quinhentos milhões.
+
+MARCOS: Isso. O TechCrunch conta que é a primeira rodada da Manus desde a separação da Meta. Foi liderada pela Boyu Capital e pela IDG Capital, e entraram acionistas antigos como Tencent, HSG, que antes se chamava Sequoia China, e a ZhenFund.
+
+ANA: Separação da Meta? Eles estavam juntos?
+
+MARCOS: Pelo que a notícia sugere, houve uma ligação com a Meta e depois um rompimento. Os detalhes não estão no resumo, então não vou inventar. O fato concreto é: mais de quinhentos milhões de dólares num agente de IA, com investidores chineses de peso. Mostra que a corrida dos agentes é global e que há dinheiro grande disposto a bancar quem trabalha de forma independente.
+
+ANA: Passando pra algo físico: a Nvidia e os robôs.
+
+MARCOS: A Ars Technica diz que a Nvidia está fazendo uma grande aposta em "IA física", que é a IA que controla máquinas no mundo real: robotáxis e robôs humanoides. O foco é uma solução completa de segurança, já usada por empresas de robótica.
+
+ANA: Por que segurança é o foco?
+
+MARCOS: Porque um erro de chatbot vira um texto torto, mas um erro de robotáxi vira acidente. Quando a IA sai da tela e ganha corpo, a régua de confiabilidade sobe muito. A Nvidia vende o chip e agora quer vender também a garantia de que aquilo é seguro. Estratégia esperta: quem fornece a segurança vira peça difícil de trocar.
+
+ANA: E a MIT Technology Review tem um texto meio balde de água fria sobre robótica.
+
+MARCOS: Tem. O título é "avanços da IA em robótica não vão mudar sua vida tão cedo". Começa descrevendo aquele robô humanoide branco, de cabeça preta, que aparece dançando nos vídeos. O recado é: demonstração em vídeo não é produto na sua casa. Um robô dançando num cenário controlado é bem diferente de um robô lidando com a bagunça de uma cozinha real.
+
+ANA: Ou seja, o robô dança, mas não lava a louça.
+
+MARCOS: Exatamente. E ligando com a notícia da Nvidia: o gargalo não é só inteligência, é confiabilidade e segurança. Os dois textos se completam.
+
+ANA: Última, que me chamou atenção: a OpenAI derrubou operações de influência.
+
+MARCOS: A própria OpenAI publicou no site dela que interrompeu duas operações de influência que usavam IA. Elas empregavam "falsas fachadas": jornalistas falsos e um think tank, ou seja, um centro de estudos, para espalhar mensagens de cunho geopolítico.
+
+ANA: E isso é grave?
+
+MARCOS: É um padrão importante. O truque é dar uma cara respeitável à propaganda: um "analista" ou "jornalista" que não existe. A IA barateia a produção de textos e perfis convincentes. Vale lembrar que é a OpenAI relatando o que ela mesma detectou, então não sabemos quanto passou despercebido. Mas é positivo que as empresas publiquem esses casos. Para nós, a lição é desconfiar de quem assina um artigo, e checar se o autor existe de verdade.
+
+ANA: Bom, hora do resumo.
+
+MARCOS: Vamos lá. O Google lançou um agente universal do Gemini para o trabalho, que age em segundo plano dentro do Gemini Enterprise. Meta e OpenAI entram na briga dos agentes pessoais, e a pergunta é se dá pra confiar a eles sua vida e seus dados. O fundador do Cal AI, de dezenove anos, levantou dez milhões de dólares para mais um agente pessoal. O Google lançou um anotador de reuniões que roda offline, no próprio aparelho. A Manus levantou mais de quinhentos milhões de dólares após a separação da Meta. A Nvidia aposta em segurança para robotáxis e robôs, enquanto a MIT Technology Review lembra que robôs não vão mudar sua vida tão cedo. E a OpenAI derrubou duas operações de influência com jornalistas e think tank falsos.
+
+ANA: Foi isso, gente. Obrigada por ouvir o IA Hoje. Amanhã tem mais!
+
+MARCOS: Até amanhã!
