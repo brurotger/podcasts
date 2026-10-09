@@ -1,103 +1,5 @@
 {
   "items": {
-    "9ddea268a00d5f9d": {
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "norm_title": "instacartlaunchesanaigroceryshoppingassistantcalledclementine",
-      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "c59490db6df3af9b": {
-      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-      "norm_title": "amazonprimevideosnewaitechmatcheslipstodubbedaudio",
-      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-      "source": "The Verge",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "887e46e1a581b56b": {
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "norm_title": "astealthstartupthinksitjusthackedthememoryshortage",
-      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-      "source": "Wired",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "414bfdb6e86d7051": {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "norm_title": "besxarisbuildinganorbitalsemiconductorfactoryonespacexrocketatatime",
-      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "d0dbb4c92eedb1ae": {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "norm_title": "sunoreplacesitsaimodelswithanewonetrainedonlicensedmusicascopyrightsuitspileup",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "327e8b6f08dc65da": {
-      "title": "Students who use AI generally score worse at school",
-      "norm_title": "studentswhouseaigenerallyscoreworseatschool",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "source": "The Verge",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "ce9dd53f296b9205": {
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "norm_title": "mantoldchatgpthewasfeelingdelusionalchatgptinsistedhewasjesus",
-      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "5371e91fda362818": {
-      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
-      "norm_title": "worriedanthropicresearcherswarnthataicouldkillallhumans",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "source": "The Verge",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "e8a2c2554cad7172": {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "norm_title": "whatopenaislatestcontroversytellsusaboutthefutureofmath",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "92e628410440d081": {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "norm_title": "whythismonthsmicrosoftpatchreleaseisadoozy",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "de2b39d856bd6a31": {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "norm_title": "hackersarestealingclaudetokensfromsubscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "83771d011f4ef5b8": {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "norm_title": "cognitionhits48bvaluationsignalinginvestorsbelieveaicodingisfarfromawinnertakeallmarket",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "9ea37e14cea328d4": {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "norm_title": "dramaswirlsaroundopenaislegendarymathematicalmilestone",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "source": "The Verge",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
-    "85813e4d9153290a": {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "norm_title": "chatgptsketchturnsyourbaddrawingsintodetailedaiimages",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "source": "The Verge",
-      "seen_at": "2026-09-09T13:18:03.844343+00:00"
-    },
     "561736738899f6d4": {
       "title": "Powering AI is an architecture problem",
       "norm_title": "poweringaiisanarchitectureproblem",
@@ -2771,6 +2673,104 @@
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "source": "OpenAI",
       "seen_at": "2026-10-08T15:59:07.863661+00:00"
+    },
+    "1d5867b8a6cd8d73": {
+      "title": "Impactful scheduling for GPU clusters",
+      "norm_title": "impactfulschedulingforgpuclusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "b2b2e609237af5e7": {
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "norm_title": "trumpsattempttorenameaiislookingawfullyartificial",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "source": "The Verge",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "0e19d4619e5615fb": {
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "norm_title": "techcrunchdisrupt2026startsin4dayslockinyourpasssavingsofupto100beforepricesrise",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "5441302b020d2b73": {
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "norm_title": "instinctwasthebuzziestaiagentaroundcanitsurvivemuse",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "source": "The Verge",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "b464f0c6848c6039": {
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "norm_title": "evenlaworderisterrifiedofai",
+      "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "source": "Wired",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "091c7c1f9fbbc8c4": {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "norm_title": "openaidoublesdownondecisiontofirethreeaisafetyresearchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "source": "The Verge",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "30ff2fdbc81fd37b": {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "norm_title": "wereputtingtoomuchfaithinaisabilitytosayno",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "c06059e284bf1e4e": {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "norm_title": "sophoscutsthreatinvestigationtimeby96withopenaidaybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "45547e5cde611540": {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "norm_title": "roundtablesaconversationwiththecreatorofaidesignedviruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "8a4730ce29f4545f": {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "norm_title": "anthropiclaunchesfreeaisecurityscansforopensourceprojects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "7fb069136ae4c105": {
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "norm_title": "insideelonmusksmidtermspendingspree",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+      "source": "Wired",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "49b1ad2c9d80c919": {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "norm_title": "pretendyouresittingatelizabethholmesdeskonthisweirdlydetailedwebsite",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "1c1e622551832781": {
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "norm_title": "californiaistryingtoshutdownrobotvshumancagematches",
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "source": "The Verge",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "da23a6b2146cfc4d": {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "norm_title": "firedopenaisafetyresearchersdisputemisconductclaimswarnofchillingeffect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-09T15:41:43.742631+00:00"
     }
   }
 }

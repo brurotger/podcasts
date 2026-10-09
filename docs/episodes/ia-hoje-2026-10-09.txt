@@ -1,0 +1,103 @@
+ANA: Bom dia, pessoal! Hoje é nove de outubro de dois mil e vinte e seis, e este é o IA Hoje. Eu sou a Ana, e aqui comigo está o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem está ouvindo. Hoje tem briga em laboratório de IA, tem robô apanhando de gente e tem uma ideia bem interessante sobre dizer "não".
+
+ANA: Então vamos começar pela briga. A OpenAI demitiu três pesquisadores de segurança, e a história está esquentando. O que aconteceu?
+
+MARCOS: Vou juntar duas matérias, uma do The Verge e outra do TechCrunch. A OpenAI demitiu Jasmine Wang, Tomek Korbak e Mikita Balesni. Esses três trabalhavam justamente com segurança de IA, ou seja, com o time que tenta evitar que os modelos causem problemas.
+
+ANA: E por que eles foram demitidos?
+
+MARCOS: Segundo a empresa, uma investigação concluiu que eles cometeram "uma quebra de confiança significativa". Num post no X, na sexta, a OpenAI disse que eles violaram políticas claras sobre como lidar com informações sensíveis. E ela insiste que a decisão está mantida.
+
+ANA: Mas os três não concordam, né?
+
+MARCOS: Não concordam. Segundo o TechCrunch, eles divulgaram uma carta aberta contestando as acusações de que teriam manuseado informação de forma indevida. E fizeram um alerta maior: as demissões criam um efeito inibidor, o chamado "chilling effect", na cultura de segurança da empresa.
+
+ANA: Traduzindo o "efeito inibidor" pra mim.
+
+MARCOS: É quando as pessoas ficam com medo de falar. Imagina que você trabalha lá e vê três colegas de segurança demitidos. Da próxima vez que você notar um problema, vai pensar duas vezes antes de levantar a mão. Em segurança, isso é perigoso, porque o trabalho dessas pessoas é justamente apontar o que está errado, às vezes de forma incômoda.
+
+ANA: Mas a empresa pode ter razão, não? Vazar informação sensível é coisa séria.
+
+MARCOS: Pode, e é isso que torna a história difícil de julgar. Hoje a gente só tem duas versões: a da empresa, que fala em violação de política, e a dos pesquisadores, que negam. Não vimos o relatório da investigação. Então eu seguro a opinião sobre quem está certo.
+
+ANA: E sobre o que dá pra opinar?
+
+MARCOS: Sobre o desenho do problema. Quando uma empresa investiga e pune pessoas de segurança, e ninguém de fora consegue ver as provas, a confiança fica toda no lado da empresa. Num setor que pede ao mundo "confie em nós, estamos cuidando dos riscos", isso pesa. Seja qual for a verdade, o caso já virou símbolo de uma pergunta antiga: quem fiscaliza os fiscais?
+
+ANA: Falando em segurança, a Anthropic anunciou uma coisa que parece bem útil. Fala pra gente.
+
+MARCOS: É o OSS Scanner, de acordo com o The Verge. OSS vem de "open source software", os programas de código aberto, aqueles que qualquer um pode ler e usar, como boa parte da internet roda. A Anthropic diz que projetos que aderirem vão receber, e cito, "varreduras de segurança periódicas e minuciosas, feitas pelos nossos modelos mais fortes, sem custo".
+
+ANA: Ou seja, uma IA caçando falhas de graça no código dos outros.
+
+MARCOS: Exatamente. E o contexto importa. Muita biblioteca que sustenta empresas gigantes é mantida por poucos voluntários, sem dinheiro e sem tempo pra auditoria profunda. Uma falha escondida ali pode afetar milhões de sistemas. Se uma IA forte revisa esse código com regularidade, os problemas podem ser achados mais cedo.
+
+ANA: Parece bom demais. Qual é a pegadinha?
+
+MARCOS: O próprio Verge menciona que existe uma contrapartida, e o resumo corta justamente nessa parte, então não vou inventar qual é. Mas dá pra levantar as perguntas óbvias. O que a empresa ganha com isso? O que acontece com o código e com os relatórios? E um detalhe técnico: a mesma IA que acha falha pra consertar também poderia achar falha pra explorar. Por isso o aviso é o ponto delicado. Quem é avisado primeiro, e como a informação é guardada, faz toda a diferença.
+
+ANA: Então é promissor, mas vale ler as letras miúdas.
+
+MARCOS: Isso. Pra quem mantém projeto aberto, grátis e periódico é muito atraente. Só que "grátis" em tecnologia quase sempre vem com uma condição, então eu leria os termos antes de aderir.
+
+ANA: Ainda na linha de segurança, a OpenAI publicou um caso de cliente: a Sophos. O que tem lá?
+
+MARCOS: Aqui vale um alerta: é um texto no blog da própria OpenAI, ou seja, material de divulgação. Segundo ela, a Sophos, uma empresa de cibersegurança, usou um produto chamado Daybreak e reduziu em noventa e seis por cento o tempo de investigação de ameaças. E automatizou cinquenta e dois por cento dos casos de MDR, que é o serviço em que uma equipe monitora e responde a ataques para outras empresas.
+
+ANA: Noventa e seis por cento é muito. Dá pra acreditar?
+
+MARCOS: É o tipo de número que eu olho com carinho, mas com cuidado. Reduzir o tempo de investigação em noventa e seis por cento significa que o que levava, digamos, uma hora passa a levar pouco mais de dois minutos. É plausível em tarefas repetitivas, como juntar logs e correlacionar alertas, que são justamente o que a IA faz bem. Mas é um caso escolhido pela fornecedora pra ser vitrine. Ninguém publica o caso em que deu errado.
+
+ANA: E o outro número, os cinquenta e dois por cento?
+
+MARCOS: Esse me parece mais honesto. Automatizar pouco mais da metade dos casos significa que quase metade ainda precisa de gente. A matéria diz que a supervisão humana foi preservada, e isso é o razoável. Eu aposto que é esse o formato dos próximos anos: a IA resolve o grosso, e o humano fica com o difícil e com a decisão final.
+
+ANA: Agora uma notícia que me deixou curiosa. A MIT Technology Review diz que estamos confiando demais na capacidade da IA de dizer "não". Como assim?
+
+MARCOS: O artigo parte de uma observação boa. Desde que a humanidade imaginou máquinas inteligentes, a ficção sempre supôs que elas poderiam desobedecer. Quase sempre como alerta, tipo o computador que se recusa a abrir a porta da nave. Mas, segundo a revista, recentemente a ideia de que a IA deveria saber recusar pedidos virou uma espécie de solução para os riscos.
+
+ANA: Tipo o chatbot que se nega a ensinar algo perigoso?
+
+MARCOS: Isso. A lógica é: se o modelo for bem treinado pra recusar o que é nocivo, a gente fica seguro. O texto questiona essa fé, e eu concordo com o espírito. Recusa é uma defesa, mas é uma defesa frágil. Quem já tentou driblar um assistente sabe que muitas vezes basta reformular o pedido, contar uma historinha ou dividir a tarefa em partes pequenas.
+
+ANA: E tem o outro lado, né? Às vezes a IA recusa coisa totalmente inofensiva.
+
+MARCOS: Tem. Ela erra nos dois sentidos: deixa passar o que não devia e bloqueia o que devia ajudar. Não dá pra tratar o "não" da IA como a única trava. Segurança de verdade tem camadas: controle de quem acessa o quê, monitoramento, limites no que o sistema pode fazer sozinho. O "não" do modelo é só uma delas.
+
+ANA: Interessante que isso conversa com a história da OpenAI. Se o "não" da máquina não basta, as pessoas de segurança dentro das empresas importam ainda mais.
+
+MARCOS: Boa conexão, Ana. Se a trava do modelo é frágil, a cultura de gente que levanta a mão quando vê problema vira uma proteção essencial.
+
+ANA: Agora uma mais leve, mas que me interessou. O The Verge fala de um agente de IA chamado Instinct. Que bicho é esse?
+
+MARCOS: Um agente de IA é um assistente que não só conversa, mas faz coisas por você. O Instinct chegou ao mercado em agosto com uma estratégia incomum: só por convite, nenhum marketing, e quase nem site tinha. Mesmo assim, virou, nas palavras do Verge, a coisa mais comentada de IA, elogiado pela interface simples, baseada em mensagem de texto.
+
+ANA: Ou seja, você manda um torpedo, como mandaria pra um amigo?
+
+MARCOS: É a ideia. Sem aplicativo complicado, sem tela cheia de botão. Isso é inteligente, porque mensagem de texto é a interface que todo mundo já domina. A matéria pergunta se ele sobrevive à chegada do Muse, que pelo título parece ser um concorrente novo com muito barulho. Não tenho detalhes do Muse pra dar aqui, então não vou chutar.
+
+ANA: E o que você acha, esse tipo de sucesso por escassez dura?
+
+MARCOS: Convite e mistério geram curiosidade, mas curiosidade não é hábito. O teste vem quando o concorrente aparece, talvez com mais dinheiro e mais divulgação. Aí a pergunta é se o Instinct continua útil na terça-feira de manhã, e não só empolgante na estreia. Eu torço pela simplicidade, mas a prova é o uso diário.
+
+ANA: Pra fechar a parte séria, a notícia mais esquisita do dia. A Califórnia quer proibir luta de robô contra humano?
+
+MARCOS: Quase isso. Segundo o The Verge, citando o New York Times, a Comissão Atlética do Estado da Califórnia mandou uma notificação de cessar e desistir para uma startup chamada Rek. Em dezoito de setembro, ela promoveu uma luta entre um humano, Frankie LaPenna, e um robô humanoide da empresa.
+
+ANA: E por que a comissão se meteu?
+
+MARCOS: Essas comissões regulam combate esportivo, por causa de licença, segurança e saúde dos lutadores. Agora imagina o problema: como você aplica regras de boxe a uma máquina de metal que não sente dor e pode bater com uma força que humano nenhum tem? Não existe categoria de peso pra isso.
+
+ANA: Eu confesso que acho engraçado, mas parece perigoso mesmo.
+
+MARCOS: É os dois. Tem um lado de espetáculo, claro. Mas é um bom exemplo de como a tecnologia chega antes da regra. Ninguém escreveu lei pensando em robô no ringue, e a comissão agora improvisa com as ferramentas que tem. Vamos ver se isso vira regulamentação específica.
+
+ANA: Bom, hora de resumir o que a gente viu hoje.
+
+MARCOS: Vamos lá. A OpenAI manteve a demissão de três pesquisadores de segurança, eles negam as acusações e alertam para um clima de medo. A Anthropic lançou o OSS Scanner, que promete varreduras de segurança gratuitas para projetos abertos, mas com uma contrapartida que vale ler. A Sophos diz ter cortado em noventa e seis por cento o tempo de investigação de ameaças com o Daybreak, da OpenAI, num caso que é também propaganda. A MIT Technology Review lembra que o "não" da IA é uma trava frágil e não pode ser a única. O Instinct fez sucesso com mensagens de texto e agora enfrenta o Muse. E a Califórnia mandou parar as lutas entre humanos e robôs da Rek.
+
+ANA: Por hoje é isso, pessoal. Obrigada por ouvir o IA Hoje, e amanhã a gente volta com mais novidades. Tchau, tchau!
+
+MARCOS: Até amanhã!
