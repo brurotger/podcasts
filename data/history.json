@@ -1,103 +1,5 @@
 {
   "items": {
-    "561736738899f6d4": {
-      "title": "Powering AI is an architecture problem",
-      "norm_title": "poweringaiisanarchitectureproblem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "caf712a957b18e8e": {
-      "title": "Everything New You Can Do With Siri AI",
-      "norm_title": "everythingnewyoucandowithsiriai",
-      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-      "source": "Wired",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "764bfa3ee4a197dd": {
-      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-      "norm_title": "clearviewaiistestinganaitoolthatwouldletcopsunearthyourlifeonline",
-      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-      "source": "Wired",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "a95cf4aeba8bf6da": {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "norm_title": "airesearchstartuplistenlabsscrubbeda15bfundingroundforsalesforcetalks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "77272958072cf062": {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "norm_title": "rebuildingautomatic1111withgradioworkflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "be23b75ac7747ff0": {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "norm_title": "openaiaddsaprominentaidoomertoitsboardofdirectors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "adcf3a2e65aa3138": {
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-      "norm_title": "theairesearcherwhojustquitanthropicsaysitscrunchtimeforhumanity",
-      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "source": "Wired",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "46c753c58b7938cd": {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "norm_title": "massachusettshitsdatacenterswithnewcleanpowerrules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "8f34ae858c6edc80": {
-      "title": "Suno releases its first AI music model made with record industry help",
-      "norm_title": "sunoreleasesitsfirstaimusicmodelmadewithrecordindustryhelp",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "source": "The Verge",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "88360735017fa81c": {
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "norm_title": "openaisslymathematicalbreakthroughsendsachillthroughacademia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "source": "The Verge",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "ba4802b86b16152f": {
-      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-      "norm_title": "sanfranciscoordersmetatostopallowingaichildabuseads",
-      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "source": "Wired",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "632db64bb739cc01": {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "norm_title": "readtheappledocumentexplaininghownewlisteningfeaturesstillprotectyourprivacy",
-      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "source": "The Verge",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "45c3317b8a1c764b": {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "norm_title": "applewatchsnewaifeaturesarenormalizingtheideathattechnologyisalwayslistening",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
-    "fae6b31acc8323cf": {
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "norm_title": "sixchineseaifirmsaccusedofaggressivelycopyingusfrontiermodels",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-10T13:16:17.020956+00:00"
-    },
     "0f6df5275d170446": {
       "title": "Claude users found ways around safeguards for bioweapons research",
       "norm_title": "claudeusersfoundwaysaroundsafeguardsforbioweaponsresearch",
@@ -2771,6 +2673,104 @@
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "source": "TechCrunch",
       "seen_at": "2026-10-09T15:41:43.742631+00:00"
+    },
+    "5b80addde604dc08": {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "norm_title": "anthropiciscuttingoffitsinternalevaluationsfromtheinternet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "bcc8dedc11ad7702": {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "norm_title": "herearethetopaiagentsthatcanliveinyourtextmessages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "f6af3a3002ae00c2": {
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "norm_title": "aiagentmakersarepromisingprivacywilltheydeliver",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "cb6e4f1afb3c4db5": {
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "norm_title": "aiisgettingreallygoodatmessingwithcybercriminals",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "source": "Wired",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "e03598079ce34d9e": {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "norm_title": "anthropiccantreliablycontrolitsaiagentsitscuttingoffitsinternalevalsfromtheliveinternetinstead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "736a2a214fa9ae8c": {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "norm_title": "ukrainesdronesknockoutaidatacenterbelongingtorussiasgoogle",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "80d6d1fd33ce32f7": {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "norm_title": "themakerofnontextaimodeljevvaluedat75bjustweeksafterlaunch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "7501a5f790f7b5e6": {
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "norm_title": "anthropicsaigavephiladelphiapoliceafaketipaboutanunsolvedhomicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source": "The Verge",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "36ea42bb8a5c3014": {
+      "title": "AI coding agents generate more code, but not more software",
+      "norm_title": "aicodingagentsgeneratemorecodebutnotmoresoftware",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "64cf6bdcf864acab": {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "norm_title": "ananthropicaimodelsentafalsehomicidetiptophiladelphiapolice",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "2543d5ed7839d9e7": {
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "norm_title": "bookpublishersarequietlyusingmoreaistaffarerevolting",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "source": "Wired",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "1ae170206ecc97ba": {
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "norm_title": "pureinsanitymathematicianswillneedyearstomakesenseofopenaislatestdrop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "a00758dea8e64bb5": {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "norm_title": "aidisqualificationyieldsnewnikonsmallworldinmotionwinner",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "04a62f80ca8e4da7": {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "norm_title": "nikonmicroscopicvideocompetitionwinnerdisqualifiedforusinggenerativeai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "source": "The Verge",
+      "seen_at": "2026-10-10T14:56:13.738007+00:00"
     }
   }
 }

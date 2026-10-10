@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-10",
+    "title": "IA Hoje — 10 de outubro de 2026",
+    "file": "ia-hoje-2026-10-10.mp3",
+    "duration": 645,
+    "size": 3872397,
+    "published_at": "2026-10-10T14:56:13.735076+00:00",
+    "news": [
+      {
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      },
+      {
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+      },
+      {
+        "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/"
+      },
+      {
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+      },
+      {
+        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+      },
+      {
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+      },
+      {
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+      },
+      {
+        "title": "AI coding agents generate more code, but not more software",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+      },
+      {
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+      },
+      {
+        "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
+      },
+      {
+        "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+      },
+      {
+        "title": "AI disqualification yields new Nikon Small World in Motion winner",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
+      },
+      {
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "title": "IA Hoje — 9 de outubro de 2026",
     "file": "ia-hoje-2026-10-09.mp3",
@@ -961,86 +1041,6 @@
         "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
         "source": "The Verge",
         "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-26",
-    "title": "IA Hoje — 26 de setembro de 2026",
-    "file": "ia-hoje-2026-09-26.mp3",
-    "duration": 937,
-    "size": 5620701,
-    "published_at": "2026-09-26T13:31:43.967925+00:00",
-    "news": [
-      {
-        "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/"
-      },
-      {
-        "title": "At Meta Connect, the company’s smart glasses were everywhere",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
-      },
-      {
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
-      },
-      {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
-      },
-      {
-        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
-      },
-      {
-        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
-      },
-      {
-        "title": "Meta opens early access program for new Muse features",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
-      },
-      {
-        "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/"
-      },
-      {
-        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
-      },
-      {
-        "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
-      },
-      {
-        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/proaction"
-      },
-      {
-        "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
-      },
-      {
-        "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
-      },
-      {
-        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/"
       }
     ]
   }
