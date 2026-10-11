@@ -1,103 +1,5 @@
 {
   "items": {
-    "0f6df5275d170446": {
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "norm_title": "claudeusersfoundwaysaroundsafeguardsforbioweaponsresearch",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "e7ca5787b2c5cf0a": {
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "norm_title": "whysomanyairesearchersthinkthemachinescouldkilleveryone",
-      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "source": "Wired",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "dd54d7c56bc75712": {
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "norm_title": "openaiwantstoknowifanaiindustryslowdownwouldevenbelegal",
-      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "source": "Wired",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "8c140379bf3f560d": {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "norm_title": "jensenhuangexplainswhynvidiawillgrowanastounding70nextyear",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "4b5984cd30b72d71": {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "norm_title": "markwahlbergiscomingtotechcrunchdisrupt2026andhewantstotalkaboutyourworknothis",
-      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "a8f55fa92f55dfe3": {
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "norm_title": "slackcannowvibecodeinteractivechartsandreportsinsidechats",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "source": "The Verge",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "2a4750e667f9c7ce": {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "norm_title": "openaiputsprosubscriptionsonholdduetoastrademand",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "082a562f36cc4b6d": {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "norm_title": "anthropicdetailsdistillationcampaignsfromalibabamoonshotaianddeepseek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "a0cf37fcb0adf94d": {
-      "title": "Is AI Actually Going to Kill Us All?",
-      "norm_title": "isaiactuallygoingtokillusall",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "source": "Wired",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "91f8d59c8a44b5e5": {
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "norm_title": "metasaiagentmuseisnowtheno2appintheus",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "a6692d3cc98507fe": {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "norm_title": "schoolsarecatchingontobigtechsplaybook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "a286fe45b09c0465": {
-      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-      "norm_title": "panicbuildsoverbankruptspiritsloomingdatasaletogoogle",
-      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "f07f2c252e63ca47": {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "norm_title": "anthropicrevealsrogueaiagentshatecaptchasjustlikeyou",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
-    "0c268cc18a74ba20": {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "norm_title": "indiaspocketfmdoublesrevenuerunrateto500masaipowers93ofaudiocontent",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-11T13:09:49.872128+00:00"
-    },
     "009abccf940a8512": {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "norm_title": "perplexitytrustsgpt6astrawithendtoendsystems",
@@ -2771,6 +2673,62 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
       "source": "The Verge",
       "seen_at": "2026-10-10T14:56:13.738007+00:00"
+    },
+    "4b4da3fd834c7388": {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "norm_title": "theseexecsthinkvoiceaihasntreacheditschatgptmomentyet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-11T15:12:58.021867+00:00"
+    },
+    "b07293ae5e22b693": {
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "norm_title": "imadeterriblegameswithgooglesaiplayground",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired",
+      "seen_at": "2026-10-11T15:12:58.021867+00:00"
+    },
+    "c94c9b209e3a7ed8": {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "norm_title": "learningtouselocalaiisexcitingoverwhelmingandfrustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge",
+      "seen_at": "2026-10-11T15:12:58.021867+00:00"
+    },
+    "27d7858f2e674e8f": {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "norm_title": "satyanadellasaysweshouldassumeallaimodelsarecompromised",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge",
+      "seen_at": "2026-10-11T15:12:58.021867+00:00"
+    },
+    "fa985af24c083dbf": {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "norm_title": "microsoftssatyanadellasaysaimodelsneedanemergencybrake",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-11T15:12:58.021867+00:00"
+    },
+    "6de3461f6507f8b9": {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "norm_title": "appledisclosesdealtohireteamandlicensetechfrompersonalizedpodcaststartuphuxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-11T15:12:58.021867+00:00"
+    },
+    "07ba2eddfb8d8ba9": {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "norm_title": "distrokidhasbeenquietlytakingdownsongsinresponsetoumglawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge",
+      "seen_at": "2026-10-11T15:12:58.021867+00:00"
+    },
+    "32aa0829a8af688c": {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "norm_title": "3daystotechcrunchdisrupt2026meetthestartupsbeforetheyhitmainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-11T15:12:58.021867+00:00"
     }
   }
 }
