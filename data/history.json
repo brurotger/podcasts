@@ -1,152 +1,5 @@
 {
   "items": {
-    "009abccf940a8512": {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "norm_title": "perplexitytrustsgpt6astrawithendtoendsystems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "e1cf5e34b63f07ea": {
-      "title": "I spent $4,000 on a robot dog from China",
-      "norm_title": "ispent4000onarobotdogfromchina",
-      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "da2ff31169e42092": {
-      "title": "OpenAI just wants to win",
-      "norm_title": "openaijustwantstowin",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "source": "The Verge",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "e85cce4242c290f2": {
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "norm_title": "fromhackstobioweaponsclaudemisuseisnoweverywhere",
-      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "source": "Wired",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "2ff05ee5f91df1a6": {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "norm_title": "meckaainears500mvaluationinsequoialeddealamidrushforrobottrainingdata",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "74fffe27b85cfa27": {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "norm_title": "ycombinatorsgarrytanwantsusopenweightailabstodistillfrontiermodelstoo",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "01b65b07f90dd909": {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "norm_title": "openaisfeudwithmathematiciansisonlyescalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "1f024ba88606651a": {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "norm_title": "lawyerfined5koveraihallucinatedwitnessesinamurdercase",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "source": "The Verge",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "bd4ab85c95880521": {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "norm_title": "oneweeklefttobookyourexhibittableattechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "f43c7f2428618ca5": {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "norm_title": "finalfinalfinalcallfortechcrunchdisrupt2026sideevents",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "c462fcf9a62e8c77": {
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "norm_title": "roundtablesaisapocalypsecrisis",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "eeef0f9dd63be64a": {
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "norm_title": "kimimakermoonshotaitargets2binannualrevenue",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "31acacce0e159922": {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "norm_title": "chatgptusinglawyerpunishedforcitingfaketestimonyfrommadeupwitnesses",
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "0ba77e748f7270d3": {
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-      "norm_title": "metasuedovertrainingdataforitsaiandfacerecognitionsystems",
-      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-      "source": "Wired",
-      "seen_at": "2026-09-12T12:33:21.245773+00:00"
-    },
-    "34f1ac277220ec33": {
-      "title": "AI Agents Are Thirsty for Power",
-      "norm_title": "aiagentsarethirstyforpower",
-      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "source": "Wired",
-      "seen_at": "2026-09-13T13:34:38.609148+00:00"
-    },
-    "5d380e09f43522fd": {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "norm_title": "openaisrogueaitriedtohackanothercompanyinmay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "source": "The Verge",
-      "seen_at": "2026-09-13T13:34:38.609148+00:00"
-    },
-    "8ab632efa43dbf32": {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "norm_title": "samaltmansaysopenaigoingpublicin2026wouldbeilladvised",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "source": "The Verge",
-      "seen_at": "2026-09-13T13:34:38.609148+00:00"
-    },
-    "2172c00f4a896509": {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "norm_title": "openaissamaltmansaysitwouldbeilladvisedtogopublicin2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-13T13:34:38.609148+00:00"
-    },
-    "206d81072bc0b6db": {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "norm_title": "anthropicceooutlinesplantoslowaidevelopment",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-13T13:34:38.609148+00:00"
-    },
-    "9f249fe5ec231872": {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "norm_title": "anthropicceosaysitstimetopumpthebrakesonai",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge",
-      "seen_at": "2026-09-13T13:34:38.609148+00:00"
-    },
-    "58ac5510ccb407b4": {
-      "title": "Trump is giving data centers a pass to pollute",
-      "norm_title": "trumpisgivingdatacentersapasstopollute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "source": "The Verge",
-      "seen_at": "2026-09-13T13:34:38.609148+00:00"
-    },
     "b8c65d7d672b879e": {
       "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
       "norm_title": "onlyattechcrunchdisrupt2026whathappenswhenopenaishipsyourroadmap",
@@ -2729,6 +2582,104 @@
       "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "source": "TechCrunch",
       "seen_at": "2026-10-11T15:12:58.021867+00:00"
+    },
+    "15f5f4b245c34c60": {
+      "title": "Gemini 4 Argon for Robotics",
+      "norm_title": "gemini4argonforrobotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "abd6e0a3ce810623": {
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "norm_title": "gemini4argonbeginsrollingoutingeminiappandantigravitybutonlyifyoupay",
+      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "84e728f1947dc7af": {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "norm_title": "gemini4argonbuilttosolveyourhardestproblems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "bb5812be21a4cfea": {
+      "title": "Google finally releases Gemini 4 Argon",
+      "norm_title": "googlefinallyreleasesgemini4argon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "The Verge",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "a809d7ccea69ff11": {
+      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+      "norm_title": "theywargameddimmingthesunitwentevenworsethanyouthink",
+      "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "570d8e31257d96c4": {
+      "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "norm_title": "epicshiftstoaiaccelerateddevelopmentforupcomingdisneygame",
+      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+      "source": "The Verge",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "482e05df9aeaf7b3": {
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "norm_title": "techcrunchdisrupt2026day1",
+      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "717fc02a015e22d5": {
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "norm_title": "dlss5getstoneddownforitshogwartslegacydebutnextmonth",
+      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "source": "The Verge",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "ea344f44507fd80d": {
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "norm_title": "spacexsibundlesxpremiumgrokandcursorintoonesubscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "ea95b543c4c39eab": {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "norm_title": "amexintroducesaframeworktopreventaiagentsfrommakingunauthorizedpurchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "c4be33a41e20da61": {
+      "title": "Apple launches HomeView, its first smart display for the home",
+      "norm_title": "applelauncheshomeviewitsfirstsmartdisplayforthehome",
+      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+      "source": "The Verge",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "c1e6942a222ffb67": {
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "norm_title": "just5yearsininteractivechatbotplatformcharacteraifilesforbankruptcy",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "ab1cdbbc5d95a142": {
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "norm_title": "wikipediansbelievedaiwouldcomeandgotheywerewrong",
+      "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "source": "Wired",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "31d7dd37f1bc2f08": {
+      "title": "Character.AI files for bankruptcy",
+      "norm_title": "characteraifilesforbankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "source": "The Verge",
+      "seen_at": "2026-10-13T16:35:38.282557+00:00"
     }
   }
 }

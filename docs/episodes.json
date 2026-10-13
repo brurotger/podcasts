@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-13",
+    "title": "IA Hoje — 13 de outubro de 2026",
+    "file": "ia-hoje-2026-10-13.mp3",
+    "duration": 590,
+    "size": 3543213,
+    "published_at": "2026-10-13T16:35:38.278202+00:00",
+    "news": [
+      {
+        "title": "Gemini 4 Argon for Robotics",
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      {
+        "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+      },
+      {
+        "title": "Gemini 4 Argon: Built to solve your hardest problems",
+        "source": "Google AI",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      },
+      {
+        "title": "Google finally releases Gemini 4 Argon",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+      },
+      {
+        "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/"
+      },
+      {
+        "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Day 1",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/"
+      },
+      {
+        "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
+      },
+      {
+        "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
+      },
+      {
+        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+      },
+      {
+        "title": "Apple launches HomeView, its first smart display for the home",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
+      },
+      {
+        "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+      },
+      {
+        "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/"
+      },
+      {
+        "title": "Character.AI files for bankruptcy",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "title": "IA Hoje — 11 de outubro de 2026",
     "file": "ia-hoje-2026-10-11.mp3",
@@ -976,86 +1056,6 @@
         "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
         "source": "Wired",
         "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "title": "IA Hoje — 28 de setembro de 2026",
-    "file": "ia-hoje-2026-09-28.mp3",
-    "duration": 786,
-    "size": 4718829,
-    "published_at": "2026-09-28T17:12:08.478482+00:00",
-    "news": [
-      {
-        "title": "When can we say AI made a scientific discovery?",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
-      },
-      {
-        "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
-      },
-      {
-        "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels"
-      },
-      {
-        "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
-      },
-      {
-        "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
-      },
-      {
-        "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Modulate raises $25M for its voice models and analysis suite",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
-      },
-      {
-        "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
-      },
-      {
-        "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
-      },
-      {
-        "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira"
-      },
-      {
-        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
-      },
-      {
-        "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
-      },
-      {
-        "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
       }
     ]
   }

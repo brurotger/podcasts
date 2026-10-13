@@ -1,0 +1,87 @@
+ANA: Bom dia, pessoal! Hoje é dia treze de outubro de dois mil e vinte e seis, e este é o IA Hoje. Eu sou a Ana, e aqui comigo está o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem ouve. Dia cheio hoje, com modelo novo do Google, jogo da Disney feito com ajuda de inteligência artificial e uma falência que pegou muita gente de surpresa.
+
+ANA: Então vamos começar pelo Google. Chegou o Gemini quatro Argon, e eu vi que todo mundo está falando disso. O que aconteceu exatamente?
+
+MARCOS: Segundo o The Verge, o Google finalmente lançou o Gemini quatro Argon, depois de meses meio na arquibancada da corrida dos modelos de ponta. O Google diz que o Argon entrega raciocínio de fronteira e desempenho melhor em fluxos de trabalho complexos. E tem um detalhe curioso: ele promete cortar a enrolação, as repetições e aqueles clichês que todo modelo de linguagem adora soltar.
+
+ANA: Espera, "raciocínio de fronteira" é o quê? Isso me soa a frase de marketing.
+
+MARCOS: Boa. Fronteira, nesse jargão, quer dizer o grupo dos modelos mais avançados do momento, tipo a primeira divisão do futebol. Dizer que tem raciocínio de fronteira é dizer: "estamos de volta à primeira divisão". E o raciocínio, aqui, é a capacidade de quebrar um problema em etapas, em vez de só chutar uma resposta que parece boa.
+
+ANA: E por que o Google estava "no banco", como você disse?
+
+MARCOS: Porque, nos últimos meses, quem dominava a conversa eram a OpenAI e a Anthropic. O Google tem dinheiro, pesquisadores e dados de sobra, mas vinha atrasado nos lançamentos mais badalados. Então o Argon é, antes de tudo, uma resposta. É o Google dizendo: "também estamos no jogo".
+
+ANA: E quem pode usar? Dá pra testar hoje?
+
+MARCOS: Aí vem o porém. O Ars Technica conta que o Argon começou a chegar ao aplicativo do Gemini e ao Antigravity, que é a ferramenta do Google para programar com ajuda de IA, mas só para quem paga. Quem usa a versão gratuita fica esperando. Para desenvolvedores, que usam o modelo por interface de programação, a chamada A P I, o Google deu desconto de cinquenta por cento nos preços até novembro.
+
+ANA: Desconto de metade... Isso é generosidade ou estratégia?
+
+MARCOS: Estratégia, claro. Desenvolvedor que constrói o produto em cima de um modelo raramente troca depois. Então o Google paga agora para ganhar a fidelidade. É como a promoção de primeira corrida de aplicativo de transporte: você experimenta barato, se acostuma e fica. Mas pra quem programa, é uma boa hora de testar e comparar com o que já usa.
+
+ANA: Tá, e a notícia da DeepMind, de robótica?
+
+MARCOS: A própria DeepMind publicou no blog dela uma versão chamada Gemini quatro Argon para robótica. A ideia é usar o modelo como cérebro de robôs, para entender uma instrução tipo "arruma a mesa" e transformar isso em movimentos. O blog não deu muitos detalhes que eu possa confirmar aqui, então eu seguraria o entusiasmo até ver demonstrações e testes independentes.
+
+ANA: Então, hype ou real?
+
+MARCOS: Real no sentido de que o Google voltou a competir. Mas "promete menos clichê e mais raciocínio" é o que todo lançamento promete. O veredito vem das semanas de uso, não do blog de lançamento.
+
+ANA: Justo. Vamos para os jogos. A Epic Games vai usar IA num jogo da Disney?
+
+MARCOS: Isso. O The Verge, citando uma reportagem da Bloomberg, conta que a Epic planeja usar IA para gerar código e arte de um jogo da Disney ainda não anunciado. Os desenvolvedores receberam um mandato "AI first", ou seja, a IA vem primeiro, com ferramentas como o Claude, da Anthropic. E o jogo já foi adiado da janela original de março.
+
+ANA: Calma. Adiado, e a solução é usar mais IA? Parece que ligaram o modo pânico.
+
+MARCOS: É a leitura natural, e eu concordo que tem esse cheiro. Quando um projeto atrasa, a pressão por velocidade aumenta, e a IA vira a promessa de acelerar. Só que meter ferramenta nova no meio de um projeto atrasado nem sempre ajuda: o time precisa aprender, revisar o que a IA gerou, corrigir erros. Código gerado ajuda bastante, mas alguém precisa entender o que está ali.
+
+ANA: E os artistas? A arte de um jogo da Disney é quase a alma do produto.
+
+MARCOS: Esse é o ponto sensível. A indústria de jogos está dividida, e muitos profissionais temem que "mandato de IA" signifique pressão sobre quem faz arte. E tem um risco de marca: a Disney é cuidadosíssima com o visual. Se a arte parecer genérica, o prejuízo é grande.
+
+ANA: Isso conversa com outra notícia de jogos, o DLSS cinco da Nvidia.
+
+MARCOS: Conversa muito. O DLSS é a tecnologia da Nvidia que usa IA para melhorar a imagem dos jogos. Quando mostraram o DLSS cinco, no começo do ano, os jogadores reclamaram que parecia IA generativa por cima do jogo: o The Verge lembra que os rostos mudavam, a aluna de quinze anos de Hogwarts Legacy parecia bem mais velha, e a Grace, de Resident Evil, ficava diferente.
+
+ANA: Ou seja, a IA reinterpretava o rosto da personagem.
+
+MARCOS: Exatamente. Agora, segundo o The Verge, a Nvidia suavizou o efeito na estreia dentro do Hogwarts Legacy, no mês que vem. A lição é que o público aceita IA para deixar o jogo mais nítido e fluido, mas rejeita quando ela mexe no que o artista criou. Essa fronteira entre melhorar e reescrever vai ser a grande briga dos próximos anos.
+
+ANA: Agora a notícia pesada: a Character.AI pediu falência. Cinco anos só!
+
+MARCOS: Pois é. O TechCrunch e o The Verge contam que a empresa entrou com pedido de falência e vai vender parte dos ativos para a Disney por vinte milhões de dólares. A Character.AI foi uma das primeiras startups a explodir na onda da IA generativa, com bots para conversar e fazer roleplay, aquelas interpretações de personagens.
+
+ANA: Vinte milhões é pouco, né? Pensando no hype que ela teve.
+
+MARCOS: Muito pouco. Para ter ideia, a empresa já foi tratada como estrela do setor, com acordos de bilhões de dólares envolvendo o Google. Terminar vendendo ativos por vinte milhões é uma queda enorme. E o The Verge lembra que ela enfrentava escrutínio e processos sobre a segurança dos chatbots, especialmente com adolescentes.
+
+ANA: E por que isso importa pra quem não usava o app?
+
+MARCOS: Por dois motivos. Primeiro, mostra que usar muito não é o mesmo que ter negócio: rodar esses modelos é caro, e segurança e responsabilidade legal também custam. Segundo, é um aviso para o setor de companhia virtual, que tem muito apelo emocional e muito risco. E tem a ironia de a Disney, dona de personagens que as pessoas amam, ficar com pedaços dessa história.
+
+ANA: Fiquei pensando nos usuários que tinham vínculo com esses bots.
+
+MARCOS: Com razão. Quando a empresa some, a "relação" some junto. Vale desconfiar de qualquer serviço em que você deposita muito afeto e dados, sem garantia de que ele existe daqui a um ano.
+
+ANA: Bom, pra fechar com algo que mexe no bolso: a Amex lançou uma proteção contra agentes de IA comprando por conta própria.
+
+MARCOS: Sim. Segundo o TechCrunch, a American Express apresentou um framework, um conjunto de regras e mecanismos, para garantir que agentes de IA só façam compras que o usuário realmente autorizou. Agente de IA, lembrando, é o assistente que age por você, por exemplo, comprando uma passagem.
+
+ANA: E qual o problema hoje? Eu autorizo e pronto.
+
+MARCOS: O problema é a bagunça no meio do caminho. Se o agente compra a coisa errada, ou compra o dobro, quem paga? Como o banco prova que você autorizou? Sem regra clara, vira disputa e estorno toda hora. Se o agente é seu funcionário digital, alguém precisa entregar o crachá e o limite de gastos dele. É isso que o banco tenta organizar.
+
+ANA: Isso me tranquiliza um pouco mais pra usar agente de compras.
+
+MARCOS: A direção é boa, porque dinheiro é onde a confiança em agentes vai ser testada de verdade. Mas o que vale é a execução, e o resumo que vi não detalha como vai funcionar na prática.
+
+ANA: Então vamos fechar. Marcos, resumindo o dia?
+
+MARCOS: O Google lançou o Gemini quatro Argon, com acesso só para assinantes e desconto de cinquenta por cento na A P I até novembro. A Epic vai acelerar um jogo atrasado da Disney com IA, e isso levanta dúvidas sobre qualidade e sobre os artistas. A Nvidia suavizou o DLSS cinco no Hogwarts Legacy depois da reação negativa aos rostos alterados. A Character.AI pediu falência e vende ativos à Disney por vinte milhões de dólares. E a American Express criou regras para agentes de IA só comprarem o que foi autorizado.
+
+ANA: Obrigada, Marcos! E obrigada a você que ouviu até aqui. Amanhã tem mais IA Hoje. Até lá!
+
+MARCOS: Até amanhã!
