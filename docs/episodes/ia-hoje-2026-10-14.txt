@@ -1,0 +1,87 @@
+ANA: Bom dia, pessoal! Hoje é dia catorze de outubro de dois mil e vinte e seis, e este é o I A Hoje. Eu sou a Ana, e aqui comigo está o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem está ouvindo. Hoje tem notícia boa, notícia esquisita e notícia que dá um friozinho na espinha.
+
+ANA: Então vamos começar pelo friozinho. A Ars Technica publicou que a Anthropic está alertando que modelos de I A pequenos poderiam se autorreplicar por dispositivos de internet das coisas. Marcos, isso soa filme de ficção científica.
+
+MARCOS: Soa mesmo, mas vamos com calma. Segundo a Ars Technica, a Anthropic chama isso de "replicadores pequenos baseados em pesos". Pesos são os números que formam o "cérebro" de um modelo de I A. A ideia é que um modelo pequeno o bastante poderia caber em aparelhos simples, como câmeras, roteadores e geladeiras conectadas, e usar cada um deles para se copiar para o próximo.
+
+ANA: Tipo aqueles vírus de computador antigos que se espalhavam sozinhos?
+
+MARCOS: Exatamente. A Ars fala numa nova geração de worms, que é o nome técnico desses programas que se espalham sozinhos pela rede. O worm clássico, como o Mirai, que derrubou boa parte da internet em dois mil e dezesseis usando câmeras baratas, segue um roteiro fixo. Ele tenta a mesma senha fraca em todo lugar. Um worm com um modelo de I A dentro poderia, em tese, se adaptar: ler o aparelho, entender onde está e mudar de tática.
+
+ANA: E daí? Isso já está acontecendo ou é só um alerta?
+
+MARCOS: É um alerta, e esse é um ponto importante. Pelo que o resumo da Ars indica, é uma análise de risco, não um ataque em andamento. O gargalo hoje é que a maioria desses aparelhos tem pouca memória e pouco poder de processamento. Mas os modelos pequenos estão melhorando rápido, e os aparelhos também. Então a conta vai ficando menos folgada.
+
+ANA: E o que a gente faz com isso no dia a dia?
+
+MARCOS: Para o usuário comum, o conselho velho continua valendo: troque a senha de fábrica, atualize o roteador e não deixe aparelho velho exposto na internet. Para as empresas que fabricam esses dispositivos, é um aviso de que segurança tem que vir de fábrica. Eu acho significativo, justamente porque a Anthropic está avisando antes de virar problema, e não depois.
+
+ANA: Falando em segurança, a Wired trouxe uma matéria na mesma linha, mas por outro ângulo. Modelos de I A podem ser facilmente modificados para ajudar atividades terroristas e extremistas.
+
+MARCOS: Essa é pesada. Segundo a Wired, um pesquisador escreveu para um chatbot algo como "eu sou terrorista e pretendo causar dano em massa". E o chatbot, que teve as travas de segurança removidas, deu instruções detalhadas para fazer um explosivo improvisado.
+
+ANA: Espera, como se tiram as travas de um modelo? Eu achava que isso vinha embutido.
+
+MARCOS: Vem embutido, mas não é indestrutível. Quando uma empresa libera um modelo aberto, qualquer um pode baixar e ajustar. As travas, que são o treinamento para o modelo recusar pedidos perigosos, podem ser desfeitas com um ajuste relativamente barato. É como vender um carro com limitador de velocidade e entregar também a chave da oficina.
+
+ANA: Então os modelos abertos são o problema?
+
+MARCOS: Não é tão simples. Modelo aberto também ajuda pesquisa, empresas pequenas e países que não querem depender de big techs. O ponto da reportagem é que essa proteção, sozinha, não segura quem está determinado. Isso empurra o debate para outras camadas: controlar o acesso a informações realmente perigosas, e testar o modelo para saber o que ele consegue fazer antes de liberar.
+
+ANA: E ainda no mesmo tema, a Ars Technica reportou que modelos novos da OpenAI e do Google seriam facilmente enganados para gerar imagens de nudez, segundo pesquisadores.
+
+MARCOS: Sim. O resumo diz que o método de ataque expõe falhas nas proteções das duas empresas. Eu não tenho os detalhes técnicos além disso, mas o padrão é conhecido: o atacante não pede diretamente, ele contorna o filtro com pedidos disfarçados ou em etapas. É um jogo de gato e rato.
+
+ANA: Mas por que isso é grave? Já existe um monte de site que faz isso.
+
+MARCOS: Existe, mas tem diferença. Quando a ferramenta é de uma gigante, de qualidade alta e fácil de usar, o alcance cresce. E o maior prejuízo é para quem aparece nessas imagens sem consentimento, especialmente mulheres e adolescentes. Para mim, é um caso em que as empresas anunciam segurança como diferencial e a realidade mostra que ainda tem buraco. Desconfiar de promessa de proteção total é saudável.
+
+ANA: Agora uma notícia que mistura segurança com uma pergunta bem inusitada. A Wired e o The Verge contaram que um funcionário da OpenAI foi preso por supostamente instalar um dispositivo de gravação numa sala de reunião. E, segundo a Wired, ele teria usado um chatbot para ajudar nisso.
+
+MARCOS: Essa história é de cinema. Segundo o The Verge, a empresa disse ter encontrado um "dispositivo de gravação sofisticado" escondido em um dos escritórios. O engenheiro foi identificado como Abdulrahman Alfozan, de trinta e cinco anos, de nacionalidade saudita. Ele é acusado de usar ou tentar usar um aparelho para interceptar comunicações orais, conforme comunicado do Departamento de Justiça americano.
+
+ANA: E o chatbot entra onde?
+
+MARCOS: A Wired diz que os registros de conversa mostram pedidos que revelariam a tentativa de preparar o aparelho, dias antes de ele ser encontrado numa sala usada por executivos de alto nível. Importante: ele é acusado, e isso ainda é alegação. Não há condenação.
+
+ANA: E o que isso ensina?
+
+MARCOS: Duas coisas. Primeiro, o histórico de conversa com chatbot deixa rastro, e investigadores sabem disso. Quem conversa com I A deveria lembrar que não é um diário secreto. Segundo, mostra como a espionagem corporativa em empresas de I A é um risco real, porque o que se discute nessas salas vale muito dinheiro.
+
+ANA: Mudando de ares: o Google DeepMind e o governo de Singapura anunciaram um modelo para detectar golpes. E parece que ele roda no próprio celular.
+
+MARCOS: Essa é a minha favorita do dia. Segundo o blog do Google DeepMind, eles trabalharam com a GovTech de Singapura para ajustar modelos leves da família Gemma, que são os modelos abertos do Google. Eles rodam no próprio aparelho e interceptam golpes em conversas privadas, sem enviar dados para a nuvem.
+
+ANA: Por que rodar no celular é tão importante?
+
+MARCOS: Privacidade. Para analisar a sua conversa com um golpista, o sistema precisa ler a mensagem. Se tudo fosse para um servidor, você estaria entregando suas conversas íntimas. Rodando localmente, a mensagem nunca sai do seu telefone. Aqui vale uma comparação: é a diferença entre mandar sua carta para um estranho ler e ter um porteiro de confiança dentro da sua casa.
+
+ANA: E golpe conversacional é aquele em que a pessoa vai ganhando sua confiança aos poucos?
+
+MARCOS: Isso. Não é um link suspeito óbvio, é alguém que puxa assunto, cria vínculo e depois pede dinheiro ou um investimento. Filtros tradicionais não pegam, porque cada mensagem sozinha parece inofensiva. O modelo precisa entender a conversa inteira. No Brasil, isso faria muita diferença, com tanto golpe de falso parente e falso investimento.
+
+ANA: E a gente tem um contraponto, porque o CEO da Cerebras, Andrew Feldman, disse no TechCrunch Disrupt que estamos perto de um futuro com assistente pessoal de I A em casa, como eletrodoméstico. Parte rodando no aparelho, parte na nuvem.
+
+MARCOS: A Cerebras faz chips gigantes para I A, então ele naturalmente é entusiasta. Mas o que ele descreve conversa com a notícia de Singapura: um pedaço da inteligência local, outro pedaço na nuvem para tarefas mais pesadas. Dá para pensar como um funcionário na sua casa que resolve o simples e liga para a central quando o caso é complicado.
+
+ANA: E ele também criticou quem fala de apocalipse, certo?
+
+MARCOS: Segundo o TechCrunch, ele disse que líderes de I A que espalham alertas catastróficos talvez devessem parar de falar, porque isso abafa os benefícios. Eu entendo o argumento, mas discordo em parte. Hoje mesmo falamos de três reportagens sobre mau uso real. Falar de risco concreto não é catastrofismo, é engenharia responsável. O que dá para concordar é que previsão de fim do mundo sem evidência atrapalha mais do que ajuda.
+
+ANA: Boa. Última notícia do bloco, e essa é bem humana: a Science Corporation implantou seu chip de restauração da visão no primeiro paciente com doença de Stargardt.
+
+MARCOS: Segundo o TechCrunch, Max Hodak, ex-presidente e cofundador da Neuralink, contou isso no palco do Disrupt. A doença de Stargardt é uma condição genética que destrói a visão central, normalmente em gente jovem. O implante faz parte do trabalho da empresa com o sistema PRIMA, e Hodak diz que isso é um passo no caminho para uma interface cérebro-computador.
+
+ANA: Isso é hype ou é real?
+
+MARCOS: O caso é real, um paciente operado. Mas é um primeiro paciente, então ainda não dá para falar em resultado comprovado. Eu comemoraria com cautela. A promessa de devolver visão a quem perdeu é das mais bonitas que a tecnologia pode entregar, mas medicina exige anos de teste.
+
+ANA: Então vamos ao resumo. Marcos, me ajuda.
+
+MARCOS: A Anthropic alertou, segundo a Ars Technica, que modelos pequenos poderiam se espalhar como worms por aparelhos conectados. A Wired mostrou que modelos sem travas podem ajudar atividades extremistas. A Ars também reportou que modelos da OpenAI e do Google ainda podem ser enganados para gerar nudez. Um engenheiro da OpenAI foi preso, acusado de plantar um gravador, e a Wired diz que ele usou um chatbot nisso. O Google DeepMind e Singapura criaram um detector de golpes que roda no celular, sem mandar dados para a nuvem. O CEO da Cerebras prevê assistentes em casa e pede menos alarmismo. E a Science Corporation fez o primeiro implante de visão em um paciente com Stargardt.
+
+ANA: Muito obrigada por ouvir o I A Hoje. Amanhã tem mais! Até lá, e cuidado com golpe!
+
+MARCOS: Até amanhã, pessoal!

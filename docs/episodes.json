@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-14",
+    "title": "IA Hoje — 14 de outubro de 2026",
+    "file": "ia-hoje-2026-10-14.mp3",
+    "duration": 647,
+    "size": 3881037,
+    "published_at": "2026-10-14T14:10:07.139816+00:00",
+    "news": [
+      {
+        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+      },
+      {
+        "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+      },
+      {
+        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+      },
+      {
+        "title": "My Friend Has No Soul",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/my-friend-has-no-soul/"
+      },
+      {
+        "title": "Men Can’t Stop Faking How Much They Know About AI",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/"
+      },
+      {
+        "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
+      },
+      {
+        "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "title": "The EU’s next chapter in AI is agentic",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      },
+      {
+        "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
+      },
+      {
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+      },
+      {
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+      },
+      {
+        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+      },
+      {
+        "title": "Cerebras CEO pushes back on AI doomsday warnings",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
+      },
+      {
+        "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "title": "IA Hoje — 13 de outubro de 2026",
     "file": "ia-hoje-2026-10-13.mp3",
@@ -976,86 +1056,6 @@
         "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "title": "IA Hoje — 29 de setembro de 2026",
-    "file": "ia-hoje-2026-09-29.mp3",
-    "duration": 550,
-    "size": 3301149,
-    "published_at": "2026-09-29T15:13:49.370222+00:00",
-    "news": [
-      {
-        "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
-      },
-      {
-        "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
-      },
-      {
-        "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
-      },
-      {
-        "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
-      },
-      {
-        "title": "Meta is expanding its AI agent Muse to small businesses",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
-      },
-      {
-        "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
-      },
-      {
-        "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
-      },
-      {
-        "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
-      },
-      {
-        "title": "Reco raises $55M as AI agent security startups crowd the market",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
-      },
-      {
-        "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty"
-      },
-      {
-        "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
-      },
-      {
-        "title": "Making AI an asset, not an expense",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
-      },
-      {
-        "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/"
-      },
-      {
-        "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/"
       }
     ]
   }

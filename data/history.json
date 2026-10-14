@@ -2680,6 +2680,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
       "source": "The Verge",
       "seen_at": "2026-10-13T16:35:38.282557+00:00"
+    },
+    "7a6e5dc7218ecd8a": {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "norm_title": "anthropicwarnssmallaimodelscouldselfreplicatethroughiotdevices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "7d4311376d6216b1": {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "norm_title": "openaigooglepushingnewaimodelseasilytrickedintomakingnudesresearcherssay",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "0c7063e89e5ba1f4": {
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "norm_title": "scimplifyraises25mtochallengechinasgriponcriticalmaterialswithai",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "8e65a8b0fedacfc6": {
+      "title": "My Friend Has No Soul",
+      "norm_title": "myfriendhasnosoul",
+      "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+      "source": "Wired",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "3e1b2baa61ed25a0": {
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "norm_title": "mencantstopfakinghowmuchtheyknowaboutai",
+      "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "source": "Wired",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "6b6a51e6ed299464": {
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "norm_title": "aimodelscanbeeasilymodifiedtoassistterroristandextremistactivity",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "source": "Wired",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "808b1a54718b6e60": {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "norm_title": "googledeepmindandsingaporegovernmentcollaboratetobuildfinetunedaimodelforscamdetection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "ce9aa8b9aedea3b3": {
+      "title": "The EU’s next chapter in AI is agentic",
+      "norm_title": "theeusnextchapterinaiisagentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "2b37a82aa87db1b7": {
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "norm_title": "anopenaiemployeeallegedlyusedachatbottohelpplantarecordingdeviceattheoffice",
+      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "source": "Wired",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "f24d9a0b1245833e": {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "norm_title": "sciencecorporationimplantsitsvisionrestoringchipinitsfirststargardtdiseasepatient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "0b09571b49e0ddeb": {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "norm_title": "cerebrasceosayswerenearingafuturewhereeveryonehasapersonalaiassistantathome",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "d18fbc0dabc527b4": {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "norm_title": "industrialnextwantsfactoryrobotstoswitchtasksinminutesnotweeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "5bbc239d86321bde": {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "norm_title": "cerebrasceopushesbackonaidoomsdaywarnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "6ca93f5bd56ab7f7": {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "norm_title": "openaiemployeearrestedforallegedlyplantingabuginaconferenceroom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge",
+      "seen_at": "2026-10-14T14:10:07.143500+00:00"
     }
   }
 }
