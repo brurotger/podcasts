@@ -1,0 +1,123 @@
+ANA: Bom dia, pessoal! Aqui é o IA Hoje, e hoje é quinze de outubro de dois mil e vinte e seis. Eu sou a Ana, e como sempre estou com o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem está ouvindo. Hoje tem compra, tem aparelho que escuta tudo, tem processo na Justiça e tem até entrevista de emprego com cliente falso.
+
+ANA: Cliente falso? Eu quero muito saber. Mas vamos começar pelas compras. O Google lançou um carrinho de compras com inteligência artificial, certo?
+
+MARCOS: Isso. Segundo o The Verge, o Google começou a liberar nos Estados Unidos o "Universal Cart", o carrinho universal. Ele foi apresentado na conferência I O deles, em maio, e agora aparece dentro do app do Gemini e na busca do Google.
+
+ANA: Tá, mas carrinho de compras todo site tem. Qual é a novidade?
+
+MARCOS: A palavra-chave é "universal". Hoje você tem um carrinho em cada loja. O Google quer um carrinho só, que junte produtos de lojas diferentes num lugar único. E a inteligência artificial entra para te ajudar a escolher e comparar.
+
+ANA: Ou seja, eu pesquiso um tênis, pergunto pro Gemini, e ele já joga no carrinho.
+
+MARCOS: Essa é a ideia. E repara no momento do lançamento. O Verge destacou que ele chega bem na porta da Black Friday e das compras de fim de ano.
+
+ANA: Então não é coincidência.
+
+MARCOS: Nada. Pra você, pode ser prático. Mas pro Google, o buscador deixa de ser só um lugar onde você descobre produtos e passa a ser o lugar onde você fecha a compra. Isso mexe com quem vende. Se o carrinho é do Google, quem manda na relação com o cliente?
+
+ANA: Então tem o lado bom, que é a comodidade, e o lado de que a gente vai gastar mais.
+
+MARCOS: Exatamente. O próprio Verge disse que o objetivo é tentar a gente a gastar nas festas. Meu conselho é usar a ferramenta para comparar preço, não para comprar por impulso.
+
+ANA: Falando em compra, a Amazon também entrou nessa com um aparelhinho chamado Bee.
+
+MARCOS: Sim. Bee era uma startup pequena, com um acessório de uns cinquenta dólares que ficava ligado o tempo todo, ouvindo e resumindo as conversas do seu dia. A Amazon comprou a empresa no ano passado. Segundo o TechCrunch e o The Verge, agora saíram os primeiros aparelhos novos desde a compra.
+
+ANA: Quais são?
+
+MARCOS: São dois. O Bee Frontier, uma versão atualizada do original, que custa setenta e quatro dólares e noventa e nove centavos. E um gravador do tamanho de um cartão de crédito que gruda no celular. Eles resumem conversas, criam listas de tarefas e se integram com a Alexa e com as compras da Amazon. Também tem uma assinatura nova junto.
+
+ANA: Espera. Um aparelho que escuta tudo que eu falo e ainda ajuda a comprar na Amazon? Isso não é meio arrepiante?
+
+MARCOS: É a pergunta certa. O manchete do Verge foi justamente que o Bee, sempre ouvindo, agora pode te ajudar a comprar coisas. Do ponto de vista da Amazon, faz sentido total: se você comenta em voz alta que acabou o café, o aparelho pode anotar e sugerir a compra.
+
+ANA: Útil, mas...
+
+MARCOS: Mas é um nível de escuta que a gente nunca teve no dia a dia. Tem a questão das outras pessoas, que estão conversando com você e nem sabem que estão sendo gravadas. Em alguns lugares isso é problema legal. Eu acho a ideia de resumo de reunião ótima. Já o gravador de fundo o dia inteiro, ligado a uma loja, eu olharia com muita cautela.
+
+ANA: Pensando bem, isso conversa com a próxima notícia, que é de um robozinho fofo.
+
+MARCOS: Conversa mesmo. O Verge fez uma reportagem sobre o Eiliko, um bichinho digital, uma espécie de marshmallow de robô, que muda a expressão do rosto conforme o seu humor.
+
+ANA: Que fofo! Qual é o problema?
+
+MARCOS: Se você ou seu filho conversam com ele pela rede Wi-Fi, ele manda os dados para a China. O Verge diz que o companheiro de inteligência artificial pode guardar literalmente tudo que você conta para ele em servidores chineses, e que esses dados estariam expostos a ataques de hackers. O título da matéria é bem direto: seus segredos não estão seguros.
+
+ANA: E por que isso é pior num brinquedo?
+
+MARCOS: Porque criança conta tudo. Ela fala do medo, da briga na escola, do que os pais conversam em casa. Um brinquedo que parece amigo faz a pessoa baixar a guarda. Se esse histórico fica num servidor mal protegido, é um risco sério.
+
+ANA: E o que a gente faz de prático?
+
+MARCOS: Antes de comprar qualquer brinquedo com inteligência artificial, procure saber onde os dados ficam guardados e se dá pra usar sem conexão. Se a empresa não explica isso com clareza, desconfie.
+
+ANA: E por falar em criança e inteligência artificial, a Justiça americana entrou no assunto.
+
+MARCOS: Entrou pesado. Segundo o The Verge, que citou a Reuters, oito estados americanos processaram a OpenAI: Iowa, Kansas, Nebraska, Virgínia Ocidental, Arkansas, Arizona, Idaho e Montana. Cada um entrou com a sua ação separadamente.
+
+ANA: Acusam a empresa de quê, exatamente?
+
+MARCOS: De ter prejudicado crianças e de ter enganado os clientes sobre a segurança do ChatGPT. A acusação central é que a OpenAI colocou o lucro na frente da segurança.
+
+ANA: Isso é novo?
+
+MARCOS: Já vinha vindo. Houve processos de famílias, debates no Congresso, e agora são estados inteiros. Quando oito estados se mexem, deixa de ser caso isolado e vira uma frente política. E o The Verge chama de nova onda de processos.
+
+ANA: Isso vai mudar o produto?
+
+MARCOS: Pode mudar. Tem dois caminhos: ou a empresa reforça os controles para menores, como verificação de idade e filtros mais rígidos, ou vai para o tribunal arriscar uma multa grande e uma decisão que serve de precedente. Eu ainda não sei quem tem razão, porque são alegações, e a empresa vai se defender. Mas o recado é claro: o tempo em que essas empresas se autorregulavam está acabando.
+
+ANA: E tem uma notícia parecida sobre a Character ponto A I, né? Uma empresa de chatbots de personagens.
+
+MARCOS: Tem. A Character ponto A I está indo à falência. E o The Verge contou que a procuradora-geral de Nova York, Letitia James, revelou uma investigação de vários anos, em vários estados, contra a empresa. Quarenta procuradores-gerais, de partidos diferentes, entraram com um aviso de interesse no processo de falência.
+
+ANA: E o que eles querem?
+
+MARCOS: Querem exigir proteção para os dados dos consumidores que possam ser vendidos durante a falência. Pensa assim: numa falência, a empresa vende o que tem para pagar as dívidas. E o que a Character ponto A I tem de mais valioso são as conversas das pessoas, muitas íntimas.
+
+ANA: Nossa. É como se o diário de alguém fosse parar num leilão.
+
+MARCOS: É uma boa imagem. Esse caso une as duas histórias de hoje: aparelhos e chatbots que guardam nossos segredos, e a pergunta de quem fica com eles quando a empresa quebra ou é vendida. O Bee, por exemplo, já mudou de dono uma vez.
+
+ANA: Aprendi a lição. Mas vamos pra uma notícia mais leve: a McKinsey e o cliente falso.
+
+MARCOS: Essa é curiosa. Segundo o The Wall Street Journal, e o Verge repercutiu, a McKinsey vai pedir a alguns candidatos de nível inicial uma conversa de dez minutos com uma simulação de cliente feita por inteligência artificial, como parte do processo seletivo.
+
+ANA: Dez minutos conversando com um robô fingindo ser um executivo difícil.
+
+MARCOS: Isso. A empresa diz que a simulação busca refletir oitenta por cento dos cenários que um consultor encontra no dia a dia.
+
+ANA: E isso é justo? Tem gente que trava com robô.
+
+MARCOS: Tem um lado bom: a conversa é igual para todo mundo, sem o humor do entrevistador influenciar. Mas tem o lado ruim: o candidato tem que se comportar bem diante de uma máquina, e a gente não sabe como ela avalia. Ela vai premiar quem fala bonito ou quem pensa bem? Esse é o ponto que eu cobraria da McKinsey.
+
+ANA: E a última de hoje é de games. A Epic fez um aplicativo novo, e a história é meio engraçada.
+
+MARCOS: É. O Ars Technica contou que a Epic Games lançou uma prévia do novo Epic Games Launcher, que ela diz ser mais rápido que a Steam. E o detalhe é que foi feito com "vibe coding".
+
+ANA: Vibe coding... isso é programar na base do clima?
+
+MARCOS: Mais ou menos! É pedir pra inteligência artificial escrever o código a partir de descrições em linguagem normal, e você vai ajustando. A própria Epic avisa que a prévia "vai ter alguns bugs".
+
+ANA: Então, se eu baixar, posso sofrer.
+
+MARCOS: Pode. Mas é um sinal interessante: uma empresa grande de jogos usando essa técnica num produto que milhões de pessoas usam. Se der certo, o mercado inteiro copia. Se der errado, vira exemplo do que não fazer. Eu acompanharia com curiosidade, sem instalar no computador principal.
+
+ANA: Então vamos ao resumo do dia. O Google lançou o carrinho universal com inteligência artificial, de olho na Black Friday.
+
+MARCOS: A Amazon lançou dois novos aparelhos Bee, que escutam, resumem e já ajudam a comprar.
+
+ANA: O robozinho Eiliko manda os segredos de quem conversa com ele para servidores na China.
+
+MARCOS: Oito estados americanos processaram a OpenAI, dizendo que o ChatGPT não é seguro para crianças.
+
+ANA: E, com a falência da Character ponto A I, quarenta procuradores querem proteger os dados dos usuários.
+
+MARCOS: A McKinsey vai testar candidatos com um cliente falso de inteligência artificial, e a Epic lançou um launcher feito com vibe coding que ainda tem bugs.
+
+ANA: É isso, pessoal. Obrigada por ouvir o IA Hoje. Amanhã tem mais!
+
+MARCOS: Até amanhã!

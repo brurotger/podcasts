@@ -1,89 +1,5 @@
 {
   "items": {
-    "b8c65d7d672b879e": {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "norm_title": "onlyattechcrunchdisrupt2026whathappenswhenopenaishipsyourroadmap",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "b8352bfaa359c736": {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "norm_title": "superhumanacquiresycbackednotetakerfathomasproductivityplatformspushforagenticwork",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "8f332a35ef762efd": {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "norm_title": "hearhowaicanengineernaturescomebackattechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "65041ad4ee28fec0": {
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "norm_title": "5dayslefttoexhibitattechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "acdb986a7c8f17aa": {
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "norm_title": "avinylbarinshibuyaisastartupofferingfunmusicappswithoutanyaiprompting",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "6da5d415325e12d4": {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "norm_title": "microsoftsayspeoplemattermorethanaifollowingsafetyconcerns",
-      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "source": "The Verge",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "b3315f11b4f14543": {
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "norm_title": "aileadersarecallingforaslowdowntrumpsteamsaysitsonthem",
-      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "source": "Wired",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "ca3f6f6880253f40": {
-      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-      "norm_title": "sexuallyexplicitdeepfakesitestarget100pluspoliticiansineurope",
-      "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-      "source": "Wired",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "3d20a2e45976640c": {
-      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "norm_title": "ilikemybigratwifemeetthepeopleusingchatbotstowritecustomfiction",
-      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "source": "Wired",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "86c010448ed75393": {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "norm_title": "trumpandmikejohnsonthinktheaiindustryisoverreacting",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "source": "The Verge",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "c3017bcee8363cdf": {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "norm_title": "whatsbehindtheaiindustryslatestwarningsofdoom",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
-    "caf7515d78f4545a": {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "norm_title": "obamaurgesdemocratstohaveaclearplanforaisafeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-14T15:25:53.897793+00:00"
-    },
     "a000824a8f43396c": {
       "title": "New insights from Google’s AI & Economy ATLAS",
       "norm_title": "newinsightsfromgooglesaieconomyatlas",
@@ -2778,6 +2694,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
       "source": "The Verge",
       "seen_at": "2026-10-14T14:10:07.143500+00:00"
+    },
+    "14fb65802a410e02": {
+      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+      "norm_title": "googlelaunchesitsuniversalonlineshoppingcartaheadoftheholidays",
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "source": "The Verge",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "616a1f458fac1054": {
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "norm_title": "amazonsbeelaunchestwonewpersonalaidevicesstartingat75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "d0728251899ed055": {
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "norm_title": "amazonsalwayslisteningbeewearablecannowhelpyoubuystuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "source": "The Verge",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "70c11fdbd7d5dd2c": {
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "norm_title": "yoursecretsarentsafewiththiscuterobottoytheyreonchineseserversreadytobehacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "d884f3f51f1e7f13": {
+      "title": "Apertus 1.5 Release Notes",
+      "norm_title": "apertus15releasenotes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "abebeee664e69e3a": {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "norm_title": "figmaannouncesnewfeaturestodefinehowagentsworkonitsplatform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "f3d20a7059acf656": {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "norm_title": "ricursiveintelligenceisbettingonaidesignedchipstohelpsolvethecomputecrisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "a9ce3d2acc36d5e5": {
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "norm_title": "gudealeveragesaitohelporganizationspreventsocialmediacrisesbeforetheyerupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "4ac686409f480bf6": {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "norm_title": "mckinseyismakingjobapplicantssparwithafakeaiclient",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "source": "The Verge",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "0cd5cc1b79f76a31": {
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "norm_title": "flockceosaysitsmicrophonesdetectjustgunshotsitswebsitesaysdifferent",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "b033dca3e1e7981e": {
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "norm_title": "epicsaysitsnewvibecodedepicgameslauncherisfasterthansteam",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "fc0bf0204b70806b": {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "norm_title": "eightstatessueopenaisayingchatgptisntsafeforkids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "source": "The Verge",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "bb672997c7d079c5": {
+      "title": "The AI race is back on",
+      "norm_title": "theairaceisbackon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "source": "The Verge",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "fc979a07af255bef": {
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "norm_title": "nowthatcharacteraiisgoingbankruptwhathappenstoallofitsusersdata",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "source": "The Verge",
+      "seen_at": "2026-10-15T13:51:03.078563+00:00"
     }
   }
 }
