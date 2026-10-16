@@ -1,0 +1,87 @@
+ANA: Bom dia, pessoal! Eu sou a Ana, hoje é dia dezesseis de outubro de dois mil e vinte e seis, e este é o IA Hoje. Marcos, bom dia! Hoje tem agente de IA tocando empresa inteira, a Meta rodando modelo no Mac e o ChatGPT espiando suas abas do Chrome.
+
+MARCOS: Bom dia, Ana! Bom dia a todos. É, o dia está bem cheio. Eu separei cinco assuntos pra gente conversar com calma.
+
+ANA: Então vamos começar pelo que me deixou mais curiosa. A Meta lançou um modelo aberto que roda em Mac. Como assim?
+
+MARCOS: Segundo o TechCrunch, a Meta fez uma parceria com a Apple pra lançar o Muse Spark Open. É um modelo de "pesos abertos", e ele foi pensado pra rodar localmente em chips Apple Silicon, aqueles chips que a Apple põe nos Macs.
+
+ANA: Peraí, "pesos abertos". Isso é o mesmo que código aberto?
+
+MARCOS: Quase, mas não exatamente. Um modelo de IA é, no fundo, um arquivão cheio de números, que a gente chama de pesos. Foi com esses números que ele aprendeu a responder. Quando a empresa libera os pesos, qualquer um pode baixar o modelo, rodar no próprio computador e até ajustar pro seu uso. Mas isso não quer dizer que ela mostrou os dados de treino nem todo o processo de como fez. Então é aberto pela metade, digamos assim.
+
+ANA: E por que rodar no meu computador é tão importante? Eu já uso o ChatGPT pelo navegador e funciona.
+
+MARCOS: Funciona, mas tem três diferenças grandes. Primeira, privacidade: o que você escreve não sai da sua máquina. Segunda, custo: não tem assinatura nem cobrança por uso. Terceira, funciona sem internet. Pra um escritório de advocacia, um médico, uma empresa com dado sensível, isso pesa muito.
+
+ANA: Então por que todo mundo não faz isso?
+
+MARCOS: Porque modelo grande precisa de muita memória. Os chips da Apple têm uma vantagem curiosa: a memória é compartilhada entre processador e placa gráfica, então cabe modelo maior do que num PC comum com a mesma quantidade de memória. Por isso a parceria faz sentido. A Meta ganha um lugar onde o modelo roda bem, e a Apple ganha um argumento de peso pra vender Mac como máquina de IA.
+
+ANA: E é uma novidade ou a Meta já vinha fazendo isso?
+
+MARCOS: Já vinha. A Meta apostou em modelos abertos desde a família Llama, lá em dois mil e vinte e três, e isso virou a marca dela contra OpenAI e Google, que mantêm os modelos fechados. A diferença aqui é o foco em rodar no seu aparelho, e a parceria direta com a Apple. Eu acho significativo. Mas tem um porém: ainda precisamos ver testes independentes pra saber se ele é bom de verdade ou só roda bonitinho.
+
+ANA: Boa. Falando em Meta, no programa da Wired, o Uncanny Valley, eles falam do Muse. Mas vou deixar isso de lado e ir pro ChatGPT, que também mexeu com o seu navegador.
+
+MARCOS: Isso. O The Verge conta que a OpenAI atualizou a extensão do ChatGPT pro Google Chrome. Com ela instalada, quando você marca o Chrome dentro do app web ou do app de computador do ChatGPT, ele consegue enxergar as abas que você já tem abertas.
+
+ANA: Tá, e na prática? Eu abro dez abas comparando celulares e peço pro ChatGPT decidir?
+
+MARCOS: Exatamente esse exemplo. Antes você tinha que copiar texto, colar link, explicar o contexto. Agora ele vê o que você já está olhando. Comparar preços, resumir três artigos abertos, conferir uma planilha e um e-mail ao mesmo tempo. É tirar o atrito.
+
+ANA: O texto do Verge diz que o navegador Atlas "sumiu". O que aconteceu?
+
+MARCOS: O Atlas era o navegador próprio da OpenAI, lançado com bastante alarde. Pelo que o Verge relata, ele acabou e a empresa passou a investir na extensão. É uma mudança de estratégia: em vez de tentar convencer você a trocar de navegador, o que é dificílimo contra o Chrome, ela vai até onde você já está.
+
+ANA: Faz sentido. Mas me dá um pouco de arrepio. Ele vendo minhas abas, o banco aberto, o e-mail...
+
+MARCOS: A desconfiança é válida. O ponto positivo é que, pelo que foi descrito, ele só vê as abas quando você o chama e marca o Chrome, não o tempo todo. Mesmo assim, meu conselho é: antes de pedir, feche o que for sensível. É como entregar o celular pra um amigo: ele só vê o que está na tela, mas você tem que lembrar do que deixou aberto.
+
+ANA: Combinado, vou fechar o banco. Próximo assunto: o CEO da Replit, o Amjad Masad, falou em "empresa autônoma". O que é isso?
+
+MARCOS: O TechCrunch publicou que ele chama de "self-driving company", empresa que dirige sozinha, numa analogia com o carro autônomo. A ideia é que agentes de IA cuidem das tarefas do dia a dia, e as pessoas fiquem com as decisões de nível mais alto.
+
+ANA: Hmm, isso soa como slogan. O que é um agente de IA, e ele faz o quê numa empresa?
+
+MARCOS: Agente é uma IA que não só responde, mas executa uma sequência de passos sozinha: abre ferramentas, escreve código, testa, corrige, manda o resultado. A Replit é uma plataforma onde você descreve um app em linguagem natural e a IA constrói. Então o Masad fala com conhecimento de causa, a empresa dele vende exatamente essa promessa.
+
+ANA: E é exatamente aí que eu desconfio. Quem vende pá fala que tem ouro.
+
+MARCOS: Concordo, é um ponto importante. Existe interesse comercial. Agora, a parte que eu acho real: tarefas repetitivas, como relatório, triagem de suporte, ajustes de código simples, já são feitas por agentes em muita empresa. O que ainda é fantasia é a parte do "sozinha". Agente erra, inventa coisa, e alguém precisa responder pelo erro. A analogia do carro é boa justamente por isso: faz dez anos que prometem carro totalmente autônomo e ainda tem gente no volante.
+
+ANA: Então o futuro é o humano como supervisor.
+
+MARCOS: Mais ou menos. Uma pessoa gerenciando uma equipe de agentes, em vez de fazer cada tarefa. Só que supervisionar bem também é um trabalho difícil, e quem está começando na carreira costuma aprender fazendo as tarefas básicas. Se os agentes ficam com elas, como se forma o próximo supervisor? Essa é a pergunta que eu queria ver respondida.
+
+ANA: Pergunta boa, e fica no ar. Agora um assunto que mexe com o outro lado dessa história: a Wired falou de hackers usando IA, e de quem paga a conta.
+
+MARCOS: A matéria diz que modelos poderosos continuam causando caos em ataques, mas as vítimas não estão buscando justiça. Em vez disso, estão sendo incentivadas a adotar essas mesmas ferramentas.
+
+ANA: Como assim, a vítima é incentivada a usar a ferramenta que a atacou?
+
+MARCOS: A lógica é: se a IA ataca rápido, só a IA defende rápido. Então empresas de segurança e as próprias empresas de IA oferecem produtos de defesa. O problema que a Wired aponta é o desequilíbrio: quem cria os modelos lucra, e quem sofre o ataque limpa a bagunça e arca com o prejuízo. É como uma fábrica de fechaduras que vende também o kit de arrombamento e depois te vende uma fechadura melhor.
+
+ANA: Isso é exagero ou é grave?
+
+MARCOS: Eu diria que é um debate sério de responsabilidade. Ainda não está claro quem deveria pagar: quem criou a ferramenta, quem usou, quem não se protegeu. Sem regra clara, o custo cai em quem tem menos recursos, tipo prefeituras, hospitais, pequenas empresas.
+
+ANA: Pra fechar, quero um assunto mais leve, mas que também tem IA no meio: o remaster do Total War Shogun Two.
+
+MARCOS: Esse foi um desastre de relações públicas. O The Verge conta que a Sega retirou o Total War Shogun Two Complete Edition das lojas depois de um lançamento terrível, na terça-feira. É um remaster do jogo de dois mil e onze, com o jogo base e todo o conteúdo extra.
+
+ANA: E o que deu errado?
+
+MARCOS: Bugs, e também reclamações de que o upscaling, aquele processo de aumentar a resolução de imagens, parecia ter sido feito por IA e ficou com cara estranha. Não dá pra afirmar que foi IA, o Verge diz que "parece". Mas o ponto é que o público notou e não gostou.
+
+ANA: Então IA pra melhorar gráfico não é mágica.
+
+MARCOS: Não é. Aumentar resolução com IA pode funcionar bem se alguém revisa o resultado com cuidado. Quando se aperta um botão e se lança sem olhar, o resultado fica esquisito, com texturas derretidas e detalhes inventados. É a diferença entre usar a ferramenta e terceirizar o cuidado pra ela. E quem comprou um remaster de um jogo clássico queria carinho, não atalho.
+
+ANA: Bom, hora de resumir. Marcos?
+
+MARCOS: Vamos lá. A Meta lançou com a Apple o Muse Spark Open, um modelo de pesos abertos que roda direto nos Macs. O ChatGPT agora enxerga as abas abertas do seu Chrome quando você pede, depois do fim do navegador Atlas. O CEO da Replit defende a empresa que dirige sozinha, com agentes fazendo o dia a dia, mas ainda tem muita estrada pela frente. A Wired mostra que os ataques com IA deixam um prejuízo que ninguém quer pagar. E a Sega tirou o remaster de Shogun Two do ar depois de bugs e de um visual que parecia coisa de IA mal revisada.
+
+ANA: E é isso por hoje! Obrigada por ficar com a gente. Amanhã tem mais IA Hoje. Um beijo, e até lá!
+
+MARCOS: Até amanhã, pessoal!

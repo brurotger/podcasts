@@ -1,103 +1,5 @@
 {
   "items": {
-    "a000824a8f43396c": {
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "norm_title": "newinsightsfromgooglesaieconomyatlas",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "source": "Google AI",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "c79c02a4896f69e3": {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "norm_title": "earlyanthropichireformermetrcoohavefoundawaytoreininrogueaiagents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "03d343840374afe3": {
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "norm_title": "exclusivepayingforfrontieraimodelsbuys4monthheadstartat5xthecost",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "0e94ebc569f48bcc": {
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "norm_title": "salesforceandnvidiasnewreasoningmodeliseverythingtheailabsshouldfear",
-      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "447df69655838946": {
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "norm_title": "whatsatstakeinaistrilliondollargamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "7cd87e433c51cd69": {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "norm_title": "jensenhuangtookacallfromtrumpandshowedoffsomethingelsetoo",
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "7fd4f34fd996023a": {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "norm_title": "isbigtechsaislowdownasafetypactoracartel",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "74fd87f82c5db607": {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "norm_title": "nvidiaceojensenhuangtellstrumpwerenotgoingtoletanaislowdownhappen",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "2826a6c002b170b8": {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "norm_title": "whatexecsandpoliticiansaresayingaboutslowingdownaidevelopment",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "source": "The Verge",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "d2954730dda2fb32": {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "norm_title": "aibotstimmyrenandjackiearefloodingsocialmediawithslop",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "643650ed204e0a33": {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "norm_title": "openaibuyssmartphonecameramakerglassimagingfor300millionreportsays",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "77c055b0a7ef6e47": {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "norm_title": "jensenhuangputstrumponspeakerphoneonstagetoannouncerobotswonttakeovertheworld",
-      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "source": "The Verge",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "ddfee71e88c776b4": {
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "norm_title": "openaistuckfightingmuskantitrustsuitafterapplefindsawayout",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
-    "7810852d25161608": {
-      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-      "norm_title": "founderscostcuttingobsessiondroveunitreeleadincheaphumanoidrobots",
-      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-15T14:00:24.723720+00:00"
-    },
     "fac82e68d4dfb01f": {
       "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
       "norm_title": "skhynixreportedlyintalkswithinteltobuildmemorychipsinus",
@@ -2792,6 +2694,104 @@
       "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
       "source": "The Verge",
       "seen_at": "2026-10-15T13:51:03.078563+00:00"
+    },
+    "2d395e8d8109ddf1": {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "norm_title": "replitsceosaysthefutureofworkistheselfdrivingcompany",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "02bdc8d4a0949b7e": {
+      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+      "norm_title": "aigeneratedhotgirlsarerippingoffcomedianstoboosttheirhornycontent",
+      "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+      "source": "Wired",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "3672e37b01081294": {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "norm_title": "scalingindicpretraining28trilliontokensandanopendatagenerationpipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "e8eea2a11ea4c1d0": {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "norm_title": "welcomebeama501bopenmodelyoucanowncustomizeandscale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "4727e8e40edbe203": {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "norm_title": "whenitcametocalaisviralsuccessasmallarmyofinfluencerspaidoff",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "fb0dde88460fa307": {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "norm_title": "chatgptcanpeekatyourchrometabsnow",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "cb168c316e208c62": {
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "norm_title": "segapullstotalwarshogun2remasterfromsalefollowingdisastrouslaunch",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "source": "The Verge",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "9eb78cb03ddd7362": {
+      "title": "The tech backlash is now in theaters",
+      "norm_title": "thetechbacklashisnowintheaters",
+      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "source": "The Verge",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "599fb6cc037efc86": {
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "norm_title": "wegothotandheavywithmetasmuseandbaffledbyappleshomeview",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "source": "Wired",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "4cba7f6211ff9aa5": {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "norm_title": "trumppostsaieditedphototobragaboutwhitehouserestorationwork",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "source": "The Verge",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "142c0e0b0024f276": {
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "norm_title": "aihacksleaveamessthataicompaniesarentpayingfor",
+      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "source": "Wired",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "a6cde04908c7d525": {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "norm_title": "graniteswitch41chatdecisionsandspeechfromoneendpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "77ba18f7e6f46dfe": {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "norm_title": "metalaunchesanopenweightaimodelthatrunsonmacs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "32ef8ff9c93fdc2a": {
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "norm_title": "blueskysaitoolnowletsyoumakegamesandappstoshareonsocial",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge",
+      "seen_at": "2026-10-16T13:40:09.250670+00:00"
     }
   }
 }
