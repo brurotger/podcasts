@@ -1,103 +1,5 @@
 {
   "items": {
-    "fac82e68d4dfb01f": {
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "norm_title": "skhynixreportedlyintalkswithinteltobuildmemorychipsinus",
-      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "86e0f71c68dd09e8": {
-      "title": "Reimagining advertising with AI",
-      "norm_title": "reimaginingadvertisingwithai",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "64f90672f1d80d59": {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "norm_title": "formerinfosyschiefsaistartupnabsanother53m",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "1a2a20c05e8314f8": {
-      "title": "Building the materials foundation for AI",
-      "norm_title": "buildingthematerialsfoundationforai",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "3c3b616238708e55": {
-      "title": "A brief history of AI executives calling for regulation",
-      "norm_title": "abriefhistoryofaiexecutivescallingforregulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "source": "The Verge",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "8164c307e8109626": {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "norm_title": "amazonlaunchesalexainindiawithhindisupport",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "40609aa568b443ab": {
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "norm_title": "chinaisntbuyingsiliconvalleyscallforanaislowdown",
-      "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "source": "Wired",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "46e0cf41dd2bd9b6": {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "norm_title": "wedontneedairegulationleavesafetytousnvidiasjensenhuangsays",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "b3735e53f3ab5b7d": {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "norm_title": "aianddatacentersareincrediblyunpopularineverypoll",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "source": "The Verge",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "5d4dd706a78aa112": {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "norm_title": "theaidatacenterboomiscollidingwithcitiesscarredbybigindustry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "111126968f10e8d3": {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "norm_title": "metanowletsaiagentshandletheboringpartsofwhatsappbusinesssetup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "9cc52cea74bc9a18": {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "norm_title": "theaigraveyardarunninglistofprojectsandstartupsthatdidntmakeit",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "c2e1f8817815616a": {
-      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "norm_title": "agilitysnewhumanoidrobotwillstopsquattoavoidharminghumancoworkers",
-      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
-    "330611f2df2e9716": {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "norm_title": "usdatacenterscouldconsumemorenaturalgasthangermanyandjapancombinedby2035",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-16T13:53:59.045045+00:00"
-    },
     "ccd45cfeac744dc4": {
       "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
       "norm_title": "rivalaiagentsinstinctandmetasmusebothaddtheabilitytomakecalls",
@@ -2792,6 +2694,104 @@
       "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
       "source": "The Verge",
       "seen_at": "2026-10-16T13:40:09.250670+00:00"
+    },
+    "7056fdc86724d66f": {
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "norm_title": "whyaiisntreadytotackleourconvolutedgenomes",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "source": "Wired",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "91c241fe9f80a0d1": {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "norm_title": "replitisnolongerworkingwithanthropicceosays",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "16d99023d9c4af44": {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "norm_title": "openaimodelshackedacryptowalletandbreachedmorewebsites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "c00e5f2f4398b035": {
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "norm_title": "thegentlemanpervertproducingaicsamisanjprosecutorsaycops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "4f5cb955d1577861": {
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "norm_title": "katiezachariawaslinkedtoanairareearthsstartupitsevenweirderthanitsounds",
+      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "source": "Wired",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "f5ef98830cc1bc65": {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "norm_title": "howitaisbuildinggenerativeaiforitsentirecustomerbase",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "a17453276bfd272f": {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "norm_title": "indiabecomesthelatestcountrytoreportrogueaiagentactivity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "63caa21519afb23a": {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "norm_title": "annvidiainsiderturnedvconwhyroboticshasnthititschatgptmomentyet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "a5fb591772804ea0": {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "norm_title": "physicalaiismorethanrobotssaysthenvidiaveterannowinvestinginit",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "eab439adab29376d": {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "norm_title": "eloriansfirstaimodelwantstoreasonwithimagesnotjustaboutthem",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "38329be924e2d84f": {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "norm_title": "metamayusesweepingnewcommercialtostoavoidmillionsinailicensingfees",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "bd2688790afc35aa": {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "norm_title": "jevisvercelsfastestadoptedaimodelever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "1d7e5cc4b34b4e38": {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "norm_title": "aweekwithrtxsparkeverythingwevelearnedusingnvidiasnewlaptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "530e5578bcdcddc8": {
+      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "norm_title": "maybechatbotsshouldntgettosayiorme",
+      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "source": "Wired",
+      "seen_at": "2026-10-17T12:36:15.100579+00:00"
     }
   }
 }
