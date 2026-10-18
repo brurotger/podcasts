@@ -1,103 +1,5 @@
 {
   "items": {
-    "ccd45cfeac744dc4": {
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "norm_title": "rivalaiagentsinstinctandmetasmusebothaddtheabilitytomakecalls",
-      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "76c9751407dad291": {
-      "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "norm_title": "googlenvidiaandanthropicwantemeraldaitofindspaceonthegridformoredatacenters",
-      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "807618d8502bbfaf": {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "norm_title": "insidethesuddenlyexplosiveworldofaisafety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "source": "The Verge",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "feb068e01804ed19": {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "norm_title": "icelandbasedtrebleraises18millionforitsvoicesimulationplatform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "7eb29032a9f9761d": {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "norm_title": "yourstartupsnextteammatemightbeanaiagentgustoinsightpartnersandlelandexplainwhatthatchangesattechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "13adc324b9ce6ddd": {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "norm_title": "snaptriestomakethecaseagainforits2200smartglasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "5fca482e1de1be0f": {
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "norm_title": "algoresaystherealairiskisntdatacenters",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "93d00da926273360": {
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "norm_title": "snapislaunchinganewspecsaitoolanditscomingtoiosandmac",
-      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "source": "The Verge",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "f7f30d2d04df16fa": {
-      "title": "An OpenAI Agent Tried to Jailbreak Itself",
-      "norm_title": "anopenaiagenttriedtojailbreakitself",
-      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "source": "Wired",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "e4ab8874d2fb3152": {
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "norm_title": "applereportedlybuildingserverpackedwithmseriesultrachipsforai",
-      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "a9e51a0a0e4a1cc4": {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "norm_title": "anthropicandopenaiwanttoembedsafetyevaluatorswilltheyreallybeindependent",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "98c669cb09d2c417": {
-      "title": "Washington Won’t Be Regulating AI Anytime Soon",
-      "norm_title": "washingtonwontberegulatingaianytimesoon",
-      "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-      "source": "Wired",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "c626e92c01c9884b": {
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "norm_title": "the25houraigeneratedodysseymovieis25hourstoolong",
-      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "source": "The Verge",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
-    "fc62a2f2f3f6c772": {
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "norm_title": "theaidatacenterewasteproblemishugeandgettingbigger",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "source": "The Verge",
-      "seen_at": "2026-09-17T13:57:44.899963+00:00"
-    },
     "1eaa1be463b34df2": {
       "title": "Co-creating the future of fashion with Google",
       "norm_title": "cocreatingthefutureoffashionwithgoogle",
@@ -2792,6 +2694,55 @@
       "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
       "source": "Wired",
       "seen_at": "2026-10-17T12:36:15.100579+00:00"
+    },
+    "15e018c9e95d4f1c": {
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "norm_title": "onlyfanscreatorsarepissedthatmetaletsmusetalkdirty",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "Wired",
+      "seen_at": "2026-10-18T12:54:32.261042+00:00"
+    },
+    "48d78859765a428c": {
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "norm_title": "datacentershaveanewprplanyourkidsfieldtrip",
+      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+      "source": "Wired",
+      "seen_at": "2026-10-18T12:54:32.261042+00:00"
+    },
+    "07e0107fdc9784bb": {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "norm_title": "metaremoveslanguagethatraisedscrapingandaitrainingconcerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-18T12:54:32.261042+00:00"
+    },
+    "490d7d78a7fe6691": {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "norm_title": "anthropicsaysitsworkforcehasbecomelessjuniorandisspendingmoretimeinmeetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-18T12:54:32.261042+00:00"
+    },
+    "0d0fe46f86fddb9d": {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "norm_title": "replitmakesopenaiitsdefaultoveranthropicceosays",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-18T12:54:32.261042+00:00"
+    },
+    "0ea5dde4162bd2be": {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "norm_title": "metaremoveslanguagethatmayhaveallowedittoscrapenewssites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge",
+      "seen_at": "2026-10-18T12:54:32.261042+00:00"
+    },
+    "c6c8fbb838e5af47": {
+      "title": "Websites are closing their doors to AI agents",
+      "norm_title": "websitesareclosingtheirdoorstoaiagents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge",
+      "seen_at": "2026-10-18T12:54:32.261042+00:00"
     }
   }
 }

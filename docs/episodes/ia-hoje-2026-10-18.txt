@@ -1,0 +1,95 @@
+ANA: Bom dia, pessoal! Hoje é dia 18 de outubro de 2026, e este é o IA Hoje. Eu sou a Ana, e aqui comigo está o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem está ouvindo. Hoje tem briga de termos de uso, site fechando a porta na cara de robô e uma troca de fornecedor de inteligência artificial que mexeu com o mercado.
+
+ANA: Então começa pela Meta. O TechCrunch e o The Verge falaram de um texto que a Meta tirou do site dela. O que era isso?
+
+MARCOS: Era um trecho na página de termos comerciais da Meta. Segundo o The Verge, dizia que a Meta poderia usar qualquer conteúdo desses domínios, páginas ou endereços para fornecer, desenvolver e melhorar os produtos dela. Muita gente leu isso como uma licença para a Meta raspar sites, inclusive de notícias, e usar o material para treinar inteligência artificial.
+
+ANA: Raspar é aquele processo de um robô visitar milhares de páginas e copiar o conteúdo, né?
+
+MARCOS: Isso. O nome técnico é "scraping". É assim que boa parte dos modelos aprende: lendo uma quantidade enorme de texto da internet. O problema é que quem escreveu esse texto, como um jornal, quase nunca foi consultado nem pago.
+
+ANA: E aí veio a reação.
+
+MARCOS: Veio. O The Verge diz que a Meta atualizou os termos de novo depois da gritaria e tirou a frase. O TechCrunch conta que um porta-voz da empresa insistiu que a mudança nos termos não reflete nenhuma mudança no jeito como a Meta rastreia a web.
+
+ANA: Espera. Se não mudou nada, por que tirar o texto? Isso me parece meio estranho.
+
+MARCOS: Essa é a pergunta certa. Duas leituras são possíveis. Na primeira, o texto era confuso, foi mal interpretado, e a Meta só limpou a redação. Na segunda, o texto expunha uma prática que a empresa preferia não deixar escrita. Eu não tenho como afirmar qual é a verdadeira. O que eu posso dizer é que a Meta não disse que deixou de usar esse conteúdo, só que nada mudou. Então quem publica conteúdo ainda não tem uma resposta clara.
+
+ANA: E o que isso muda pra quem usa o Facebook ou o Instagram?
+
+MARCOS: Direto, pouca coisa. Mas muda para quem produz conteúdo na internet. É uma disputa sobre quem pode ler o seu site e para quê. E isso nos leva à próxima notícia, que casa bem com essa.
+
+ANA: A do The Verge sobre sites fechando as portas para agentes de IA?
+
+MARCOS: Essa. Primeiro, o que é um agente. Um chatbot responde perguntas. Um agente age por você: reserva a mesa no restaurante, limpa a caixa de entrada, compra um tênis. Segundo o The Verge, OpenAI, Meta, Google e outras empresas prometem agentes que navegam pela internet em seu nome.
+
+ANA: Que sonho. Eu pagaria para nunca mais lidar com e-mail.
+
+MARCOS: Todo mundo pagaria. Só que o The Verge conta que, nas últimas semanas, sites estão bloqueando esses agentes. Eu só li o resumo da matéria, então não tenho os números nem os sites específicos. Mas a lógica é fácil de entender.
+
+ANA: Qual é a lógica? Se o agente vai comprar, o site vende. Todo mundo ganha, não?
+
+MARCOS: Nem sempre. Pense num site que vive de anúncio. Uma pessoa de verdade vê a propaganda. O agente passa direto, pega a informação e vai embora. O site perde a receita. Pense também numa loja que quer controlar a experiência de compra, recomendar produtos, fazer venda casada. O agente atrapalha tudo isso. E tem a questão de segurança: um robô fazendo compras e acessando contas é um alvo ótimo para fraude.
+
+ANA: Então a briga é parecida com a do scraping, só que agora o robô não lê para aprender, ele age.
+
+MARCOS: Exatamente, e acho que é o mesmo conflito em duas fases. Na primeira, as empresas de IA queriam ler a web para treinar modelos. Na segunda, querem usar a web como se fossem o usuário. As duas dependem da boa vontade de quem mantém os sites. Se muita gente fechar a porta, a promessa dos agentes fica bem menor do que o marketing sugere.
+
+ANA: Então é hype ou é real?
+
+MARCOS: A tecnologia é real. O que está em dúvida é o ambiente em volta dela. Um agente é como um motorista excelente numa cidade cheia de portões trancados. Pode dirigir muito bem, mas não chega a lugar nenhum. Minha opinião é que vai sair acordo comercial: sites que deixam o agente entrar mediante regras ou pagamento. Mas isso leva tempo, e até lá o agente vai ser mais limitado do que a propaganda diz.
+
+ANA: Tá bom, agora uma notícia de bastidor de empresa. O TechCrunch diz que a Replit trocou de fornecedor de IA.
+
+MARCOS: Sim. A Replit é uma plataforma em que você escreve código, ou pede para a IA escrever, direto no navegador. Segundo o TechCrunch, o CEO, Amjad Masad, esclareceu no fim de semana que a OpenAI vai substituir a Anthropic como provedor padrão de modelos na plataforma. O Claude, que é o modelo da Anthropic, continua disponível para os clientes.
+
+ANA: Padrão, então. Quem quiser continua usando o Claude.
+
+MARCOS: Isso. "Padrão" é o que vem ligado quando você abre o produto. E é uma posição valiosa, porque a maioria das pessoas nunca mexe nessa configuração. Quem é o padrão fica com a maior parte do uso.
+
+ANA: E por que a Replit fez isso? Teve briga?
+
+MARCOS: O resumo que eu tenho não explica o motivo, e eu não vou inventar um. Já o título da matéria sugere um rompimento mais amplo, mas o que o CEO confirmou foi a troca do padrão com o Claude ainda disponível. Esse detalhe importa, porque é bem diferente de cortar a relação.
+
+ANA: E o que isso significa pro mercado?
+
+MARCOS: Mostra como é fácil trocar de modelo hoje. Para a Replit, mudar o provedor padrão é bem menos traumático do que mudar de banco de dados. Os clientes continuam com o produto, só muda o motor por trás. Isso dá poder de barganha para quem compra e pressiona as empresas de IA a competir em preço, qualidade e condições. Para a Anthropic, perder o padrão numa plataforma de programação não é pouca coisa, porque programação é uma das áreas em que ela mais se destaca.
+
+ANA: Falando em Anthropic, o TechCrunch trouxe uma notícia sobre a equipe da própria empresa.
+
+MARCOS: Trouxe, e eu achei curiosa. A Anthropic diz que o quadro de funcionários ficou menos júnior e que as pessoas passam mais tempo em reuniões. O resumo fala que a composição da equipe e o tipo de trabalho mudaram bastante no último ano. Não tenho aqui os percentuais, então vou ficar no que foi dito.
+
+ANA: Calma. A empresa que faz IA, que promete que a IA faz o trabalho, está com menos gente júnior e mais reunião? Isso é irônico.
+
+MARCOS: É, e dá para tirar duas conclusões. A primeira é a que você está pensando: se a IA assume tarefas de entrada, que antes eram dos juniores, a empresa precisa de gente mais experiente para orientar e revisar. A segunda é que, com a IA fazendo mais da execução, sobra para as pessoas o trabalho de decidir, alinhar e coordenar. Isso aparece como reunião.
+
+ANA: Isso me preocupa um pouco. Se as empresas contratam menos júnior, como alguém começa na carreira?
+
+MARCOS: É a preocupação certa. Atenção: é um dado de uma empresa só, e uma empresa de IA, que não representa o mercado inteiro. Mas é um sinal de algo que muita gente teme. Se a porta de entrada diminui, daqui a alguns anos faltam seniores, porque ninguém virou sênior. O ponto positivo é que a própria IA pode ajudar o júnior a aprender mais rápido. Resta saber se as empresas vão apostar nisso.
+
+ANA: Última, Marcos. A Wired tem uma sobre a Meta que eu não posso deixar passar. Criadoras de conteúdo do OnlyFans estão bravas.
+
+MARCOS: A Wired conta que artistas adultas estão questionando por que a Meta deixa o agente de IA dela, chamado Muse, fazer conversas sexuais, enquanto as contas delas nas redes sociais são restringidas. O resumo não detalha como o Muse funciona, então vou ficar na crítica em si.
+
+ANA: Faz sentido a reclamação, né? Parece dois pesos e duas medidas.
+
+MARCOS: Parece mesmo. A pessoa é limitada por um tipo de conteúdo, e a máquina da própria plataforma entra nesse território sem a mesma restrição. Tem também o lado econômico: as criadoras vivem justamente de oferecer esse tipo de interação, e agora a plataforma passa a oferecer algo parecido de graça. Eu acho que o debate de fundo é quem decide as regras e para quem elas valem. É um assunto que vai voltar.
+
+ANA: Bom, hora de resumir. Marcos, a Meta primeiro.
+
+MARCOS: A Meta tirou dos termos o trecho que parecia permitir raspar sites para treinar IA, mas diz que a forma como rastreia a web não mudou.
+
+ANA: Os sites estão fechando a porta para agentes de IA, e isso pode limitar a promessa de robôs que fazem tudo por você.
+
+MARCOS: A Replit passou a usar a OpenAI como padrão no lugar da Anthropic, mas o Claude continua disponível.
+
+ANA: A Anthropic diz que a equipe dela ficou menos júnior e mais ocupada com reuniões, o que levanta dúvidas sobre o começo de carreira na era da IA.
+
+MARCOS: E artistas do OnlyFans reclamam que a Meta deixa o Muse conversar sobre sexo enquanto restringe as contas delas.
+
+ANA: É isso por hoje! Obrigada por ouvir o IA Hoje. Amanhã tem mais.
+
+MARCOS: Até amanhã, pessoal!
