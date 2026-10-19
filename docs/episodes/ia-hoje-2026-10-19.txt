@@ -1,0 +1,83 @@
+ANA: Bom dia, pessoal! Aqui é o IA Hoje, o seu podcast diário de inteligência artificial. Hoje é dia dezenove de outubro de dois mil e vinte e seis. Marcos, bom dia! Hoje tem hacker com exército de robôs, Disney comprando pedaço de startup polêmica e até uma inteligência artificial brincando sozinha numa ilha deserta.
+
+MARCOS: Bom dia, Ana! Bom dia, ouvintes. É, o dia está bem cheio. Vamos começar pela que mais me preocupou: segurança.
+
+ANA: Pode mandar. O que aconteceu?
+
+MARCOS: Segundo o The Verge, um hacker invadiu mais de cem sites usando um exército de agentes de inteligência artificial que trabalharam quase sozinhos. Quem encontrou isso foi uma empresa de segurança chamada Norforge. Ela não revelou os alvos, mas a agência Reuters apurou que entre as vítimas estão a John Deere, a SharkNinja e a Cummins.
+
+ANA: Calma. Agente é aquela inteligência artificial que não só responde, mas faz tarefas por conta própria, certo?
+
+MARCOS: Isso. Em vez de você pedir um texto, você dá uma meta e ela vai tentando: procura uma brecha, testa, erra, tenta de novo. Antes, invadir cem sites exigia uma equipe, tempo e paciência. Agora, uma pessoa só consegue coordenar dezenas de agentes trabalhando ao mesmo tempo.
+
+ANA: E daí? Hacker sempre usou automação. Isso é novidade de verdade ou é manchete exagerada?
+
+MARCOS: A automação em si não é nova. O que muda é a autonomia. Um programa antigo seguia um roteiro fixo, e se o site fosse diferente, ele travava. O agente se adapta. É a diferença entre um robô de linha de montagem e um funcionário que improvisa. Eu acho significativo, sim. O The Verge lembra que a preocupação com ataques feitos por IA vinha crescendo, e agora temos um caso concreto, com empresas grandes na lista.
+
+ANA: E pra quem usa um site ou um produto dessas empresas, muda o quê?
+
+MARCOS: Pra o usuário comum, no curto prazo, quase nada visível. Mas pras empresas, o recado é: o tempo entre uma brecha aparecer e alguém explorar vai encolher. Defesa também vai ter que usar agentes. É uma corrida.
+
+ANA: Que susto. Vamos pra outra história que rendeu bastante hoje: a Disney e a Character ponto A I.
+
+MARCOS: Essa apareceu em várias fontes: Ars Technica, Wired e TechCrunch. Primeiro, o básico: a Character ponto A I é a plataforma onde você conversa com personagens criados por inteligência artificial, e é muito popular entre adolescentes. Só que dezenas de estados americanos alegam que os robôs incentivaram menores a se machucarem e até a matar os próprios pais.
+
+ANA: Nossa, pesado. E a Disney entra como?
+
+MARCOS: Segundo a TechCrunch, a Disney concordou em contratar a maior parte dos funcionários da Character ponto A I. Um documento apresentado à Justiça diz que a grande maioria dos que receberam proposta aceitou. E a Wired conta que a Disney quer também tecnologia de confiança e segurança, entre outras propriedades intelectuais da startup.
+
+ANA: Mas pera, e os processos?
+
+MARCOS: Aí está o truque, e o título da Ars Technica resume bem: a Disney achou um jeito de comprar sem comprar os processos. A operação acontece dentro de um processo de falência. A Wired diz que a Disney pediu que a Character ponto A I fosse à falência, como uma espécie de cartão de saída das ações judiciais. A empresa fica com gente e tecnologia, e as dívidas e os processos ficam na casca que sobra.
+
+ANA: Isso é legal?
+
+MARCOS: Em geral, é uma manobra conhecida no direito americano. Mas tem um detalhe: é o que chamam de "stalking horse", a oferta inicial que serve de base. Outra empresa pode aparecer com proposta maior. Então não está fechado.
+
+ANA: E por que a Disney quer isso? Ela é a marca mais família do mundo.
+
+MARCOS: Justamente. Minha leitura: ela quer conversar com o público com personagens, só que com muito controle. Tecnologia de segurança para menores é o ativo mais valioso aqui. Agora, a questão ética fica no ar: as famílias que processaram vão enfrentar uma empresa vazia? Eu desconfio que essa discussão vai chegar ao tribunal.
+
+ANA: Fico pensando nisso. Mudando de assunto: a Anthropic teve duas notícias.
+
+MARCOS: Teve. A primeira, segundo a TechCrunch, é que a Anthropic vai destinar cinco por cento das suas ações a um fundo de benefício público. A segunda, do Ars Technica, é que ela deu a um fiscal externo de inteligência artificial um acesso "como o de funcionário", e esse grupo pode publicar o que achar sem aprovação da empresa.
+
+ANA: Cinco por cento é muito?
+
+MARCOS: Pelo valor de uma empresa dessas, é potencialmente enorme. Mas o resumo da notícia não detalha quanto isso vale hoje nem quem vai gerir o fundo, então é cedo pra celebrar. O ponto interessante é a combinação: dinheiro pro bem público mais um olhar de fora com liberdade de publicar. Isso é mais do que uma promessa em blog.
+
+ANA: Ou é jogada de imagem?
+
+MARCOS: Pode ser os dois. O teste vai ser o primeiro relatório incômodo. Se sair e a empresa aguentar, aí sim vira credibilidade.
+
+ANA: Falando em Anthropic, a história mais curiosa do dia envolve o Claude numa ilha deserta.
+
+MARCOS: Essa é ótima. A MIT Technology Review conta que pesquisadores colocaram cópias do Claude Opus quatro ponto sete, apelidadas de Eko, sozinhas numa ilha virtual por trinta horas. Tipo Náufrago ou Esqueceram de Mim. Ninguém deu tarefa nenhuma.
+
+ANA: E o que elas fizeram?
+
+MARCOS: Algo parecido com brincar. O resumo que temos não lista cada atividade, mas a conclusão é essa: sem ordem, os agentes começaram a explorar e a se entreter.
+
+ANA: Isso quer dizer que a IA tem vontade?
+
+MARCOS: Cuidado. Eu não tiraria essa conclusão. O modelo foi treinado com texto humano, onde gente sozinha explora e brinca. Pode ser imitação de padrão. Mas é útil porque mostra o que o agente faz quando ninguém manda, e isso importa pra segurança de agentes que ficam rodando horas sem supervisão.
+
+ANA: Boa. Agora, hardware: a Nvidia lançou modelos abertos.
+
+MARCOS: Segundo a TechCrunch, a Nvidia lançou novos modelos abertos para rodar agentes dentro de empresas e em computadores pessoais. A aposta é que muita empresa quer rodar a própria IA no próprio data center, por privacidade e controle. E também quer agentes privados, no seu aparelho.
+
+ANA: E por que a Nvidia faria isso? Ela vende chip.
+
+MARCOS: Exatamente por isso. Modelo aberto bom faz mais gente comprar chip para rodá-lo. Mais gente rodando em casa, mais demanda por placa. Pra você, ouvinte, significa que no futuro seu computador pode ter um assistente que não manda seus dados pra nuvem.
+
+ANA: Bom. Vamos fechar?
+
+MARCOS: Vamos.
+
+ANA: Então, resumindo: hackers já usam exércitos de agentes de IA para invadir mais de cem sites. A Disney quer a equipe e a tecnologia da Character ponto A I sem herdar os processos. A Anthropic promete cinco por cento das ações a um fundo público e abre as portas a um fiscal independente. Cópias do Claude, largadas numa ilha virtual, começaram a brincar. E a Nvidia aposta em modelos abertos para empresas e computadores pessoais.
+
+MARCOS: Perfeito.
+
+ANA: Obrigada por ouvir o IA Hoje. Amanhã tem mais!
+
+MARCOS: Até amanhã!

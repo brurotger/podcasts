@@ -1,201 +1,5 @@
 {
   "items": {
-    "1eaa1be463b34df2": {
-      "title": "Co-creating the future of fashion with Google",
-      "norm_title": "cocreatingthefutureoffashionwithgoogle",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "bd148439a45c5b5d": {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "norm_title": "couldaireallykillusallyourquestionsanswered",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "338d9046628d563f": {
-      "title": "The Leftist Split Over AI Doom",
-      "norm_title": "theleftistsplitoveraidoom",
-      "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-      "source": "Wired",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "39d2730509469f8a": {
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "norm_title": "napsterisbackanditwantstodigitallycloneteachers",
-      "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "source": "Wired",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "dc5a98082a188cff": {
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "norm_title": "whyaiisntlikelytowipeouthumanitywithbioweapons",
-      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "source": "Wired",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "3ee2d2dde8cf8114": {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "norm_title": "crusoeraises39btobuildmassivedatacentersandsmallmodularaifactories",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "98f1219dc8827e77": {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "norm_title": "googledeepmindlaunchesinstitutetowidentheagidebate",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "8eb1d1a2d48ca54a": {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "norm_title": "prismmlhopesitstinyllmwillchangehowwealluseai",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "4778f5d457965590": {
-      "title": "Here’s What the AI Apocalypse Could Look Like",
-      "norm_title": "hereswhattheaiapocalypsecouldlooklike",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-      "source": "Wired",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "b337ab1a58954a1e": {
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "norm_title": "thefaasplantofixairtraffic875mworthofai",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "44b3a03246989900": {
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "norm_title": "smallaimodelsletdronesautonomouslyidentifyandattackbattlefieldtargets",
-      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "0e0bec8f7220e8e9": {
-      "title": "The fix for rogue AI agents could be more AI",
-      "norm_title": "thefixforrogueaiagentscouldbemoreai",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "a8b90941116a2682": {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "norm_title": "openaicaughtitsmodelsleavingnotestosuccessorstohidebadbehavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "6f9d42c1f6c6dc0d": {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "norm_title": "googleannouncesnewexperimentalccaiagentforfamilies",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-18T13:17:56.147774+00:00"
-    },
-    "b0813dca3174aca4": {
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "norm_title": "forgettheaislowdownthevulnerabilityexplosionisalreadyhappening",
-      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-      "source": "Wired",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "411f5ee3eea463da": {
-      "title": "Mathematicians Hate AI. They Can’t Quit It",
-      "norm_title": "mathematicianshateaitheycantquitit",
-      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "source": "Wired",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "9135b1a11ca937d0": {
-      "title": "Join the WIRED World Fair in Miami on November 4",
-      "norm_title": "jointhewiredworldfairinmiamionnovember4",
-      "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-      "source": "Wired",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "4c83148d3d36c2ef": {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "norm_title": "indiaforcescalleridappstofeedspamreportstotelcos",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "a0ade321b56400cd": {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "norm_title": "tillynorwoodspresstourisgoingaboutaswellasyoudexpectforanai",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "ecddfb1c482a37e9": {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "norm_title": "astartupthatbuildsotherstartupsraised100mandisallinonphysicalai",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "5a135d732b71afc3": {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "norm_title": "anthropicisoperatingalabthatconductsbiologyexperiments",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "13023b6d137cf152": {
-      "title": "AI hallucination nearly triggers US military operation",
-      "norm_title": "aihallucinationnearlytriggersusmilitaryoperation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "460d00277b2d2b9a": {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "norm_title": "anthropicsfirstembeddedevaluatorisaccenture",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "98c3d3125a742482": {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "norm_title": "openaiandmicrosoftknewtheywerestartingadoomloopfortheweb",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "source": "The Verge",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "bdf5a33c1c47eae6": {
-      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-      "norm_title": "aihallucinationofchinesenuclearcomponentsalmostledtousmilitaryattack",
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "76b2083f6c299cb2": {
-      "title": "World model companies are keeping a lot of secrets",
-      "norm_title": "worldmodelcompaniesarekeepingalotofsecrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "35faa4ab1b48468b": {
-      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "norm_title": "hereshowanaislowdowncouldactuallybeenforced",
-      "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-      "source": "Wired",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
-    "4e8d4620e702e6f1": {
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "norm_title": "faateesup875maitooltohelpmanageairtrafficcongestion",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-19T12:47:57.346247+00:00"
-    },
     "a2ece265dba598dd": {
       "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
       "norm_title": "humansnotrogueaiarestillthebiggestcybersecurityrisktoenergysystems",
@@ -2743,6 +2547,83 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "source": "The Verge",
       "seen_at": "2026-10-18T12:54:32.261042+00:00"
+    },
+    "1ad6ae0e41aa330f": {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "norm_title": "nvidialaunchesnewopenmodelstorunagentsintheenterpriseandonpcs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "c567405796e48e87": {
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "norm_title": "disneyfoundawaytobuycharacteraiwithoutbuyingitslawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "4ce103991bb023ea": {
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "norm_title": "jbpritzkerthinksaicouldhelpusliveto100orthreatenuslikenukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "source": "The Verge",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "aaf389bbdd5d6aa8": {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "norm_title": "ahackerbrokeintojohndeereandsharkninjawithanarmyofaiagents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "7711436bb76ab687": {
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "norm_title": "democratsthinkcrackingdownonaicouldgivethemanedge",
+      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "source": "The Verge",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "c3e8740ebfdc6d37": {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "norm_title": "airesearchersstrandedclaudeonavirtualdesertislanditstartedtoplay",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "9b57a79a4bccbf9c": {
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "norm_title": "disneyaskedcharacteraitogobankruptforagetoutoflawsuitscard",
+      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "source": "Wired",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "6de494269671e4ed": {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "norm_title": "anthropicsaysitscommitting5ofitssharestoapublicbenefitfund",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "5b7d3cbf3fb8494d": {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "norm_title": "awomanwasarrestedinphillyforblockingadeliveryrobot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "18e45111d5816de3": {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "norm_title": "disneyagreestohirethemajorityofcharacteraisworkforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "e55766de72642bcc": {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "norm_title": "anthropicgivesoutsideaiwatchdogemployeelikeaccess",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-19T16:02:16.092817+00:00"
     }
   }
 }
