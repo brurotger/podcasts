@@ -1,0 +1,83 @@
+ANA: Bom dia, pessoal! Eu sou a Ana, hoje é dia vinte de outubro de dois mil e vinte e seis, e este é o I A Hoje. Marcos, bom dia! Tem muita coisa estranha hoje, né?
+
+MARCOS: Bom dia, Ana! Tem sim. Tem governo americano mandando tirar uma I A chinesa dos computadores, vazamento de conversas de gente no Meta, um robô que finalmente sabe pegar as coisas e mais um acordo gigante da Anthropic.
+
+ANA: Vamos começar pelo governo americano. O que aconteceu?
+
+MARCOS: Segundo o TechCrunch, os Estados Unidos mandaram as agências federais civis removerem os produtos da DeepSeek dos sistemas delas. E não só o aplicativo da empresa. A ordem inclui também serviços de terceiros que foram construídos usando a tecnologia da DeepSeek.
+
+ANA: Espera. Como assim serviços de terceiros? Se uma empresa pegou o modelo e botou dentro de um produto dela, também entra?
+
+MARCOS: Entra. E esse é o ponto mais pesado. A DeepSeek é a startup chinesa que surpreendeu o mundo no começo de dois mil e vinte e cinco, com um modelo muito bom e barato de treinar. Como parte desses modelos é aberta, muita gente embutiu a tecnologia em outras ferramentas. Agora o governo precisa descobrir o que tem DeepSeek escondido por baixo.
+
+ANA: E o motivo é segurança nacional?
+
+MARCOS: Esse é o motivo citado na notícia. Em geral, a preocupação é com dados que passam por servidores na China e com a possibilidade de o modelo ser manipulado. Eu acho que o risco real depende de como se usa. Rodar um modelo aberto no seu próprio servidor é bem diferente de mandar documentos para um serviço hospedado na China. Mas pro governo, é mais simples proibir tudo do que auditar caso a caso.
+
+ANA: E daí, pra quem usa no dia a dia? Isso me afeta?
+
+MARCOS: Diretamente, não. Mas é um sinal. Empresas que vendem pro governo americano vão ter que provar de onde vem cada pedaço da I A delas. Isso é como a lista de ingredientes de um alimento: ninguém olhava, agora vão olhar.
+
+ANA: Falando em dados vazando, a próxima notícia me deu um frio. O Meta Muse.
+
+MARCOS: Pois é. A Ars Technica mostrou que bastava uma única busca para encontrar milhares de conversas de usuários do Meta Muse, listadas pelo título. Eram conversas que as pessoas tinham compartilhado, com informações pessoais e até segredos de negócios.
+
+ANA: Mas se a pessoa compartilhou, não era pra ser público?
+
+MARCOS: Aí está o problema. Quando você aperta em compartilhar, acha que está mandando um link para um colega. Mas, se o link fica aberto e indexável, qualquer um acha com uma busca. É o mesmo erro que já aconteceu com outros chatbots nos últimos anos. Já deveria ter virado lição.
+
+ANA: E o que a gente faz?
+
+MARCOS: Primeiro, trate qualquer conversa compartilhada como se fosse pública. Segundo, nunca cole em chatbot contrato, senha ou dado de cliente sem saber a política da ferramenta. E terceiro, desconfie quando uma empresa lança o botão de compartilhar sem explicar quem pode ver. Isso é falha de projeto, não é um detalhe.
+
+ANA: Agora uma notícia mais alegre. Um robô que pega coisas direito!
+
+MARCOS: A Eka Robotics. O TechCrunch conta que a startup vale um bilhão e quatrocentos e cinquenta milhões de dólares, graças a um modelo de I A física. Ela pode ser o primeiro braço robótico realmente bom em pegar uma grande variedade de objetos. E o movimento é tão suave, quase humano, que impressionou especialistas do setor.
+
+ANA: Mas pegar objeto não é o básico? Qualquer robô de fábrica faz isso.
+
+MARCOS: Faz, mas com peças sempre iguais, no mesmo lugar. O difícil é pegar uma garrafa, depois um saco de batata, depois uma caixa amassada, sem programar cada caso. Para uma criança é fácil. Para robô é um dos problemas mais teimosos que existem. Por isso o entusiasmo.
+
+ANA: E é hype?
+
+MARCOS: Tem um pouco, claro. Avaliação de um bilhão e meio de dólares vem com muita expectativa. Mas o que me anima é que os elogios vêm de gente do setor, que costuma ser cética. Se funcionar em armazéns de verdade, com pressa e bagunça, aí sim muda o jogo da logística.
+
+ANA: Agora o dinheiro grande. Anthropic e Nscale.
+
+MARCOS: O TechCrunch diz que as duas estão em conversas, segundo relatos, para outro acordo de computação de quarenta e cinco bilhões de dólares. A Nscale é uma empresa que fornece infraestrutura, os data centers cheios de chips. Se fechar, será mais um de uma longa série de acordos gigantes da Anthropic no último ano.
+
+ANA: Quarenta e cinco bilhões? Isso é quanto, na prática?
+
+MARCOS: É mais que o orçamento anual de muitos países pequenos. E o detalhe é o "mais um". Esses acordos viraram rotina. Treinar e rodar modelos exige uma quantidade absurda de computação, e quem tem chip tem vantagem.
+
+ANA: Isso não é meio perigoso? Uma bolha?
+
+MARCOS: Essa é a pergunta. Se a demanda por I A continuar crescendo, a conta fecha. Se não, tem muita gente com contas enormes pra pagar. Eu fico no meio: a demanda é real, mas o ritmo dos compromissos é arriscado. Também vale lembrar que esse é um relato de conversas, não um acordo fechado.
+
+ANA: Isso conecta com a visita da MIT Technology Review à Samsung, né?
+
+MARCOS: Totalmente. A reportagem visitou o novo complexo da Samsung em Pyeongtaek, na Coreia do Sul. Três fábricas já funcionam sem parar e uma quarta está entrando em operação. O foco é a memória que fica empilhada ao lado das G P Us, os chips de I A.
+
+ANA: Por que memória é tão importante?
+
+MARCOS: Imagina um cozinheiro muito rápido com uma bancada minúscula. Ele não rende. A memória é a bancada. Os modelos de I A precisam mover quantidades enormes de dados, e a memória virou gargalo. Então fábrica de memória virou peça estratégica, tanto quanto fábrica de processador.
+
+ANA: Tem uma última que eu quero muito discutir: a Microsoft dizendo que agentes de I A são como ameaças internas.
+
+MARCOS: Segundo o TechCrunch, a Microsoft quer que as empresas vigiem de perto os agentes que os funcionários usam em sistemas não controlados por laboratórios como OpenAI e Anthropic. A frase que chamou atenção foi que os modelos de ponta "não podem ser confiáveis".
+
+ANA: Ameaça interna? Tipo um funcionário mal-intencionado?
+
+MARCOS: A comparação é essa. Um agente tem acesso a e-mails, arquivos e sistemas, age em seu nome e pode errar ou ser enganado por um texto malicioso escondido num documento. Se um funcionário fizesse isso, a empresa teria controles. Com agente, muita gente ainda não tem.
+
+ANA: Mas a Microsoft também vende agentes. Não é conflito de interesses?
+
+MARCOS: É uma boa desconfiança. Ela também vende as ferramentas de segurança e gerenciamento. Dito isso, o conselho é sensato: dar a cada agente só o acesso necessário, registrar o que ele faz e ter um jeito de desligá-lo. Isso vale mesmo que a mensagem venha embrulhada em marketing.
+
+ANA: Bom, hoje deu pra aprofundar bastante. Vamos ao resumo?
+
+MARCOS: Vamos. Os Estados Unidos mandaram tirar a DeepSeek das agências federais, inclusive serviços construídos sobre ela. O Meta Muse deixou conversas compartilhadas abertas a qualquer busca. A Eka Robotics vale um bilhão e meio de dólares por um braço robótico muito habilidoso. A Anthropic estaria negociando mais um acordo de quarenta e cinco bilhões de dólares com a Nscale. A Samsung expande a produção de memória que alimenta a I A. E a Microsoft diz que agentes devem ser tratados como possíveis ameaças internas.
+
+ANA: Obrigada por ficar com a gente! Amanhã tem mais I A Hoje. Até lá!
+
+MARCOS: Até amanhã, pessoal!

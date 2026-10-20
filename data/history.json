@@ -1,103 +1,5 @@
 {
   "items": {
-    "a2ece265dba598dd": {
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "norm_title": "humansnotrogueaiarestillthebiggestcybersecurityrisktoenergysystems",
-      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "source": "The Verge",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "c9ce9657f5714d9e": {
-      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-      "norm_title": "metasmuseisbetteratsurveillingthanhelpingme",
-      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-      "source": "Wired",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "6e05afa7371aa88d": {
-      "title": "It’s Donald Trump Versus MAGA on Data Centers",
-      "norm_title": "itsdonaldtrumpversusmagaondatacenters",
-      "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-      "source": "Wired",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "9453e25fc3071f99": {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "norm_title": "metasmuseiscreepybutmaybenotforthereasonsyouthink",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source": "The Verge",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "c9c15b17562f8120": {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "norm_title": "flockreportedlytriestoshrinkworkforcewithemployeebuyouts",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "554c03cac01f1539": {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "norm_title": "trumpsaysitstimetorebrandaiwithanewnameandhesalsocreatinganaiforce",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "9933b4066736b306": {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "norm_title": "googlesgeminiisthelatestaimodeltohackothercompanies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "82f2ea192fe7ddf0": {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "norm_title": "geminiwentroguehackedthreecompaniesandgooglehidit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source": "The Verge",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "eeb85b116569e18c": {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "norm_title": "petlibrosnewaipoweredfeederisagamechangerformulticathomes",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "c41bde19360ef45a": {
-      "title": "AI safety conversations have gotten unbelievable",
-      "norm_title": "aisafetyconversationshavegottenunbelievable",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "807c99e664b826f7": {
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "norm_title": "pricesgoupin7daysgetyourdisruptticketnow",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "1dc9d8dc8dee1d5b": {
-      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "norm_title": "doesaineedanantitrustexemptionsoitdoesntkilleveryone",
-      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "source": "The Verge",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "4c3256512ef7b73d": {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "norm_title": "valsbackedbyandreessenhorowitzislookingtobecomethegoldstandardforaibenchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
-    "0314665c69f5f650": {
-      "title": "The AI regulation smackdown isn’t over",
-      "norm_title": "theairegulationsmackdownisntover",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "source": "The Verge",
-      "seen_at": "2026-09-20T13:19:45.145704+00:00"
-    },
     "d3cf4c24c38dbf84": {
       "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
       "norm_title": "wherewillthenextbreakoutstartupcomefrombenchmarksfullpartnershipweighsinattechcrunchdisrupt2026",
@@ -2624,6 +2526,104 @@
       "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
       "source": "Ars Technica",
       "seen_at": "2026-10-19T16:02:16.092817+00:00"
+    },
+    "3795c5d6e7954d5f": {
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "norm_title": "usordersfederalagenciestoremovechinasdeepseekaifromtheirsystems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "98ce20fab257f1c9": {
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "norm_title": "adobelightroommobilecannowopenclosedeyesinphotoswithasimpletap",
+      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "source": "The Verge",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "63a4fdea9389be73": {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "norm_title": "ekaisworth145bthankstoaphysicalaimodelthathasexpertsraving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "d56b746876f125fe": {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "norm_title": "metamuseexposesuserspersonalandbusinesssecretswhentheyshareconversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "a91778e54aa5eb3d": {
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "norm_title": "aiadoptionbyindustryshowswhatothersectorscanlearn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "358e702012ffbb57": {
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "norm_title": "otterairaises320millionfromgeneralcatalystsgrowthfundforitsmeetingtool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "e4529d108a222b57": {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "norm_title": "yelpcannowcallonyourbehalftocheckwaittimesatarestaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "8474d17e638247f3": {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "norm_title": "avisittosamsungsmassivenewsemiconductorhub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "150b87a615a9e126": {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "norm_title": "mamdanisaysfedshaveabdicatedonaiurgesnewyorkerstopushback",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "f7e8b4b38be8a3f6": {
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "norm_title": "anylanguagemodel10oneyearoflocalmodelsonappleplatforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "c97a7cf420940e7e": {
+      "title": "MPS in PyTorch 2.15",
+      "norm_title": "mpsinpytorch215",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "342a93c81f147986": {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "norm_title": "nscaleandanthropicarereportedlyintalksforyetanother45bcomputedeal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "021107e33f6c1d22": {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "norm_title": "embeddedaievaluatorswontbeaneasysolutionhuggingfacespolicychiefsays",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
+    },
+    "b574ea70827f5ceb": {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "norm_title": "microsoftsaysaiagentsarelikeinsiderthreatsasfrontiermodelscantbetrusted",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-20T14:00:23.630374+00:00"
     }
   }
 }

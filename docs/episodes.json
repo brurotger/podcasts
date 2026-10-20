@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-20",
+    "title": "IA Hoje — 20 de outubro de 2026",
+    "file": "ia-hoje-2026-10-20.mp3",
+    "duration": 499,
+    "size": 2996445,
+    "published_at": "2026-10-20T14:00:23.626304+00:00",
+    "news": [
+      {
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+      },
+      {
+        "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
+      },
+      {
+        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+      },
+      {
+        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+      },
+      {
+        "title": "AI adoption by industry shows what other sectors can learn",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+      },
+      {
+        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+      },
+      {
+        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+      },
+      {
+        "title": "A visit to Samsung’s massive new semiconductor hub",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+      },
+      {
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+      },
+      {
+        "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/anylanguagemodel-1-0"
+      },
+      {
+        "title": "MPS in PyTorch 2.15",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/mps-pytorch-2-15"
+      },
+      {
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+      },
+      {
+        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+      },
+      {
+        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "title": "IA Hoje — 19 de outubro de 2026",
     "file": "ia-hoje-2026-10-19.mp3",
@@ -956,86 +1036,6 @@
         "title": "This startup is issuing AI-generated acne prescriptions",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-05",
-    "title": "IA Hoje — 5 de outubro de 2026",
-    "file": "ia-hoje-2026-10-05.mp3",
-    "duration": 588,
-    "size": 3527661,
-    "published_at": "2026-10-05T17:35:00.632526+00:00",
-    "news": [
-      {
-        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/"
-      },
-      {
-        "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
-      },
-      {
-        "title": "Sam Altman says ‘some bad things’ will happen but AI is totally worth it",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff"
-      },
-      {
-        "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/"
-      },
-      {
-        "title": "Connecting AI agents to enterprise knowledge",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
-      },
-      {
-        "title": "OpenAI launches visual ads that appear alongside image generation results",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
-      },
-      {
-        "title": "Our approach to EU text provenance rules",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/eu-text-provenance"
-      },
-      {
-        "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
-      },
-      {
-        "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption"
-      },
-      {
-        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool"
-      },
-      {
-        "title": "AI glasses face their first major government crackdown",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/"
       }
     ]
   }
