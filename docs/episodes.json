@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-23",
+    "title": "IA Hoje — 23 de outubro de 2026",
+    "file": "ia-hoje-2026-10-23.mp3",
+    "duration": 666,
+    "size": 3997820,
+    "published_at": "2026-10-23T14:00:09.256468+00:00",
+    "news": [
+      {
+        "title": "Retro gaming is being overrun with AI",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+      },
+      {
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+      },
+      {
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+      },
+      {
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+      },
+      {
+        "title": "Does Your Model Run on AWS Trainium? Look It Up",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/torch-neuronx-model-support"
+      },
+      {
+        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+      },
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      },
+      {
+        "title": "Canva’s first AI image model plans designs before generating them",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+      },
+      {
+        "title": "Designing an AI serving harness built to last",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+      },
+      {
+        "title": "Meta’s AI could still scrape news sites, legal experts say",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+      },
+      {
+        "title": "Meta turns Muse sharing back on",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
+      },
+      {
+        "title": "The Social Society Helping Women Join the AI Boom",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/aged-intelligence-society-interview/"
+      },
+      {
+        "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"
+      },
+      {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "title": "IA Hoje — 21 de outubro de 2026",
     "file": "ia-hoje-2026-10-21.mp3",
@@ -956,86 +1036,6 @@
         "title": "Disrupting AI-enabled “false front” operations",
         "source": "OpenAI",
         "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-07",
-    "title": "IA Hoje — 7 de outubro de 2026",
-    "file": "ia-hoje-2026-10-07.mp3",
-    "duration": 732,
-    "size": 4390221,
-    "published_at": "2026-10-07T15:56:22.864376+00:00",
-    "news": [
-      {
-        "title": "Muse launches on the iPad",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support"
-      },
-      {
-        "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
-      },
-      {
-        "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
-      },
-      {
-        "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
-      },
-      {
-        "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell"
-      },
-      {
-        "title": "Google experiments with an AI-powered gaming platform",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
-      },
-      {
-        "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
-      },
-      {
-        "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
-      },
-      {
-        "title": "Google rolls out improved SynthID AI content detector, now available globally",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/"
-      },
-      {
-        "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-      },
-      {
-        "title": "Google’s new SynthID website can identify AI-generated media",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
-      },
-      {
-        "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
-      },
-      {
-        "title": "Introducing Playground: Create and play custom games",
-        "source": "Google AI",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
       }
     ]
   }

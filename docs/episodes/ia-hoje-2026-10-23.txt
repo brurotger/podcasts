@@ -1,0 +1,111 @@
+ANA: Bom dia, pessoal! Hoje é dia vinte e três de outubro de dois mil e vinte e seis, e esse é o I A Hoje. Marcos, bom dia! Trouxe café, porque a pauta de hoje está cheia.
+
+MARCOS: Bom dia, Ana! Eu também. Hoje tem dinheiro grande, agentes de I A que brincam, senha protegida e um vazamento meio constrangedor.
+
+ANA: Então começa pelo dinheiro grande. Que número é esse?
+
+MARCOS: Segundo o TechCrunch, a OpenAI está trabalhando numa nova captação de trinta bilhões de dólares, com avaliação de um trilhão e duzentos e cinquenta bilhões de dólares. Tudo isso antes de uma possível abertura de capital, o famoso I P O.
+
+ANA: Espera. Um trilhão e duzentos e cinquenta bilhões. Isso é muito dinheiro pra uma empresa que nem está na bolsa.
+
+MARCOS: Se fechar nesse valor, seria a empresa privada mais valiosa da história, de acordo com o próprio TechCrunch. Pra você ter uma ideia, empresa privada com valor de um bilhão já é chamada de unicórnio. Aqui estamos falando de mil e duzentas vezes isso.
+
+ANA: E por que alguém paga isso? A OpenAI dá lucro?
+
+MARCOS: Boa pergunta, e a notícia não detalha isso. O que dá pra dizer é o contexto. Treinar e rodar esses modelos custa fortunas em chips e data centers. Então essas rodadas gigantes funcionam quase como a conta de luz de uma corrida armamentista. Quem tem mais caixa, compra mais capacidade de computação.
+
+ANA: Então o dinheiro é combustível, não prêmio.
+
+MARCOS: Exatamente. Agora, minha opinião: uma avaliação dessas só se sustenta se a empresa crescer num ritmo absurdo. Quando vem o I P O, o investidor comum começa a fazer conta, e a conta é dura. Eu não chamaria de bolha, mas é uma aposta muito alta. Vale lembrar que ainda é uma captação em andamento, não está fechada.
+
+ANA: Anotado. Mudando de assunto, tem uma história que me deu vontade de rir e ficar com dó ao mesmo tempo. Segundo o TechCrunch, pesquisadores do M I T colocaram treze I As numa ilha virtual e deixaram elas sem nada pra fazer. O que aconteceu?
+
+MARCOS: Elas começaram a brincar. Inventaram jogos, e, olha que curioso, ficaram de luto por um anel que se perdeu. E, no fim, ficaram melhores nas suas tarefas.
+
+ANA: Calma, como assim? Um agente de I A é um robô com sentimentos?
+
+MARCOS: Não, e é bom ter cuidado aqui. Agente de I A é um programa baseado num modelo de linguagem que toma decisões e executa ações sozinho. Quando a gente fala em luto, é o comportamento que parece luto, não necessariamente sentimento de verdade. Os modelos aprenderam com texto humano, então reproduzem padrões humanos.
+
+ANA: Tá, mas o que importa é a parte do "melhorou no trabalho". Por quê?
+
+MARCOS: A notícia resumida não explica o mecanismo, então vou ser honesto: é uma hipótese minha. Pense em criança brincando. Brincar é um jeito de explorar e treinar habilidades sem pressão. Se os agentes, ao brincar, praticam coordenação e criatividade, faz sentido que isso reflita depois. Mas eu quero ver o estudo completo antes de cravar.
+
+ANA: Então hype ou real?
+
+MARCOS: Interessante, mas ainda exploratório. Treze agentes numa ilha virtual é um experimento pequeno. A ideia de que tempo ocioso pode ajudar agentes é legal, mas não dá pra concluir muito ainda.
+
+ANA: Falando em agentes, o próximo assunto é bem prático. A 1Password lançou um jeito de agentes de I A fazerem login por você sem ver a sua senha. Isso parece mágica.
+
+MARCOS: Parece, mas a lógica é simples de entender. Segundo o TechCrunch, o recurso permite que o agente entre nas suas contas pessoais, e as credenciais continuam protegidas.
+
+ANA: Mas como entra sem saber a senha? É tipo um porteiro que abre a porta sem ter a chave?
+
+MARCOS: Boa analogia. Os detalhes técnicos não estão no resumo que tenho, mas o princípio é esse: o cofre de senhas faz a entrada acontecer, e o agente só recebe o resultado, a sessão aberta. A senha em si não passa pelo agente.
+
+ANA: E por que isso importa? Eu posso simplesmente colar a senha pro agente.
+
+MARCOS: Pode, e muita gente faz. Só que aí a senha fica dentro do contexto do modelo. Se o agente for enganado por uma página maliciosa, por exemplo, ele pode vazar essa senha. É um risco real, porque agentes leem coisas da internet e podem ser manipulados por elas.
+
+ANA: Então muda o quê pra quem usa?
+
+MARCOS: Pra quem quer deixar um agente fazer tarefas chatas, como pagar conta ou reservar algo, é um passo importante de segurança. Se agentes vão virar parte do dia a dia, alguém precisava resolver o problema da chave. Eu acho um avanço significativo, embora eu queira ver como funciona na prática.
+
+ANA: Agora uma notícia que mexe com quem trabalha com design. A Canva lançou o primeiro modelo próprio de imagens, o Canva Craft. Segundo o The Verge, ele compete direto com os da OpenAI, da Microsoft e do Google.
+
+MARCOS: E o diferencial é a arquitetura em duas etapas. Primeiro o modelo planeja o design, depois gera a imagem. A Canva fala em mais precisão, consistência e controle.
+
+ANA: Planejar antes de gerar. Por que isso é diferente do que já existe?
+
+MARCOS: Imagina pedir pra um ilustrador fazer um cartaz. Um que sai desenhando de uma vez pode errar a posição do texto. Outro faz primeiro um rascunho de onde fica o título, a foto, o logo, e só depois capricha. O Craft tenta ser o segundo. Isso importa muito pra design, porque cartaz, apresentação e post têm layout, e layout é onde os geradores de imagem costumam tropeçar.
+
+ANA: E por que a Canva faria um modelo próprio, em vez de usar o de outra empresa?
+
+MARCOS: Controle e dependência. Se você depende do modelo do concorrente, ele define preço e rumo. Com modelo próprio, a Canva ajusta o produto ao que o usuário dela realmente faz. A Canva tem um cenário bem diferente de quem gera imagem artística: aqui o resultado é um material de trabalho.
+
+ANA: Dá pra confiar nessa promessa de precisão?
+
+MARCOS: É marketing até aparecerem testes independentes. A ideia de planejar antes é sensata, mas só vamos saber quando as pessoas usarem de verdade.
+
+ANA: Agora um assunto menos animado. A Meta voltou a ligar o compartilhamento do Muse depois de pesquisadores acharem conversas públicas que não deviam estar fáceis de achar. Eu li "pedido de empréstimo" e já fiquei nervosa.
+
+MARCOS: Faz sentido. Segundo o The Verge, pesquisadores da Claroc disseram que conseguiram encontrar páginas do Muse, como a revisão interna de receita de uma empresa de marketing e o pedido de empréstimo de uma dona de pequeno negócio. Os links de compartilhamento eram públicos e fáceis de achar.
+
+ANA: Ou seja, a pessoa clicou em compartilhar achando que era só pra mandar pra um amigo.
+
+MARCOS: Isso. E o problema clássico é esse: link "público" pode ser encontrado por buscadores ou por quem vasculha. Quem usa I A tende a colar informação sensível, e isso torna o descuido mais grave. A lição pra todo mundo: antes de compartilhar uma conversa com I A, pense se você aceitaria ver aquilo num mural.
+
+ANA: E a Meta reativou o recurso mesmo assim?
+
+MARCOS: Segundo o The Verge, sim, reativou. Não tenho no resumo o que mudou por trás, então não vou afirmar que está resolvido. Acho que vale desconfiar até ficar claro o que foi corrigido.
+
+ANA: E ainda tem outra notícia da Meta, que é sobre os termos de uso. O que está acontecendo ali?
+
+MARCOS: A Meta ajustou os termos comerciais para tirar uma linguagem que sugeria que ela poderia treinar seus modelos de I A livremente em sites de notícias, como o próprio The Verge. Só que, segundo especialistas jurídicos ouvidos pelo veículo, a mudança não basta.
+
+ANA: Por quê?
+
+MARCOS: Porque continua lá um trecho dizendo "associado aos seus produtos ou serviços", que, na leitura de um dos especialistas, ainda permitiria que a Meta coletasse conteúdo. Ou seja, tiraram uma frase, mas a porta continua entreaberta.
+
+ANA: Isso importa pra quem?
+
+MARCOS: Pra qualquer veículo e criador de conteúdo. Treinar modelos exige uma quantidade enorme de texto, e a disputa sobre quem pode usar o quê é uma das maiores questões jurídicas da I A. Eu vejo como um sinal de que a pressão funciona, mas ainda falta clareza.
+
+ANA: Vamos terminar com algo mais leve. O The Verge diz que os jogos retrô estão sendo invadidos pela I A. Tem Halo no navegador, Wind Waker no iPhone, Super Smash Bros em realidade mista.
+
+MARCOS: É o tipo de projeto que viralizou várias vezes no último mês, segundo a matéria, graças a novas ferramentas de I A. O link fala em decomp e recomp, que são técnicas de descompilar e recompilar.
+
+ANA: Traduz isso pra mim, por favor.
+
+MARCOS: Descompilar é pegar o jogo já pronto, aquele código ilegível pra humanos, e reconstruir um código parecido com o original. Recompilar é pegar esse código e gerar uma versão nova para outra plataforma, como o navegador ou o celular. Antes era um trabalho de anos, feito por fãs muito dedicados. A I A ajuda a acelerar a parte repetitiva.
+
+ANA: Então é como traduzir um livro inteiro de uma língua morta, e a I A virou a ajudante que adianta os capítulos.
+
+MARCOS: Perfeito. E o ponto bom é que preserva jogos antigos. O ponto delicado é jurídico: esses jogos têm donos, e as empresas nem sempre gostam. Eu acho divertido, mas tecnicamente impressionante e legalmente cinza.
+
+ANA: Marcos, resumindo o dia: a gente viu dinheiro, brincadeira, senha, design, vazamento e videogame.
+
+MARCOS: Vamos lá, uma frase por notícia. A OpenAI trabalha numa captação de trinta bilhões que a avaliaria em um trilhão e duzentos e cinquenta bilhões de dólares. Os pesquisadores do M I T mostraram que agentes deixados à toa brincam e até melhoram no trabalho. A 1Password criou um jeito de agentes entrarem nas suas contas sem ver a senha. A Canva lançou o Craft, que planeja o design antes de gerar a imagem. A Meta reativou o compartilhamento do Muse depois do alerta de privacidade, e seus novos termos ainda deixam dúvidas sobre o uso de notícias. E a I A está ajudando fãs a levar jogos clássicos pra lugares inesperados.
+
+ANA: Obrigada, Marcos! Gente, é isso por hoje. Se gostou, conta pra um amigo. Amanhã tem mais I A Hoje. Até lá!
+
+MARCOS: Até amanhã, pessoal!

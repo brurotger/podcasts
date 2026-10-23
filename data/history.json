@@ -1,201 +1,5 @@
 {
   "items": {
-    "d3cf4c24c38dbf84": {
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "norm_title": "wherewillthenextbreakoutstartupcomefrombenchmarksfullpartnershipweighsinattechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "091a3b20307b7c6f": {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "norm_title": "googles899googlebookisabetthatyoullbuyanewlaptopforgemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "80b64cc6d2cf96c5": {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "norm_title": "fromfirstuserstobillionsgooglesrobbysteinjoinstechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "1f5db8d8795b4ac2": {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "norm_title": "meetthenextwaveofvcsjudgingstartupbattlefield200attechcrunchdisrupt2026",
-      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "14a0ef1e1923580a": {
-      "title": "Can CEO John Ternus find Apple’s next big thing?",
-      "norm_title": "canceojohnternusfindapplesnextbigthing",
-      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "source": "The Verge",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "ecad2f8b79a66e56": {
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "norm_title": "pruningllmslikeaphysicistblockremovalasanisingoptimizationproblem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "7e8173080ac259ed": {
-      "title": "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
-      "norm_title": "iphoneownerscannowsubmitaclaiminapples250millionsiriailawsuit",
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "source": "The Verge",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "35a9150ad2f9ac99": {
-      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-      "norm_title": "gotanandroidphonegooglethinksyoullprobablywantagooglebooklaptop",
-      "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-      "source": "Wired",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "3fe73ccbfddee832": {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "norm_title": "howwemadethefirstcomprehensivemapofdeathsalongtheusbordersvirtualwall",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "262a91c27188f4e4": {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "norm_title": "4waystoaddressthefailureswefoundalongtheusbordersvirtualwall",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "d8c9dde911b91b8c": {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "norm_title": "theusspentbillionsonbordersurveillancewhycantitcatchpeoplebeforetheydie",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "c18c292c7be45ce2": {
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "norm_title": "shediedatthesandiegoborderasurveillancecamerawasinplainsight",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "62036b00437ba278": {
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "norm_title": "usandchinadiscussalertingeachothertoainationalsecuritythreats",
-      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "source": "Wired",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "9761c62fcd5f77ef": {
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "norm_title": "unsaysaisafeguardscantwaitforcertainty",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "source": "The Verge",
-      "seen_at": "2026-09-21T15:30:16.267314+00:00"
-    },
-    "fc3124979f4fa3ff": {
-      "title": "Its $500 toothbrush disappeared from stores. Dyson won’t fully explain why",
-      "norm_title": "its500toothbrushdisappearedfromstoresdysonwontfullyexplainwhy",
-      "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "7a89e49f25be2551": {
-      "title": "Everyone can find a reason to dislike data center construction",
-      "norm_title": "everyonecanfindareasontodislikedatacenterconstruction",
-      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "e78be9c04b3622e2": {
-      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-      "norm_title": "vituresvonderglassesaremeanttomapyourmind",
-      "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-      "source": "Wired",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "bf3eec9841714f97": {
-      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-      "norm_title": "aimodelsbuiltfromratbrainsjustgotclosertoreality",
-      "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-      "source": "Wired",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "c92fc30562650fa0": {
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "norm_title": "nscalesipowilltestwallstreetsappetiteforconcentratedaibetsonceagain",
-      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "62d3e158e9d4cbb9": {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "norm_title": "dontbefooledbythissummerofaihype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Technology Review",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "59d0bf6f34606339": {
-      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
-      "norm_title": "ibuiltaiclonesofmycoworkersthingsgotweird",
-      "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
-      "source": "Wired",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "52fd3c78e8616980": {
-      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-      "norm_title": "pattiharrisonhaddreamsofatechutopiasiliconvalleysmashedthem",
-      "url": "https://www.wired.com/story/big-interview-patti-harrison/",
-      "source": "Wired",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "220362a664dd2041": {
-      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-      "norm_title": "anewtoolfoundmalwarethatsguidedbyanaihivemindnohumansinsight",
-      "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
-      "source": "Wired",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "f3c5ac1ae2179121": {
-      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-      "norm_title": "anewchatbotwantstounlockthesecretsintatteredancientgreekrecords",
-      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-      "source": "Wired",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "68673fba1b2d0691": {
-      "title": "How to Use AI With Your Privacy Intact",
-      "norm_title": "howtouseaiwithyourprivacyintact",
-      "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-      "source": "Wired",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "6cfe3de547a05196": {
-      "title": "Transformers now runs llama.cpp quants",
-      "norm_title": "transformersnowrunsllamacppquants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "c66192e3b56f1e4a": {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "norm_title": "junkimomlxcreatorandmaintainerjoinshuggingfacetosupportthemlxcommunity",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
-    "560862ed4850b432": {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "norm_title": "themanwhobuiltapplesstoresdoesntbuysiliconvalleysbetonaishopping",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-22T13:49:16.103377+00:00"
-    },
     "b585c3f6a9cb5a05": {
       "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
       "norm_title": "knowwhospokewhenbuildrealtimemultispeakeraiwithnvidianemotron3diarization",
@@ -2722,6 +2526,104 @@
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch",
       "seen_at": "2026-10-21T14:17:54.575696+00:00"
+    },
+    "88bfcbe8484d4a29": {
+      "title": "Retro gaming is being overrun with AI",
+      "norm_title": "retrogamingisbeingoverrunwithai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "1aa3a58de58d4b2d": {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "norm_title": "uberrivalindriveeyes2027robotaxitestsincentralasiawithponyaiandnvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "b73aa9165b3f3b9f": {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "norm_title": "leftalonewithnothingtodoaiagentsstartedplaying",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "14d1b79a87deabea": {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "norm_title": "openaiandpolandsnaskpartnertoadvanceaisafetyandsecurity",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "566af666616ca793": {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "norm_title": "doesyourmodelrunonawstrainiumlookitup",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "6e5cf3385675b193": {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "norm_title": "turningdatabasegradingintorlrewardsposttrainingagentswiththinkingbox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "0c8cbfed57619b28": {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "norm_title": "openaiworkingonnew30braiseat125tvaluationaheadofipo",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "fbdcc49801b72de9": {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "norm_title": "canvasfirstaiimagemodelplansdesignsbeforegeneratingthem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "4c390a1e7b098803": {
+      "title": "Designing an AI serving harness built to last",
+      "norm_title": "designinganaiservingharnessbuilttolast",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "c57d32431740a03b": {
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "norm_title": "metasaicouldstillscrapenewssiteslegalexpertssay",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "source": "The Verge",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "b50cf4dfd83091b2": {
+      "title": "Meta turns Muse sharing back on",
+      "norm_title": "metaturnsmusesharingbackon",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "source": "The Verge",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "f1a0ae3afd0e6f8b": {
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "norm_title": "thesocialsocietyhelpingwomenjointheaiboom",
+      "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "source": "Wired",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "09111f8933607afb": {
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "norm_title": "sureletssmooshspacexandteslatogetherwhocares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "source": "The Verge",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "041cdcb8585ea8ac": {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "norm_title": "1passwordlaunchesawayforaiagentstologinonyourbehalfwithoutseeingyourpassword",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-23T14:00:09.260771+00:00"
     }
   }
 }
