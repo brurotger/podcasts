@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-24",
+    "title": "IA Hoje — 24 de outubro de 2026",
+    "file": "ia-hoje-2026-10-24.mp3",
+    "duration": 793,
+    "size": 4760876,
+    "published_at": "2026-10-24T13:03:48.123558+00:00",
+    "news": [
+      {
+        "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+      },
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
+      {
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+      },
+      {
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      },
+      {
+        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+      },
+      {
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+      },
+      {
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+      },
+      {
+        "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+      },
+      {
+        "title": "The iPhone Duo should have been an iPad",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
+      },
+      {
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+      },
+      {
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+      },
+      {
+        "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/allenai/litpivot"
+      },
+      {
+        "title": "Meta delays new business terms after publisher pushback on AI scraping",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+      },
+      {
+        "title": "Securing our frontier model training environment",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "title": "IA Hoje — 23 de outubro de 2026",
     "file": "ia-hoje-2026-10-23.mp3",
@@ -956,86 +1036,6 @@
         "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-08",
-    "title": "IA Hoje — 8 de outubro de 2026",
-    "file": "ia-hoje-2026-10-08.mp3",
-    "duration": 590,
-    "size": 3542205,
-    "published_at": "2026-10-08T15:59:07.859384+00:00",
-    "news": [
-      {
-        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
-      },
-      {
-        "title": "Google is launching a one-stop Gemini agent for your work tasks",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
-      },
-      {
-        "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/"
-      },
-      {
-        "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
-      },
-      {
-        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
-      },
-      {
-        "title": "Artificial is a wicked satire that also sticks to the facts",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts"
-      },
-      {
-        "title": "Google releases a new local-first Granola competitor",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
-      },
-      {
-        "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
-      },
-      {
-        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
-      },
-      {
-        "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/"
-      },
-      {
-        "title": "AI breakthroughs in robotics won’t change your life any time soon",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
-      },
-      {
-        "title": "Building a safer path to autonomous industrial AI",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
-      },
-      {
-        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
-      },
-      {
-        "title": "Disrupting AI-enabled “false front” operations",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
       }
     ]
   }

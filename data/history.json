@@ -1,103 +1,5 @@
 {
   "items": {
-    "b585c3f6a9cb5a05": {
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "norm_title": "knowwhospokewhenbuildrealtimemultispeakeraiwithnvidianemotron3diarization",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "source": "Hugging Face",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "cfed0f4b557427cc": {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "norm_title": "openaiextendscyberaccesstoukraineforciviliandefense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "4b9aa0725e413ee1": {
-      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "norm_title": "spotifysisgivingyouthekeystoitsrecommendationalgorithmwithuslaunchoftasteprofile",
-      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "028f37d6ceae8a33": {
-      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "norm_title": "metasmuseaiassistantrolledoutwithaserioussecurityflaw",
-      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
-      "source": "Wired",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "ce2444c70ed8d754": {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "norm_title": "emaraises77masaistartseatingintoenterprisesoftwareandservices",
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "4490594a2c938f97": {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "norm_title": "openainabskeypatreonexecsaheadofupcomingannouncement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "source": "The Verge",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "43757305a8946937": {
-      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-      "norm_title": "attisautomatingawayjobsanditsoldtelecomempire",
-      "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-      "source": "Wired",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "51dae5292e6ee9e4": {
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "norm_title": "werealreadyfightingyesterdaysbattlegreecesprimeministergetscandidaboutai",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "65766e486ff33154": {
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "norm_title": "openaiwantstoconsultelitemathematiciansabouthowtonotfumbleagain",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "source": "The Verge",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "ae3841d2ec9db675": {
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "norm_title": "grabandopenaibringpracticalaiskillstosoutheastasia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "d7fe98b092e2570a": {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "norm_title": "techcrunchfoundersummitsagendarevealedunlockfundraisinghiringandaiinsightsinbostononnovember4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "7368bc208e13c27c": {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "norm_title": "snorkelaitriplesvaluationto35basdemandforaitrainingdatabooms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "2a1f7944dc1db3be": {
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "norm_title": "newanthropicopenaimodelsmakesamepromisealittlemoreforalotlessmoney",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "source": "Ars Technica",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
-    "e0113910a7a5af4b": {
-      "title": "Better prompt caching for GPT-6",
-      "norm_title": "betterpromptcachingforgpt6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI",
-      "seen_at": "2026-09-23T14:01:21.482820+00:00"
-    },
     "b8b7b13cd0cb09e3": {
       "title": "Australia to investigate if OpenAI hack of government health website broke the law",
       "norm_title": "australiatoinvestigateifopenaihackofgovernmenthealthwebsitebrokethelaw",
@@ -2624,6 +2526,104 @@
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "source": "TechCrunch",
       "seen_at": "2026-10-23T14:00:09.260771+00:00"
+    },
+    "81942bb17b893f7f": {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "norm_title": "thephpmeltdownshowshowaimakesbugsmoreexploitable",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "Wired",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "8df0973fc3bfdc11": {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "norm_title": "openaisaysitwillnolongertrainitsaimodelsontheliveinternetcitingsignificantrisks",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "76e95d74e5755ce9": {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "norm_title": "hottesttoyforchristmasnvidiaceoplayswithadorablemicroduckrobots20000sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "c905fddc3959b933": {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "norm_title": "openainowtrainsitsfrontieraimodelswithnointernetaccess",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "4ef96e1aa52d4da3": {
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "norm_title": "updatedgoogleprivacypolicysaysyourgmailmightbeusedforadvertising",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "21b8b57aef1df9f4": {
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "norm_title": "jackdorseysblockmadeanaimodelthattalkstoyoulikeanawkwardnewfriend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "source": "The Verge",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "0ebef3076d0f2f43": {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "norm_title": "fromtoasttobessemerwhofounderswillhearfromattechcrunchfoundersummit2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "7fa04f7054da00a3": {
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "norm_title": "intelgetswaiverafterworriesfuzzyusbanonforeignmaderobotsmayhitfabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "source": "Ars Technica",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "680cbcd04cdbe9d9": {
+      "title": "The iPhone Duo should have been an iPad",
+      "norm_title": "theiphoneduoshouldhavebeenanipad",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "source": "The Verge",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "16710294d9ae6580": {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "norm_title": "rapidlyscalingonlinestoragetoserveover1billionchatgptuserspartii",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "8a10f8ee50f06fd4": {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "norm_title": "nowgooglesaysitmightuseyourgmailandgooglephotosdatatotargetads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "source": "The Verge",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "d98d5b2309b7f5b4": {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "norm_title": "litpivotdevelopingresearchideasthroughdynamiccontextualizationwithintheliteraturelandscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "1023ad3c482f6f39": {
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "norm_title": "metadelaysnewbusinesstermsafterpublisherpushbackonaiscraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "source": "The Verge",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "0fd9691172de8fdd": {
+      "title": "Securing our frontier model training environment",
+      "norm_title": "securingourfrontiermodeltrainingenvironment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI",
+      "seen_at": "2026-10-24T13:03:48.127190+00:00"
     }
   }
 }
