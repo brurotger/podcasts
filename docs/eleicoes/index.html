@@ -305,10 +305,12 @@ async function getJSON(url) {
     S.mirrorSrc = t(ra) >= t(pb) ? "raw" : "pages";
     return S.mirrorSrc === "raw" ? ra : pb;
   }
-  const [x, y] = S.mirrorSrc === "pages" ? ["pages", "raw"] : ["raw", "pages"];
+  const [x, y] = S.mirrorSrc === "raw" ? ["raw", "pages"] : ["pages", "raw"];
   try { return await fetchJSON(src[x]); } catch (e) { return fetchJSON(src[y]); }
 }
-const host = () => (S.mode === "mirror" ? MIRROR : BASE);
+const host = () => (S.mode === "mirror" || S.src === "mirror" ? MIRROR : BASE);
+// horário de geração do arquivo do TSE, em forma comparável ("2026-10-25 20:10:28")
+const stamp = (j) => `${j.dg || j.dt || ""} ${j.hg || j.ht || ""}`.replace(/^(\d+)\/(\d+)\/(\d+)/, "$3-$2-$1");
 
 async function pool(items, n, fn) {
   let i = 0;
@@ -404,9 +406,10 @@ const candByN = (n) => S.cands.find((c) => c.n === n);
 const ordered = (r) => S.cands.map((c) => r.cands.find((x) => x.n === c.n) || {n: c.n, votes: 0, pct: 0});
 
 // "u": formato 2026 (dados/.../-u.json); "r": formato 2022/2024 (dados-simplificados/.../-r.json)
-function uPath(level) {
-  return host() + (S.fmt === "r" ? `${S.root}/dados-simplificados/${level}-c0001-${S.E}-r.json` : `${S.root}/dados/${level}-c0001-${S.E}-u.json`);
+function relPath(level) {
+  return S.fmt === "r" ? `${S.root}/dados-simplificados/${level}-c0001-${S.E}-r.json` : `${S.root}/dados/${level}-c0001-${S.E}-u.json`;
 }
+function uPath(level) { return host() + relPath(level); }
 
 async function loadNational() {
   let j;
@@ -418,6 +421,13 @@ async function loadNational() {
     if (!j) { S.fmt = null; throw new Error(`o TSE ainda não publicou o arquivo nacional da eleição ${S.ele.cd}`); }
   } else {
     j = await getJSON(uPath("br/br"));
+  }
+  // o CDN do TSE às vezes entrega uma versão velha; se a cópia do robô estiver mais nova, usa ela
+  if (S.mode === "tse") {
+    try {
+      const m = await getJSON(MIRROR + relPath("br/br"));
+      if (stamp(m) > stamp(j)) { j = m; S.src = "mirror"; }
+    } catch (e) { /* sem cópia: segue com o TSE */ }
   }
   const br = normalize(j);
   if (!br.cands.length) throw new Error("o arquivo nacional veio sem candidatos");
@@ -480,7 +490,7 @@ async function loadMunicipios(uf) {
   const queue = [...muns];
   await pool(queue, 12, async (m) => {
     if (!ok && missing >= 15) return;
-    try { S.mu[m.ibge] = normalize(await getJSON(uPath(`${lc}/${lc}${m.tse}`))); ok++; } catch (e) { if (e.http === 404 || e.http === 403) missing++; }
+    try { S.mu[m.ibge] = normalize(await getJSON(BASE + relPath(`${lc}/${lc}${m.tse}`))); ok++; } catch (e) { if (e.http === 404 || e.http === 403) missing++; }
     if (++done % 40 === 0) { setLoading(`Carregando cidades de ${uf}: ${done}/${muns.length}`); paintMun(); }
   });
   S.munNote = ok ? null : "O TSE ainda não publicou os resultados por cidade deste estado.";
@@ -852,7 +862,7 @@ function useElection(ele, fmt) {
 async function loadLive() {
   let tseErr = null;
   if (S.mode !== "mirror" || S.tick % 10 === 0) {
-    S.mode = "tse";
+    S.mode = "tse"; S.src = "tse";
     try {
       if (!S.ele) useElection(await discover());
       await loadNational();
@@ -894,7 +904,7 @@ async function cycle() {
       banner(`<b>Falha na última atualização</b> <span>(${esc(e.message)}). Mostrando os dados de ${S.lastOk.toLocaleTimeString("pt-BR")}.</span>`);
     }
   }
-  $("conn").textContent = DEMO ? "" : `Fonte dos números: ${S.mode === "mirror" ? `cópia automática dos dados do TSE${S.mirrorAt ? `, feita às ${S.mirrorAt.split(" ")[1] || S.mirrorAt}` : ""}` : "direto do TSE"}${S.ele ? ` · eleição ${S.ele.cd}` : ""}`;
+  $("conn").textContent = DEMO ? "" : `Fonte dos números: ${S.mode === "mirror" || S.src === "mirror" ? `cópia automática dos dados do TSE${S.mirrorAt ? `, feita às ${S.mirrorAt.split(" ")[1] || S.mirrorAt}` : ""}` : "direto do TSE"}${S.ele ? ` · eleição ${S.ele.cd}` : ""}`;
   renderBoard(); paint(); renderPanel();
   const wait = DEMO ? 30000 : POLL_MS[S.mode] || 15000;
   S.nextAt = Date.now() + wait;
