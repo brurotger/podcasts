@@ -1,4 +1,4 @@
-"""Configurações centrais do podcast diário de IA."""
+"""Configurações centrais do podcast semanal de IA."""
 
 from pathlib import Path
 
@@ -23,14 +23,17 @@ NEWS_SOURCES = [
     {"name": "Wired", "url": "https://www.wired.com/feed/tag/ai/latest/rss"},
 ]
 
-# Janela de tempo: só considera notícias publicadas nas últimas N horas
-NEWS_WINDOW_HOURS = 36
-# Máximo de notícias candidatas enviadas ao roteirista
-MAX_CANDIDATES = 14
-# Quantos dias de histórico manter para deduplicação
-HISTORY_RETENTION_DAYS = 30
-# Quantos episódios manter publicados no feed
-MAX_EPISODES_KEPT = 14
+# Janela de tempo: só considera notícias publicadas nas últimas N horas.
+# 192h = 8 dias (1 semana + folga, caso o agendamento atrase como o da
+# execução diária às vezes atrasava no GitHub Actions).
+NEWS_WINDOW_HOURS = 192
+# Máximo de notícias candidatas enviadas ao roteirista (uma semana rende
+# bem mais notícia do que um dia; dá material de sobra pro Claude escolher).
+MAX_CANDIDATES = 45
+# Quantos dias de histórico manter para deduplicação (~8-9 semanas)
+HISTORY_RETENTION_DAYS = 60
+# Quantos episódios manter publicados no feed (~10 semanas)
+MAX_EPISODES_KEPT = 10
 
 # Personagens, vozes (Microsoft Edge TTS, neurais, pt-BR) e entonação de cada um.
 # rate/pitch são a linha de base do personagem; make_audio.py soma uma pequena
@@ -45,10 +48,10 @@ SPEAKERS = {
 # Atenção: use exatamente a mesma capitalização do nome do repositório no GitHub.
 SITE_BASE_URL = "https://brurotger.github.io/podcasts"
 
-PODCAST_TITLE = "IA Hoje — seu resumo diário de inteligência artificial"
+PODCAST_TITLE = "IA Hoje — seu resumo semanal de inteligência artificial"
 PODCAST_DESCRIPTION = (
-    "Um bate-papo diário entre Marcos, especialista em IA, e Ana, uma entusiasta "
+    "Um bate-papo semanal entre Marcos, especialista em IA, e Ana, uma entusiasta "
     "curiosa, sobre as principais novidades do mundo da inteligência artificial. "
-    "Gerado automaticamente todos os dias pela manhã."
+    "Gerado automaticamente toda semana, aos domingos de manhã."
 )
 PODCAST_LANGUAGE = "pt-BR"

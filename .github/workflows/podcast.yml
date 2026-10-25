@@ -1,17 +1,18 @@
-# Gera e publica o episódio diário do podcast "IA Hoje".
+# Gera e publica o episódio semanal do podcast "IA Hoje", com as notícias
+# dos últimos 7 dias.
 #
-# Roda todo dia às 09:00 UTC (06:00 no horário de Brasília).
+# Roda toda semana aos domingos, às 09:00 UTC (06:00 no horário de Brasília).
 # Também pode ser disparado manualmente na aba Actions ("Run workflow").
 #
 # Requisito: criar UM destes secrets em Settings -> Secrets and variables -> Actions:
 #   - ANTHROPIC_API_KEY        (chave da API, paga por uso)  OU
 #   - CLAUDE_CODE_OAUTH_TOKEN  (token da assinatura Pro/Max, gerado com `claude setup-token`)
 
-name: Podcast diário de IA
+name: Podcast semanal de IA
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 9 * * 0"  # domingo
   workflow_dispatch:
     inputs:
       dry_run:
@@ -29,7 +30,7 @@ concurrency:
 jobs:
   gerar-episodio:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60  # episódio semanal é mais longo (mais falas pra sintetizar)
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
@@ -81,4 +82,4 @@ jobs:
           name: episodio
           path: docs/episodes/*.mp3
           if-no-files-found: ignore
-          retention-days: 14
+          retention-days: 35  # ~5 semanas de backup, já que agora roda semanalmente

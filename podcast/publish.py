@@ -86,7 +86,7 @@ def write_feed(episodes: list[dict]) -> None:
             for n in ep["news"]
         )
         description = escape(
-            f"Notícias de IA do dia {ep['date']}.<ul>{sources_html}</ul>"
+            f"Resumo semanal de notícias de IA.<ul>{sources_html}</ul>"
         )
         items.append(f"""
     <item>
@@ -154,7 +154,7 @@ def write_index_page(episodes: list[dict]) -> None:
   <p>{escape(PODCAST_DESCRIPTION)}</p>
   <p class="feed">📡 Assine no seu app de podcast com este feed:<br>
     <code>{escape(SITE_BASE_URL)}/feed.xml</code></p>
-  {''.join(rows) if rows else '<p>Nenhum episódio ainda — o primeiro sai amanhã de manhã!</p>'}
+  {''.join(rows) if rows else '<p>Nenhum episódio ainda — o primeiro sai no próximo domingo de manhã!</p>'}
 </body>
 </html>
 """
