@@ -141,9 +141,13 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
 .mini .row .b span { display: block; height: 100%; }
 .list { display: flex; flex-direction: column; gap: 6px; }
 .list .head { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.sorts { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.sorts button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 3px 10px; font-size: 12px; color: var(--muted); }
+.sorts button:hover { border-color: var(--muted); }
+.sorts button[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--surface); font-weight: 600; }
 .list input { width: 100%; border: 1px solid var(--line); background: var(--tint); border-radius: 6px; padding: 6px 10px; font-size: 13px; }
 .rows { max-height: 420px; overflow-y: auto; border-top: 1px solid var(--line); }
-.rows button { width: 100%; display: grid; grid-template-columns: minmax(0,1fr) 90px 44px; gap: 10px; align-items: center; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--line); padding: 7px 2px; font-size: 13px; }
+.rows button { width: 100%; display: grid; grid-template-columns: minmax(0,1fr) 90px 50px; gap: 10px; align-items: center; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--line); padding: 7px 2px; font-size: 13px; }
 .rows button:hover { background: var(--tint); }
 .rows .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .rows .mb { height: 8px; border-radius: 2px; overflow: hidden; display: flex; background: var(--nodata); }
@@ -758,14 +762,23 @@ function renderPanel() {
   }
 }
 
+// ordem da lista: "votos" (mais votos apurados), "apurado" (% de seções; dir 1 = maior primeiro) ou "nome"
+const SORTS = [["votos", "Votos"], ["apurado", "% apurado"], ["nome", "A–Z"]];
+S.sort = {by: "votos", dir: 1};
+try { const v = JSON.parse(localStorage.getItem("apuracao-ordem")); if (v && SORTS.some(([k]) => k === v.by)) S.sort = v; } catch (e) { /* sem armazenamento */ }
 function rowsData() {
-  if (S.view.uf) {
-    return GEO.munFeatures.filter((f) => f.properties.uf === S.view.uf)
-      .map((f) => ({id: f.id, nm: f.properties.n, r: S.mu[f.id]}))
-      .sort((a, b) => ((b.r && b.r.valid) || 0) - ((a.r && a.r.valid) || 0) || a.nm.localeCompare(b.nm, "pt-BR"));
-  }
-  return UFS.map((uf) => ({id: uf, nm: UF_NOMES[uf], r: S.uf[uf]})).sort((a, b) => ((b.r && b.r.valid) || 0) - ((a.r && a.r.valid) || 0));
+  const rows = S.view.uf
+    ? GEO.munFeatures.filter((f) => f.properties.uf === S.view.uf).map((f) => ({id: f.id, nm: f.properties.n, r: S.mu[f.id]}))
+    : UFS.map((uf) => ({id: uf, nm: UF_NOMES[uf], r: S.uf[uf]}));
+  const byName = (a, b) => a.nm.localeCompare(b.nm, "pt-BR");
+  const votes = (x) => (x.r && x.r.valid) || 0;
+  const ap = (x) => (x.r ? x.r.pst : -1);
+  const {by, dir} = S.sort;
+  if (by === "nome") return rows.sort(byName);
+  if (by === "apurado") return rows.sort((a, b) => dir * (ap(b) - ap(a)) || byName(a, b));
+  return rows.sort((a, b) => votes(b) - votes(a) || byName(a, b));
 }
+const fmtAp = new Intl.NumberFormat("pt-BR", {maximumFractionDigits: 1});
 function rowsHTML() {
   const q = norm(S.filter);
   const rows = rowsData().filter((x) => !q || norm(x.nm).includes(q));
@@ -773,16 +786,33 @@ function rowsHTML() {
   return rows.map((x) => {
     const os = x.r ? ordered(x.r) : [];
     const bars = x.r && x.r.valid ? S.cands.map((c, i) => `<span style="width:${os[i].pct}%;background:${c.color}"></span>`).join("") : "";
-    return `<button type="button" data-id="${x.id}"><span class="nm">${esc(x.nm)}</span><span class="mb">${bars}</span><span class="ap num">${x.r ? Math.round(x.r.pst) + "%" : "–"}</span></button>`;
+    return `<button type="button" data-id="${x.id}"><span class="nm">${esc(x.nm)}</span><span class="mb">${bars}</span><span class="ap num">${x.r ? fmtAp.format(x.r.pst) + "%" : "–"}</span></button>`;
   }).join("");
 }
 function listHTML() {
   const what = S.view.uf ? "Cidades" : "Estados";
-  return `<div class="list"><div class="head"><span class="label">${what} · por votos apurados</span><span class="label">apurado</span></div>
+  const sorts = SORTS.map(([k, label]) => {
+    const on = S.sort.by === k;
+    const arrow = k === "apurado" && on ? (S.sort.dir > 0 ? " ↓" : " ↑") : "";
+    const title = k === "apurado" ? (on && S.sort.dir > 0 ? "Mostrando os mais apurados primeiro; clique para inverter" : "Ordenar pelo % de seções apuradas") : "";
+    return `<button type="button" data-sort="${k}" aria-pressed="${on}"${title ? ` title="${title}"` : ""}>${label}${arrow}</button>`;
+  }).join("");
+  return `<div class="list"><div class="head"><span class="label">${what}</span><span class="label">apurado</span></div>
+    <div class="sorts" role="group" aria-label="Ordenar ${what.toLowerCase()}"><span class="label">Ordenar</span>${sorts}</div>
     ${S.view.uf ? `<input id="filtro" placeholder="Filtrar cidades…" autocomplete="off" aria-label="Filtrar cidades">` : ""}
     <div class="rows">${rowsHTML()}</div></div>`;
 }
 $("panel").addEventListener("click", (e) => {
+  const sb = e.target.closest("[data-sort]");
+  if (sb) {
+    const by = sb.dataset.sort;
+    S.sort = {by, dir: by === "apurado" && S.sort.by === "apurado" ? -S.sort.dir : 1};
+    try { localStorage.setItem("apuracao-ordem", JSON.stringify(S.sort)); } catch (err) { /* sem armazenamento */ }
+    renderPanel();
+    const again = $("panel").querySelector(`[data-sort="${by}"]`);
+    if (again) again.focus();
+    return;
+  }
   const b = e.target.closest(".rows button"); if (!b) return;
   if (S.view.uf) selectMun(b.dataset.id); else { S.filter = ""; openUF(b.dataset.id); }
 });
