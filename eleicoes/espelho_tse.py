@@ -19,6 +19,7 @@ import json
 import os
 import subprocess
 import sys
+import threading
 import time
 import urllib.error
 import urllib.request
@@ -59,8 +60,11 @@ def salvar(out, path, data):
         with open(dest, "rb") as f:
             if f.read() == data:
                 return False
-    with open(dest, "wb") as f:
+    # grava num temporário e troca de uma vez, para o git nunca pegar um arquivo pela metade
+    tmp = dest + ".tmp"
+    with open(tmp, "wb") as f:
         f.write(data)
+    os.replace(tmp, dest)
     return True
 
 
@@ -235,7 +239,7 @@ def agora():
 
 
 def git_push(msg):
-    subprocess.run(["git", "add", "-A", "docs/eleicoes/dados"], check=True)
+    subprocess.run(["git", "add", "-A", "--", "docs/eleicoes/dados", ":!*.tmp"], check=True)
     if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
         return
     subprocess.run(["git", "commit", "-q", "-m", msg], check=True)
@@ -252,44 +256,61 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("out")
     ap.add_argument("--loop-minutos", type=float, default=0)
-    ap.add_argument("--intervalo", type=int, default=60)
-    ap.add_argument("--cidades-a-cada", type=int, default=4, help="atualiza cidades a cada N ciclos")
+    ap.add_argument("--intervalo", type=int, default=15, help="segundos entre consultas ao placar nacional")
+    ap.add_argument("--commit-a-cada", type=int, default=60,
+                    help="intervalo mínimo entre commits; menos que ~60s faz o GitHub Pages cancelar as publicações")
     ap.add_argument("--git", action="store_true")
     a = ap.parse_args()
 
     fim = time.time() + a.loop_minutos * 60
-    ele, fmt, cadastro, i = None, None, None, 0
+    ele, fmt = None, None
+    while not fmt:
+        try:
+            ele = ele or descobrir()
+            log("eleição em uso:", ele)
+            for f in ("u", "r"):
+                try:
+                    baixar(caminho(ele, f, "br/br"))
+                    fmt = f
+                    break
+                except Http404 as e:
+                    log("formato", f, "indisponível:", e)
+        except Exception as e:  # noqa: BLE001
+            log("descoberta falhou:", repr(e))
+        if not fmt:
+            if time.time() >= fim:
+                return 1
+            time.sleep(30)
+
+    # cidades numa linha separada: uma volta leva alguns minutos e não pode travar o placar
+    def cidades():
+        cadastro = None
+        while time.time() < fim:
+            inicio = time.time()
+            try:
+                cadastro = cadastro or cadastro_municipios(a.out, ele)
+                if cadastro:
+                    ciclo_municipios(a.out, ele, fmt, cadastro)
+            except Exception as e:  # noqa: BLE001
+                log("cidades falharam:", repr(e))
+            time.sleep(max(30, 120 - (time.time() - inicio)))
+
+    threading.Thread(target=cidades, daemon=True).start()
+
+    ultimo_commit = 0
     while True:
         inicio = time.time()
         try:
-            if not ele:
-                ele = descobrir()
-                log("eleição em uso:", ele)
-            if not fmt:
-                for f in ("u", "r"):
-                    try:
-                        baixar(caminho(ele, f, "br/br"))
-                        fmt = f
-                        break
-                    except Http404 as e:
-                        log("formato", f, "indisponível:", e)
-                if not fmt:
-                    raise RuntimeError("arquivo nacional ainda não publicado")
             ciclo_nacional(a.out, ele, fmt)
-            if i % a.cidades_a_cada == 0:
-                if not cadastro:
-                    cadastro = cadastro_municipios(a.out, ele)
-                if cadastro:
-                    ciclo_municipios(a.out, ele, fmt, cadastro)
             salvar(a.out, "/atual.json", json.dumps({"ano": ANO, "cd": ele["cd"], "cd1": ele.get("cd1"), "fmt": fmt, "gerado": agora()}).encode())
-            if a.git:
+            if a.git and time.time() - ultimo_commit >= a.commit_a_cada:
                 git_push(f"Apuração: dados do TSE às {agora()}")
+                ultimo_commit = time.time()
         except Exception as e:  # noqa: BLE001
             log("ciclo falhou:", repr(e))
-        i += 1
         if time.time() >= fim:
             break
-        time.sleep(max(5, a.intervalo - (time.time() - inicio)))
+        time.sleep(max(3, a.intervalo - (time.time() - inicio)))
 
 
 if __name__ == "__main__":
