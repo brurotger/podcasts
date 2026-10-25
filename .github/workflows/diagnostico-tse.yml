@@ -1,0 +1,17 @@
+# Diagnóstico temporário: como o TSE responde a um navegador vindo do GitHub Pages (CORS).
+name: Diagnóstico TSE
+on: workflow_dispatch
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          U=https://resultados.tse.jus.br/oficial/ele2026/6258/dados/br/br-c0001-e006258-u.json
+          O=https://brurotger.github.io
+          echo "== GET com Origin"; curl -sS -o /dev/null -D - -H "Origin: $O" "$U"
+          echo "== GET com Origin + Cache-Control no-cache"; curl -sS -o /dev/null -D - -H "Origin: $O" -H "Cache-Control: no-cache" -H "Pragma: no-cache" "$U"
+          echo "== preflight OPTIONS"; curl -sS -o /dev/null -D - -X OPTIONS -H "Origin: $O" -H "Access-Control-Request-Method: GET" -H "Access-Control-Request-Headers: cache-control,pragma" "$U"
+          echo "== ele-c com Origin"; curl -sS -o /dev/null -D - -H "Origin: $O" https://resultados.tse.jus.br/oficial/comum/config/ele-c.json
+          echo "== 404 com Origin"; curl -sS -o /dev/null -D - -H "Origin: $O" https://resultados.tse.jus.br/oficial/ele2026/6258/dados-simplificados/br/br-c0001-e006258-r.json
+          echo "== cidade com Origin"; curl -sS -o /dev/null -D - -H "Origin: $O" https://resultados.tse.jus.br/oficial/ele2026/6258/dados/sp/sp71072-c0001-e006258-u.json
+          echo "== 10 GETs seguidos (frequência de atualização)"; for i in $(seq 1 10); do curl -sS -H "Origin: $O" "$U" | grep -o '"hg" : "[0-9:]*"' | head -1; sleep 3; done
