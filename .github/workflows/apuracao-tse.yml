@@ -1,0 +1,41 @@
+# Copia os resultados do TSE (2º turno presidencial) para docs/eleicoes/dados/
+# a cada minuto, para a página de apuração usar quando o navegador não
+# conseguir ler o TSE direto. Disparo manual na aba Actions ("Run workflow").
+
+name: Apuração — cópia dos dados do TSE
+
+on:
+  workflow_dispatch:
+    inputs:
+      minutos:
+        description: "Por quantos minutos ficar copiando (máx. ~340)"
+        default: "340"
+      eleicao:
+        description: "Código da eleição no TSE (vazio = descobrir sozinho)"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apuracao-tse
+  cancel-in-progress: true
+
+jobs:
+  copiar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Copiar dados do TSE
+        env:
+          ELEICAO: ${{ inputs.eleicao }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python eleicoes/espelho_tse.py docs/eleicoes/dados --loop-minutos "${{ inputs.minutos }}" --git
