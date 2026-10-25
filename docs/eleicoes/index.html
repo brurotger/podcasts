@@ -79,7 +79,12 @@ header.top h1 small { display: block; font-size: 13px; font-family: var(--font-b
 .cand .pct { font-family: var(--font-display); font-weight: 700; font-size: clamp(34px, 8vw, 76px); line-height: .95; }
 .cand .votes { font-family: var(--font-data); font-size: 13px; color: var(--muted); }
 .eleito { display: inline-block; font-family: var(--font-body); font-size: 11px; font-weight: 700; letter-spacing: .1em; padding: 2px 7px; border-radius: 4px; color: #fff; vertical-align: middle; margin-left: 6px; }
-.vs { font-family: var(--font-display); color: var(--muted); font-size: 15px; padding-bottom: 14px; }
+.vs { display: flex; flex-direction: column; align-items: center; gap: 2px; text-align: center; padding-bottom: 6px; }
+.vs .dv { font-family: var(--font-display); font-weight: 700; font-size: clamp(22px, 3vw, 30px); line-height: 1; }
+.vs .dp { font-family: var(--font-data); font-size: 13px; color: var(--muted); }
+.vs .who { font-size: 12px; color: var(--muted); }
+.margin { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; align-items: baseline; border-top: 1px solid var(--line); padding-top: 10px; font-size: 13px; color: var(--muted); }
+.margin b { font-family: var(--font-display); font-size: 20px; color: var(--ink); font-weight: 700; }
 .split { position: relative; height: 18px; border-radius: 4px; overflow: hidden; background: var(--nodata); display: flex; }
 .split span { display: block; height: 100%; transition: width .6s ease; }
 .split::after { content: ""; position: absolute; left: 50%; top: -2px; bottom: -2px; width: 2px; background: var(--ink); opacity: .55; }
@@ -150,7 +155,7 @@ footer { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; g
 footer a { color: var(--accent); }
 footer code { font-family: var(--font-data); font-size: 11px; }
 @media (max-width: 560px) {
-  .vs { display: none; }
+  .vs { grid-column: 1 / -1; order: 3; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 4px 10px; border-top: 1px solid var(--line); padding: 10px 0 0; }
   .cands { grid-template-columns: 1fr 1fr; }
   .legend { position: static; flex-direction: row; flex-wrap: wrap; gap: 4px 12px; border: 0; border-top: 1px solid var(--line); border-radius: 0; }
   .maptools { position: static; padding: 10px 10px 0; }
@@ -174,7 +179,7 @@ footer code { font-family: var(--font-data); font-size: 11px; }
   <section class="board" aria-label="Resultado nacional">
     <div class="cands" id="cands">
       <div class="cand"><span class="pt">—</span><span class="nm">Aguardando dados</span><span class="pct num">–</span><span class="votes">—</span></div>
-      <div class="vs">×</div>
+      <div class="vs"><span class="label">Diferença</span><span class="dv num">–</span></div>
       <div class="cand right"><span class="pt">—</span><span class="nm">Aguardando dados</span><span class="pct num">–</span><span class="votes">—</span></div>
     </div>
     <div>
@@ -645,6 +650,19 @@ function candRow(c, r, total) {
     <span class="b"><span style="width:${(x.pct || 0)}%;background:${c.color}"></span></span>
     <span class="v num">${fmtInt.format(x.votes || 0)} votos</span></div>`;
 }
+function marginOf(r) {
+  if (!r || !r.valid || S.cands.length < 2) return null;
+  const [a, b] = [...ordered(r)].sort((x, y) => y.votes - x.votes);
+  return {lead: candByN(a.n), votes: a.votes - b.votes, pp: (a.pct || 0) - (b.pct || 0)};
+}
+const pp = (v) => fmtPct.format(v) + " p.p.";
+function marginHTML(r) {
+  const m = marginOf(r);
+  if (!m) return "";
+  if (!m.votes) return `<div class="margin"><span class="label">Diferença</span><span>Empate</span></div>`;
+  return `<div class="margin"><span class="label">Diferença</span><span><b class="num">${fmtInt.format(m.votes)}</b> votos · <span class="num">${pp(m.pp)}</span></span><span style="flex-basis:100%">${esc(titleCase(m.lead.nm))} à frente</span></div>`;
+}
+
 function statsHTML(r) {
   if (!r) return "";
   const it = [];
@@ -666,7 +684,12 @@ function renderBoard() {
       <span class="nm">${esc(titleCase(c.nm))}${os[i].eleito ? `<span class="eleito" style="background:${c.color}">ELEITO</span>` : ""}</span>
       <span class="pct num" style="color:${c.color}">${pct(os[i].pct)}</span>
       <span class="votes num">${fmtInt.format(os[i].votes)} votos</span>
-    </div>`).join(`<div class="vs">×</div>`);
+    </div>`).join((() => {
+      const m = marginOf(r);
+      if (!m) return `<div class="vs"><span class="label">Diferença</span><span class="dv num">–</span></div>`;
+      if (!m.votes) return `<div class="vs"><span class="label">Diferença</span><span class="dv">Empate</span></div>`;
+      return `<div class="vs"><span class="label">Diferença</span><span class="dv num" style="color:${m.lead.color}">${fmtInt.format(m.votes)}</span><span class="dp num">votos · ${pp(m.pp)}</span><span class="who">${esc(titleCase(m.lead.nm))} à frente</span></div>`;
+    })());
   $("split").innerHTML = S.cands.slice(0, 2).map((c, i) => `<span style="width:${os[i].pct || 0}%;background:${c.color}"></span>`).join("");
   if (r.valid) $("split").lastElementChild.style.marginLeft = "auto";
   $("pstBar").style.width = Math.min(100, r.pst) + "%";
@@ -695,6 +718,7 @@ function renderPanel() {
     ${r && r.valid ? `
       <div class="progress"><span class="label">Apurado</span><div class="bar"><span style="width:${Math.min(100, r.pst)}%"></span></div><span class="val num" style="font-size:18px">${pct(r.pst)}</span></div>
       <div class="mini">${S.cands.map((c, i) => candRow(c, os[i])).join("")}</div>
+      ${marginHTML(r)}
       <div class="stats">${statsHTML(r)}</div>`
     : `<p class="empty">${S.view.mun && S.munLoading ? "Carregando dados desta cidade…" : (S.view.uf && S.munNote) || "Ainda sem votos apurados aqui."}</p>`}
     ${S.view.uf && !S.view.mun && S.munNote && r && r.valid ? `<p class="empty">${esc(S.munNote)}</p>` : ""}
@@ -741,7 +765,7 @@ function showTip(ev, name, r) {
   if (ev.pointerType === "touch") return;
   const os = r ? ordered(r) : [];
   t.innerHTML = `<h4>${esc(name)}</h4>` + (r && r.valid
-    ? S.cands.map((c, i) => `<div class="r"><span style="color:${c.color};font-weight:600">${esc(titleCase(c.nm))}</span><span class="num">${pct(os[i].pct)}</span></div>`).join("") + `<div class="r" style="color:var(--muted);margin-top:4px"><span>Apurado</span><span class="num">${pct(r.pst)}</span></div>`
+    ? S.cands.map((c, i) => `<div class="r"><span style="color:${c.color};font-weight:600">${esc(titleCase(c.nm))}</span><span class="num">${pct(os[i].pct)}</span></div>`).join("") + (() => { const m = marginOf(r); return m ? `<div class="r" style="margin-top:4px"><span>Diferença</span><span class="num">${fmtInt.format(m.votes)} · ${pp(m.pp)}</span></div>` : ""; })() + `<div class="r" style="color:var(--muted)"><span>Apurado</span><span class="num">${pct(r.pst)}</span></div>`
     : `<div style="color:var(--muted)">Sem votos apurados ainda</div>`);
   t.hidden = false;
   const x = Math.min(ev.clientX + 14, innerWidth - t.offsetWidth - 8), y = Math.min(ev.clientY + 14, innerHeight - t.offsetHeight - 8);
