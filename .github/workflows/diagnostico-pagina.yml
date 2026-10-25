@@ -1,0 +1,34 @@
+# Diagnóstico temporário: abre a página publicada num navegador e registra o que ela recebe.
+name: Diagnóstico da página
+on: workflow_dispatch
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          npm i -s playwright-core@1.48.2 >/dev/null
+          cat > t.js <<'JS'
+          const {chromium} = require('playwright-core');
+          (async () => {
+            const b = await chromium.launch({executablePath: '/usr/bin/google-chrome'});
+            const p = await b.newPage();
+            p.on('console', m => console.log('console', m.type(), m.text().slice(0, 300)));
+            p.on('pageerror', e => console.log('pageerror', e.message));
+            p.on('requestfailed', r => console.log('FALHOU', r.url(), r.failure() && r.failure().errorText));
+            p.on('response', async r => {
+              const u = r.url();
+              if (!/br-c0001|atual\.json|index\.html|eleicoes\/$/.test(u)) return;
+              let info = '';
+              try { const t = await r.text(); const m = t.match(/"hg"\s*:\s*"([^"]+)"|"gerado"\s*:\s*"([^"]+)"/); info = m ? (m[1] || m[2]) : ''; } catch (e) {}
+              console.log('resp', r.status(), u.slice(0, 140), info, r.headers()['cache-control'] || '', r.headers()['age'] || '');
+            });
+            await p.goto('https://brurotger.github.io/podcasts/eleicoes/');
+            for (let i = 0; i < 9; i++) {
+              await p.waitForTimeout(10000);
+              const g = async (s) => (await p.textContent(s).catch(() => '')).replace(/\s+/g, ' ').trim();
+              console.log('TELA', i, '|', await g('#updated'), '|', await g('#pstVal'), '|', await g('#conn'), '|', await g('#liveTxt'), '|', await g('#banner'), '| ordenar?', !!(await p.$('.sorts')));
+            }
+            await b.close();
+          })();
+          JS
+          node t.js
