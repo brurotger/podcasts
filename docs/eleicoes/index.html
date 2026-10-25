@@ -239,8 +239,9 @@ const BASE = "https://resultados.tse.jus.br/oficial";
 // que atualiza a cada commit; a cópia publicada pelo Pages (mesmo site) fica de reserva.
 const MIRROR = "dados";
 const MIRROR_RAW = "https://raw.githubusercontent.com/brurotger/podcasts/main/docs/eleicoes/dados";
-const POLL_MS = 30000;          // placar nacional e estados
-const MUN_POLL_EVERY = 2;       // municípios do estado aberto: a cada 2 ciclos
+const POLL_MS = {tse: 5000, mirror: 15000}; // placar: TSE direto a cada 5s; a cópia do robô muda mais devagar
+const UF_POLL_MS = 30000;      // estados: quando o placar muda, ou no máximo a cada 30s
+const MUN_POLL_MS = 60000;     // cidades do estado aberto
 const YEAR = Q.get("ano") || "2026";
 let DEMO = Q.has("demo");
 
@@ -288,9 +289,20 @@ async function fetchJSON(u) {
 }
 async function getJSON(url) {
   if (!url.startsWith(MIRROR + "/")) return fetchJSON(url);
-  // a cópia tem cache de alguns minutos nos servidores do GitHub; o parâmetro força a versão nova
-  const q = `?t=${Math.floor(Date.now() / 20000)}`;
-  try { return await fetchJSON(MIRROR_RAW + url.slice(MIRROR.length) + q); } catch (e) { return fetchJSON(url + q); }
+  // a cópia fica em dois lugares com caches diferentes (repositório: até 5 min; Pages: a cada publicação);
+  // o atual.json dos dois diz qual está mais novo, e os demais arquivos vêm de lá
+  const q = `?t=${Math.floor(Date.now() / 5000)}`, rel = url.slice(MIRROR.length);
+  const src = {raw: MIRROR_RAW + rel + q, pages: url + q};
+  if (rel === "/atual.json") {
+    const [a, b] = await Promise.allSettled([fetchJSON(src.raw), fetchJSON(src.pages)]);
+    const ra = a.status === "fulfilled" ? a.value : null, pb = b.status === "fulfilled" ? b.value : null;
+    if (!ra && !pb) throw a.reason;
+    const t = (o) => (o && o.gerado ? o.gerado.replace(/^(\d+)\/(\d+)\/(\d+)/, "$3-$2-$1") : "");
+    S.mirrorSrc = t(ra) >= t(pb) ? "raw" : "pages";
+    return S.mirrorSrc === "raw" ? ra : pb;
+  }
+  const [x, y] = S.mirrorSrc === "pages" ? ["pages", "raw"] : ["raw", "pages"];
+  try { return await fetchJSON(src[x]); } catch (e) { return fetchJSON(src[y]); }
 }
 const host = () => (S.mode === "mirror" ? MIRROR : BASE);
 
@@ -405,8 +417,12 @@ async function loadNational() {
   }
   const br = normalize(j);
   if (!br.cands.length) throw new Error("o arquivo nacional veio sem candidatos");
+  const changed = !S.br || S.br.when !== br.when || S.br.valid !== br.valid;
   S.br = br;
   if (!S.cands.length) setCandidates(br);
+  // os 27 estados só quando o placar nacional mudou (ou a cada 30s), para não sobrecarregar o TSE
+  if (!changed && Date.now() - (S.ufAt || 0) < UF_POLL_MS) return;
+  S.ufAt = Date.now();
   await pool(UFS, 9, async (uf) => {
     try { S.uf[uf] = normalize(await getJSON(uPath(`${uf.toLowerCase()}/${uf.toLowerCase()}`))); } catch (e) { /* estado ainda sem arquivo */ }
   });
@@ -619,6 +635,7 @@ async function openUF(uf, munId) {
   setHash(munId ? `${uf}-${munId}` : uf);
   paint(); renderPanel(); renderCrumbs();
   if (changed && !DEMO) {
+    S.munAt = Date.now();
     setLoading(`Carregando cidades de ${uf}…`);
     const job = loadMunicipios(uf).catch((e) => console.warn(e));
     S.munLoading = job;
@@ -664,7 +681,7 @@ function candRow(c, r, total) {
 function marginOf(r) {
   if (!r || !r.valid || S.cands.length < 2) return null;
   const [a, b] = [...ordered(r)].sort((x, y) => y.votes - x.votes);
-  return {lead: candByN(a.n), votes: a.votes - b.votes, pp: (a.pct || 0) - (b.pct || 0)};
+  return {lead: candByN(a.n), votes: a.votes - b.votes, pp: (a.votes - b.votes) / r.valid * 100};
 }
 const pp = (v) => fmtPct.format(v) + " p.p.";
 function marginHTML(r) {
@@ -830,7 +847,7 @@ async function cycle() {
       demoTick();
     } else {
       await loadLive();
-      if (S.view.uf && S.tick % MUN_POLL_EVERY === 0) loadMunicipios(S.view.uf).then(() => { paint(); if (!S.view.mun) renderPanel(); }).catch(() => {});
+      if (S.view.uf && Date.now() - (S.munAt || 0) >= MUN_POLL_MS && (S.munAt = Date.now())) loadMunicipios(S.view.uf).then(() => { paint(); if (!S.view.mun) renderPanel(); }).catch(() => {});
     }
     S.lastOk = new Date();
     $("live").classList.remove("off");
@@ -849,8 +866,9 @@ async function cycle() {
   }
   $("conn").textContent = DEMO ? "" : `Fonte dos números: ${S.mode === "mirror" ? `cópia automática dos dados do TSE${S.mirrorAt ? `, feita às ${S.mirrorAt.split(" ")[1] || S.mirrorAt}` : ""}` : "direto do TSE"}${S.ele ? ` · eleição ${S.ele.cd}` : ""}`;
   renderBoard(); paint(); renderPanel();
-  S.nextAt = Date.now() + POLL_MS;
-  S.timer = setTimeout(cycle, POLL_MS);
+  const wait = DEMO ? 30000 : POLL_MS[S.mode] || 15000;
+  S.nextAt = Date.now() + wait;
+  S.timer = setTimeout(cycle, wait);
 }
 
 setInterval(() => {
