@@ -87,7 +87,7 @@ def fetch_candidates() -> list[dict]:
             print(f"[fetch] aviso: falha ao ler {source['name']}: {exc}")
             continue
 
-        for entry in feed.entries[:20]:
+        for entry in feed.entries[:40]:  # janela maior (semana) exige olhar mais itens por fonte
             title = _strip_html(getattr(entry, "title", ""))
             url = getattr(entry, "link", "")
             if not title or not url:

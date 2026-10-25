@@ -1,28 +1,30 @@
-# 🎙️ IA Hoje — seu podcast diário de inteligência artificial
+# 🎙️ IA Hoje — seu podcast semanal de inteligência artificial
 
-Um podcast pessoal, gerado automaticamente todos os dias pela manhã, com as
-principais notícias de IA do mundo — contadas como um bate-papo entre **Marcos**
+Um podcast pessoal, gerado automaticamente toda semana, com as principais
+notícias de IA dos últimos 7 dias — contadas como um bate-papo entre **Marcos**
 (especialista) e **Ana** (entusiasta), em linguagem fácil de entender.
 
 ## Como funciona (os 3 "agentes")
 
 ```
-06:00 (Brasília), todos os dias — GitHub Actions
+06:00 (Brasília), todo domingo — GitHub Actions
         │
         ▼
 1. fetch_news.py   → lê feeds RSS de 10 fontes confiáveis (OpenAI, Google AI,
    (o repórter)      DeepMind, TechCrunch, The Verge, MIT Tech Review, Wired...),
-                     pega só notícias das últimas 36h e descarta qualquer uma
+                     pega só notícias dos últimos 8 dias e descarta qualquer uma
                      que já tenha aparecido em episódios anteriores (data/history.json)
         │
         ▼
 2. write_script.py → o Claude (Opus 5) escreve o roteiro: um diálogo natural
-   (o roteirista)    em português entre Marcos e Ana, citando a fonte de cada
-                     notícia ("segundo o TechCrunch...")
+   (o roteirista)    em português entre Marcos e Ana, com 8 a 12 notícias da
+                     semana discutidas em profundidade, citando a fonte de
+                     cada uma ("segundo o TechCrunch...")
         │
         ▼
 3. make_audio.py   → cada fala vira áudio com vozes neurais em pt-BR
    (o locutor)       (edge-tts, gratuito) e o ffmpeg monta o MP3 final
+                     (episódio costuma sair entre 25 e 35 minutos)
         │
         ▼
 4. publish.py      → atualiza o feed RSS do podcast + página web e o GitHub
@@ -55,7 +57,7 @@ principais notícias de IA do mundo — contadas como um bate-papo entre **Marco
 2. **Ativar o GitHub Pages** (é o que hospeda o feed e os áudios)
    - **Settings → Pages → Build and deployment**: em *Source* escolha
      **Deploy from a branch**, branch `main`, pasta `/docs`. Salve.
-   - O site ficará em `https://brurotger.github.io/claude/`.
+   - O site ficará em `https://brurotger.github.io/podcasts/`.
    - ⚠️ Se o repositório for **privado**, o Pages exige plano pago do GitHub.
      Alternativas gratuitas: tornar o repositório público, ou baixar o MP3
      direto do repositório/artifact da execução (cada execução do workflow
@@ -66,15 +68,15 @@ principais notícias de IA do mundo — contadas como um bate-papo entre **Marco
      Faça o merge desta branch em `main`.
 
 4. **Testar**
-   - Aba **Actions → Podcast diário de IA → Run workflow**.
+   - Aba **Actions → Podcast semanal de IA → Run workflow**.
      Marque *dry run* para um teste rápido sem gastar API, ou rode sem marcar
      para gerar um episódio de verdade na hora.
 
 5. **Assinar o podcast no celular**
    - Em qualquer app que aceite feed RSS (AntennaPod, Pocket Casts,
      Podcast Addict, Apple Podcasts via "Seguir programa por URL"), adicione:
-     `https://brurotger.github.io/claude/feed.xml`
-   - Pronto: todo dia às ~6h da manhã o episódio novo aparece sozinho no app.
+     `https://brurotger.github.io/podcasts/feed.xml`
+   - Pronto: todo domingo de manhã o episódio novo aparece sozinho no app.
 
 ## Custos
 
@@ -88,7 +90,7 @@ principais notícias de IA do mundo — contadas como um bate-papo entre **Marco
 ## Garantias de "não repetir notícia"
 
 - `data/history.json` guarda a impressão digital (hash de link + título
-  normalizado) de todas as notícias já usadas, por 30 dias.
+  normalizado) de todas as notícias já usadas, por 60 dias.
 - Antes de escrever o roteiro, tudo que já apareceu é descartado.
 - A deduplicação também compara títulos normalizados, então a mesma notícia
   vinda de duas fontes diferentes não entra duas vezes.
@@ -100,8 +102,9 @@ principais notícias de IA do mundo — contadas como um bate-papo entre **Marco
   `edge-tts --list-voices | grep pt-BR`), `rate` (ritmo, em %) e `pitch` (tom,
   em Hz) como linha de base; `make_audio.py` soma uma variação aleatória
   pequena em cima disso a cada fala pra tirar o efeito de cadência robótica.
-- **Horário**: mude o `cron` em `.github/workflows/podcast.yml`
-  (está em UTC: `0 9 * * *` = 6h de Brasília).
+- **Dia/horário**: mude o `cron` em `.github/workflows/podcast.yml`
+  (está em UTC: `0 9 * * 0` = domingo às 6h de Brasília; o último número
+  é o dia da semana, 0 = domingo, 1 = segunda, ... 6 = sábado).
 - **Duração/tom do episódio**: ajuste o `SYSTEM_PROMPT` em `podcast/write_script.py`.
 - **Retenção**: `MAX_EPISODES_KEPT` (episódios no feed) e
   `HISTORY_RETENTION_DAYS` (memória de deduplicação).
@@ -123,7 +126,7 @@ python run_pipeline.py             # episódio completo
   `claude setup-token` de novo e atualize o secret `CLAUDE_CODE_OAUTH_TOKEN`)
   ou uma fonte RSS fora do ar (fontes fora do ar são apenas ignoradas —
   só quebra se *nenhuma* responder).
-- **"Nenhuma notícia nova hoje"**: normal em dias muito parados; o episódio
-  daquele dia simplesmente não é gerado.
+- **"Nenhuma notícia nova nesta semana"**: normal em semanas muito paradas;
+  o episódio daquela semana simplesmente não é gerado.
 - **Feed não atualiza no app**: confira se o Pages está ativo e se o commit
   do episódio apareceu na branch `main`.
