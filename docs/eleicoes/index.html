@@ -235,7 +235,7 @@ footer code { font-family: var(--font-data); font-size: 11px; }
 // ---------- configuração ----------
 const Q = new URLSearchParams(location.search);
 const BASE = "https://resultados.tse.jus.br/oficial";
-const PROXY = "https://corsproxy.io/?url=";
+const MIRROR = "dados"; // cópia feita pelo robô do GitHub Actions (eleicoes/espelho_tse.py)
 const POLL_MS = 30000;          // placar nacional e estados
 const MUN_POLL_EVERY = 2;       // municípios do estado aberto: a cada 2 ciclos
 const YEAR = Q.get("ano") || "2026";
@@ -254,7 +254,7 @@ const S = {
   munCfg: null,              // [{tse, ibge, nm, uf}]
   ibgeToTse: {},
   view: {uf: null, mun: null},
-  tick: 0, viaProxy: false, lastOk: null, timer: null, nextAt: 0,
+  tick: 0, mode: "tse", mirrorAt: null, lastOk: null, timer: null, nextAt: 0,
   munLoading: null,
 };
 
@@ -279,20 +279,13 @@ function titleCase(s) {
 function httpErr(status) { const e = new Error("HTTP " + status); e.http = status; return e; }
 
 async function getJSON(url) {
-  if (!S.viaProxy) {
-    try {
-      const r = await fetch(url, {cache: "no-store"});
-      if (!r.ok) throw httpErr(r.status);
-      return await r.json();
-    } catch (e) {
-      if (e.http) throw e;
-      S.viaProxy = true; // falha de rede/CORS: tenta pelo proxy daqui em diante
-    }
-  }
-  const r = await fetch(PROXY + encodeURIComponent(url), {cache: "no-store"});
+  // a cópia é servida pelo GitHub Pages com cache de 10 min; o parâmetro força a versão nova
+  const u = url.startsWith(MIRROR + "/") ? `${url}?t=${Math.floor(Date.now() / 20000)}` : url;
+  const r = await fetch(u, {cache: "no-store"});
   if (!r.ok) throw httpErr(r.status);
   return r.json();
 }
+const host = () => (S.mode === "mirror" ? MIRROR : BASE);
 
 async function pool(items, n, fn) {
   let i = 0;
@@ -389,7 +382,7 @@ const ordered = (r) => S.cands.map((c) => r.cands.find((x) => x.n === c.n) || {n
 
 // "u": formato 2026 (dados/.../-u.json); "r": formato 2022/2024 (dados-simplificados/.../-r.json)
 function uPath(level) {
-  return S.fmt === "r" ? `${S.root}/dados-simplificados/${level}-c0001-${S.E}-r.json` : `${S.root}/dados/${level}-c0001-${S.E}-u.json`;
+  return host() + (S.fmt === "r" ? `${S.root}/dados-simplificados/${level}-c0001-${S.E}-r.json` : `${S.root}/dados/${level}-c0001-${S.E}-u.json`);
 }
 
 async function loadNational() {
@@ -418,7 +411,7 @@ async function loadMunCfg() {
   const codes = [S.ele.cd, S.ele.cd1 || String(+S.ele.cd - 1)];
   let j = null;
   for (const cd of codes) {
-    try { j = await getJSON(`${BASE}/ele${S.ele.ano}/${cd}/config/mun-e${String(cd).padStart(6, "0")}-cm.json`); break; } catch (e) { /* tenta o próximo */ }
+    try { j = await getJSON(`${host()}/ele${S.ele.ano}/${cd}/config/mun-e${String(cd).padStart(6, "0")}-cm.json`); break; } catch (e) { /* tenta o próximo */ }
   }
   const list = [];
   (function walk(o) {
@@ -444,6 +437,17 @@ async function loadMunicipios(uf) {
   const lc = uf.toLowerCase();
   const muns = S.munCfg.filter((m) => m.uf === uf && m.ibge);
   if (!muns.length) { S.munNote = "O TSE ainda não publicou a lista de cidades desta eleição."; return; }
+  if (S.mode === "mirror") {
+    try {
+      const j = await getJSON(`${MIRROR}/mun/${uf}.json`);
+      const byTse = Object.fromEntries(muns.map((m) => [m.tse, m]));
+      for (const k in j.mu || {}) { const m = byTse[String(k).padStart(5, "0")]; if (m) S.mu[m.ibge] = normalize(j.mu[k]); }
+      S.munNote = null;
+    } catch (e) {
+      S.munNote = "Os resultados por cidade deste estado ainda não chegaram na cópia automática.";
+    }
+    return;
+  }
   // um arquivo por município; para cedo se nada existir, porque muitos 404 seguidos fazem o TSE bloquear o IP
   let done = 0, ok = 0, missing = 0;
   const queue = [...muns];
@@ -780,6 +784,37 @@ function setLoading(msg) { const l = $("loading"); l.hidden = !msg; if (msg) l.t
 // ---------- ciclo de atualização ----------
 function banner(html) { const b = $("banner"); b.hidden = !html; b.innerHTML = html || ""; }
 
+function useElection(ele, fmt) {
+  if (S.ele && S.ele.cd === ele.cd && S.ele.ano === ele.ano) { if (fmt) S.fmt = fmt; return; }
+  S.ele = ele;
+  S.root = `/ele${ele.ano}/${ele.cd}`;
+  S.E = "e" + String(ele.cd).padStart(6, "0");
+  S.fmt = fmt || null;
+  S.munCfg = null; S.cands = []; S.uf = {}; S.mu = {};
+}
+
+// TSE direto primeiro; se o navegador não conseguir, usa a cópia do robô.
+// Depois de cair para a cópia, tenta o TSE de novo a cada 10 ciclos.
+async function loadLive() {
+  let tseErr = null;
+  if (S.mode !== "mirror" || S.tick % 10 === 0) {
+    S.mode = "tse";
+    try {
+      if (!S.ele) useElection(await discover());
+      await loadNational();
+      return;
+    } catch (e) { tseErr = e; console.warn("TSE direto falhou:", e); }
+  }
+  S.mode = "mirror";
+  let a;
+  try { a = await getJSON(`${MIRROR}/atual.json`); } catch (e) {
+    throw new Error(`o navegador não conseguiu ler o TSE${tseErr ? ` (${tseErr.message})` : ""} e a cópia automática ainda não existe`);
+  }
+  useElection({ano: String(a.ano), cd: String(a.cd), cd1: a.cd1}, a.fmt);
+  S.mirrorAt = a.gerado;
+  await loadNational();
+}
+
 async function cycle() {
   clearTimeout(S.timer);
   S.tick++;
@@ -787,13 +822,7 @@ async function cycle() {
     if (DEMO) {
       demoTick();
     } else {
-      if (!S.ele) {
-        S.ele = await discover();
-        S.root = `${BASE}/ele${S.ele.ano}/${S.ele.cd}`;
-        S.E = "e" + String(S.ele.cd).padStart(6, "0");
-        S.fmt = null;
-      }
-      await loadNational();
+      await loadLive();
       if (S.view.uf && S.tick % MUN_POLL_EVERY === 0) loadMunicipios(S.view.uf).then(() => { paint(); if (!S.view.mun) renderPanel(); }).catch(() => {});
     }
     S.lastOk = new Date();
@@ -811,7 +840,7 @@ async function cycle() {
       banner(`<b>Falha na última atualização</b> <span>(${esc(e.message)}). Mostrando os dados de ${S.lastOk.toLocaleTimeString("pt-BR")}.</span>`);
     }
   }
-  $("conn").textContent = DEMO ? "" : `Conexão: ${S.viaProxy ? "via proxy (o navegador bloqueou o acesso direto)" : "direta com o TSE"}${S.ele ? ` · eleição ${S.ele.cd}` : ""}`;
+  $("conn").textContent = DEMO ? "" : `Fonte dos números: ${S.mode === "mirror" ? `cópia automática dos dados do TSE${S.mirrorAt ? `, feita às ${S.mirrorAt.split(" ")[1] || S.mirrorAt}` : ""}` : "direto do TSE"}${S.ele ? ` · eleição ${S.ele.cd}` : ""}`;
   renderBoard(); paint(); renderPanel();
   S.nextAt = Date.now() + POLL_MS;
   S.timer = setTimeout(cycle, POLL_MS);
@@ -825,7 +854,7 @@ setInterval(() => {
 $("refresh").addEventListener("click", () => cycle());
 $("banner").addEventListener("click", (e) => {
   if (e.target.id === "demo") { demoInit(); cycle(); }
-  if (e.target.id === "retry") { DEMO = false; S.cands = []; S.br = null; S.uf = {}; S.mu = {}; cycle(); }
+  if (e.target.id === "retry") { DEMO = false; S.ele = null; S.cands = []; S.br = null; S.uf = {}; S.mu = {}; cycle(); }
 });
 $("zin").addEventListener("click", () => svg.transition().duration(300).call(zoom.scaleBy, 1.8));
 $("zout").addEventListener("click", () => svg.transition().duration(300).call(zoom.scaleBy, 1 / 1.8));
