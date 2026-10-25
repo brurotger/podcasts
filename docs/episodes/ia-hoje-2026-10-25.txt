@@ -1,0 +1,101 @@
+ANA: Bom dia, pessoal! Hoje é dia 25 de outubro de 2026, e este é o IA Hoje. Eu sou a Ana, e aqui comigo está o Marcos. Bom dia, Marcos!
+
+MARCOS: Bom dia, Ana! Bom dia a quem está ouvindo. Hoje a pauta tem briga na internet, eleição, voz de robô e muita discussão sobre quem paga a conta da inteligência artificial.
+
+ANA: Então vamos começar pela briga. O Verge contou que os moderadores do r/opensource, o grande fórum de código aberto do Reddit, publicaram regras novas. E a principal é: projeto que usa inteligência artificial está banido. Como assim?
+
+MARCOS: Pois é. A postagem foi feita no sábado à noite e abre dizendo, mais ou menos, o seguinte: se o seu projeto usa IA, foi feito por IA ou é voltado para IA, ele não é bem-vindo ali. E eles dizem que a IA, do jeito que existe hoje, é incompatível com o espírito do código aberto. Segundo o Verge, as regras também barram outras coisas, inclusive quem não escreve em inglês.
+
+ANA: Espera. Código aberto é aquele software que qualquer um pode ver, copiar e melhorar, certo? Por que isso seria contra a IA?
+
+MARCOS: Isso mesmo. Código aberto é como uma receita de bolo pública. Você pode ler, mudar e compartilhar. A crítica de muita gente da comunidade é que os modelos de IA foram treinados com código aberto de milhões de pessoas, muitas vezes sem pedir licença e sem devolver nada. Então, para esses moderadores, a IA se serviu da receita de todo mundo e fechou a cozinha.
+
+ANA: Mas hoje quase todo programador usa algum assistente de IA pra escrever código. Isso não vira uma regra impossível de cumprir?
+
+MARCOS: Esse é o ponto. Como você prova que um projeto não usou IA nem um pouquinho? Um autocompletar inteligente já conta? Eu acho a posição compreensível, porque tem muito lixo gerado por IA inundando projetos abertos. Mas acho a regra radical e difícil de aplicar. E a parte de banir quem não fala inglês é a que mais me incomoda. O código aberto sempre se vendeu como coisa global. Muita gente usa tradutor automático justamente para participar. Fechar essa porta atinge quem já tinha menos espaço.
+
+ANA: Então não é só mais uma briga de internet, é um sintoma.
+
+MARCOS: É. A comunidade que construiu a base de tudo isso está se perguntando se quer fazer parte da festa. Vale acompanhar, porque outros fóruns podem copiar a regra, ou ela pode ser revertida quando a pressão aumentar.
+
+ANA: Vamos para um assunto que mexe com o bolso de muita gente. O Verge publicou na newsletter The Stepback um texto sobre como as mudanças na busca do Google com IA balançaram o mundo da publicação online. Me explica isso como se eu fosse a leitora de um blog.
+
+MARCOS: Vamos lá. Durante mais de vinte anos existiu um acordo meio tácito. Sites de notícia e blogs deixavam o Google ler tudo, e o Google mandava visitantes. Esses visitantes viravam anúncio, assinatura e dinheiro. O texto do Verge começa justamente lembrando que a indústria de publicação digital sempre dependeu dessa relação.
+
+ANA: E aí o Google começou a responder as perguntas direto na página de busca, com um resumo feito por IA.
+
+MARCOS: Exato. Se a resposta já aparece em cima, a pessoa muitas vezes nem clica. Pense numa padaria que sempre recebeu clientes por causa da placa na esquina. De repente a placa passa a entregar o pão, e a padaria fica sem freguês. O resumo do Google é feito, em boa parte, com o conteúdo desses próprios sites.
+
+ANA: E o Google diz o quê?
+
+MARCOS: A posição dele costuma ser que a busca com IA gera novas formas de as pessoas chegarem aos links. Os editores respondem que o tráfego caiu e que ninguém combinou isso. Eu não vou dar um número aqui, porque cada site reporta uma queda diferente. Mas a direção da reclamação é consistente.
+
+ANA: E isso afeta quem só lê, como eu? Ou é problema só de jornalista?
+
+MARCOS: Afeta, sim. Se o site que apura a notícia perde receita, ele produz menos. E aí a própria IA do Google fica sem matéria-prima de qualidade pra resumir. É um ciclo meio autodestrutivo. Eu acho esse um dos problemas estruturais mais sérios da IA hoje, mais do que muita polêmica de chatbot.
+
+ANA: Mudando de ambiente: eleição! O TechCrunch noticiou um estudo curioso. Forçaram duas IAs a escolher candidatos, e o Grok, da empresa do Elon Musk, escolheu republicanos, enquanto o modelo da OpenAI escolheu democratas. Como foi o teste?
+
+MARCOS: Segundo o TechCrunch, foram quase quinhentas disputas eleitorais. Os modelos tinham que recomendar um candidato em cada uma, sem poder dizer que não opinam. E os dois discordaram em mais de noventa por cento das corridas.
+
+ANA: Noventa por cento! Nem dois eleitores de torcidas opostas discordam tanto.
+
+MARCOS: Verdade. E repare no detalhe de ter sido forçado a escolher. Normalmente esses assistentes se recusam a recomendar voto. Então o estudo mostra uma tendência escondida, algo que existe por trás do verniz de neutralidade. É como um garçom que diz que não tem preferência, mas, se você insistir, aponta sempre o mesmo prato.
+
+ANA: E de onde vem essa inclinação? Alguém programa o modelo pra pensar assim?
+
+MARCOS: Pode vir de vários lugares. Dos dados de treinamento, que são a internet inteira, com os vieses dela. Das instruções que a empresa dá ao modelo. E do ajuste fino feito com feedback de humanos. No caso do Grok, o Musk já falou publicamente em fazer um modelo menos politicamente correto, então não surpreende ele pender para um lado. Mas com a OpenAI vale a mesma pergunta.
+
+ANA: Então devo me preocupar quando perguntar a uma IA em quem votar?
+
+MARCOS: Eu diria para ter cuidado. Um teste desses é um recorte, com método próprio, e não prova que o modelo vai agir assim em toda conversa. Mas serve de alerta: use a IA para entender propostas e comparar, não para escolher por você. E isso vale pro Brasil também, ano de eleição ou não.
+
+ANA: Agora uma notícia mais tecnológica, e que me chamou atenção pela palavra "assustadora". O TechCrunch diz que o novo modelo de voz da Block soa "eerily human", ou seja, estranhamente humano. A Block é a dona da Square e do Cash App, certo?
+
+MARCOS: Certo. É uma empresa de pagamentos, o que torna a notícia mais curiosa. Ela lançou um modelo de voz, aquele tipo de IA que transforma texto em fala. E o detalhe que o TechCrunch destaca é que a própria Block disse que ele roda localmente num MacBook com chip M4 Max.
+
+ANA: E por que isso é importante? Eu achava que tudo de IA rodava na nuvem.
+
+MARCOS: Boa pergunta. Rodar na nuvem significa mandar o seu texto e sua voz pra um servidor de uma empresa, esperar a resposta voltar e pagar por isso. Rodar local é como cozinhar em casa, em vez de pedir delivery. É mais privado, funciona sem internet e não tem uma conta chegando no fim do mês.
+
+ANA: Mas um MacBook M4 Max não é um computador de topo de linha?
+
+MARCOS: É, e isso é importante pra manter a cabeça no lugar. Não é um celular simples. É uma máquina cara. Mas dois anos atrás vozes naturais assim exigiam servidores parrudos, e hoje cabem num notebook potente. A tendência é o que roda num notebook de ponta hoje chegar ao seu celular daqui a pouco.
+
+ANA: E o lado "assustador"? Voz humana demais não facilita golpe?
+
+MARCOS: Facilita. Pense no golpe do falso parente pedindo dinheiro por áudio. Uma voz natural que qualquer um roda no próprio computador, sem controle de nenhuma empresa, torna a vida do golpista mais fácil. Por outro lado, tem usos ótimos: acessibilidade, audiolivros, dublagem, assistentes. Eu acho que é um avanço real, mas só vou saber o tamanho dele quando ouvir e testar de verdade.
+
+ANA: E por falar em transparência sobre o que é feito por IA, o Verge trouxe que a Pensilvânia, nos Estados Unidos, aprovou uma lei sobre anúncios.
+
+MARCOS: Isso. Na quinta-feira o governador Josh Shapiro sancionou a Lei de Publicidade Enganosa com Inteligência Artificial. Ela exige que qualquer anúncio que tenha sido, nas palavras da lei, significativamente modificado ou gerado por IA traga um aviso dizendo isso.
+
+ANA: Qualquer anúncio mesmo? Só vídeo?
+
+MARCOS: Não só vídeo. Segundo o Verge, vale para imagem, vídeo, áudio e texto. E o rótulo deve vir no mesmo formato do anúncio. Se é um áudio de rádio, o aviso tem que ser falado. Se é um texto, tem que estar escrito.
+
+ANA: Mas e a palavra "significativamente"? Quem decide o que é significativo? Se eu usei IA só para tirar um fio de cabelo da foto?
+
+MARCOS: Essa é a zona cinzenta, e provavelmente vai render discussão. Retocar a luz é muito diferente de criar uma pessoa que não existe falando bem de um produto. A lei mira o segundo tipo. Mas a linha exata só vai ficar clara com a prática e com os tribunais.
+
+ANA: Isso pode virar uma tendência?
+
+MARCOS: Tudo indica que sim. Estados americanos têm sido o laboratório dessas regras enquanto o governo federal demora. E tem uma conexão bonita com outra notícia do Verge: a série Blue Planet III, da BBC, decidiu manter imperfeições nas imagens para provar que são reais. Hoje o "imperfeito" virou selo de autenticidade.
+
+ANA: Que ironia. Antes a gente buscava o perfeito, e agora o perfeito desperta desconfiança.
+
+MARCOS: Exatamente. Pra fechar, uma nota sobre o texto do Wired que passou hoje: o autor Paris Marx compara o movimento americano contra data centers com o que aconteceu em lugares como a Irlanda e a Nova Zelândia. Data centers são os galpões cheios de computadores que fazem a IA funcionar. Eu não vou fingir que tenho mais detalhes do que o resumo traz, mas o recado é que a resistência local a essas construções cresce no mundo todo.
+
+ANA: Ok, hora do resumo! No r/opensource, os moderadores baniram projetos com IA e também quem não escreve em inglês, o que reabre a briga sobre o que é código aberto de verdade.
+
+MARCOS: Sobre a busca do Google, as respostas em IA estão mexendo no acordo que sustentou o jornalismo online, e isso ameaça até a qualidade do que a própria IA usa.
+
+ANA: No estudo do TechCrunch, forçados a escolher, Grok e o modelo da OpenAI discordaram em mais de noventa por cento de quase quinhentas disputas eleitorais.
+
+MARCOS: A Block mostrou um modelo de voz muito natural que roda localmente num MacBook M4 Max, bom para privacidade e perigoso para golpes.
+
+ANA: E a Pensilvânia passou a exigir rótulo em todo anúncio significativamente gerado por IA.
+
+MARCOS: Era isso por hoje. Obrigado pela companhia!
+
+ANA: Valeu, gente! Amanhã tem mais IA Hoje. Até lá!

@@ -1,103 +1,5 @@
 {
   "items": {
-    "b8b7b13cd0cb09e3": {
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "norm_title": "australiatoinvestigateifopenaihackofgovernmenthealthwebsitebrokethelaw",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "6828ce9fe4732235": {
-      "title": "OpenAI agents hacked an Australian government website in search for data",
-      "norm_title": "openaiagentshackedanaustraliangovernmentwebsiteinsearchfordata",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "source": "The Verge",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "97430d630b9913f2": {
-      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "norm_title": "anopenaiagenthackedaustraliashealthservicetheirgovernmentfoundoutmonthslater",
-      "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
-      "source": "Wired",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "5344192c1e30bab0": {
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "norm_title": "gemini4isalmostreadysaysnewgoogledeepmindchief",
-      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-      "source": "The Verge",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "85f12aa29e5a652b": {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "norm_title": "everythingnewcomingtometasaiagentmuse",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "15d69a6bf10e4dcd": {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "norm_title": "metamadeatamagotchilikewearableforitsmuseaiagent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "93af2b00959e0d1b": {
-      "title": "Meta is making a standalone Muse AI gadget",
-      "norm_title": "metaismakingastandalonemuseaigadget",
-      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "source": "The Verge",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "fe9a9f05b644e905": {
-      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-      "norm_title": "metavrglassesraybanmetaaudioraybanmetagen3specsfeaturesprices",
-      "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-      "source": "Wired",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "115909cfa861b651": {
-      "title": "Muse is coming to Meta smart glasses",
-      "norm_title": "museiscomingtometasmartglasses",
-      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "source": "The Verge",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "b6f9e434342992c9": {
-      "title": "Meta introduces camera-free AI glasses",
-      "norm_title": "metaintroducescamerafreeaiglasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "source": "TechCrunch",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "4d1d203bad4db24f": {
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "norm_title": "metaditchesthecameraonitsnewestsmartglasses",
-      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "source": "The Verge",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "5697efda4ba9d9bd": {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "norm_title": "metaismakingmusemorepowerfulandwillletyouvideochatwithittoo",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "source": "The Verge",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "068d09d3bb7b8431": {
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "norm_title": "metaconnect2026thebiggestnewsandannouncements",
-      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "source": "The Verge",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
-    "b03bfc1af99c9054": {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "norm_title": "metaconnect2026liveblogonthegroundatmarkzuckerbergsnextbigproductlaunch",
-      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "source": "The Verge",
-      "seen_at": "2026-09-24T13:57:00.104363+00:00"
-    },
     "394fbf5c93e53f1e": {
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "norm_title": "affectedbylayoffsdontmissthis75dealforyourtechcrunchdisrupt2026expopass",
@@ -2624,6 +2526,62 @@
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI",
       "seen_at": "2026-10-24T13:03:48.127190+00:00"
+    },
+    "ce482c1eb4d0735e": {
+      "title": "r/opensource just banned AI, non-English speakers and more",
+      "norm_title": "ropensourcejustbannedainonenglishspeakersandmore",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "seen_at": "2026-10-25T13:30:24.253473+00:00"
+    },
+    "d43bf48a85bc4afa": {
+      "title": "Google’s AI search changes upended online publishing",
+      "norm_title": "googlesaisearchchangesupendedonlinepublishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge",
+      "seen_at": "2026-10-25T13:30:24.253473+00:00"
+    },
+    "b49bbe6a8e37ac8e": {
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "norm_title": "whattheusmovementagainstdatacenterscanlearnfromabroad",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "source": "Wired",
+      "seen_at": "2026-10-25T13:30:24.253473+00:00"
+    },
+    "13b246a5a7887180": {
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "norm_title": "blueplanetiiiiskeepingtheroughedgesintheageofai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge",
+      "seen_at": "2026-10-25T13:30:24.253473+00:00"
+    },
+    "8afd2aad8f0a356f": {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "norm_title": "theaigraveyardarunninglistofprojectsandstartupsthatdidntmakeit",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-25T13:30:24.253473+00:00"
+    },
+    "885c0cf0b8bf46be": {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "norm_title": "pennsylvaniawillrequirelabelsonaigeneratedads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge",
+      "seen_at": "2026-10-25T13:30:24.253473+00:00"
+    },
+    "3c77e17dcc0038da": {
+      "title": "Block’s new voice model sounds eerily human",
+      "norm_title": "blocksnewvoicemodelsoundseerilyhuman",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-25T13:30:24.253473+00:00"
+    },
+    "63e1db886e75736b": {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "norm_title": "forcedtopickgroksaimodelchoosesrepublicansopenaispicksdemocrats",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch",
+      "seen_at": "2026-10-25T13:30:24.253473+00:00"
     }
   }
 }

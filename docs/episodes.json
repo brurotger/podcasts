@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-10-25",
+    "title": "IA Hoje — 25 de outubro de 2026",
+    "file": "ia-hoje-2026-10-25.mp3",
+    "duration": 717,
+    "size": 4301084,
+    "published_at": "2026-10-25T13:30:24.250228+00:00",
+    "news": [
+      {
+        "title": "r/opensource just banned AI, non-English speakers and more",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+      },
+      {
+        "title": "Google’s AI search changes upended online publishing",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+      },
+      {
+        "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/"
+      },
+      {
+        "title": "Blue Planet III is keeping the rough edges in the age of AI",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      },
+      {
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+      },
+      {
+        "title": "Block’s new voice model sounds eerily human",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+      },
+      {
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-24",
     "title": "IA Hoje — 24 de outubro de 2026",
     "file": "ia-hoje-2026-10-24.mp3",
@@ -956,86 +1006,6 @@
         "title": "Nikon microscopic video competition winner disqualified for using generative AI",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-09",
-    "title": "IA Hoje — 9 de outubro de 2026",
-    "file": "ia-hoje-2026-10-09.mp3",
-    "duration": 701,
-    "size": 4208493,
-    "published_at": "2026-10-09T15:41:43.738599+00:00",
-    "news": [
-      {
-        "title": "Impactful scheduling for GPU clusters",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
-      },
-      {
-        "title": "Trump’s attempt to rename AI is looking awfully artificial",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
-      },
-      {
-        "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
-      },
-      {
-        "title": "Even ‘Law & Order’ Is Terrified of AI",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/"
-      },
-      {
-        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
-      },
-      {
-        "title": "We’re putting too much faith in AI’s ability to say no",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
-      },
-      {
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/sophos"
-      },
-      {
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-      },
-      {
-        "title": "Anthropic launches free AI security scans for open-source projects",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
-      },
-      {
-        "title": "Inside Elon Musk’s Midterm Spending Spree",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/"
-      },
-      {
-        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
-      },
-      {
-        "title": "California is trying to shut down robot vs. human cage matches",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
-      },
-      {
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
       }
     ]
   }
