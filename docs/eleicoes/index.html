@@ -917,6 +917,9 @@ setInterval(() => {
 }, 1000);
 
 $("refresh").addEventListener("click", () => cycle());
+// abas em segundo plano e celulares com a tela apagada pausam o relógio; ao voltar, atualiza na hora
+document.addEventListener("visibilitychange", () => { if (!document.hidden && S.nextAt && Date.now() > S.nextAt - 4000) cycle(); });
+addEventListener("pageshow", (e) => { if (e.persisted) cycle(); });
 $("banner").addEventListener("click", (e) => {
   if (e.target.id === "demo") { demoInit(); cycle(); }
   if (e.target.id === "retry") { DEMO = false; S.ele = null; S.cands = []; S.br = null; S.uf = {}; S.mu = {}; cycle(); }
