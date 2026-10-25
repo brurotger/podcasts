@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Apuração 2º Turno 2026</title>
+<meta name="description" content="Apuração em tempo real do 2º turno da eleição presidencial de 2026, com mapa por estado e município. Dados do TSE.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: placar fixo no topo, mapa grande à esquerda, painel do local selecionado à direita (empilha no celular). */
+:root {
+  --bg: #eef2f0;
+  --surface: #ffffff;
+  --ink: #0f1a16;
+  --muted: #56665f;
+  --line: #d6dfdb;
+  --nodata: #dde4e1;
+  --tint: #f3f6f5;
+  --accent: #0a7d4f;
+  --warn-bg: #fff4d6;
+  --warn-ink: #6b4b00;
+  --font-display: "Barlow Condensed", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0c1311; --surface: #141d1a; --ink: #e4ebe8; --muted: #91a29b; --line: #24312c;
+    --nodata: #232e2a; --tint: #1b2522; --accent: #3cc98f; --warn-bg: #3a2f10; --warn-ink: #f3d98c;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0c1311; --surface: #141d1a; --ink: #e4ebe8; --muted: #91a29b; --line: #24312c;
+  --nodata: #232e2a; --tint: #1b2522; --accent: #3cc98f; --warn-bg: #3a2f10; --warn-ink: #f3d98c;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { margin: 0; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.45;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 16px 32px;
+}
+.wrap { max-width: 1320px; margin: 0 auto; display: flex; flex-direction: column; gap: 16px; }
+h1, h2, h3 { font-family: var(--font-display); font-weight: 700; margin: 0; text-wrap: balance; letter-spacing: .01em; }
+button, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.num { font-variant-numeric: tabular-nums; }
+.label { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
+
+/* topo */
+header.top { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 8px 24px; }
+header.top h1 { font-size: clamp(26px, 4vw, 38px); line-height: 1; }
+header.top h1 small { display: block; font-size: 13px; font-family: var(--font-body); font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+.status { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; font-size: 13px; color: var(--muted); }
+.live { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; color: var(--ink); }
+.live i { width: 9px; height: 9px; border-radius: 50%; background: #d63b3b; box-shadow: 0 0 0 0 rgba(214,59,59,.6); animation: pulse 1.8s infinite; }
+.live.off i { background: var(--muted); animation: none; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(214,59,59,.55); } 70% { box-shadow: 0 0 0 9px rgba(214,59,59,0); } 100% { box-shadow: 0 0 0 0 rgba(214,59,59,0); } }
+@media (prefers-reduced-motion: reduce) { .live i { animation: none; } }
+.btn { border: 1px solid var(--line); background: var(--surface); border-radius: 6px; padding: 5px 10px; font-size: 13px; }
+.btn:hover { border-color: var(--muted); }
+
+.banner { background: var(--warn-bg); color: var(--warn-ink); border-radius: 8px; padding: 10px 14px; font-size: 14px; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; }
+.banner b { font-weight: 600; }
+
+/* placar */
+.board { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; display: flex; flex-direction: column; gap: 14px; }
+.cands { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; align-items: end; }
+.cand { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.cand.right { text-align: right; align-items: flex-end; }
+.cand .nm { font-family: var(--font-display); font-weight: 600; font-size: clamp(18px, 2.4vw, 24px); line-height: 1.1; overflow-wrap: anywhere; }
+.cand .pt { font-size: 12px; color: var(--muted); font-weight: 600; letter-spacing: .06em; }
+.cand .pct { font-family: var(--font-display); font-weight: 700; font-size: clamp(34px, 8vw, 76px); line-height: .95; }
+.cand .votes { font-family: var(--font-data); font-size: 13px; color: var(--muted); }
+.eleito { display: inline-block; font-family: var(--font-body); font-size: 11px; font-weight: 700; letter-spacing: .1em; padding: 2px 7px; border-radius: 4px; color: #fff; vertical-align: middle; margin-left: 6px; }
+.vs { font-family: var(--font-display); color: var(--muted); font-size: 15px; padding-bottom: 14px; }
+.split { position: relative; height: 18px; border-radius: 4px; overflow: hidden; background: var(--nodata); display: flex; }
+.split span { display: block; height: 100%; transition: width .6s ease; }
+.split::after { content: ""; position: absolute; left: 50%; top: -2px; bottom: -2px; width: 2px; background: var(--ink); opacity: .55; }
+.split-note { display: flex; justify-content: space-between; font-size: 12px; color: var(--muted); }
+.progress { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; }
+.bar { height: 6px; background: var(--nodata); border-radius: 3px; overflow: hidden; }
+.bar > span { display: block; height: 100%; background: var(--ink); transition: width .6s ease; }
+.progress .val { font-family: var(--font-display); font-weight: 700; font-size: 22px; }
+.stats { display: flex; flex-wrap: wrap; gap: 6px 22px; font-size: 13px; color: var(--muted); }
+.stats b { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+/* corpo */
+.main { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 16px; align-items: start; }
+@media (max-width: 920px) { .main { grid-template-columns: minmax(0, 1fr); } }
+
+.mapbox { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; position: relative; overflow: hidden; }
+.maptools { position: absolute; top: 10px; left: 10px; right: 10px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; z-index: 2; pointer-events: none; }
+.maptools > * { pointer-events: auto; }
+.crumbs { display: flex; gap: 4px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 4px 8px; font-size: 13px; }
+.crumbs button { border: 0; background: none; padding: 0 2px; color: var(--accent); font-weight: 600; }
+.crumbs span.sep { color: var(--muted); }
+.zoombtns { margin-left: auto; display: flex; flex-direction: column; gap: 4px; }
+.zoombtns .btn { width: 34px; height: 34px; padding: 0; font-size: 18px; line-height: 1; }
+.search { position: relative; }
+.search input { width: min(260px, 60vw); border: 1px solid var(--line); background: var(--surface); border-radius: 6px; padding: 5px 10px; font-size: 13px; }
+svg.map { display: block; width: 100%; height: auto; aspect-ratio: 1 / .97; max-height: 78vh; touch-action: none; cursor: grab; }
+svg.map:active { cursor: grabbing; }
+svg.map path { vector-effect: non-scaling-stroke; }
+.uf path { stroke: var(--surface); stroke-width: 1.1; transition: fill .4s; }
+.uf path.dim { opacity: .35; }
+.uf path.open { fill: none !important; pointer-events: none; stroke: var(--ink); stroke-width: 1.6; }
+.mun path { stroke: var(--surface); stroke-width: .5; transition: fill .4s; }
+.mun path.sel, .uf path.hover, .mun path.hover { stroke: var(--ink); stroke-width: 1.8; }
+.labels text { font-family: var(--font-display); font-weight: 600; fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 3px; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+.legend { position: absolute; left: 10px; bottom: 10px; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; font-size: 11px; color: var(--muted); display: flex; flex-direction: column; gap: 4px; }
+.legend .row { display: flex; align-items: center; gap: 6px; }
+.legend .sw { display: inline-flex; }
+.legend .sw i { width: 14px; height: 10px; display: block; }
+.loading { position: absolute; right: 10px; bottom: 10px; font-size: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 4px 8px; color: var(--muted); }
+.tip { position: fixed; z-index: 20; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 13px; box-shadow: 0 6px 22px rgba(0,0,0,.18); min-width: 180px; max-width: 260px; }
+.tip h4 { margin: 0 0 4px; font-family: var(--font-display); font-size: 17px; }
+.tip .r { display: flex; justify-content: space-between; gap: 10px; }
+
+/* painel */
+aside.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.panel h2 { font-size: 26px; line-height: 1.05; }
+.panel .sub { font-size: 13px; color: var(--muted); margin-top: 2px; }
+.mini { display: flex; flex-direction: column; gap: 8px; }
+.mini .row { display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; align-items: baseline; }
+.mini .row .n { font-weight: 600; font-size: 14px; overflow-wrap: anywhere; }
+.mini .row .p { font-family: var(--font-display); font-weight: 700; font-size: 26px; line-height: 1; }
+.mini .row .v { grid-column: 1 / -1; font-family: var(--font-data); font-size: 12px; color: var(--muted); }
+.mini .row .b { grid-column: 1 / -1; height: 6px; background: var(--nodata); border-radius: 3px; overflow: hidden; }
+.mini .row .b span { display: block; height: 100%; }
+.list { display: flex; flex-direction: column; gap: 6px; }
+.list .head { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.list input { width: 100%; border: 1px solid var(--line); background: var(--tint); border-radius: 6px; padding: 6px 10px; font-size: 13px; }
+.rows { max-height: 420px; overflow-y: auto; border-top: 1px solid var(--line); }
+.rows button { width: 100%; display: grid; grid-template-columns: minmax(0,1fr) 90px 44px; gap: 10px; align-items: center; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--line); padding: 7px 2px; font-size: 13px; }
+.rows button:hover { background: var(--tint); }
+.rows .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.rows .mb { height: 8px; border-radius: 2px; overflow: hidden; display: flex; background: var(--nodata); }
+.rows .mb span { display: block; height: 100%; }
+.rows .ap { font-family: var(--font-data); font-size: 11px; color: var(--muted); text-align: right; }
+.empty { font-size: 13px; color: var(--muted); padding: 8px 0; }
+
+footer { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px 18px; }
+footer a { color: var(--accent); }
+footer code { font-family: var(--font-data); font-size: 11px; }
+@media (max-width: 560px) {
+  .vs { display: none; }
+  .cands { grid-template-columns: 1fr 1fr; }
+  .legend { position: static; flex-direction: row; flex-wrap: wrap; gap: 4px 12px; border: 0; border-top: 1px solid var(--line); border-radius: 0; }
+  .maptools { position: static; padding: 10px 10px 0; }
+  .zoombtns { flex-direction: row; }
+}</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1><small>Eleições 2026 · Presidente</small>Apuração do 2º turno</h1>
+    <div class="status">
+      <span class="live off" id="live"><i></i><span id="liveTxt">Conectando…</span></span>
+      <span id="updated" class="num">—</span>
+      <span id="countdown" class="num"></span>
+      <button class="btn" id="refresh" type="button">Atualizar agora</button>
+    </div>
+  </header>
+
+  <div class="banner" id="banner" hidden></div>
+
+  <section class="board" aria-label="Resultado nacional">
+    <div class="cands" id="cands">
+      <div class="cand"><span class="pt">—</span><span class="nm">Aguardando dados</span><span class="pct num">–</span><span class="votes">—</span></div>
+      <div class="vs">×</div>
+      <div class="cand right"><span class="pt">—</span><span class="nm">Aguardando dados</span><span class="pct num">–</span><span class="votes">—</span></div>
+    </div>
+    <div>
+      <div class="split" id="split"></div>
+      <div class="split-note"><span>% dos votos válidos</span><span>50%</span></div>
+    </div>
+    <div class="progress">
+      <span class="label">Seções totalizadas</span>
+      <div class="bar"><span id="pstBar" style="width:0%"></span></div>
+      <span class="val num" id="pstVal">0%</span>
+    </div>
+    <div class="stats" id="stats"></div>
+  </section>
+
+  <div class="main">
+    <section class="mapbox" aria-label="Mapa da apuração">
+      <div class="maptools">
+        <nav class="crumbs" id="crumbs" aria-label="Navegação"></nav>
+        <div class="search">
+          <input id="busca" list="cidades" placeholder="Buscar cidade…" autocomplete="off" aria-label="Buscar cidade">
+          <datalist id="cidades"></datalist>
+        </div>
+        <div class="zoombtns">
+          <button class="btn" id="zin" type="button" aria-label="Aproximar">+</button>
+          <button class="btn" id="zout" type="button" aria-label="Afastar">−</button>
+          <button class="btn" id="zreset" type="button" aria-label="Ver o Brasil inteiro" title="Brasil inteiro">⤢</button>
+        </div>
+      </div>
+      <svg class="map" id="map" viewBox="0 0 1000 970" role="img" aria-label="Mapa do Brasil colorido pelo candidato que lidera em cada local">
+        <g id="zoomLayer"><g class="uf" id="ufLayer"></g><g class="mun" id="munLayer"></g><g class="labels" id="labelLayer"></g></g>
+      </svg>
+      <div class="legend" id="legend"></div>
+      <div class="loading" id="loading" hidden></div>
+    </section>
+
+    <aside class="panel" id="panel" aria-live="polite"></aside>
+  </div>
+
+  <footer>
+    <span>Fonte: <a href="https://resultados.tse.jus.br/" target="_blank" rel="noopener">TSE — Divulgação de Resultados</a>. Malha municipal: IBGE.</span>
+    <span id="conn"></span>
+    <span>Clique num estado para ver as cidades; role ou use pinça para dar zoom.</span>
+  </footer>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script src="d3.min.js"></script>
+<script src="topojson-client.min.js"></script>
+<script>
+(() => {
+"use strict";
+
+// ---------- configuração ----------
+const Q = new URLSearchParams(location.search);
+const BASE = "https://resultados.tse.jus.br/oficial";
+const PROXY = "https://corsproxy.io/?url=";
+const POLL_MS = 30000;          // placar nacional e estados
+const MUN_POLL_EVERY = 2;       // municípios do estado aberto: a cada 2 ciclos
+const YEAR = Q.get("ano") || "2026";
+let DEMO = Q.has("demo");
+
+const UF_NOMES = {AC:"Acre",AL:"Alagoas",AM:"Amazonas",AP:"Amapá",BA:"Bahia",CE:"Ceará",DF:"Distrito Federal",ES:"Espírito Santo",GO:"Goiás",MA:"Maranhão",MG:"Minas Gerais",MS:"Mato Grosso do Sul",MT:"Mato Grosso",PA:"Pará",PB:"Paraíba",PE:"Pernambuco",PI:"Piauí",PR:"Paraná",RJ:"Rio de Janeiro",RN:"Rio Grande do Norte",RO:"Rondônia",RR:"Roraima",RS:"Rio Grande do Sul",SC:"Santa Catarina",SE:"Sergipe",SP:"São Paulo",TO:"Tocantins"};
+const UFS = Object.keys(UF_NOMES);
+const PARTY_COLORS = {PT:"#d63b3b", PL:"#2f5fc4", PSDB:"#2d7fd1", NOVO:"#e8771f", PSD:"#d9a21b", MDB:"#2e9e5b", REPUBLICANOS:"#1f6fa8", UNIAO:"#3155b5", PSOL:"#a8329b", PDT:"#c4462d", PSB:"#e3a019", PP:"#4a74c9"};
+const FALLBACK = ["#d63b3b", "#2f5fc4"];
+
+// ---------- estado ----------
+const S = {
+  ele: null, root: null, E: null,
+  cands: [],                 // [{n, nm, party, color}] ordem fixa
+  br: null, uf: {}, mu: {},  // resultados normalizados; mu chaveado por código IBGE
+  munCfg: null,              // [{tse, ibge, nm, uf}]
+  ibgeToTse: {},
+  view: {uf: null, mun: null},
+  tick: 0, viaProxy: false, lastOk: null, timer: null, nextAt: 0,
+  munLoading: null,
+};
+
+// ---------- utilidades ----------
+const $ = (id) => document.getElementById(id);
+const fmtInt = new Intl.NumberFormat("pt-BR");
+const fmtPct = new Intl.NumberFormat("pt-BR", {minimumFractionDigits: 2, maximumFractionDigits: 2});
+const pct = (v) => v == null || isNaN(v) ? "–" : fmtPct.format(v) + "%";
+const norm = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toUpperCase().replace(/[^A-Z0-9]/g, "");
+function num(v) {
+  if (v == null || v === "") return null;
+  if (typeof v === "number") return v;
+  const s = String(v).trim();
+  return s.includes(",") ? +s.replace(/\./g, "").replace(",", ".") : +s;
+}
+function first(o, ...ks) { for (const k of ks) if (o[k] != null && o[k] !== "" && typeof o[k] !== "object") return num(o[k]); return null; }
+function esc(s) { return String(s).replace(/[&<>"]/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function titleCase(s) {
+  const low = new Set(["da","de","do","das","dos","e","d'"]);
+  return String(s).toLowerCase().split(" ").map((w, i) => i && low.has(w) ? w : w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+}
+function httpErr(status) { const e = new Error("HTTP " + status); e.http = status; return e; }
+
+async function getJSON(url) {
+  if (!S.viaProxy) {
+    try {
+      const r = await fetch(url, {cache: "no-store"});
+      if (!r.ok) throw httpErr(r.status);
+      return await r.json();
+    } catch (e) {
+      if (e.http) throw e;
+      S.viaProxy = true; // falha de rede/CORS: tenta pelo proxy daqui em diante
+    }
+  }
+  const r = await fetch(PROXY + encodeURIComponent(url), {cache: "no-store"});
+  if (!r.ok) throw httpErr(r.status);
+  return r.json();
+}
+
+async function pool(items, n, fn) {
+  let i = 0;
+  const workers = Array.from({length: Math.min(n, items.length)}, async () => {
+    while (i < items.length) { const k = i++; await fn(items[k], k); }
+  });
+  await Promise.all(workers);
+}
+
+// ---------- TSE: descoberta e leitura ----------
+async function discover() {
+  if (Q.get("ele")) return {cd: Q.get("ele"), ano: YEAR, nm: ""};
+  const cfg = await getJSON(`${BASE}/comum/config/ele-c.json`);
+  const found = [];
+  (function walk(o, dt) {
+    if (Array.isArray(o)) return o.forEach((x) => walk(x, dt));
+    if (!o || typeof o !== "object") return;
+    const d = o.dt || dt;
+    if (o.cd != null && o.t != null && !Array.isArray(o.e)) found.push({cd: String(o.cd), t: String(o.t), dt: String(d || ""), nm: o.nm || ""});
+    for (const k in o) if (o[k] && typeof o[k] === "object") walk(o[k], d);
+  })(cfg, "");
+  const fed = (e) => /federa|geral|presid/i.test(e.nm) ? 1 : 0;
+  const c = found.filter((e) => e.t === "2" && e.dt.includes(YEAR)).sort((a, b) => fed(b) - fed(a));
+  if (!c.length) throw new Error(`o TSE ainda não publicou a configuração do 2º turno de ${YEAR}`);
+  return {cd: c[0].cd, ano: YEAR, nm: c[0].nm};
+}
+
+function partyOf(cc) {
+  if (!cc) return "";
+  return String(cc).split(/\s+-\s+|\s/)[0].replace(/[^A-Za-zÀ-ú0-9]/g, "").toUpperCase();
+}
+
+function flat(j) {
+  const f = {...j};
+  for (const k of ["s", "e", "v", "c"]) if (j[k] && typeof j[k] === "object" && !Array.isArray(j[k])) Object.assign(f, j[k]);
+  return f;
+}
+
+function normalize(j) {
+  const f = flat(j);
+  const raw = Array.isArray(j.cand) ? j.cand : [];
+  const cands = raw.map((c) => ({
+    n: String(c.n), nm: c.nm || c.nmu || null, cc: c.cc, party: partyOf(c.cc),
+    votes: num(c.vap) || 0, pct: num(c.pvap),
+    eleito: c.e === "s" || /^eleito/i.test(c.st || ""),
+  }));
+  const valid = cands.reduce((a, c) => a + c.votes, 0);
+  cands.forEach((c) => { if (c.pct == null || isNaN(c.pct)) c.pct = valid ? c.votes / valid * 100 : 0; });
+  const s = first(f, "s", "ts"), st = first(f, "st");
+  let pst = first(f, "pst");
+  if (pst == null && s) pst = (st || 0) / s * 100;
+  return {
+    cands, valid, pst: pst || 0, s, st,
+    eleitorado: first(f, "e", "te"), comp: first(f, "c", "tc"), pcomp: first(f, "pc"),
+    abst: first(f, "a", "ta"), pabst: first(f, "pa"),
+    brancos: first(f, "vb"), pbrancos: first(f, "pvb"),
+    nulos: first(f, "tvn", "vn"), pnulos: first(f, "ptvn", "pvn"),
+    when: [f.dt || f.dg, f.ht || f.hg].filter(Boolean).join(" "),
+  };
+}
+
+function setCandidates(br) {
+  const sorted = [...br.cands].sort((a, b) => +a.n - +b.n);
+  const used = new Set();
+  S.cands = sorted.map((c, i) => {
+    let color = PARTY_COLORS[c.party.normalize("NFD").replace(/[̀-ͯ]/g, "")];
+    if (!color || used.has(color)) color = FALLBACK.find((x) => !used.has(x)) || d3.schemeTableau10[i];
+    used.add(color);
+    return {n: c.n, nm: c.nm || `Nº ${c.n}`, party: c.party, color};
+  });
+}
+const candByN = (n) => S.cands.find((c) => c.n === n);
+const ordered = (r) => S.cands.map((c) => r.cands.find((x) => x.n === c.n) || {n: c.n, votes: 0, pct: 0});
+
+function uPath(level) { return `${S.root}/dados-simplificados/${level}-c0001-${S.E}-r.json`; }
+
+async function loadNational() {
+  const br = normalize(await getJSON(uPath("br/br")));
+  if (!br.cands.length) throw new Error("arquivo nacional sem candidatos");
+  S.br = br;
+  if (!S.cands.length) setCandidates(br);
+  await pool(UFS, 9, async (uf) => {
+    try { S.uf[uf] = normalize(await getJSON(uPath(`${uf.toLowerCase()}/${uf.toLowerCase()}`))); } catch (e) { /* estado ainda sem arquivo */ }
+  });
+}
+
+async function loadMunCfg() {
+  if (S.munCfg) return;
+  const j = await getJSON(`${S.root}/config/mun-${S.E}-cm.json`);
+  const list = [];
+  (function walk(o) {
+    if (Array.isArray(o)) return o.forEach(walk);
+    if (!o || typeof o !== "object") return;
+    if (Array.isArray(o.mu)) {
+      const uf = String(o.cd || o.uf || "").toUpperCase();
+      o.mu.forEach((m) => list.push({tse: String(m.cd).padStart(5, "0"), ibge: m.cdi ? String(m.cdi) : null, nm: m.nm, uf}));
+      return;
+    }
+    for (const k in o) if (o[k] && typeof o[k] === "object") walk(o[k]);
+  })(j);
+  // sem código IBGE no arquivo: casa pelo nome dentro do estado
+  const byName = {};
+  GEO.munFeatures.forEach((f) => { byName[f.properties.uf + norm(f.properties.n)] = f.id; });
+  list.forEach((m) => { if (!m.ibge) m.ibge = byName[m.uf + norm(m.nm)] || null; });
+  S.munCfg = list.filter((m) => UF_NOMES[m.uf]);
+  S.munCfg.forEach((m) => { if (m.ibge) S.ibgeToTse[m.ibge] = m; });
+}
+
+async function loadMunicipios(uf) {
+  await loadMunCfg();
+  const lc = uf.toLowerCase();
+  const muns = S.munCfg.filter((m) => m.uf === uf && m.ibge);
+  // 1) arquivo único do estado com todas as abrangências
+  try {
+    const j = await getJSON(`${S.root}/dados/${lc}/${lc}-c0001-${S.E}-v.json`);
+    const abrs = [];
+    (function walk(o) {
+      if (Array.isArray(o)) return o.forEach(walk);
+      if (!o || typeof o !== "object") return;
+      if (o.cdabr != null && Array.isArray(o.cand)) { abrs.push(o); return; }
+      for (const k in o) if (o[k] && typeof o[k] === "object") walk(o[k]);
+    })(j);
+    const byTse = Object.fromEntries(muns.map((m) => [m.tse, m]));
+    let hit = 0;
+    abrs.forEach((a) => { const m = byTse[String(a.cdabr).padStart(5, "0")]; if (m) { S.mu[m.ibge] = normalize(a); hit++; } });
+    if (hit > muns.length * 0.5) { paint(); return; }
+  } catch (e) { /* cai para arquivos por município */ }
+  // 2) um arquivo por município
+  let done = 0;
+  await pool(muns, 12, async (m) => {
+    try { S.mu[m.ibge] = normalize(await getJSON(uPath(`${lc}/${lc}${m.tse}`))); } catch (e) { /* sem dados */ }
+    if (++done % 40 === 0) { setLoading(`Carregando cidades de ${uf}: ${done}/${muns.length}`); paintMun(); }
+  });
+}
+
+// ---------- simulação (sem conexão com o TSE ou ?demo) ----------
+const DEMO_STATE = {p: 0};
+function hash(s) { let h = 2166136261; for (const ch of String(s)) { h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619); } return ((h >>> 0) % 10000) / 10000; }
+function demoInit() {
+  DEMO = true;
+  S.cands = [{n: "1", nm: "Candidato A", party: "PARTIDO A", color: FALLBACK[0]}, {n: "2", nm: "Candidato B", party: "PARTIDO B", color: FALLBACK[1]}];
+  DEMO_STATE.p = 0.31;
+}
+function demoTick() {
+  DEMO_STATE.p = Math.min(1, DEMO_STATE.p + 0.035 + Math.random() * 0.02);
+  const p = DEMO_STATE.p;
+  const tot = {}, ufAgg = {};
+  GEO.munFeatures.forEach((f) => {
+    const [lon, lat] = f.properties.c;
+    const lean = 0.5 + 0.17 * Math.tanh((lat + 14) / 6) - 0.04 * Math.tanh((lon + 45) / 4) + (hash(f.id) - 0.5) * 0.22;
+    const size = 3000 + Math.pow(hash(f.id + "s"), 6) * 900000;
+    const pm = Math.min(1, p * (0.75 + hash(f.id + "p") * 0.5));
+    const counted = Math.round(size * pm);
+    const b = Math.round(counted * Math.min(0.92, Math.max(0.08, lean)));
+    const r = {cands: [{n: "1", votes: counted - b}, {n: "2", votes: b}], pst: pm * 100, eleitorado: Math.round(size * 1.25 * pm), comp: counted, brancos: Math.round(counted * .015), nulos: Math.round(counted * .03)};
+    finishDemo(r); S.mu[f.id] = r;
+    const u = (ufAgg[f.properties.uf] = ufAgg[f.properties.uf] || {a: 0, b: 0, size: 0, cnt: 0, el: 0});
+    u.a += counted - b; u.b += b; u.size += size; u.cnt += counted; u.el += r.eleitorado;
+  });
+  let A = 0, B = 0, sz = 0, cnt = 0, el = 0;
+  for (const uf in ufAgg) {
+    const u = ufAgg[uf];
+    const r = {cands: [{n: "1", votes: u.a}, {n: "2", votes: u.b}], pst: u.cnt / u.size * 100, eleitorado: u.el, comp: u.cnt, brancos: Math.round(u.cnt * .015), nulos: Math.round(u.cnt * .03)};
+    finishDemo(r); S.uf[uf] = r;
+    A += u.a; B += u.b; sz += u.size; cnt += u.cnt; el += u.el;
+  }
+  S.br = {cands: [{n: "1", votes: A}, {n: "2", votes: B}], pst: cnt / sz * 100, eleitorado: el, comp: cnt, brancos: Math.round(cnt * .015), nulos: Math.round(cnt * .03)};
+  finishDemo(S.br);
+  if (p >= 1) { const w = S.br.cands[0].votes > S.br.cands[1].votes ? 0 : 1; S.br.cands[w].eleito = true; }
+  S.br.when = new Date().toLocaleString("pt-BR");
+}
+function finishDemo(r) {
+  r.valid = r.cands.reduce((a, c) => a + c.votes, 0);
+  r.cands.forEach((c) => { c.pct = r.valid ? c.votes / r.valid * 100 : 0; });
+  if (r.comp && r.eleitorado) { r.pcomp = r.comp / r.eleitorado * 100; r.abst = r.eleitorado - r.comp; r.pabst = 100 - r.pcomp; }
+  if (r.comp) { r.pbrancos = r.brancos / r.comp * 100; r.pnulos = r.nulos / r.comp * 100; }
+}
+
+// ---------- geografia ----------
+const GEO = {};
+const svg = d3.select("#map");
+const W = 1000, H = 970;
+const zoomLayer = d3.select("#zoomLayer");
+let path, zoom, currentK = 1;
+
+async function loadGeo() {
+  const topo = await (await fetch("brasil.topo.json")).json();
+  GEO.estados = topojson.feature(topo, topo.objects.estados);
+  GEO.munFeatures = topojson.feature(topo, topo.objects.municipios).features;
+  GEO.munFeatures.forEach((f) => {
+    const ring = f.geometry.type === "Polygon" ? f.geometry.coordinates[0] : f.geometry.coordinates[0][0];
+    let x = 0, y = 0; ring.forEach((p) => { x += p[0]; y += p[1]; });
+    f.properties.c = [x / ring.length, y / ring.length];
+  });
+  GEO.munById = Object.fromEntries(GEO.munFeatures.map((f) => [f.id, f]));
+  const proj = d3.geoIdentity().reflectY(true).fitExtent([[20, 60], [W - 20, H - 20]], GEO.estados);
+  path = d3.geoPath(proj);
+
+  d3.select("#ufLayer").selectAll("path").data(GEO.estados.features, (d) => d.id).join("path")
+    .attr("d", path).attr("data-uf", (d) => d.id)
+    .on("click", (ev, d) => { ev.stopPropagation(); openUF(d.id); })
+    .on("mousemove", (ev, d) => showTip(ev, UF_NOMES[d.id], S.uf[d.id]))
+    .on("mouseleave", hideTip);
+
+  d3.select("#labelLayer").selectAll("text").data(GEO.estados.features, (d) => d.id).join("text")
+    .attr("x", (d) => path.centroid(d)[0]).attr("y", (d) => path.centroid(d)[1]).text((d) => d.id);
+
+  zoom = d3.zoom().scaleExtent([1, 120]).translateExtent([[-200, -200], [W + 200, H + 200]])
+    .on("zoom", (ev) => {
+      zoomLayer.attr("transform", ev.transform);
+      currentK = ev.transform.k;
+      d3.select("#labelLayer").selectAll("text").attr("font-size", 15 / currentK).style("stroke-width", 3 / currentK + "px");
+    });
+  svg.call(zoom).on("dblclick.zoom", null);
+  svg.on("click", () => { if (S.view.uf) openBR(); });
+  d3.select("#labelLayer").selectAll("text").attr("font-size", 15);
+
+  const dl = $("cidades");
+  const opts = GEO.munFeatures.map((f) => `${f.properties.n} — ${f.properties.uf}`).sort((a, b) => a.localeCompare(b, "pt-BR"));
+  dl.innerHTML = opts.map((o) => `<option value="${esc(o)}"></option>`).join("");
+  GEO.byLabel = Object.fromEntries(GEO.munFeatures.map((f) => [norm(`${f.properties.n} — ${f.properties.uf}`), f]));
+}
+
+function zoomTo(feature, pad = 0.85, maxK = 60) {
+  const [[x0, y0], [x1, y1]] = path.bounds(feature);
+  const k = Math.min(maxK, pad / Math.max((x1 - x0) / W, (y1 - y0) / H));
+  const t = d3.zoomIdentity.translate(W / 2, H / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  svg.transition().duration(reduce ? 0 : 750).call(zoom.transform, t);
+}
+
+// ---------- cores ----------
+function cssVar(n) { return getComputedStyle(document.documentElement).getPropertyValue(n).trim(); }
+function fillFor(r) {
+  if (!r || !r.valid) return cssVar("--nodata");
+  const os = ordered(r);
+  const lead = os.reduce((a, b) => (b.votes > a.votes ? b : a));
+  const c = candByN(lead.n);
+  if (!c) return cssVar("--nodata");
+  const share = lead.votes / r.valid;
+  const t = Math.max(0.18, Math.min(1, (share - 0.5) / 0.25));   // 50% → claro, 75%+ → cor cheia
+  return d3.interpolateRgb(cssVar("--tint"), c.color)(0.25 + 0.75 * t);
+}
+
+function paint() {
+  d3.select("#ufLayer").selectAll("path")
+    .attr("fill", (d) => fillFor(S.uf[d.id]))
+    .classed("dim", (d) => S.view.uf && d.id !== S.view.uf)
+    .classed("open", (d) => d.id === S.view.uf);
+  paintMun();
+  renderLegend();
+}
+function paintMun() {
+  d3.select("#munLayer").selectAll("path").attr("fill", (d) => fillFor(S.mu[d.id])).classed("sel", (d) => d.id === S.view.mun);
+}
+
+function renderLegend() {
+  if (!S.cands.length) { $("legend").innerHTML = ""; return; }
+  const steps = [0.18, 0.5, 0.8, 1];
+  const tint = cssVar("--tint");
+  $("legend").innerHTML = S.cands.map((c) => `<div class="row"><span class="sw">${steps.map((t) => `<i style="background:${d3.interpolateRgb(tint, c.color)(0.25 + 0.75 * t)}"></i>`).join("")}</span><span>${esc(titleCase(c.nm))}</span></div>`).join("")
+    + `<div class="row"><span>50%</span><span style="margin-left:auto">75%+</span></div>`;
+}
+
+// ---------- navegação ----------
+function openBR() {
+  S.view = {uf: null, mun: null};
+  d3.select("#munLayer").selectAll("path").remove();
+  svg.transition().duration(matchMedia("(prefers-reduced-motion: reduce)").matches ? 0 : 750).call(zoom.transform, d3.zoomIdentity);
+  setHash("");
+  paint(); renderPanel(); renderCrumbs();
+}
+
+async function openUF(uf, munId) {
+  const changed = S.view.uf !== uf;
+  S.view = {uf, mun: munId || null};
+  const feat = GEO.estados.features.find((f) => f.id === uf);
+  if (changed) {
+    d3.select("#munLayer").selectAll("path").data(GEO.munFeatures.filter((f) => f.properties.uf === uf), (d) => d.id).join("path")
+      .attr("d", path)
+      .on("click", (ev, d) => { ev.stopPropagation(); selectMun(d.id); })
+      .on("mousemove", (ev, d) => showTip(ev, `${d.properties.n} (${uf})`, S.mu[d.id]))
+      .on("mouseleave", hideTip);
+  }
+  if (munId) zoomTo(GEO.munById[munId], 0.35, 120); else zoomTo(feat);
+  setHash(munId ? `${uf}-${munId}` : uf);
+  paint(); renderPanel(); renderCrumbs();
+  if (changed && !DEMO) {
+    setLoading(`Carregando cidades de ${uf}…`);
+    const job = loadMunicipios(uf).catch((e) => console.warn(e));
+    S.munLoading = job;
+    await job;
+    if (S.munLoading === job) { setLoading(null); paint(); renderPanel(); }
+  }
+}
+
+function selectMun(id) {
+  const f = GEO.munById[id];
+  if (!f) return;
+  if (S.view.uf !== f.properties.uf) return openUF(f.properties.uf, id);
+  S.view.mun = id;
+  zoomTo(f, 0.35, 120);
+  setHash(`${f.properties.uf}-${id}`);
+  paintMun(); renderPanel(); renderCrumbs();
+}
+
+function setHash(h) { try { history.replaceState(null, "", h ? "#" + h : location.pathname + location.search); } catch (e) { /* ignora */ } }
+function fromHash() {
+  const m = /^#([A-Z]{2})(?:-(\d{7}))?$/.exec(location.hash);
+  if (m && UF_NOMES[m[1]]) openUF(m[1], m[2]);
+}
+
+function renderCrumbs() {
+  const parts = [`<button type="button" data-go="br">Brasil</button>`];
+  if (S.view.uf) parts.push(`<span class="sep">›</span>`, S.view.mun ? `<button type="button" data-go="uf">${S.view.uf}</button>` : `<span>${UF_NOMES[S.view.uf]}</span>`);
+  if (S.view.mun) parts.push(`<span class="sep">›</span><span>${esc(GEO.munById[S.view.mun].properties.n)}</span>`);
+  $("crumbs").innerHTML = parts.join("");
+}
+$("crumbs").addEventListener("click", (e) => {
+  const b = e.target.closest("button"); if (!b) return;
+  if (b.dataset.go === "br") openBR(); else { S.view.mun = null; openUF(S.view.uf); }
+});
+
+// ---------- painel e placar ----------
+function candRow(c, r, total) {
+  const x = r ? r : {votes: 0, pct: 0};
+  return `<div class="row"><span class="n">${esc(titleCase(c.nm))}${x.eleito ? `<span class="eleito" style="background:${c.color}">ELEITO</span>` : ""}</span><span class="p num" style="color:${c.color}">${pct(x.pct)}</span>
+    <span class="b"><span style="width:${(x.pct || 0)}%;background:${c.color}"></span></span>
+    <span class="v num">${fmtInt.format(x.votes || 0)} votos</span></div>`;
+}
+function statsHTML(r) {
+  if (!r) return "";
+  const it = [];
+  if (r.eleitorado != null) it.push(`Eleitorado <b>${fmtInt.format(r.eleitorado)}</b>`);
+  if (r.comp != null) it.push(`Comparecimento <b>${fmtInt.format(r.comp)}</b>${r.pcomp != null ? ` (${pct(r.pcomp)})` : ""}`);
+  if (r.abst != null) it.push(`Abstenção <b>${pct(r.pabst)}</b>`);
+  if (r.brancos != null) it.push(`Brancos <b>${pct(r.pbrancos)}</b>`);
+  if (r.nulos != null) it.push(`Nulos <b>${pct(r.pnulos)}</b>`);
+  return it.map((s) => `<span>${s}</span>`).join("");
+}
+
+function renderBoard() {
+  const r = S.br;
+  if (!r || !S.cands.length) return;
+  const os = ordered(r);
+  $("cands").innerHTML = S.cands.slice(0, 2).map((c, i) => `
+    <div class="cand${i ? " right" : ""}">
+      <span class="pt">${esc(c.party)} · ${esc(c.n)}</span>
+      <span class="nm">${esc(titleCase(c.nm))}${os[i].eleito ? `<span class="eleito" style="background:${c.color}">ELEITO</span>` : ""}</span>
+      <span class="pct num" style="color:${c.color}">${pct(os[i].pct)}</span>
+      <span class="votes num">${fmtInt.format(os[i].votes)} votos</span>
+    </div>`).join(`<div class="vs">×</div>`);
+  $("split").innerHTML = S.cands.slice(0, 2).map((c, i) => `<span style="width:${os[i].pct || 0}%;background:${c.color}"></span>`).join("");
+  if (r.valid) $("split").lastElementChild.style.marginLeft = "auto";
+  $("pstBar").style.width = Math.min(100, r.pst) + "%";
+  $("pstVal").textContent = pct(r.pst);
+  $("stats").innerHTML = statsHTML(r) + (r.st != null && r.s ? `<span>Seções <b>${fmtInt.format(r.st)}</b> de ${fmtInt.format(r.s)}</span>` : "");
+  const winner = os.find((x) => x.eleito);
+  document.title = winner ? `${titleCase(candByN(winner.n).nm)} eleito · Apuração 2º Turno 2026` : `${pct(r.pst)} apurado · Apuração 2º Turno 2026`;
+}
+
+function renderPanel() {
+  const p = $("panel");
+  if (!S.cands.length) { p.innerHTML = `<p class="empty">Aguardando os primeiros números do TSE.</p>`; return; }
+  let title, sub, r, list = "";
+  if (S.view.mun) {
+    const f = GEO.munById[S.view.mun];
+    title = f.properties.n; sub = UF_NOMES[f.properties.uf]; r = S.mu[S.view.mun];
+  } else if (S.view.uf) {
+    title = UF_NOMES[S.view.uf]; sub = "Clique numa cidade no mapa ou na lista"; r = S.uf[S.view.uf];
+  } else {
+    title = "Brasil"; sub = "Clique num estado para ver as cidades"; r = S.br;
+  }
+  if (!S.view.mun) list = listHTML();
+  const os = r ? ordered(r) : [];
+  p.innerHTML = `
+    <div><h2>${esc(title)}</h2><div class="sub">${esc(sub)}</div></div>
+    ${r && r.valid ? `
+      <div class="progress"><span class="label">Apurado</span><div class="bar"><span style="width:${Math.min(100, r.pst)}%"></span></div><span class="val num" style="font-size:18px">${pct(r.pst)}</span></div>
+      <div class="mini">${S.cands.map((c, i) => candRow(c, os[i])).join("")}</div>
+      <div class="stats">${statsHTML(r)}</div>`
+    : `<p class="empty">${S.view.mun && S.munLoading ? "Carregando dados desta cidade…" : "Ainda sem votos apurados aqui."}</p>`}
+    ${list}`;
+  const inp = p.querySelector("#filtro");
+  if (inp) {
+    inp.value = S.filter || "";
+    inp.addEventListener("input", () => { S.filter = inp.value; p.querySelector(".rows").innerHTML = rowsHTML(); });
+  }
+}
+
+function rowsData() {
+  if (S.view.uf) {
+    return GEO.munFeatures.filter((f) => f.properties.uf === S.view.uf)
+      .map((f) => ({id: f.id, nm: f.properties.n, r: S.mu[f.id]}))
+      .sort((a, b) => ((b.r && b.r.valid) || 0) - ((a.r && a.r.valid) || 0) || a.nm.localeCompare(b.nm, "pt-BR"));
+  }
+  return UFS.map((uf) => ({id: uf, nm: UF_NOMES[uf], r: S.uf[uf]})).sort((a, b) => ((b.r && b.r.valid) || 0) - ((a.r && a.r.valid) || 0));
+}
+function rowsHTML() {
+  const q = norm(S.filter);
+  const rows = rowsData().filter((x) => !q || norm(x.nm).includes(q));
+  if (!rows.length) return `<p class="empty">Nenhum resultado para essa busca.</p>`;
+  return rows.map((x) => {
+    const os = x.r ? ordered(x.r) : [];
+    const bars = x.r && x.r.valid ? S.cands.map((c, i) => `<span style="width:${os[i].pct}%;background:${c.color}"></span>`).join("") : "";
+    return `<button type="button" data-id="${x.id}"><span class="nm">${esc(x.nm)}</span><span class="mb">${bars}</span><span class="ap num">${x.r ? Math.round(x.r.pst) + "%" : "–"}</span></button>`;
+  }).join("");
+}
+function listHTML() {
+  const what = S.view.uf ? "Cidades" : "Estados";
+  return `<div class="list"><div class="head"><span class="label">${what} · por votos apurados</span><span class="label">apurado</span></div>
+    ${S.view.uf ? `<input id="filtro" placeholder="Filtrar cidades…" autocomplete="off" aria-label="Filtrar cidades">` : ""}
+    <div class="rows">${rowsHTML()}</div></div>`;
+}
+$("panel").addEventListener("click", (e) => {
+  const b = e.target.closest(".rows button"); if (!b) return;
+  if (S.view.uf) selectMun(b.dataset.id); else { S.filter = ""; openUF(b.dataset.id); }
+});
+
+// ---------- tooltip ----------
+function showTip(ev, name, r) {
+  const t = $("tip");
+  if (ev.pointerType === "touch") return;
+  const os = r ? ordered(r) : [];
+  t.innerHTML = `<h4>${esc(name)}</h4>` + (r && r.valid
+    ? S.cands.map((c, i) => `<div class="r"><span style="color:${c.color};font-weight:600">${esc(titleCase(c.nm))}</span><span class="num">${pct(os[i].pct)}</span></div>`).join("") + `<div class="r" style="color:var(--muted);margin-top:4px"><span>Apurado</span><span class="num">${pct(r.pst)}</span></div>`
+    : `<div style="color:var(--muted)">Sem votos apurados ainda</div>`);
+  t.hidden = false;
+  const x = Math.min(ev.clientX + 14, innerWidth - t.offsetWidth - 8), y = Math.min(ev.clientY + 14, innerHeight - t.offsetHeight - 8);
+  t.style.left = x + "px"; t.style.top = y + "px";
+  d3.selectAll(".hover").classed("hover", false);
+  d3.select(ev.currentTarget).classed("hover", true).raise();
+}
+function hideTip() { $("tip").hidden = true; d3.selectAll(".hover").classed("hover", false); }
+
+function setLoading(msg) { const l = $("loading"); l.hidden = !msg; if (msg) l.textContent = msg; }
+
+// ---------- ciclo de atualização ----------
+function banner(html) { const b = $("banner"); b.hidden = !html; b.innerHTML = html || ""; }
+
+async function cycle() {
+  clearTimeout(S.timer);
+  S.tick++;
+  try {
+    if (DEMO) {
+      demoTick();
+    } else {
+      if (!S.ele) {
+        S.ele = await discover();
+        S.root = `${BASE}/ele${S.ele.ano}/${S.ele.cd}`;
+        S.E = "e" + String(S.ele.cd).padStart(6, "0");
+      }
+      await loadNational();
+      if (S.view.uf && S.tick % MUN_POLL_EVERY === 0) loadMunicipios(S.view.uf).then(() => { paint(); if (!S.view.mun) renderPanel(); }).catch(() => {});
+    }
+    S.lastOk = new Date();
+    $("live").classList.remove("off");
+    $("liveTxt").textContent = DEMO ? "Simulação" : "Ao vivo";
+    $("updated").textContent = S.br && S.br.when ? `TSE: ${S.br.when}` : "";
+    banner(DEMO ? `<b>Simulação com dados fictícios.</b> <span>Os números não são reais; servem só para mostrar como a página funciona.</span>${Q.has("demo") ? "" : `<button class="btn" type="button" id="retry">Tentar o TSE de novo</button>`}` : "");
+  } catch (e) {
+    console.warn(e);
+    $("live").classList.add("off");
+    $("liveTxt").textContent = "Sem conexão";
+    if (!S.br) {
+      banner(`<b>Não consegui ler os resultados do TSE</b> <span>(${esc(e.message)}). Tento de novo a cada 30 segundos.</span><button class="btn" type="button" id="demo">Ver simulação</button>`);
+    } else {
+      banner(`<b>Falha na última atualização</b> <span>(${esc(e.message)}). Mostrando os dados de ${S.lastOk.toLocaleTimeString("pt-BR")}.</span>`);
+    }
+  }
+  $("conn").textContent = DEMO ? "" : `Conexão: ${S.viaProxy ? "via proxy (o navegador bloqueou o acesso direto)" : "direta com o TSE"}${S.ele ? ` · eleição ${S.ele.cd}` : ""}`;
+  renderBoard(); paint(); renderPanel();
+  S.nextAt = Date.now() + POLL_MS;
+  S.timer = setTimeout(cycle, POLL_MS);
+}
+
+setInterval(() => {
+  const s = Math.max(0, Math.round((S.nextAt - Date.now()) / 1000));
+  $("countdown").textContent = S.nextAt ? `próxima em ${s}s` : "";
+}, 1000);
+
+$("refresh").addEventListener("click", () => cycle());
+$("banner").addEventListener("click", (e) => {
+  if (e.target.id === "demo") { demoInit(); cycle(); }
+  if (e.target.id === "retry") { DEMO = false; S.cands = []; S.br = null; S.uf = {}; S.mu = {}; cycle(); }
+});
+$("zin").addEventListener("click", () => svg.transition().duration(300).call(zoom.scaleBy, 1.8));
+$("zout").addEventListener("click", () => svg.transition().duration(300).call(zoom.scaleBy, 1 / 1.8));
+$("zreset").addEventListener("click", () => openBR());
+$("busca").addEventListener("change", (e) => {
+  const f = GEO.byLabel[norm(e.target.value)];
+  if (f) { selectMun(f.id); e.target.value = ""; e.target.blur(); }
+});
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => paint());
+new MutationObserver(() => paint()).observe(document.documentElement, {attributes: true, attributeFilter: ["data-theme"]});
+
+// ---------- início ----------
+(async () => {
+  await loadGeo();
+  renderCrumbs(); renderPanel();
+  if (DEMO) demoInit();
+  await cycle();
+  fromHash();
+})();
+})();
+</script>
+</body>
+</html>
