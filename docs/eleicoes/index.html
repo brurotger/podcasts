@@ -298,21 +298,28 @@ async function pool(items, n, fn) {
 }
 
 // ---------- TSE: descoberta e leitura ----------
+// Códigos conhecidos do 2º turno (o ele-c.json do TSE tem a palavra final)
+const KNOWN_T2 = {"2026": "6258", "2022": "545"};
+
 async function discover() {
-  if (Q.get("ele")) return {cd: Q.get("ele"), ano: YEAR, nm: ""};
-  const cfg = await getJSON(`${BASE}/comum/config/ele-c.json`);
-  const found = [];
+  if (Q.get("ele")) return {cd: Q.get("ele"), ano: YEAR, cd1: Q.get("ele1")};
+  let cfg = null;
+  try { cfg = await getJSON(`${BASE}/comum/config/ele-c.json`); } catch (e) { console.warn("ele-c.json", e); }
+  const t2 = [], links = [];
   (function walk(o, dt) {
     if (Array.isArray(o)) return o.forEach((x) => walk(x, dt));
     if (!o || typeof o !== "object") return;
-    const d = o.dt || dt;
-    if (o.cd != null && o.t != null && !Array.isArray(o.e)) found.push({cd: String(o.cd), t: String(o.t), dt: String(d || ""), nm: o.nm || ""});
+    const d = String(o.dt || dt || "");
+    if (o.cd != null && o.cdt2 != null && d.includes(YEAR)) links.push({cd1: String(o.cd), cd: String(o.cdt2), nm: o.nm || ""});
+    if (o.cd != null && String(o.t) === "2" && !Array.isArray(o.e) && d.includes(YEAR)) t2.push({cd: String(o.cd), nm: o.nm || ""});
     for (const k in o) if (o[k] && typeof o[k] === "object") walk(o[k], d);
   })(cfg, "");
   const fed = (e) => /federa|geral|presid/i.test(e.nm) ? 1 : 0;
-  const c = found.filter((e) => e.t === "2" && e.dt.includes(YEAR)).sort((a, b) => fed(b) - fed(a));
-  if (!c.length) throw new Error(`o TSE ainda não publicou a configuração do 2º turno de ${YEAR}`);
-  return {cd: c[0].cd, ano: YEAR, nm: c[0].nm};
+  links.sort((a, b) => fed(b) - fed(a)); t2.sort((a, b) => fed(b) - fed(a));
+  const cd = (links[0] && links[0].cd) || (t2[0] && t2[0].cd) || KNOWN_T2[YEAR];
+  if (!cd) throw new Error(`não achei o código do 2º turno de ${YEAR} na configuração do TSE`);
+  const l = links.find((x) => x.cd === cd);
+  return {cd, ano: YEAR, cd1: l ? l.cd1 : null};
 }
 
 function partyOf(cc) {
@@ -326,13 +333,26 @@ function flat(j) {
   return f;
 }
 
+// 2022/2024: j.cand[]; 2026 (-u.json): j.carg[0].agr[].par[].cand[], partido em par.sg
+function collectCands(j) {
+  if (Array.isArray(j.cand)) return j.cand.map((c) => ({c, sg: null}));
+  const out = [], seen = new Set();
+  (function walk(o, sg) {
+    if (Array.isArray(o)) return o.forEach((x) => walk(x, sg));
+    if (!o || typeof o !== "object") return;
+    const g = o.sg || sg;
+    if (Array.isArray(o.cand)) o.cand.forEach((c) => { if (!seen.has(String(c.n))) { seen.add(String(c.n)); out.push({c, sg: g}); } });
+    for (const k in o) if (k !== "cand" && o[k] && typeof o[k] === "object") walk(o[k], g);
+  })(j.carg || [], null);
+  return out;
+}
+
 function normalize(j) {
   const f = flat(j);
-  const raw = Array.isArray(j.cand) ? j.cand : [];
-  const cands = raw.map((c) => ({
-    n: String(c.n), nm: c.nm || c.nmu || null, cc: c.cc, party: partyOf(c.cc),
+  const cands = collectCands(j).map(({c, sg}) => ({
+    n: String(c.n), nm: c.nmu || c.nm || null, party: sg || partyOf(c.cc),
     votes: num(c.vap) || 0, pct: num(c.pvap),
-    eleito: c.e === "s" || /^eleito/i.test(c.st || ""),
+    eleito: c.e === "s" || /^eleit[oa]$/i.test(String(c.st || "").trim()),
   }));
   const valid = cands.reduce((a, c) => a + c.votes, 0);
   cands.forEach((c) => { if (c.pct == null || isNaN(c.pct)) c.pct = valid ? c.votes / valid * 100 : 0; });
@@ -362,11 +382,24 @@ function setCandidates(br) {
 const candByN = (n) => S.cands.find((c) => c.n === n);
 const ordered = (r) => S.cands.map((c) => r.cands.find((x) => x.n === c.n) || {n: c.n, votes: 0, pct: 0});
 
-function uPath(level) { return `${S.root}/dados-simplificados/${level}-c0001-${S.E}-r.json`; }
+// "u": formato 2026 (dados/.../-u.json); "r": formato 2022/2024 (dados-simplificados/.../-r.json)
+function uPath(level) {
+  return S.fmt === "r" ? `${S.root}/dados-simplificados/${level}-c0001-${S.E}-r.json` : `${S.root}/dados/${level}-c0001-${S.E}-u.json`;
+}
 
 async function loadNational() {
-  const br = normalize(await getJSON(uPath("br/br")));
-  if (!br.cands.length) throw new Error("arquivo nacional sem candidatos");
+  let j;
+  if (!S.fmt) {
+    for (const fmt of ["u", "r"]) {
+      S.fmt = fmt;
+      try { j = await getJSON(uPath("br/br")); break; } catch (e) { if (e.http !== 404 && e.http !== 403) { S.fmt = null; throw e; } }
+    }
+    if (!j) { S.fmt = null; throw new Error(`o TSE ainda não publicou o arquivo nacional da eleição ${S.ele.cd}`); }
+  } else {
+    j = await getJSON(uPath("br/br"));
+  }
+  const br = normalize(j);
+  if (!br.cands.length) throw new Error("o arquivo nacional veio sem candidatos");
   S.br = br;
   if (!S.cands.length) setCandidates(br);
   await pool(UFS, 9, async (uf) => {
@@ -376,7 +409,12 @@ async function loadNational() {
 
 async function loadMunCfg() {
   if (S.munCfg) return;
-  const j = await getJSON(`${S.root}/config/mun-${S.E}-cm.json`);
+  // o cadastro de municípios é o mesmo nos dois turnos; se o do 2º turno faltar, usa o do 1º
+  const codes = [S.ele.cd, S.ele.cd1 || String(+S.ele.cd - 1)];
+  let j = null;
+  for (const cd of codes) {
+    try { j = await getJSON(`${BASE}/ele${S.ele.ano}/${cd}/config/mun-e${String(cd).padStart(6, "0")}-cm.json`); break; } catch (e) { /* tenta o próximo */ }
+  }
   const list = [];
   (function walk(o) {
     if (Array.isArray(o)) return o.forEach(walk);
@@ -400,27 +438,16 @@ async function loadMunicipios(uf) {
   await loadMunCfg();
   const lc = uf.toLowerCase();
   const muns = S.munCfg.filter((m) => m.uf === uf && m.ibge);
-  // 1) arquivo único do estado com todas as abrangências
-  try {
-    const j = await getJSON(`${S.root}/dados/${lc}/${lc}-c0001-${S.E}-v.json`);
-    const abrs = [];
-    (function walk(o) {
-      if (Array.isArray(o)) return o.forEach(walk);
-      if (!o || typeof o !== "object") return;
-      if (o.cdabr != null && Array.isArray(o.cand)) { abrs.push(o); return; }
-      for (const k in o) if (o[k] && typeof o[k] === "object") walk(o[k]);
-    })(j);
-    const byTse = Object.fromEntries(muns.map((m) => [m.tse, m]));
-    let hit = 0;
-    abrs.forEach((a) => { const m = byTse[String(a.cdabr).padStart(5, "0")]; if (m) { S.mu[m.ibge] = normalize(a); hit++; } });
-    if (hit > muns.length * 0.5) { paint(); return; }
-  } catch (e) { /* cai para arquivos por município */ }
-  // 2) um arquivo por município
-  let done = 0;
-  await pool(muns, 12, async (m) => {
-    try { S.mu[m.ibge] = normalize(await getJSON(uPath(`${lc}/${lc}${m.tse}`))); } catch (e) { /* sem dados */ }
+  if (!muns.length) { S.munNote = "O TSE ainda não publicou a lista de cidades desta eleição."; return; }
+  // um arquivo por município; para cedo se nada existir, porque muitos 404 seguidos fazem o TSE bloquear o IP
+  let done = 0, ok = 0, missing = 0;
+  const queue = [...muns];
+  await pool(queue, 12, async (m) => {
+    if (!ok && missing >= 15) return;
+    try { S.mu[m.ibge] = normalize(await getJSON(uPath(`${lc}/${lc}${m.tse}`))); ok++; } catch (e) { if (e.http === 404 || e.http === 403) missing++; }
     if (++done % 40 === 0) { setLoading(`Carregando cidades de ${uf}: ${done}/${muns.length}`); paintMun(); }
   });
+  S.munNote = ok ? null : "O TSE ainda não publicou os resultados por cidade deste estado.";
 }
 
 // ---------- simulação (sem conexão com o TSE ou ?demo) ----------
@@ -669,7 +696,8 @@ function renderPanel() {
       <div class="progress"><span class="label">Apurado</span><div class="bar"><span style="width:${Math.min(100, r.pst)}%"></span></div><span class="val num" style="font-size:18px">${pct(r.pst)}</span></div>
       <div class="mini">${S.cands.map((c, i) => candRow(c, os[i])).join("")}</div>
       <div class="stats">${statsHTML(r)}</div>`
-    : `<p class="empty">${S.view.mun && S.munLoading ? "Carregando dados desta cidade…" : "Ainda sem votos apurados aqui."}</p>`}
+    : `<p class="empty">${S.view.mun && S.munLoading ? "Carregando dados desta cidade…" : (S.view.uf && S.munNote) || "Ainda sem votos apurados aqui."}</p>`}
+    ${S.view.uf && !S.view.mun && S.munNote && r && r.valid ? `<p class="empty">${esc(S.munNote)}</p>` : ""}
     ${list}`;
   const inp = p.querySelector("#filtro");
   if (inp) {
@@ -739,6 +767,7 @@ async function cycle() {
         S.ele = await discover();
         S.root = `${BASE}/ele${S.ele.ano}/${S.ele.cd}`;
         S.E = "e" + String(S.ele.cd).padStart(6, "0");
+        S.fmt = null;
       }
       await loadNational();
       if (S.view.uf && S.tick % MUN_POLL_EVERY === 0) loadMunicipios(S.view.uf).then(() => { paint(); if (!S.view.mun) renderPanel(); }).catch(() => {});
