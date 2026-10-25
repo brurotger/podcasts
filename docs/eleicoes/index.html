@@ -235,7 +235,10 @@ footer code { font-family: var(--font-data); font-size: 11px; }
 // ---------- configuração ----------
 const Q = new URLSearchParams(location.search);
 const BASE = "https://resultados.tse.jus.br/oficial";
-const MIRROR = "dados"; // cópia feita pelo robô do GitHub Actions (eleicoes/espelho_tse.py)
+// cópia feita pelo robô do GitHub Actions (eleicoes/espelho_tse.py). Lê direto do repositório,
+// que atualiza a cada commit; a cópia publicada pelo Pages (mesmo site) fica de reserva.
+const MIRROR = "dados";
+const MIRROR_RAW = "https://raw.githubusercontent.com/brurotger/podcasts/main/docs/eleicoes/dados";
 const POLL_MS = 30000;          // placar nacional e estados
 const MUN_POLL_EVERY = 2;       // municípios do estado aberto: a cada 2 ciclos
 const YEAR = Q.get("ano") || "2026";
@@ -278,12 +281,16 @@ function titleCase(s) {
 }
 function httpErr(status) { const e = new Error("HTTP " + status); e.http = status; return e; }
 
-async function getJSON(url) {
-  // a cópia é servida pelo GitHub Pages com cache de 10 min; o parâmetro força a versão nova
-  const u = url.startsWith(MIRROR + "/") ? `${url}?t=${Math.floor(Date.now() / 20000)}` : url;
+async function fetchJSON(u) {
   const r = await fetch(u, {cache: "no-store"});
   if (!r.ok) throw httpErr(r.status);
   return r.json();
+}
+async function getJSON(url) {
+  if (!url.startsWith(MIRROR + "/")) return fetchJSON(url);
+  // a cópia tem cache de alguns minutos nos servidores do GitHub; o parâmetro força a versão nova
+  const q = `?t=${Math.floor(Date.now() / 20000)}`;
+  try { return await fetchJSON(MIRROR_RAW + url.slice(MIRROR.length) + q); } catch (e) { return fetchJSON(url + q); }
 }
 const host = () => (S.mode === "mirror" ? MIRROR : BASE);
 
