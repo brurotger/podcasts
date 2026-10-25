@@ -238,7 +238,8 @@ footer code { font-family: var(--font-data); font-size: 11px; }
 
 // ---------- configuração ----------
 const Q = new URLSearchParams(location.search);
-const BASE = "https://resultados.tse.jus.br/oficial";
+// trocado por "tse" quando a página roda pelo app local (eleicoes/app_local.py), que busca o TSE por ela
+let BASE = "https://resultados.tse.jus.br/oficial";
 // cópia feita pelo robô do GitHub Actions (eleicoes/espelho_tse.py). Lê direto do repositório,
 // que atualiza a cada commit; a cópia publicada pelo Pages (mesmo site) fica de reserva.
 const MIRROR = "dados";
@@ -423,7 +424,7 @@ async function loadNational() {
     j = await getJSON(uPath("br/br"));
   }
   // o CDN do TSE às vezes entrega uma versão velha; se a cópia do robô estiver mais nova, usa ela
-  if (S.mode === "tse") {
+  if (S.mode === "tse" && !S.local) {
     try {
       const m = await getJSON(MIRROR + relPath("br/br"));
       if (stamp(m) > stamp(j)) { j = m; S.src = "mirror"; }
@@ -710,9 +711,10 @@ function statsHTML(r) {
   const it = [];
   if (r.eleitorado != null) it.push(`Eleitorado <b>${fmtInt.format(r.eleitorado)}</b>`);
   if (r.comp != null) it.push(`Comparecimento <b>${fmtInt.format(r.comp)}</b>${r.pcomp != null ? ` (${pct(r.pcomp)})` : ""}`);
-  if (r.abst != null) it.push(`Abstenção <b>${pct(r.pabst)}</b>`);
-  if (r.brancos != null) it.push(`Brancos <b>${pct(r.pbrancos)}</b>`);
-  if (r.nulos != null) it.push(`Nulos <b>${pct(r.pnulos)}</b>`);
+  const abs = (label, n, p) => `${label} <b>${fmtInt.format(n)}</b>${p != null ? ` (${pct(p)})` : ""}`;
+  if (r.abst != null) it.push(abs("Abstenção", r.abst, r.pabst));
+  if (r.brancos != null) it.push(abs("Brancos", r.brancos, r.pbrancos));
+  if (r.nulos != null) it.push(abs("Nulos", r.nulos, r.pnulos));
   return it.map((s) => `<span>${s}</span>`).join("");
 }
 
@@ -904,7 +906,7 @@ async function cycle() {
       banner(`<b>Falha na última atualização</b> <span>(${esc(e.message)}). Mostrando os dados de ${S.lastOk.toLocaleTimeString("pt-BR")}.</span>`);
     }
   }
-  $("conn").textContent = DEMO ? "" : `Fonte dos números: ${S.mode === "mirror" || S.src === "mirror" ? `cópia automática dos dados do TSE${S.mirrorAt ? `, feita às ${S.mirrorAt.split(" ")[1] || S.mirrorAt}` : ""}` : "direto do TSE"}${S.ele ? ` · eleição ${S.ele.cd}` : ""}`;
+  $("conn").textContent = DEMO ? "" : `Fonte dos números: ${S.mode === "mirror" || S.src === "mirror" ? `cópia automática dos dados do TSE${S.mirrorAt ? `, feita às ${S.mirrorAt.split(" ")[1] || S.mirrorAt}` : ""}` : S.local ? "direto do TSE, pelo app local" : "direto do TSE"}${S.ele ? ` · eleição ${S.ele.cd}` : ""}`;
   renderBoard(); paint(); renderPanel();
   const wait = DEMO ? 30000 : POLL_MS[S.mode] || 15000;
   S.nextAt = Date.now() + wait;
@@ -935,8 +937,16 @@ matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => pain
 new MutationObserver(() => paint()).observe(document.documentElement, {attributes: true, attributeFilter: ["data-theme"]});
 
 // ---------- início ----------
+async function detectLocalApp() {
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname)) return;
+  try {
+    const r = await fetch("tse/comum/config/ele-c.json", {cache: "no-store"});
+    if (r.ok && /json/.test(r.headers.get("content-type") || "")) { BASE = "tse"; S.local = true; }
+  } catch (e) { /* servidor comum: lê o TSE direto */ }
+}
+
 (async () => {
-  await loadGeo();
+  await Promise.all([loadGeo(), detectLocalApp()]);
   renderCrumbs(); renderPanel();
   if (DEMO) demoInit();
   await cycle();
