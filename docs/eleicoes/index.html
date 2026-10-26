@@ -385,7 +385,7 @@ function normalize(j) {
   if (pst == null && s) pst = (st || 0) / s * 100;
   return {
     cands, valid, pst: pst || 0, s, st,
-    eleitorado: first(f, "e", "te"), comp: first(f, "c", "tc"), pcomp: first(f, "pc"),
+    eleitorado: first(f, "e", "te"), faltaEl: first(f, "esnt"), comp: first(f, "c", "tc"), pcomp: first(f, "pc"),
     abst: first(f, "a", "ta"), pabst: first(f, "pa"),
     brancos: first(f, "vb"), pbrancos: first(f, "pvb"),
     nulos: first(f, "tvn", "vn"), pnulos: first(f, "ptvn", "pvn"),
@@ -715,6 +715,18 @@ function statsHTML(r) {
   if (r.abst != null) it.push(abs("Abstenção", r.abst, r.pabst));
   if (r.brancos != null) it.push(abs("Brancos", r.brancos, r.pbrancos));
   if (r.nulos != null) it.push(abs("Nulos", r.nulos, r.pnulos));
+  // o TSE informa os eleitores das seções não apuradas; os votos são estimados pelo comparecimento atual
+  if (r.faltaEl && r.pcomp) {
+    const falta = Math.round(r.faltaEl * r.pcomp / 100);
+    it.push(`Faltam apurar <b>≈ ${fmtInt.format(falta)}</b> votos (${fmtInt.format(r.faltaEl)} eleitores)`);
+    const m = marginOf(r), validos = r.comp ? falta * (r.valid / r.comp) : 0;
+    if (m && m.votes && validos) {
+      const atras = ordered(r).find((x) => x.n !== m.lead.n), quem = titleCase(candByN(atras.n).nm);
+      it.push(m.votes >= validos
+        ? `<b>A vantagem já é maior</b> que os votos válidos que faltam`
+        : `Para virar, ${esc(quem)} precisa de <b>${fmtPct.format((validos + m.votes) / 2 / validos * 100)}%</b> dos votos válidos que faltam`);
+    }
+  }
   return it.map((s) => `<span>${s}</span>`).join("");
 }
 
