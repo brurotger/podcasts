@@ -1,5 +1,240 @@
 [
   {
+    "date": "2026-11-01",
+    "title": "IA Hoje — 26 de outubro de 2026 a 1 de novembro de 2026",
+    "file": "ia-hoje-2026-11-01.mp3",
+    "duration": 2198,
+    "size": 13188044,
+    "published_at": "2026-11-01T16:12:25.602551+00:00",
+    "news": [
+      {
+        "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/"
+      },
+      {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+      },
+      {
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+      },
+      {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+      },
+      {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+      },
+      {
+        "title": "I built an AI Tamagotchi before Meta could",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+      },
+      {
+        "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+      },
+      {
+        "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/"
+      },
+      {
+        "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
+      },
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+      },
+      {
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+      },
+      {
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+      },
+      {
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+      },
+      {
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+      },
+      {
+        "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+      },
+      {
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+      },
+      {
+        "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/"
+      },
+      {
+        "title": "Cracks are emerging in the AI spending boom",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+      },
+      {
+        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+      },
+      {
+        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+      },
+      {
+        "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+      },
+      {
+        "title": "The biggest names in AI are backing a new way to opt out of scraping",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+      },
+      {
+        "title": "Basically no one is using AI agents for their DoorDash orders",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
+      },
+      {
+        "title": "Google’s satellite AI server transmits its first response to Earth",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+      },
+      {
+        "title": "nemotron-halloween",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+      },
+      {
+        "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+      },
+      {
+        "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+      },
+      {
+        "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+      },
+      {
+        "title": "Google’s first data center satellite is online and writing poetry",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+      },
+      {
+        "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
+      },
+      {
+        "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+      },
+      {
+        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+      },
+      {
+        "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/"
+      },
+      {
+        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+      },
+      {
+        "title": "Silicon Valley wants you to invest in miracles",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles"
+      },
+      {
+        "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
+      },
+      {
+        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
+      },
+      {
+        "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+      },
+      {
+        "title": "Maine’s data center revolt will decide who controls the Senate",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+      },
+      {
+        "title": "Making it easier for websites to express AI training preferences",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+      },
+      {
+        "title": "Community safety report and new protections for teens",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+      },
+      {
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+      },
+      {
+        "title": "Fair use benefits everyone",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/fair-use-benefits-everyone"
+      },
+      {
+        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+      },
+      {
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "title": "IA Hoje — 25 de outubro de 2026",
     "file": "ia-hoje-2026-10-25.mp3",
@@ -636,376 +871,6 @@
         "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-15",
-    "title": "IA Hoje — 15 de outubro de 2026",
-    "file": "ia-hoje-2026-10-15.mp3",
-    "duration": 624,
-    "size": 3741933,
-    "published_at": "2026-10-15T13:51:03.074678+00:00",
-    "news": [
-      {
-        "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch"
-      },
-      {
-        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
-      },
-      {
-        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
-      },
-      {
-        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"
-      },
-      {
-        "title": "Apertus 1.5 Release Notes",
-        "source": "Hugging Face",
-        "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
-      },
-      {
-        "title": "Figma announces new features to define how agents work on its platform",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-      },
-      {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
-      },
-      {
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
-      },
-      {
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
-      },
-      {
-        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
-      },
-      {
-        "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
-      },
-      {
-        "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
-      },
-      {
-        "title": "The AI race is back on",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
-      },
-      {
-        "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "IA Hoje — 14 de outubro de 2026",
-    "file": "ia-hoje-2026-10-14.mp3",
-    "duration": 647,
-    "size": 3881037,
-    "published_at": "2026-10-14T14:10:07.139816+00:00",
-    "news": [
-      {
-        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
-      },
-      {
-        "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
-      },
-      {
-        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
-      },
-      {
-        "title": "My Friend Has No Soul",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/my-friend-has-no-soul/"
-      },
-      {
-        "title": "Men Can’t Stop Faking How Much They Know About AI",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/"
-      },
-      {
-        "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
-      },
-      {
-        "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "source": "Google DeepMind",
-        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
-      },
-      {
-        "title": "The EU’s next chapter in AI is agentic",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-      },
-      {
-        "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
-      },
-      {
-        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
-      },
-      {
-        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
-      },
-      {
-        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
-      },
-      {
-        "title": "Cerebras CEO pushes back on AI doomsday warnings",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
-      },
-      {
-        "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-13",
-    "title": "IA Hoje — 13 de outubro de 2026",
-    "file": "ia-hoje-2026-10-13.mp3",
-    "duration": 590,
-    "size": 3543213,
-    "published_at": "2026-10-13T16:35:38.278202+00:00",
-    "news": [
-      {
-        "title": "Gemini 4 Argon for Robotics",
-        "source": "Google DeepMind",
-        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-      },
-      {
-        "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
-      },
-      {
-        "title": "Gemini 4 Argon: Built to solve your hardest problems",
-        "source": "Google AI",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
-      },
-      {
-        "title": "Google finally releases Gemini 4 Argon",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
-      },
-      {
-        "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/"
-      },
-      {
-        "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Day 1",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/"
-      },
-      {
-        "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
-      },
-      {
-        "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
-      },
-      {
-        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
-      },
-      {
-        "title": "Apple launches HomeView, its first smart display for the home",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
-      },
-      {
-        "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
-      },
-      {
-        "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/"
-      },
-      {
-        "title": "Character.AI files for bankruptcy",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-11",
-    "title": "IA Hoje — 11 de outubro de 2026",
-    "file": "ia-hoje-2026-10-11.mp3",
-    "duration": 511,
-    "size": 3066861,
-    "published_at": "2026-10-11T15:12:58.018281+00:00",
-    "news": [
-      {
-        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
-      },
-      {
-        "title": "I Made Terrible Games With Google’s AI Playground",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/"
-      },
-      {
-        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
-      },
-      {
-        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
-      },
-      {
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
-      },
-      {
-        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
-      },
-      {
-        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
-      },
-      {
-        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-10",
-    "title": "IA Hoje — 10 de outubro de 2026",
-    "file": "ia-hoje-2026-10-10.mp3",
-    "duration": 645,
-    "size": 3872397,
-    "published_at": "2026-10-10T14:56:13.735076+00:00",
-    "news": [
-      {
-        "title": "Anthropic is cutting off its internal evaluations from the internet",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
-      },
-      {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
-      },
-      {
-        "title": "AI agent makers are promising privacy — will they deliver?",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
-      },
-      {
-        "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/"
-      },
-      {
-        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
-      },
-      {
-        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
-      },
-      {
-        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-      },
-      {
-        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
-      },
-      {
-        "title": "AI coding agents generate more code, but not more software",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
-      },
-      {
-        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
-      },
-      {
-        "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
-      },
-      {
-        "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
-      },
-      {
-        "title": "AI disqualification yields new Nikon Small World in Motion winner",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
-      },
-      {
-        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
       }
     ]
   }

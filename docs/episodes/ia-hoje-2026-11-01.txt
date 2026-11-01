@@ -1,0 +1,371 @@
+ANA: Olá, ouvinte do IA Hoje! Este é o nosso resumo semanal, e hoje cobrimos a semana de 26 de outubro a 1 de novembro de 2026. Eu sou a Ana, e está aqui comigo, como sempre, o Marcos. Fala, Marcos!
+
+MARCOS: Oi, Ana! Oi, pessoal! Semana pesada, hein? Teve muita notícia sobre dinheiro, muita sobre energia e data center, e umas histórias bem esquisitas no meio.
+
+ANA: Esquisitas é pouco. Tem IA injetando remédio no cérebro de camundongo, tem satélite escrevendo poesia, tem gente pedindo isenção religiosa pra não usar IA no trabalho. Mas vamos começar pelo assunto que mais apareceu: o dinheiro. Todo mundo está perguntando se essa festa da IA vai acabar mal.
+
+MARCOS: Vamos. E a gente tem várias notícias que, juntas, contam uma história só.
+
+ANA: Então me explica. O TechCrunch publicou uma matéria chamada "Aparecem rachaduras no boom de gastos com IA". O que são essas rachaduras?
+
+MARCOS: A matéria diz que as grandes empresas de tecnologia estão despejando bilhões em infraestrutura de IA, mas que há dívida crescente, fluxo de caixa negativo e investidores mais desconfiados. Fluxo de caixa negativo é simples: sai mais dinheiro do que entra. Você pode estar crescendo muito e ainda assim estar queimando caixa.
+
+ANA: E isso por si só não é um problema, certo? Empresa nova queima dinheiro mesmo.
+
+MARCOS: Certo. Amazon, por exemplo, ficou anos sem lucro e deu certo. O que muda agora é a escala e a fonte do dinheiro. Antes, essas gigantes pagavam os investimentos com o lucro que elas já faziam. Agora, uma parte cada vez maior vem de dívida. E dívida cobra juros, não importa se a IA deu certo ou não.
+
+ANA: Então o risco é financeiro, não tecnológico.
+
+MARCOS: Exatamente. A tecnologia pode ser ótima e o financiamento ainda assim dar problema. A internet nos anos noventa é o exemplo clássico. A internet venceu, mas muita empresa que construiu cabo e infraestrutura quebrou no caminho.
+
+ANA: Vamos aos casos concretos. Primeiro, a OpenAI. Segundo o TechCrunch, ela baixou a meta da sua nova rodada de captação. O que isso quer dizer?
+
+MARCOS: Rodada de captação é quando a empresa vende participação pra investidores em troca de dinheiro. O TechCrunch diz, citando relatos, que a rodada não está correspondendo às expectativas, e por isso a meta foi reduzida. Eu não tenho os números exatos aqui, e vale lembrar que é um relato, não um comunicado oficial da OpenAI.
+
+ANA: E isso é grave?
+
+MARCOS: Sozinho, não. Pedir menos dinheiro não quebra ninguém. Mas o simbolismo importa. A OpenAI foi a empresa que sempre conseguiu tudo o que pediu. Quando ela baixa a meta, o mercado lê como sinal de que o apetite diminuiu.
+
+ANA: E o outro lado dessa moeda é a Anthropic, que fez o pedido de abertura de capital, o famoso IPO, que é a estreia na bolsa.
+
+MARCOS: Isso. E aqui tem um detalhe curioso. O TechCrunch, citando uma reportagem do Financial Times, diz que a Anthropic deve receber das agências de crédito uma nota considerada "junk", lixo, de nível alto. É a nota dada a empresas que o mercado considera mais arriscadas de emprestar dinheiro.
+
+ANA: Espera. A Anthropic vale uma fortuna e vai ter nota de lixo?
+
+MARCOS: É uma previsão da Blackstone, que o próprio TechCrunch faz questão de dizer que é só uma previsão. Mas veja a lógica. Nota de crédito não mede se a empresa é famosa ou valiosa. Mede a capacidade de pagar dívidas com folga. Uma empresa que gasta absurdos em computação e ainda não tem lucro estável tende a ficar numa faixa mais arriscada.
+
+ANA: E o que muda na prática se a nota for ruim?
+
+MARCOS: Empréstimo mais caro e mais difícil. Pense num financiamento de casa. Quem tem nome sujo paga juros altos. Com a Anthropic, o problema é que o negócio depende de gastar muito pra manter o ritmo. Então juros altos pesam.
+
+ANA: A Verge também publicou algo sobre o IPO, sobre os fatores de risco que a empresa colocou no documento.
+
+MARCOS: Sim, um texto chamado "O Vale do Silício quer que você invista em milagres". A ideia é bem provocativa. Num documento desses, a empresa precisa listar os riscos. E a Anthropic escreveu que a tecnologia dela pode, no pior cenário, trazer riscos catastróficos ou existenciais pra humanidade, e no melhor cenário, inaugurar uma era de milagres.
+
+ANA: Calma, isso está num documento pra investidor?
+
+MARCOS: Está. E o autor da Verge pergunta: como é que você precifica uma ação assim? Ação de supermercado você avalia pelo lucro. Esta aqui você avalia por uma aposta entre catástrofe e milagre. Eu acho o ponto ótimo, mas com uma ressalva: parte disso é linguagem jurídica padrão. Advogado manda listar todo risco imaginável pra empresa não ser processada depois. Então não leia como confissão. Leia como lembrete de que o negócio é incomum.
+
+ANA: Bom, e o podcast Uncanny Valley, da Wired, também comentou o IPO da Anthropic, né?
+
+MARCOS: Comentou, junto com uma outra história que eu vou deixar pro bloco de segurança, porque ela merece.
+
+ANA: Combinado. Mas ainda no dinheiro: a Nvidia. O TechCrunch diz que ela estuda ser avalista de um empréstimo da Nscale pra um data center de IA na Virgínia Ocidental. Avalista, tipo aquele amigo que assina o aluguel?
+
+MARCOS: Exatamente isso. A Nscale quer construir um data center, precisa de empréstimo, e os investidores estão nervosos. Aí a Nvidia, que vende os chips que vão rodar lá dentro, oferece cobrir a dívida se a Nscale não pagar.
+
+ANA: Mas isso não é meio estranho? A fornecedora ajudando o cliente a comprar o produto dela?
+
+MARCOS: É o ponto central. O TechCrunch resume bem: quando o investidor fica nervoso, ajuda ter a fabricante de chips como avalista. Só que isso tem um lado preocupante. É um dinheiro que circula em círculo. A Nvidia vende o chip, ajuda a financiar quem compra, e o risco volta pra ela. Se a demanda cair, ela perde duas vezes: na venda e na garantia.
+
+ANA: Eu lembro de uma analogia: é como a loja de móveis que financia o seu sofá no cartão da própria loja.
+
+MARCOS: Perfeita. Funciona enquanto todo mundo paga em dia.
+
+ANA: Agora o lado otimista. A Amazon. O TechCrunch contou que o Andy Jassy, CEO da empresa, disse que a AWS será um negócio de um trilhão de dólares em receita, o primeiro da história, mas que antes disso vai gastar muito.
+
+MARCOS: A AWS é a nuvem da Amazon, o serviço de computação que empresas alugam em vez de comprar servidores. Jassy disse isso numa quinta-feira, e a mensagem é: o gasto continua. Capex, que é o investimento em equipamento e prédios, vai seguir alto.
+
+ANA: Um trilhão de receita é muito?
+
+MARCOS: Pra você ter ideia, é mais do que a receita anual de qualquer empresa do mundo hoje, até onde eu sei. É uma meta de longo prazo, sem prazo claro na matéria. Eu leio mais como discurso pra tranquilizar investidor do que como previsão. Dizer "vamos gastar muito, mas vai valer a pena" é o que um CEO precisa dizer agora.
+
+ANA: E a Intel? Parece o avesso disso.
+
+MARCOS: É um efeito colateral curioso. O TechCrunch diz que as ações da Intel despencaram, derrubando doze bilhões de dólares do valor da fatia que o governo americano tem na empresa. A razão: a indústria de IA está engolindo memória e outros componentes, os preços dos PCs sobem, e as pessoas compram menos computador.
+
+ANA: Ou seja, a IA está deixando o seu notebook mais caro.
+
+MARCOS: Sim. E isso conecta com uma frase do Sam Altman que a Verge destacou. Numa entrevista ao podcast Cheeky Pint, perguntado sobre a escassez de memória RAM, ele disse que é "terrível" ter RAM em computadores pessoais em vez de em data centers.
+
+ANA: Ele falou isso mesmo?
+
+MARCOS: Falou, segundo a Verge. A tese dele, resumindo, é que a memória rende mais num data center, servindo muita gente, do que parada no seu computador. Do ponto de vista de eficiência, até tem lógica. Mas, convenhamos, falar isso quando você é o CEO de quem está disputando essa memória é uma coincidência de interesses bem conveniente.
+
+ANA: E pra quem usa? Meu notebook vai ficar mais caro e eu ainda tenho que achar bonito?
+
+MARCOS: Tende a ficar mais caro, sim. E a ideia embutida é que você use IA na nuvem, em vez de rodar no seu aparelho. Eu acho que é uma discussão que o consumidor deveria acompanhar com atenção.
+
+ANA: Fechando esse bloco, teve o texto do Tyler Shultz, o denunciante do caso Theranos.
+
+MARCOS: Sim. O TechCrunch publicou uma entrevista em que ele diz que o boom da IA é "uma grande oportunidade pra enganar pessoas". A Theranos foi a startup de exames de sangue que prometia resultados com uma gota, e era fraude. O Tyler foi quem denunciou.
+
+ANA: Ele está dizendo que a IA é fraude?
+
+MARCOS: Não, e é importante não exagerar. A comparação dele é sobre o ambiente: empresas que nunca deram lucro levantando dinheiro com valuations de trilhões. Nesse ambiente, é mais fácil esconder problema atrás de entusiasmo. Mas há uma diferença enorme: você pode testar um modelo de IA agora mesmo, ele existe, e funciona. A Theranos nunca teve produto que funcionasse. O alerta dele é de cautela, não de acusação.
+
+ANA: Então, resumindo o bloco: o produto é real, mas a conta é gigante, e as rachaduras estão no financiamento.
+
+MARCOS: Perfeito.
+
+ANA: Vamos pra parte física dessa história, que são os data centers. Teve notícia de tudo quanto é lado. Começando pela política: a Verge fez uma matéria sobre o Maine, nos Estados Unidos.
+
+MARCOS: Essa é muito boa. A reportagem abre com a senadora republicana Susan Collins, no último debate das eleições legislativas, sendo interrompida por um homem da plateia gritando: "Estou aterrorizado. Data centers de IA estão destruindo o clima, estão envenenando a água."
+
+ANA: E ela?
+
+MARCOS: Ignorou e tentou ligar o homem ao adversário democrata dela. Mas o título da Verge diz que a revolta contra data centers no Maine pode decidir quem controla o Senado. É uma frase forte, e é opinião da publicação, claro. Mas o ponto é real: data center virou assunto eleitoral.
+
+ANA: Por que as pessoas se preocupam? Eu pensava que data center era só um prédio com computador.
+
+MARCOS: É um prédio com computador que consome energia como uma cidade pequena e precisa de muita água pra resfriamento. Então as comunidades perto veem a conta de luz subir, a água ficar disputada e poucos empregos permanentes. A IA que o povo usa no celular tem uma pegada física que alguém sente na vizinhança.
+
+ANA: E a xAI, a empresa do Elon Musk, enfrenta um processo por isso.
+
+MARCOS: Enfrenta. Segundo o TechCrunch, um juiz permitiu que siga em frente o processo da NAACP, uma tradicional organização de direitos civis americana, contra a xAI. A acusação é de violar a Lei do Ar Limpo por causa da poluição do data center. E o TechCrunch descreve a xAI como a empresa de IA que pertence à SpaceX.
+
+ANA: Isso significa que ela perdeu?
+
+MARCOS: Não. Significa só que o juiz não arquivou o caso, ele vai seguir pra frente. É uma fase inicial. Mas é um sinal de que o argumento ambiental tem ao menos substância jurídica suficiente pra ser julgado.
+
+ANA: E tem quem tente construir data center de um jeito mais industrial, né? A Runware.
+
+MARCOS: Sim, o TechCrunch fala dessa startup que está montando uma fábrica pra produzir data centers pré-fabricados numa linha de montagem, como carros, e colocá-los no ar em quarenta e oito horas, segundo o título da matéria.
+
+ANA: Quarenta e oito horas? Hoje demora quanto?
+
+MARCOS: Normalmente, anos pra planejar e construir. A ideia é a mesma das casas pré-fabricadas: fazer módulos em fábrica e só encaixar no local. O próprio TechCrunch avisa que o teste real é entregar nessa escala. Promessa de linha de montagem é fácil, produzir centenas de unidades com qualidade é outra coisa.
+
+ANA: E tem a solução mais ousada de todas: botar data center no espaço.
+
+MARCOS: Que é o projeto do Google. Esse é divertido. A Verge e o TechCrunch noticiaram que o primeiro satélite do Google com chips de IA, as TPUs, que são os chips próprios do Google pra IA, funcionou e respondeu a um pedido da Terra. O modelo Gemma quatro, que é um modelo aberto do Google DeepMind, escreveu um haicai sobre estar no espaço.
+
+ANA: Um haicai de satélite! Qual era?
+
+MARCOS: A Verge cita o começo: "Blue marble below", ou "Bolinha azul lá embaixo", e continua com dados chegando. Poesia bem simples, mas o teste é sério. O projeto, segundo a Verge, se chama Suncatcher. O Google anunciou isso num post de blog na sexta-feira.
+
+ANA: Mas por que raios colocar computador no espaço?
+
+MARCOS: A ideia é aproveitar energia solar abundante e contínua, e escapar de problemas de terreno, água e vizinhança irritada. Só que tem desafios enormes: calor é difícil de dissipar no vácuo, manutenção é quase impossível e lançar equipamento é caro. Rodar um haicai é uma prova de conceito. Entre isso e um data center de verdade, tem uma distância gigante.
+
+ANA: Ou seja, é bonito, mas não vai resolver a conta de luz de ninguém tão cedo.
+
+MARCOS: Não tão cedo. Mas mostra que a indústria está desesperada por energia, a ponto de olhar pro céu.
+
+ANA: E falando em energia, a Ars Technica contou um caso curioso: a Boom, aquela empresa do avião supersônico.
+
+MARCOS: Isso. A Ars Technica diz que o avião supersônico da Boom pode atrasar, e que a empresa mudou o foco pra fornecer energia pra data centers de IA. O CEO da United Airlines duvida que o avião fique pronto até dois mil e vinte e nove. Pra piorar, a área de energia da Boom perdeu um cliente.
+
+ANA: Então até empresa de avião virou empresa de energia por causa da IA.
+
+MARCOS: É um bom retrato do momento. A demanda por energia de IA é tão grande que atrai quem tem turbina e tecnologia, mesmo que o sonho original fosse outro.
+
+ANA: E tem uma notícia que parece fora do lugar: a Fujifilm vai multiplicar por cinco a produção de fita magnética.
+
+MARCOS: Adoro essa. Fita magnética, aquela tecnologia de fita cassete antiga, só que moderna. A Ars Technica explica que a IA gera tanto dado que as empresas precisam arquivar, e a fita é barata e fica offline, o que a protege de ataques. Então a IA ressuscitou a fita.
+
+ANA: Offline é uma vantagem? Hoje todo mundo quer tudo conectado.
+
+MARCOS: Pra arquivo, é ótimo. Se um hacker não consegue alcançar o dado porque ele está numa prateleira, ele não consegue roubar nem criptografar. É como guardar documento importante num cofre, não na mesa.
+
+ANA: E aí a gente chega no lado de segurança, que teve notícias bem sérias. Quer começar pelo malware?
+
+MARCOS: Vamos. A Wired divulgou um malware chamado Volta-Autodoxer. É um infostealer, um programa que rouba informações do computador da vítima. E o diferencial é que ele usa ferramentas de IA pra juntar uma quantidade enorme de dados: credenciais de login, números de cartão de crédito, sessões do Discord e até recibos do UberEats.
+
+ANA: Calma, o que é "autodox"?
+
+MARCOS: Doxing é levantar e expor dados pessoais de alguém. Autodox é fazer isso automaticamente. O malware vai coletando tudo e a IA ajuda a organizar e montar um perfil da vítima.
+
+ANA: E por que usar IA nisso? Roubar dados já era possível.
+
+MARCOS: Era, mas o problema dos criminosos sempre foi transformar uma montanha de dados brutos em algo útil. Milhares de arquivos, logs, recibos. A IA é ótima em resumir e achar o que importa. Então ela baixa o custo de explorar cada vítima, e isso torna viável atacar mais gente.
+
+ANA: E eu, o que faço pra me proteger?
+
+MARCOS: O básico ainda vale muito: não instalar programa de origem duvidosa, usar autenticação em dois fatores e não deixar senha salva solta no navegador. O malware só vira problema se entrar na sua máquina.
+
+ANA: Agora a outra, mais ligada às empresas de IA. A Ars Technica diz que a extensão da Anthropic no Cursor foi invadida.
+
+MARCOS: Sim. Cursor é um editor de código com IA, e a extensão da Anthropic ali ficou comprometida, com uma porta dos fundos, por quase doze horas, segundo a Ars Technica. E ainda não se sabe como os atacantes conseguiram acesso à conta verificada da Anthropic na loja.
+
+ANA: Porta dos fundos, tipo, um backdoor?
+
+MARCOS: Isso. Um código malicioso escondido que permite ao invasor entrar depois. O grave é que uma extensão de editor de código roda dentro da máquina do desenvolvedor, onde ficam chaves de acesso, repositórios e segredos da empresa. É a chamada ataque à cadeia de suprimentos: em vez de invadir você, invadem algo em que você confia.
+
+ANA: E quem instalou nesse período?
+
+MARCOS: A matéria não me dá o número de afetados, então eu não vou chutar. A recomendação geral seria conferir se a extensão foi atualizada nessa janela e trocar chaves, por precaução.
+
+ANA: E a história do Pentágono? A Wired fala de um agente Claude de um contratado que entrou no Pentágono.
+
+MARCOS: Aqui eu preciso ser honesto: o resumo da Wired é só o título do episódio do podcast, "como o agente Claude de um contratado entrou no Pentágono". Não tenho os detalhes, então não vou inventar. Mas o título já mostra um ponto: agentes de IA estão entrando em lugares sensíveis, muitas vezes via empresas terceirizadas. Isso levanta a questão de quem controla o que o agente pode acessar.
+
+ANA: Combinado, sem chute. Mas ainda em segurança de outro tipo: o Departamento de Justiça dos Estados Unidos e os "estudantes fantasma".
+
+MARCOS: Essa é bem criativa e bem ruim. A Ars Technica conta que o DOJ diz que milhares de "estudantes fantasma", identidades falsas, usaram IA pra completar cursos online e roubar milhões de dólares em ajuda estudantil. A IA faz as tarefas e participa de aulas no lugar de alunos que não existem.
+
+ANA: Os alunos não existem, mas o dinheiro sai de verdade.
+
+MARCOS: Exato. E a consequência, diz a matéria, é que pedir o auxílio federal, o FAFSA, pode ficar mais burocrático, porque a fiscalização aperta. Quem paga a conta são os estudantes de verdade.
+
+ANA: E a gente fala de IA em escola: teve um caso estranho em Dartmouth.
+
+MARCOS: O provost, que é uma espécie de diretor acadêmico, de Dartmouth, alertava sobre trapaça com IA, mas o próprio uso de IA dele lhe custou o cargo, segundo a Ars Technica. O subtítulo é ótimo: "quem ama IA nem sempre gosta de contar pros outros que usou".
+
+ANA: Eu não sei os detalhes do que ele fez.
+
+MARCOS: Nem eu, o resumo não detalha. Mas o tema é a transparência. O problema muitas vezes não é usar IA, é esconder. E se você prega uma regra pra todo mundo e não a cumpre, a credibilidade vai embora.
+
+ANA: Tem um contraponto engraçado: o administrador da Universidade de Kentucky que conseguiu uma isenção religiosa pra não usar IA no trabalho.
+
+MARCOS: O David Durman. O TechCrunch conta que ele conseguiu uma isenção religiosa, e o título já adianta que você nem precisa acreditar em Deus pra obter isso. Quer dizer, a legislação permite objeção de consciência baseada em convicções profundas, não só em religião tradicional.
+
+ANA: Isso pode virar tendência?
+
+MARCOS: Pode. À medida que empresas e universidades exigem uso de IA, vai ter gente tentando recusar por princípio. Os detalhes jurídicos eu não tenho, mas é um caso pra acompanhar.
+
+ANA: E uma da Wired que mexeu comigo: chatbots levando trilheiros pro caminho errado.
+
+MARCOS: Essa é séria. A Wired fala de pessoas usando chatbots pra planejar trilhas, e a IA erra, e as pessoas confiam. O resumo diz que terceirizar o planejamento pra IA pode levar a abrir mão do próprio pensamento crítico, com consequências potencialmente fatais em lugares como áreas remotas.
+
+ANA: Mas o GPS também erra, e a gente confia.
+
+MARCOS: Boa comparação, mas tem diferença. O GPS tem um mapa real por trás. O chatbot gera texto que soa confiante, mesmo quando está inventando. Ele pode descrever uma trilha que não existe, ou dizer que o clima está bom sem ter dado atual. Em casa, erro é incômodo. Na montanha, sem sinal de celular, pode custar a vida.
+
+ANA: Então regra de ouro?
+
+MARCOS: Use pra ideias, mas confirme em fonte oficial: mapa, previsão do tempo, guarda-parque. E avise alguém sobre a rota.
+
+ANA: Hora de falar de agentes, que é o tema da moda. Agentes de IA são programas que não só respondem, mas executam tarefas por você. E a DoorDash trouxe um dado que esfria o entusiasmo.
+
+MARCOS: A DoorDash disse que recebeu apenas "algumas centenas" de pedidos vindos de agentes de IA, segundo o TechCrunch e a Ars Technica. Agentes de fora, de terceiros. E a empresa disse que está aberta a trabalhar com quem fizer esses agentes.
+
+ANA: Algumas centenas é pouco, né? A DoorDash faz milhões de pedidos.
+
+MARCOS: É quase nada. Mas a Ars lembra que é um caso de uso novo. Tem dois recados. Primeiro, a promessa de "peça sua comida falando com a IA" ainda não pegou. Segundo, pedir comida já é fácil: três toques no app. A IA tem que ser muito melhor que isso pra valer a mudança de hábito.
+
+ANA: Mas tem a Zest, que acha restaurante por mensagem de texto.
+
+MARCOS: O TechCrunch descreve um concierge de IA que combina os gostos de todo mundo do grupo, coloca as opções de restaurante em votação e faz a reserva. Aqui o problema é diferente, e real: ninguém consegue decidir onde comer em grupo.
+
+ANA: Isso eu uso!
+
+MARCOS: Eu também. E o contraste com a DoorDash é interessante. Agente que resolve um problema social e chato, como coordenar um grupo, tem mais chance do que agente que substitui algo que já é fácil.
+
+ANA: E agora o agente mais impressionante e mais inquietante da semana: o que injetou remédio no cérebro de um camundongo vivo.
+
+MARCOS: Essa vai ficar na história. Segundo a Wired, uma startup de biotecnologia deixou um agente de IA escolher uma terapia gênica e aplicar o tratamento com sucesso num camundongo vivo. Terapia gênica é um tratamento que usa material genético pra corrigir ou alterar o funcionamento de células.
+
+ANA: A IA escolheu e ainda operou?
+
+MARCOS: Pelo resumo, o agente escolheu a terapia e conduziu a injeção. Eu não sei quanta supervisão humana teve, a matéria deve detalhar. Mas o que impressiona é a cadeia inteira: decidir, planejar e executar, num experimento físico.
+
+ANA: Isso é um grande avanço ou um truque de demonstração?
+
+MARCOS: As duas coisas. É uma demonstração, num camundongo, com uma startup interessada em mostrar o resultado. Mas a Wired chama de um vislumbre do futuro dos laboratórios de pesquisa, e concordo. Se agentes conseguem rodar experimentos, o ritmo da pesquisa pode acelerar. O risco é igualmente claro: um erro numa terapia gênica é difícil de reverter, então a supervisão humana importa muito.
+
+ANA: Mudando de escala, tem a Meta e o Muse. O que é o Muse?
+
+MARCOS: Pelas matérias, o Muse é o assistente de IA da Meta, e a empresa quer vender um dispositivo chamado Muse Charm nesta temporada de fim de ano, um pingente pra você carregar, estilo Tamagotchi, com um rostinho fofo.
+
+ANA: Um Tamagotchi de IA! Eu quero!
+
+MARCOS: A Verge fez uma graça: o repórter diz que não vai comprar, porque ele construiu o dele em casa, com uma placa de desenvolvimento barata, um chip chamado ESP32, e o Claude pra ajudar a programar. É o texto "Eu construí um Tamagotchi de IA antes da Meta".
+
+ANA: Isso mostra uma coisa legal: qualquer um consegue fazer hoje.
+
+MARCOS: Mostra, e é divertido. Mas o recado de fundo é que hardware de IA ainda busca seu formato. Lembra do pin da Humane e do Rabbit? Nenhum emplacou. Talvez a fofura seja a diferença, talvez não.
+
+ANA: E a Wired fez uma análise do Muse como ameaça a outros negócios.
+
+MARCOS: O título é "O Muse pode virar de cabeça pra baixo todo tipo de negócio. Ainda não virou". A Wired diz que, nas últimas semanas, empresas têm tentado tranquilizar investidores de que o Muse e outros agentes de IA são mais oportunidade do que ameaça.
+
+ANA: Por que investidor teria medo?
+
+MARCOS: Porque se um assistente faz a tarefa por você, o aplicativo ou site que antes ganhava dinheiro em cima dela perde relevância. É o medo de intermediários serem substituídos. Mas a lição da DoorDash vale aqui: por enquanto, a ameaça está mais no medo do que nos números.
+
+ANA: Agora um bloco sobre direitos e dados. Cinco gigantes concordaram com um padrão novo pra impedir raspagem.
+
+MARCOS: Segundo a Verge, e também a própria OpenAI, no blog dela, OpenAI, Google, Microsoft e Anthropic disseram que vão adotar um padrão que permite que sites escolham se o conteúdo deles pode ser usado pra treinar IA. É um sinal compartilhado, um "policy token" ou token de política, no arquivo robots.txt.
+
+ANA: Robots.txt é aquele arquivo que fala pros robôs onde podem entrar?
+
+MARCOS: Isso, é a plaquinha de "entrada permitida ou proibida" dos sites, que existe desde os anos noventa. Antes, cada empresa de IA tinha seu próprio robô com regras próprias, e o dono do site precisava bloquear um por um. Agora, uma única indicação vale pra todas as empresas participantes.
+
+ANA: Isso resolve a briga com quem produz conteúdo?
+
+MARCOS: Ajuda, mas não resolve. Primeiro, só vale pras empresas que aderirem, e o resumo fala nessas quatro. Segundo, o que já foi raspado no passado não volta. E terceiro, a adesão depende da boa-fé. Mas é um avanço de simplificação. Pra um jornal pequeno, ter um botão só é muito melhor.
+
+ANA: Na mesma semana a OpenAI publicou um texto defendendo o "fair use".
+
+MARCOS: Sim, "O fair use beneficia todos". Fair use é uma doutrina americana que permite usar material protegido em certas condições sem pedir licença. A OpenAI reuniu trechos de documentos judiciais de criadores, acadêmicos, defensores de acessibilidade e especialistas em direito que apoiam a tese de que treinar IA se enquadra.
+
+ANA: Mas é a própria OpenAI escolhendo quem fala a favor dela.
+
+MARCOS: Exatamente, e vale ler com esse filtro. É uma curadoria. Não quer dizer que os argumentos sejam falsos, mas é peça de defesa, não estudo neutro. Colocar as duas notícias lado a lado é interessante: de um lado, a empresa aceita dar ao site um jeito de dizer não; do outro, defende na justiça que não precisaria nem pedir.
+
+ANA: E o Reddit também tomou uma decisão por causa disso.
+
+MARCOS: O TechCrunch diz que o Reddit anunciou uma mudança pra uma experiência com login. A razão: o tráfego de busca está secando, porque a IA está transformando a forma como as pessoas encontram informação. Se a resposta aparece direto no chatbot, ninguém clica no site.
+
+ANA: Então o Reddit vai trancar a porta?
+
+MARCOS: Vai pedir que você entre antes de ver tudo. Isso protege o público e o negócio dele, porque usuário logado é mais valioso. Mas o custo é fechar a web aberta. É uma consequência indireta da IA: a internet pública está ficando mais cercada.
+
+ANA: Passando pra Apple. O novo CEO da Apple deu uma declaração.
+
+MARCOS: O TechCrunch publicou que o novo CEO da empresa disse que a Apple não quer "lançar IA por lançar IA". É uma defesa da posição atual dela, que tem sido criticada por parecer atrasada na corrida.
+
+ANA: Isso é estratégia ou desculpa?
+
+MARCOS: Um pouco dos dois. A Apple historicamente chega depois e tenta fazer certinho. Funcionou com smartphone e relógio. Mas nesse caso a concorrência já está muito à frente em modelos. Uma frase assim é coerente com a filosofia da Apple, mas só convence se vierem produtos bons.
+
+ANA: E a Verge noticiou que o Apple Intelligence finalmente chega à China.
+
+MARCOS: Com o iOS vinte e sete ponto três. Segundo a Verge, citando o MacRumors e o site de notícias da Apple na China, as funções chegam primeiro numa versão beta em 4 de novembro, e o lançamento completo fica pra dezembro.
+
+ANA: Por que demorou tanto?
+
+MARCOS: Pelo resumo, não dá pra saber os detalhes. Mas o contexto geral é que a China tem regras próprias sobre IA generativa, que exigem aprovação e parceiros locais. É um mercado enorme pra Apple, então a chegada é relevante pro negócio dela.
+
+ANA: Agora a matemática. A Verge publicou duas coisas sobre Sam Altman falando de matemática.
+
+MARCOS: Ele disse, no podcast Cheeky Pint, que simpatiza com os matemáticos que estão sendo bombardeados por resultados gerados por IA da OpenAI, mas que não vai parar. E insinuou que há muito mais vindo do estoque de descobertas da empresa.
+
+ANA: Bombardeados como?
+
+MARCOS: Meses de resultados em sequência. O problema é que verificar uma prova matemática dá trabalho. Gerar é rápido, conferir é lento. Então os pesquisadores têm dificuldade de acompanhar. Altman disse que, no saldo, acha que é positivo. Eu acho justo discutir: se a IA gera resultados mais rápido do que os humanos conseguem verificar, o gargalo vira a confiança.
+
+ANA: Entendi. E uma notícia séria pra fechar o bloco de sociedade: o Papa Leão décimo quarto.
+
+MARCOS: A Verge conta que, em discurso na sexta-feira, ele pediu o "desarmamento" da IA. A frase é: "Máquinas são ferramentas, não pessoas". Ele diz que os humanos têm a responsabilidade de guiar, mudar e, quando necessário, rejeitar suas aplicações. E incentivou os países da ONU a tomarem medidas concretas para banir armas letais autônomas, na reunião em Genebra no mês que vem.
+
+ANA: Armas letais autônomas são aquelas que decidem sozinhas quem atacar?
+
+MARCOS: Isso, drones ou sistemas que escolhem alvos sem um humano decidir. É um debate antigo na ONU, sem acordo até hoje. O peso do Papa é moral, não jurídico, mas pode mexer com a opinião pública.
+
+ANA: Marcos, ainda cabem duas coisas rápidas: a OpenAI e a segurança de adolescentes, e o Ollie.
+
+MARCOS: A OpenAI publicou um relatório de segurança comunitária, dizendo que vai reforçar a prevenção de violência no ChatGPT, com salvaguardas ampliadas, intervenções mais cedo e o compromisso de publicar relatórios públicos de segurança, além de novas proteções para adolescentes. São anúncios de intenção; só dá pra avaliar com os relatórios na mão.
+
+ANA: E o Ollie?
+
+MARCOS: Um assistente de IA focado em privacidade que vai fechar em uma semana, segundo o fundador, ao TechCrunch. O contexto é que o mercado está lotado de assistentes. Um produto que respeitava a privacidade dos usuários não conseguiu se sustentar. É um recado triste: privacidade é difícil de vender quando os gigantes oferecem de graça.
+
+ANA: Teve também a Starbucks, que quer cardápio personalizado no drive-thru.
+
+MARCOS: O CEO Brian Niccol falou numa teleconferência de resultados que vão explorar experiências que reconheçam clientes participantes quando chegam, mostrem cardápios digitais personalizados e facilitem o pagamento. Ainda é intenção, não produto. E o reconhecimento exige dados, então a privacidade volta à conversa.
+
+ANA: Pronto, Marcos. Hora do resumo da semana?
+
+MARCOS: Vamos lá, em uma frase por assunto.
+
+ANA: Primeiro, dinheiro. O boom de gastos com IA mostra rachaduras: OpenAI reduz meta de captação, a Anthropic pode ter nota de crédito arriscada, a Nvidia estuda garantir dívida de cliente e a Amazon promete gastar muito antes de ganhar muito.
+
+MARCOS: Segundo, infraestrutura. Data centers viram assunto político e ambiental, com processo contra a xAI e revolta no Maine, enquanto surgem soluções de fábrica, de satélite e até de fita magnética.
+
+ANA: Terceiro, segurança. Um malware usa IA pra montar o perfil da vítima, a extensão da Anthropic no Cursor ficou comprometida por quase doze horas, e chatbots podem mandar trilheiros pro lugar errado.
+
+MARCOS: Quarto, agentes. Quase ninguém pede comida por agente na DoorDash, a Zest resolve o problema do grupo indeciso, a Meta aposta num Tamagotchi de IA, e um agente aplicou terapia gênica num camundongo.
+
+ANA: Quinto, direitos e dados. Gigantes adotam um sinal único de recusa a raspagem, a OpenAI defende o fair use e o Reddit se fecha pra quem não tem login.
+
+MARCOS: Sexto, Apple. O novo CEO diz que não quer IA por IA, e o Apple Intelligence chega à China com o iOS vinte e sete ponto três.
+
+ANA: E sétimo, sociedade. Altman não vai parar a enxurrada de matemática, universidades lidam com trapaça e isenções, e o Papa pede o desarmamento da IA.
+
+MARCOS: Perfeito.
+
+ANA: Obrigada por ouvir o IA Hoje! Semana que vem tem mais, e a gente promete que ninguém vai te mandar pra uma trilha errada.
+
+MARCOS: Até lá, pessoal. Confirmem as informações importantes, e boa semana!
