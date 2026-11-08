@@ -1,0 +1,143 @@
+ANA: Olá, ouvinte do IA Hoje! Este é o resumo semanal em que a gente conversa com calma sobre o que rolou no mundo da inteligência artificial. Nesta semana, de 2 a 8 de novembro de 2026, teve eleição americana mexendo com o setor, avaliação de empresa na casa dos trilhões, relatório assustando pesquisador e muita briga em torno de chip. Marcos, bom dia!
+MARCOS: Bom dia, Ana! Bom dia, gente. Semana pesada, mas daquelas boas de conversar.
+ANA: Vamos começar pela política, porque as eleições americanas de meio de mandato foram na terça-feira e mexeram com a tecnologia. O que aconteceu?
+MARCOS: Segundo o TechCrunch, os democratas tiveram vitórias históricas. Mas o detalhe que interessa pra gente é outro. Os eleitores votaram em quarenta e uma medidas ligadas a data centers, que são aqueles galpões gigantes cheios de servidores. Em todas, menos uma, a maioria votou por impor mais restrições à construção deles.
+ANA: Quarenta de quarenta e uma. Isso não é um resultado apertado.
+MARCOS: Não é. E o TechCrunch lembra que, mesmo quando data center não estava na cédula, ele apareceu na campanha. O The Verge, no podcast Vergecast, resumiu de um jeito direto: os eleitores votaram em peso nos democratas e, nas palavras deles, contra a IA.
+ANA: Calma, "contra a IA" é um pouco forte, né? As pessoas continuam usando o ChatGPT.
+MARCOS: Boa distinção. Pelo que se vê, as pessoas não estão contra usar o chatbot. Estão contra o vizinho dele, que é um prédio enorme que consome muita energia e pode encarecer a conta de luz. O The Verge mantém uma página acompanhando essas brigas pelo mundo. Elas giram em torno de rede elétrica, conta de energia, comunidades próximas e meio ambiente. E isso já era um tema forte dos dois partidos antes da eleição.
+ANA: Então o problema nem é a IA em si. É quem paga a conta.
+MARCOS: Exatamente. Pensa assim. Você mora numa cidade pequena e, de repente, chega um prédio que consome energia como uma cidade inteira. A empresa promete alguns empregos, mas você teme que sua conta de luz suba. Aí aparece um plebiscito. Você vota a favor de limitar?
+ANA: Eu votaria, sinceramente.
+MARCOS: Pois é. E a Meta percebeu o risco. O TechCrunch contou que a empresa avisou que a reação política contra data centers pode dificultar a expansão da IA e ameaçar investimentos futuros. Quando uma gigante dessas diz isso em público, é porque está preocupada de verdade.
+ANA: E tem o caso do Elon Musk, que o TechCrunch citou no podcast Equity, falando que as coisas ficaram complicadas pra ele e pros data centers.
+MARCOS: Isso. O resumo do programa é curto, então não dá pra detalhar tudo. Mas a leitura geral é que o setor entra numa fase em que construir infraestrutura vai depender de convencer comunidades e políticos, não só de ter dinheiro.
+ANA: E mostra isso na prática, tem a notícia da Crusoe, né?
+MARCOS: Tem. Segundo o TechCrunch, a Crusoe vendeu pro Google um projeto de data center em Wyoming que estava com problemas. O TechCrunch usa essa venda pra ilustrar como é difícil tocar esses projetos gigantes. Não tenho detalhes de por que ele estava complicado, então não vou inventar. Mas é um sinal: quando o projeto de uma empresa encrava, quem tem caixa grande, como o Google, pode comprar e tentar terminar.
+ANA: Então a eleição pode aumentar o custo de fazer isso.
+MARCOS: Pode. Minha opinião: não acho que a IA vá parar. Mas a era de construir onde quiser, rápido e sem conversar com ninguém parece estar acabando. Quem for esperto vai investir em relação com a comunidade, e isso custa tempo e dinheiro.
+ANA: Ok. E falando em dinheiro, vamos pro lado financeiro. A OpenAI foi avaliada em um trilhão e duzentos e cinquenta bilhões de dólares?
+MARCOS: Foi. Segundo a Bloomberg, citada pelo The Verge e pelo TechCrunch, a OpenAI levantou mais onze bilhões de dólares numa nova rodada, com avaliação de um trilhão e duzentos e cinquenta bilhões. O TechCrunch faz uma ressalva importante: a rodada ainda não fechou, e a expectativa é que feche nas próximas semanas. Ou seja, é "segundo informações".
+ANA: Um trilhão e duzentos e cinquenta bilhões. Eu nem consigo imaginar isso.
+MARCOS: Vou tentar ajudar. Em março, a empresa tinha levantado cento e vinte e dois bilhões de dólares com avaliação de oitocentos e cinquenta e dois bilhões. Em poucos meses, a avaliação subiu quase quatrocentos bilhões. Isso é mais do que muitas empresas famosas valem inteiras.
+ANA: E o que significa "avaliação"? Porque eu confundo isso com dinheiro no caixa.
+MARCOS: Boa pergunta. Avaliação é o preço que os investidores aceitam pagar pela empresa inteira, calculado pelo que eles pagam por uma fatia pequena. Não é dinheiro guardado. Os onze bilhões é o dinheiro novo que entra. O um trilhão e duzentos e cinquenta bilhões é o tamanho que o mercado atribui ao negócio.
+ANA: E isso tá ligado a abrir capital? Eu li algo sobre IPO.
+MARCOS: Está sim. IPO é quando a empresa vende ações na bolsa pela primeira vez. O TechCrunch contou que o presidente da OpenAI, Greg Brockman, disse num evento do Wall Street Journal que a empresa pode estar pronta para um IPO em 2027. Ele destacou que a OpenAI vem ganhando espaço no mercado corporativo, onde a rival Anthropic já tinha avançado bastante.
+ANA: E a Anthropic está mais perto, né?
+MARCOS: Pelo que o The Verge e o TechCrunch dizem, a Anthropic está perto do IPO. Então temos as duas maiores empresas de IA do mundo se preparando pra bolsa. Isso muda o jogo, porque empresa de capital aberto precisa mostrar números pro público, trimestre a trimestre.
+ANA: E tem uma notícia que parece esfriar um pouco essa festa: os dados da Ramp.
+MARCOS: Essa é muito interessante. A Ramp é uma empresa de gestão de gastos corporativos, e o TechCrunch mostrou os dados dela: o uso de IA continua subindo, mas o gasto parou de crescer. E isso justo quando a Anthropic se aproxima do IPO.
+ANA: Como assim usar mais e gastar igual?
+MARCOS: Duas coisas, segundo a matéria. Primeiro, cortes de preço. Se o mesmo serviço fica mais barato, a empresa usa mais gastando o mesmo. Segundo, os maiores gastadores estão controlando melhor os custos, por exemplo usando modelos menores e mais baratos para tarefas simples.
+ANA: É como quando você descobre que não precisa pedir o prato mais caro todo dia.
+MARCOS: Perfeito. E isso desafia a suposição de investidores de que o gasto vai crescer em ritmo explosivo pra sempre. Mas é bom ter cautela: é um conjunto de dados de uma empresa, com clientes de um perfil específico. Não é o mercado inteiro. Ainda assim, quando a conversa é de avaliações de trilhões, qualquer sinal de que a receita não acompanha o entusiasmo merece atenção.
+ANA: Então tá: dinheiro entrando com tudo lá em cima, e um sinal de moderação nos clientes lá embaixo.
+MARCOS: Essa é a tensão da semana. Fica de olho.
+ANA: Mudando de assunto, mas ainda dentro dessas empresas. Teve um relatório que, segundo o The Verge, está deixando pesquisadores alarmados. Fala da Anthropic usando IA pra construir IA.
+MARCOS: Esse é, na minha opinião, o assunto mais importante da semana. O relatório foi publicado na quinta-feira pela METR, uma organização de pesquisa em segurança de IA, depois de uma investigação de onze semanas. A conclusão, segundo o The Verge: a Anthropic está usando IA para construir IA mais poderosa, e isso parece estar funcionando muito bem. Os modelos da empresa estão melhorando mais ou menos duas vezes mais rápido do que há um ano, com pouco sinal de desaceleração.
+ANA: Espera. Ela usa a IA pra melhorar a própria IA? Isso não é aquele cenário de filme?
+MARCOS: Calma, não é o filme. Mas é a versão real e mais mundana dele. Imagina uma fábrica de carros que usa robôs para construir a próxima geração de robôs. Os engenheiros ainda existem, mas parte do trabalho, como escrever código, rodar experimentos e analisar resultados, é feita pela IA. Isso acelera o ciclo.
+ANA: E por que isso alarma pesquisadores? Se funciona, não é bom?
+MARCOS: Funcionar é justamente o que preocupa. Se cada geração ajuda a construir a seguinte, a velocidade pode crescer num ritmo que os humanos têm dificuldade de acompanhar, avaliar e controlar. A segurança depende de tempo pra testar. Se o ritmo dobra, o tempo pra entender o que foi feito cai pela metade.
+ANA: E o "duas vezes mais rápido" é uma medida confiável?
+MARCOS: É aí que vale ser crítico. A METR é uma organização respeitada em medir capacidade de modelos, e a investigação foi longa. Mas não li o relatório inteiro, só a cobertura do The Verge, então não vou cravar a metodologia. A leitura que eu faço: é um sinal sério vindo de um avaliador independente, e não um comunicado da própria empresa. Isso pesa.
+ANA: E a ligação com a notícia do IPO é óbvia, né? Quanto mais rápido evolui, mais a empresa vale.
+MARCOS: Sim, e dá pra ler o relatório dos dois jeitos. Pra investidor, é ótimo. Pra quem estuda risco, é um alerta. As duas leituras são legítimas ao mesmo tempo.
+ANA: Ok, agora vamos pra segurança digital, que teve muita coisa. A Wired publicou que modelos chineses gratuitos estão ficando assustadoramente bons em hackear.
+MARCOS: Essa matéria descreve um experimento em que modelos de IA foram colocados pra invadir redes simuladas. Os resultados do DeepSeek e do GLM, que são modelos chineses de acesso gratuito, ficaram não muito atrás do modelo de segurança cibernética mais avançado da OpenAI, que não é público.
+ANA: Então o gratuito chega perto do que a OpenAI guarda a sete chaves?
+MARCOS: Perto, segundo o experimento. E aqui está o ponto central. Uma empresa pode decidir não liberar um modelo perigoso. Mas se existe uma alternativa aberta quase tão boa, a decisão de segurança perde parte do efeito. Não dá mais pra confiar que o acesso restrito resolve.
+ANA: E o que a OpenAI fez de novo na área?
+MARCOS: O TechCrunch noticiou que a OpenAI lançou um novo modelo de cibersegurança e pergunta se isso basta, já que os laboratórios estão sob escrutínio sobre como protegem a infraestrutura digital. A própria OpenAI também anunciou no blog uma parceria com a Hacktron, pra encontrar vulnerabilidades nos sistemas dela, testar conexões com serviços de terceiros e reforçar as defesas usando IA de ponta.
+ANA: Então a OpenAI paga alguém pra tentar invadir ela mesma.
+MARCOS: É prática comum em segurança. Quem melhor para achar a falha do que quem pensa como atacante? A diferença é que agora a IA entra nesse papel. Mas repara que é a própria empresa contando. Vale como boa prática, mas não substitui checagem independente.
+ANA: E o Alex Stamos, no podcast do The Verge?
+MARCOS: Ele é diretor de segurança da Cognition e conhecido no meio. O título do episódio já diz tudo: "A IA quebrou o mundo da cibersegurança. E agora?". Ele é muito direto ao descrever como a situação está bagunçada. O resumo que tenho é curto, então não vou atribuir frases a ele. Mas o recado geral combina com o resto da semana: ataque ficou mais barato e rápido, e a defesa corre atrás.
+ANA: E uma notícia quase irônica: ferramentas de hackear com IA expostas na internet.
+MARCOS: Muito irônica. O TechCrunch contou que pesquisadores acharam centenas de servidores com a ferramenta de testes de invasão Artex abertos na internet, de modo que qualquer pessoa podia acessar. Ou seja, uma ferramenta feita pra testar segurança estava sem segurança.
+ANA: Sapateiro com sapato furado.
+MARCOS: Exatamente. E mostra que o problema não é só tecnologia sofisticada, é também descuido básico. Uma ferramenta dessas nas mãos erradas dá poder de ataque pronto.
+ANA: E o mercado está reagindo, né? Teve compra de startup.
+MARCOS: Teve. O TechCrunch informa que a Palo Alto Networks está em conversas para comprar a Clutch, uma startup de segurança para agentes de IA, por quinhentos milhões de dólares. A fonte diz que a Clutch tinha sido avaliada em oitenta e cinco milhões de dólares da última vez.
+ANA: De oitenta e cinco pra quinhentos? Quase seis vezes.
+MARCOS: É um indicativo de onde está o dinheiro. Agentes de IA, aqueles programas que agem sozinhos por você, abrem portas novas pra ataque. Quem protege isso vira ativo valioso. Mas lembra: é "em conversas", não está fechado.
+ANA: Então a semana de cibersegurança resumida: ataque melhorando, defesa investindo, e gente deixando porta aberta.
+MARCOS: Bem resumido.
+ANA: Falando em chip e segurança, vem uma história que parece de filme de espionagem. A Nvidia.
+MARCOS: Tem duas partes. A primeira: o New York Times, citado pelo The Verge, afirma que o serviço de inteligência chinês, o Ministério da Segurança do Estado, recrutou uma executiva da Megaspeed, chamada Alice Huang, para espionar Jensen Huang, o presidente da Nvidia. O objetivo seria obter informações sobre chips de IA americanos e, nas palavras da reportagem, potencialmente influenciar a empresa para que seus chips mais avançados fossem liberados pra China.
+ANA: Alice Huang e Jensen Huang. Parentes?
+MARCOS: Não há nada nas matérias indicando isso, é só coincidência de sobrenome comum. O TechCrunch acrescenta que um memorando de inteligência americano, que circulou no início do ano, teria feito essa afirmação. Tudo isso é segundo reportagens e documento; não temos confirmação oficial pública do que está nesses textos.
+ANA: E a segunda parte?
+MARCOS: Mais prosaica, e talvez mais preocupante. O The Verge, baseado no New York Times, conta que há dúvida sobre se o Departamento de Comércio e a Nvidia estão fazendo a diligência necessária ao aprovar empresas chinesas para lidar com os chips H200. Uma das aprovadas, a New Matrix, tem escritórios vazios, descritos como uma "casca cinza oca".
+ANA: Então liberaram chip pra um escritório vazio?
+MARCOS: É o que a reportagem sugere, e é o porquê do título. Chip avançado é objeto de restrição de exportação justamente porque pode servir pra uso militar e vigilância. Se a checagem é frouxa, a restrição vira de papel.
+ANA: E o que isso mostra?
+MARCOS: Mostra a dificuldade de controlar uma coisa pequena, valiosa e fácil de revender. Além disso, as duas histórias se complementam: de um lado, pressão de espionagem para facilitar acesso; do outro, uma fiscalização que parece falhar. Minha opinião: reportagens assim tendem a gerar pressão no Congresso, e é mais um fator de incerteza pra Nvidia.
+ANA: Ok, vamos pro lado mais leve, pelo menos pro produto. A Meta e o Muse.
+MARCOS: O Muse é o assistente de IA da Meta, e ele ganhou várias coisas nesta semana. A mais interessante é o recurso "spaces", ou espaços. Segundo o The Verge, ele permite que a IA construa experiências personalizadas, parecidas com aplicativos, dentro do próprio Muse: um painel de compras, um painel escolar, um rastreador de músicas, um jogo de perguntas e respostas e por aí vai.
+ANA: Ou seja, eu peço e ele monta um mini aplicativo pra mim?
+MARCOS: É a ideia. Em vez de baixar um app pronto, você descreve o que precisa e o assistente cria uma versão sob medida. O TechCrunch diz que isso é uma nova forma de colaborar com seu agente.
+ANA: E isso é novo mesmo, ou é marketing?
+MARCOS: A ideia de a IA gerar interface sob demanda não é inédita, outras empresas vêm explorando. O que a Meta faz é colocar isso dentro de um assistente que tem uma base enorme de usuários. Se pegar, muda o hábito. Se não, vira mais um recurso esquecido. Ainda é cedo.
+ANA: Teve também o avatar em vídeo.
+MARCOS: Teve. O TechCrunch contou que usuários nos Estados Unidos já podem fazer chamada de vídeo com o avatar do Muse, uma figura animada e personalizável. Isso vem antes do lançamento de um dispositivo vestível, descrito como parecido com um Tamagotchi, pra dar vida ao Muse.
+ANA: Um bichinho virtual com IA. Adorei e tenho medo ao mesmo tempo.
+MARCOS: Faz sentido. A ideia de um companheiro com rosto aumenta a conexão emocional, e isso levanta perguntas sobre dependência. Mas isso é uma observação minha, a matéria só descreve o recurso.
+ANA: E a Amazon entrou na história de um jeito curioso.
+MARCOS: Entrou. O TechCrunch diz que, depois de bloquear o Muse, a Amazon agora permite que usuários mandem mensagem de texto pra Alexa pra ajudar nas compras, com liberação para milhões de usuários nas próximas semanas. O título fala em "depois de bloquear o Muse", o que sugere que a Amazon barrou o assistente da Meta de acessar seu site de compras. Não tenho mais detalhes além disso.
+ANA: Então os assistentes de IA estão brigando por quem faz a compra por você.
+MARCOS: Essa é a leitura. Quem for a porta de entrada das compras fica com o dinheiro da intermediação. Por isso a Amazon não quer que um agente de fora faça o papel dela.
+ANA: E a Meta recuou numa coisa dos termos de uso?
+MARCOS: Recuou. O Ars Technica conta que a Meta abandonou uma atualização de termos comerciais que obrigaria donos de páginas do Facebook a permitir treinamento de IA com conteúdo vinculado. O título do artigo cita uma reação de leitores: "A Meta acha que a gente não sabe ler?". Pelo jeito, a redação das cláusulas foi considerada nebulosa.
+ANA: Então o público percebeu e reclamou.
+MARCOS: E funcionou. Mostra que atenção a letra miúda ainda tem efeito. Em um mundo onde dados alimentam IA, cada mudança de termos precisa ser lida com cuidado.
+ANA: E já que falamos de dados, a Wired trouxe uma matéria sobre empresas querendo comprar nossos arquivos de trabalho.
+MARCOS: É o seguinte. Segundo a Wired, corretores de dados estão coletando todo tipo de arquivo interno de empresas, como documentos e e-mails, pra ajudar a treinar modelos de IA. E nem todo mundo está feliz com isso.
+ANA: Meu e-mail do trabalho vale dinheiro?
+MARCOS: Para quem treina modelo, o texto real de trabalho, com seus padrões e jeito de resolver problemas, é um material valioso, porque a internet pública já foi bastante usada. Mas não tenho os detalhes de como esses corretores obtêm os arquivos, então a dúvida natural é sobre consentimento e confidencialidade. Se você é empresa, vale perguntar quem tem acesso aos seus dados e o que pode ser revendido.
+ANA: Aliás, a Wired também falou de anúncios em chatbots.
+MARCOS: Falou. A matéria diz que os anúncios em chatbots já chegaram, e que a indústria corre para conquistar anunciantes sem irritar usuários. A Anthropic mantém a promessa de não colocar anúncios no Claude. A matéria compara o que funciona e o que não funciona nessas tentativas.
+ANA: Então temos um conflito de modelo de negócio. Eu pago ou eu sou o produto?
+MARCOS: É isso. E conecta com o que falamos sobre a Ramp: se o gasto das empresas estabiliza, a publicidade vira uma fonte de receita atraente para quem tem muitos usuários que não pagam. Já a promessa da Anthropic é um diferencial de confiança. Só que promessa vale enquanto for mantida, e ela vai pra bolsa em breve, o que pressiona por receita. Vamos acompanhar.
+ANA: Muito bem. Agora vamos pro futuro físico: modelos de mundo. A Wired diz que eles vão ser inescapáveis.
+MARCOS: Vamos explicar. Os modelos de linguagem, como o ChatGPT, aprendem com texto. Os modelos de mundo tentam aprender como a realidade física funciona, em três dimensões: o que acontece se eu empurrar uma caixa, como um carro se move numa curva. Eles simulam a física do mundo real, e a Wired destaca que o objetivo é ensinar robôs e carros autônomos a navegar pela realidade.
+ANA: É como um simulador de videogame, mas que a IA aprende sozinha?
+MARCOS: Ótima imagem. Um simulador onde o robô pode errar mil vezes sem quebrar nada, antes de tentar de verdade. Treinar no mundo real é lento e caro, e simulador resolve isso, desde que ele seja realista.
+ANA: E o "desde que seja realista" é o problema, certo?
+MARCOS: É o famoso "sim-to-real gap", a distância entre simulação e realidade. Um robô aprende perfeitamente no simulador e falha na vida real porque o piso real é mais escorregadio, a luz é diferente, e assim por diante. E essa semana teve várias notícias atacando esse problema.
+ANA: Quais?
+MARCOS: A Nvidia lançou, segundo o blog dela no Hugging Face, os modelos abertos Cosmos 3, voltados a simulação interativa de mundos. Detalhe: aberto significa que outros desenvolvedores podem usar e adaptar. O TechCrunch trouxe a Physicl, que levantou dez milhões de dólares pra reduzir essa distância entre simulação e realidade, usando um processo originalmente criado para vender produtos online.
+ANA: Vender produtos online, tipo foto de sapato?
+MARCOS: Provavelmente algo nessa linha: tecnologia pra reproduzir objetos de forma realista no digital. A matéria não me dá mais detalhes, mas a lógica é reaproveitar o que já existe pra criar objetos virtuais convincentes. E tem o ToyBlocks, do Allen Institute, publicado no Hugging Face, um mundo controlado, com blocos de brinquedo, para ensinar e avaliar robôs.
+ANA: Brinquedo de bloco pra testar robô! Por que tão simples?
+MARCOS: Porque pra avaliar de verdade você precisa de um ambiente controlado e repetível. Se o teste muda a cada vez, não dá pra comparar um robô com outro. É como a prova de vestibular: precisa ser igual pra todo mundo.
+ANA: E tem o robô que limpa apartamento, do MIT Technology Review.
+MARCOS: Essa é uma boa para ver a distância entre laboratório e vida real. A repórter pagou por um serviço de limpeza com robô humanoide em San Francisco e assistiu a um limpando o apartamento dela. O título diz que foi um gostinho do futuro. Não tenho o resumo completo, então não sei como o robô se saiu em cada tarefa. Mas o fato de existir um serviço pago já é um marco.
+ANA: Então os modelos de mundo são o treino, e o robô na sua casa é a prova final.
+MARCOS: Boa síntese. Minha opinião: a Wired chama de inescapável, e acho que o tema vai mesmo aparecer muito. Mas entre a demonstração e o robô confiável na sua casa existe uma estrada longa. Eu sou entusiasta, mas com os pés no chão.
+ANA: Agora uma notícia bem do dia a dia: a receita com IA do New York Times.
+MARCOS: A seção de culinária do jornal adicionou, em versão beta, um recurso que ajuda a trocar ingredientes ou ajustar receitas. A Wired testou e disse que é bem bom, acerta na maioria das vezes. O The Verge também testou, com um resultado mais misto: o assistente salvou o frango de uma noite de semana, mas quase estragou um bolo.
+ANA: Por que o bolo e não o frango?
+MARCOS: A matéria não detalha, mas é típico. Cozinhar é mais flexível: trocar um tempero, ajustar o tempo. Confeitaria é química: proporção de farinha, gordura, fermento. Uma troca pequena pode fazer o bolo não crescer. Então a IA tende a ir bem onde há margem de erro, e pior onde há precisão.
+ANA: Isso serve como regra geral pra IA?
+MARCOS: Serve bastante. Quanto mais tolerante a tarefa a pequenos erros, mais a IA ajuda. E é uma aplicação bem desenhada: o jornal usa as receitas testadas dele como base, e a IA só adapta. Isso reduz o risco.
+ANA: Antes de fechar, queria passar por algumas notícias mais curtas. Tem a OpenAI e um teste de ciência.
+MARCOS: A OpenAI apresentou o BioBasicsBench, um conjunto de cem tarefas pra medir como agentes de IA lidam com ciência básica de laboratório, interpretando dados brutos de experimentos. É um jeito de verificar se a IA realmente ajuda na bancada, e não só em perguntas de prova.
+ANA: E o Airbnb vai ter agente de viagem.
+MARCOS: Sim, segundo o TechCrunch, no primeiro semestre de 2027. Ele vai ajudar a planejar viagens, comparar opções, gerenciar reservas e dar assistência durante a estadia. Ainda é promessa pro ano que vem, então só vale a conta quando sair.
+ANA: Tem uma notícia mais pesada também, do processo judicial com o ChatGPT.
+MARCOS: Tem, e vale tratar com cuidado. O Ars Technica relata um processo em que se alega que uma mulher usou o ChatGPT para planejar o assassinato do marido, envolvendo bebidas energéticas com envenenamento. É uma alegação em ação judicial, não uma conclusão da Justiça. O caso levanta o debate sobre salvaguardas nos chatbots, e vamos ver como ele evolui.
+ANA: Certo. Hora de recapitular a semana?
+MARCOS: Vamos lá.
+ANA: Então, em uma frase cada. Primeiro, as eleições americanas: eleitores votaram em peso por restringir data centers, e a Meta já avisa que isso pode travar a expansão da IA.
+MARCOS: Segundo, a OpenAI, que teria levantado mais onze bilhões de dólares com avaliação de um trilhão e duzentos e cinquenta bilhões, enquanto Brockman fala em IPO em 2027, e os dados da Ramp mostram o gasto com IA estabilizando.
+ANA: Terceiro, o relatório da METR, que diz que a Anthropic está usando IA pra construir IA e que seus modelos evoluem cerca de duas vezes mais rápido que um ano atrás.
+MARCOS: Quarto, cibersegurança: modelos chineses gratuitos chegando perto do melhor modelo de ataque da OpenAI, ferramentas expostas na internet, e dinheiro correndo pra proteger agentes.
+ANA: Quinto, a Nvidia: uma suposta espiã chinesa de olho em Jensen Huang e chips liberados para uma empresa de escritório vazio.
+MARCOS: Sexto, a Meta com os espaços do Muse e o avatar em vídeo, a Amazon fechando a porta e liberando a Alexa por texto, e a Meta recuando nos termos de uso.
+ANA: Sétimo, modelos de mundo: Cosmos 3, Physicl, ToyBlocks e um robô limpando apartamento, mostrando que a IA está saindo da tela.
+MARCOS: E oitavo, a IA na cozinha do New York Times, que salva o jantar, mas pode derrubar o bolo.
+ANA: E é isso por hoje, gente! Obrigada por ouvir o IA Hoje. Se você gostou, compartilha com aquele amigo que vive perguntando o que é essa tal de inteligência artificial.
+MARCOS: Valeu, pessoal! Semana que vem tem mais novidade, e a gente conversa de novo.
+ANA: Até lá, e cuidado com o bolo!
