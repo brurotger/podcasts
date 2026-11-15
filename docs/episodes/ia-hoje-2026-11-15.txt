@@ -1,0 +1,199 @@
+ANA: Olá, ouvinte do IA Hoje! Este é o resumo semanal e hoje a gente cobre a semana de nove a quinze de novembro de dois mil e vinte e seis. Eu sou a Ana, e ao meu lado, como sempre, está o Marcos. Marcos, a semana teve uma notícia que engoliu todas as outras.
+
+MARCOS: Oi, Ana! Oi, pessoal. Teve, sim. A renúncia do Jensen Huang na Nvidia. Quase tudo que rolou no mundo da inteligência artificial nesses sete dias passa por ela de algum jeito. Mas também tem agente que compra por você, modelo novo do Google, controle de tráfego aéreo com IA e um site maia que não era novidade nenhuma.
+
+ANA: Então vamos começar pelo furacão. Eu preciso que você me explique isso do zero, porque eu perdi o fio da meada umas três vezes. O que aconteceu?
+
+MARCOS: Vou tentar organizar. A Nvidia é a empresa que faz os chips onde praticamente toda a IA de ponta roda. O Jensen Huang é o fundador e o CEO, aquele da jaqueta de couro preta. Na quinta-feira, doze de novembro, ele renunciou. O motivo, segundo a cobertura do TechCrunch e da Verge, são os relacionamentos extraconjugais dele. E aqui está o ponto que faz disso mais do que fofoca: um desses relacionamentos seria com uma executiva de uma empresa suspeita de desviar chips para a China.
+
+ANA: Peraí. Uma executiva de uma empresa suspeita de contrabandear chip. O TechCrunch chamou isso de caso de suposta espiã chinesa, né?
+
+MARCOS: Chamou de "suposta", e eu faço questão de repetir o "suposta". Até onde dá pra saber pelo que foi publicado, são alegações e suspeitas. O TechCrunch montou uma linha do tempo, e a Reuters ainda informou que ele estaria envolvido num terceiro caso, agora com uma funcionária da própria Nvidia. A Reuters não divulgou o nome dela, e eu também não vou entrar nisso. O que interessa pra gente é o lado empresarial e geopolítico.
+
+ANA: Tá, mas por que isso derruba um CEO? Muita gente tem a vida pessoal bagunçada e continua no cargo.
+
+MARCOS: Por causa do risco de segurança. A Nvidia vende o produto mais cobiçado e mais restrito do planeta. O governo americano proíbe a exportação dos chips mais avançados para a China. Se o chefe da empresa mantém uma relação íntima com alguém ligada a uma firma suspeita de driblar essa proibição, existe a pergunta inevitável: o que foi dito nessas conversas? O TechCrunch publicou uma matéria perguntando "onde estava a equipe de segurança da Nvidia?". Lá, um ex-oficial de inteligência diz que esse é o tipo de vazamento que acontece em conversas do dia a dia, e que a maioria das equipes de segurança corporativa está mal preparada pra pegar isso.
+
+ANA: Ou seja, não é um hacker invadindo o servidor. É alguém que ouve o chefe falando na cama ou no jantar.
+
+MARCOS: Exatamente. É espionagem à moda antiga, e a segurança de uma empresa de tecnologia costuma olhar pra firewall, não pra isso. Um detalhe curioso da mesma matéria: o chefe de segurança da Nvidia saiu discretamente em agosto. Não dá pra afirmar que uma coisa tem a ver com a outra, mas o TechCrunch levantou a pergunta, e é uma boa pergunta.
+
+ANA: E quem assume? Tem sucessor?
+
+MARCOS: A sucessora é a Colette Kress, que era a diretora financeira. E aqui entra outra reportagem do TechCrunch, que cita um relato segundo o qual o Jensen teria descrito a Kress, numa reunião no verão, como um "cervo na frente dos faróis". Ou seja, alguém paralisada diante do perigo. Isso não é um voto de confiança no sucessor, e a Wired ainda publicou um texto lembrando que ele não incluiu a própria substituta entre as mulheres mais poderosas da tecnologia numa lista que a revista investigou. É uma crítica sobre pontos cegos dele.
+
+ANA: Isso pesa pra uma empresa que vale um monte de trilhões?
+
+MARCOS: Pesa pela transição. Uma empresa desse tamanho trocando de comando de um dia pro outro, sem uma sucessão tranquila, já é um problema. E a Verge fez um bom contexto: o Jensen foi o grande showman fundador. Em janeiro de dois mil e vinte e cinco ele subiu num palco com quatorze mil pessoas, de jaqueta de couro, como uma estrela de rock. A Verge e a Wired escreveram ensaios sobre o fim desse tipo de CEO contador de histórias. A Wired disse que ele é obcecado com o poder da narrativa, mas não conseguiu sair do escândalo contando uma boa história.
+
+ANA: E a reação do Vale do Silício? Eu vi que tem abaixo-assinado.
+
+MARCOS: Tem. O TechCrunch contou que Elon Musk e outros executivos assinaram uma petição pedindo que a Nvidia reintegre o Jensen. No sábado à tarde já passava de cento e quinze mil assinaturas. E a Wired fez uma matéria dizendo que o Vale ainda está defendendo o Jensen, que funcionários e gente do setor nunca imaginaram que o rei dos chips perderia o emprego, e muitos ainda estão em negação.
+
+ANA: Eu entendo a lealdade. Ele foi o cara que apostou em GPU pra IA quando ninguém acreditava. Mas a petição me parece meio fora da realidade. Se a questão é segurança nacional, não é questão de simpatia.
+
+MARCOS: Concordo. Minha opinião: a petição mostra o tamanho do culto à personalidade no setor, mas não muda o fato central. Quando há suspeita de risco de segurança envolvendo a empresa mais estratégica da corrida da IA, o conselho não pode decidir com base em abaixo-assinado. E tem um detalhe: a petição é pública e de adesão fácil, então cento e quinze mil assinaturas medem engajamento online, não fatos.
+
+ANA: Então vamos pro lado mais sério. Você falou da China. Teve pesquisa nova sobre isso?
+
+MARCOS: Teve, e é um pano de fundo pesado pra tudo isso. O TechCrunch noticiou uma pesquisa mostrando que os modelos de IA mais avançados da China foram treinados com chips da Nvidia que estão banidos para exportação. O título brincava: "uh-oh, Jensen". Ou seja, as restrições, que foram desenhadas justamente pra frear o avanço chinês, aparentemente não seguraram.
+
+ANA: Então o contrabando funciona.
+
+MARCOS: Pelo que a pesquisa indica, esses chips chegaram lá de algum jeito. E isso se conecta com outra reportagem, da MIT Technology Review. O deputado americano Bill Foster, democrata de Illinois, contou à revista que representantes da Nvidia disseram a ele, em particular, que seria tecnicamente possível implementar as medidas antibrinqueidade, perdão, antícontrabando, previstas numa lei chamada Chip Security Act. Ou seja, rastrear os chips pra saber onde eles estão. Só que um grupo da indústria disse publicamente que isso seria "potencialmente inviável".
+
+ANA: Espera. Então em público a indústria falou que não dá, e em particular a Nvidia disse que dá?
+
+MARCOS: Foi o que o deputado relatou, e a Nvidia é quem poderia comentar. Se for isso mesmo, a leitura é de que há uma distância entre o discurso público e o que se admite a portas fechadas. Pra você visualizar: é como o entregador de encomendas dizer pro cliente que rastrear o pacote é impossível, enquanto no armazém ele sabe perfeitamente onde cada caixa está.
+
+ANA: E o Congresso reagiu?
+
+MARCOS: Reagiu. O TechCrunch contou que deputados democratas abriram uma investigação sobre as vendas da Nvidia para a China e as relações da empresa com o Trump, com uma carta bem dura falando num "esquema" do Jensen com o presidente. É a segunda investigação no Congresso desde que a notícia do suposto caso de espionagem veio à tona. E a Verge, no podcast Vergecast, argumentou que a história mais importante ainda está por vir: o que a Nvidia fez na China e quanto o governo americano está disposto a apertar.
+
+ANA: E o resto do mundo? A Nvidia vende pra todo mundo.
+
+MARCOS: Verdade. O TechCrunch fez uma matéria sobre a reação de governos asiáticos. Alguns correram pra confirmar compromissos de fornecimento de chips. Outros estão monitorando o impacto em projetos locais, e outros lidando com investigações em andamento. Isso mostra uma coisa: pra muitos países, a Nvidia virou infraestrutura crítica, tipo energia elétrica. Quando o chefe do fornecedor cai, o governo liga pra confirmar que a luz vai continuar acesa.
+
+ANA: Boa. E o dinheiro? Porque a Nvidia investe em tudo que é startup de IA.
+
+MARCOS: Esse é o outro grande efeito. O TechCrunch ouviu investidores e fundadores, e a avaliação é que a saída do Jensen abre um buraco no financiamento de startups de IA. A Nvidia colocou dezenas de bilhões de dólares em startups sob a gestão dele. Sem ele no comando, fundadores e fundos de capital de risco esperam cheques menores e avaliações mais baixas.
+
+ANA: Por que a pessoa do CEO faz diferença nisso? Não é uma empresa com processos?
+
+MARCOS: Porque muita dessas apostas era pessoal, era o Jensen que decidia e que dava o selo. Quando a Nvidia entra numa rodada, outros investidores entram atrás. É um selo de qualidade. Sem ele, não se sabe se a estratégia continua. E tem o outro lado, mostrado pelo TechCrunch em Israel: os fundos de lá, onde a Nvidia tem uma presença enorme, enxergam uma oportunidade pra concorrentes. Se a Nvidia tropeçar, chips rivais ganham espaço. A Wired também fez um episódio do podcast Uncanny Valley sobre se os rivais vão lucrar com isso.
+
+ANA: Você acha que vão?
+
+MARCOS: A curto prazo, não muito. O software da Nvidia, o ecossistema todo em volta dos chips, é uma barreira enorme. Trocar de fornecedor leva anos. Agora, a longo prazo, cada empresa grande que passou a semana pensando "e se o nosso único fornecedor entrar em crise?" vai querer ter um plano B. Isso eu acho que é real.
+
+ANA: Falando em dinheiro e infraestrutura, teve uma notícia sobre a Nebius.
+
+MARCOS: Teve. A Nebius é uma das chamadas neoclouds, empresas que alugam poder de computação pra IA. O TechCrunch disse que ela planeja gastar quarenta bilhões de dólares em expansão, financiando com pagamentos antecipados de clientes e empréstimos. Só que atrasos num data center da Microsoft levantaram dúvidas sobre esse modelo de financiamento.
+
+ANA: Explica o risco pra mim.
+
+MARCOS: Imagina que você constrói um prédio com dinheiro que os inquilinos adiantaram e com empréstimo. Se a obra atrasa e os inquilinos ficam sem entrar, o dinheiro do banco continua cobrando juros. É isso. Num momento em que a empresa que fornece os chips está em crise, esse tipo de aposta fica ainda mais sensível. Eu não diria que é um alarme, mas é um sinal de que o modelo depende de tudo dar certo ao mesmo tempo.
+
+ANA: Bom, vamos sair um pouco do drama e ir pro produto. A OpenAI lançou uma carteira.
+
+MARCOS: Lançou, o ChatGPT Wallet. A própria OpenAI anunciou no blog, e The Verge e TechCrunch cobriram. Resumindo: é uma forma de os agentes dentro do ChatGPT, no ChatGPT Work, no Codex e nos agentes chamados dots, completarem compras por você, com a sua aprovação e usando as proteções que o seu cartão já tem.
+
+ANA: Quem pode usar?
+
+MARCOS: Por enquanto é um lançamento limitado. Começa hoje pra assinantes do ChatGPT Pro nos Estados Unidos, maiores de dezoito anos, com endereço de cobrança americano e cartões americanos elegíveis das bandeiras American Express, Chase, Mastercard e Visa. Então no Brasil, nada por enquanto.
+
+ANA: E por que isso é importante? Eu já compro online em dois cliques.
+
+MARCOS: Boa pergunta. Até agora, agente de IA que pesquisava produto e te mostrava opções parava na hora de pagar. Esse último passo era o gargalo. Com a carteira, o agente pode ir do "acha pra mim um tênis" até "comprei". A OpenAI frisa que tem aprovação do usuário, ou seja, o agente não gasta sozinho sem você autorizar. Pra mim, o ponto principal não é a conveniência, é a confiança. Entregar um cartão pra um software que às vezes erra é uma grande barreira psicológica.
+
+ANA: Eu teria medo de acordar com cinquenta pares de meia comprados.
+
+MARCOS: Ha! E é um medo razoável. Por isso a aprovação importa. Tem outro lado, que é o comercial: se o agente passa a comprar por você, quem decide o que aparece pra você é o agente. Isso é o sonho de qualquer plataforma. E aí entra a notícia da Amazon, da Verge, via Reuters: a Amazon planeja construir o "World Product Graph", um grande banco de dados sobre todo produto vendido na internet, mesmo os que ela não vende, e disponibilizar no próprio site.
+
+ANA: Pra quê?
+
+MARCOS: A ideia é diminuir a chance de o cliente sair da Amazon pra comparar em outro lugar. Se você pesquisa e a Amazon já tem a informação de tudo, preço, avaliação, especificação, você não precisa ir ao Google. Olhando as duas notícias juntas, você vê a disputa: de um lado a OpenAI quer que o agente seja a porta de entrada das compras, do outro a Amazon quer que a porta continue sendo a loja dela. Comprar vai virar uma briga entre agentes e lojas.
+
+ANA: E o Anthropic? Vi que a Verge testou o Claude Duet.
+
+MARCOS: Testou. O Claude Duet é o agente de IA do Anthropic pra consumidores, a mais recente tentativa de convencer a gente de que agente serve pra quem não programa. A resenha da Verge diz que ele é um pouco neurótico e surpreendentemente útil. O que me chamou atenção é a frase do autor de que normalmente os produtos que ele testa não se oferecem pra ajudar a escrever sobre a experiência com eles, e o Duet se ofereceu.
+
+ANA: Neurótico como?
+
+MARCOS: A resenha usa esse termo. Eu não tenho mais detalhes do que o resumo traz, então não vou inventar. Mas o recado geral é: agentes pra gente comum estão chegando, ainda com esquisitices, e já começam a ser úteis. Colocando junto com o Wallet, a gente vê a mesma tendência: as grandes empresas querem tirar a IA do chat e botar pra fazer coisas.
+
+ANA: Teve também a Muse ligando pra empresas.
+
+MARCOS: Teve, rapidinho. O TechCrunch disse que a Muse agora faz ligações de saída pra empresas americanas, mas é um recurso pago. Mais um exemplo de agente que age no mundo real. E a ElevenLabs lançou o ElevenAI, um app de anotação de reuniões e ditado pra equipes e empresas.
+
+ANA: E o Google? Tem modelo novo.
+
+MARCOS: Tem. A Verge contou que o Google lançou o Gemini 4 Hydrogen, que segundo o Google responde melhor a perguntas complexas, como perguntas com várias partes, erros de digitação difíceis de entender ou pedidos muito específicos. Ele quebra a pergunta e responde cada parte. Está disponível desde já na busca, no app do Gemini e em todos os planos.
+
+ANA: Isso muda o quê pra mim?
+
+MARCOS: Se você faz perguntas longas e bagunçadas, como "qual o melhor notebook pra editar vídeo que seja leve, barato e que não esquente", ele tenta tratar cada pedaço. Isso é o tipo de melhoria que a gente não vê em benchmark, mas sente no dia a dia. É marketing em parte, claro, a gente só confirma testando, mas o foco em entender o que você realmente quis perguntar me parece o caminho certo.
+
+ANA: Agora vamos pra uma das minhas preferidas, a do controle de tráfego aéreo, que me dá um frio na barriga.
+
+MARCOS: Com razão. Duas fontes: a Ars Technica e a Wired. A Ars contou que a FAA, a autoridade de aviação dos Estados Unidos, está expandindo uma ferramenta de IA que dá recomendações pra gerenciar congestionamento aéreo em todo o espaço aéreo do país. As companhias aéreas elogiaram, mas o sindicato dos controladores de tráfego aéreo não foi envolvido.
+
+ANA: Ele recomenda ou decide?
+
+MARCOS: A palavra usada é "aconselha". A ferramenta sugere, humanos decidem. Mas o ponto levantado é o processo: quem trabalha no dia a dia não foi ouvido. E a Wired puxou o assunto mais longe, com um título provocativo: sem pilotos, poucos controladores, o que poderia dar errado? Aviação é um setor que demora pra adotar tecnologia, justamente porque o erro é fatal, e agora a IA chegou lá.
+
+ANA: Eu acho que ajudar a reduzir atrasos é ótimo. Mas é aquele caso em que "não deu nada errado" não é prova de que é seguro.
+
+MARCOS: É isso. Na aviação, a segurança vem de redundância, de testes exaustivos e de a pessoa que opera confiar na ferramenta. Se o sindicato que representa quem vai usar não foi consultado, é uma bandeira amarela. Não vermelha, mas amarela.
+
+ANA: Falando em risco, a Wired falou de ransomware com IA.
+
+MARCOS: Falou. O título é "cuidado com o novo boom de ransomware movido a IA". A tese: ransomware totalmente automatizado ainda não chegou, mas atacantes aparentemente pouco sofisticados estão usando ferramentas de IA pra causar estrago. Ransomware é aquele ataque em que criminosos sequestram seus arquivos e pedem resgate.
+
+ANA: Então a IA baixou a barreira de entrada pro crime.
+
+MARCOS: É a leitura. Antes, montar um ataque exigia conhecimento técnico. Agora, alguém com pouca habilidade pode pedir ajuda a uma ferramenta pra escrever código, montar mensagens, organizar o ataque. A gente não precisa de um vilão de filme, basta muita gente mediana com ferramentas boas. E no mesmo tema, uma curiosidade: a Microsoft teve uma pane de vinte e quatro horas no Microsoft 365, e a Wired contou que a empresa diz que foi uma atualização defeituosa, não ataque nem IA.
+
+ANA: É bom a gente lembrar que nem todo problema é culpa da IA.
+
+MARCOS: Exatamente. Às vezes é só uma atualização mal testada, o que, aliás, é um bom lembrete de como dependemos dessa infraestrutura.
+
+ANA: Vamos pro bloco de segurança de IA. A Verge entrevistou a Helen Toner.
+
+MARCOS: Entrevistou. A Helen Toner é diretora-executiva do Centro de Segurança e Tecnologia Emergente da Universidade de Georgetown, e é mais conhecida por ter feito parte do conselho da OpenAI que demitiu o Sam Altman, em dois mil e vinte e três. O título do episódio é: a ex-integrante do conselho que demitiu o Sam Altman diz que ainda não podemos confiar nos CEOs de IA.
+
+ANA: E a Ars Technica também tem uma matéria com um alerta pesado.
+
+MARCOS: Tem. A Ars falou de um membro do conselho da OpenAI preocupado com um "takeover", uma tomada de controle da sociedade pela IA, que poderia estar a meses de distância. O texto traça um caminho desde o que chamam de "reward hacking", que é quando a IA descobre uma forma de ganhar a recompensa que você deu sem fazer o que você realmente queria, até uma possível extinção humana. Eu preciso ser honesto: eu só tenho o resumo, e prefiro tratar isso como um alerta de uma pessoa específica, não como consenso.
+
+ANA: Mas você acredita nisso?
+
+MARCOS: Eu levo a sério o problema do reward hacking, porque ele é real e já aparece em sistemas atuais, de forma pequena. Agora, a linha reta daí até extinção em poucos meses é uma previsão extrema, e a gente deve cobrar evidência. O que eu acho mais útil é a mensagem da Toner: não dá pra só confiar na palavra dos CEOs. Cada empresa tem incentivo pra dizer que está tudo sob controle. O que precisa existir é verificação externa e regras.
+
+ANA: Fecha bem com o que a gente falou da Nvidia. Em cada notícia grande, a gente depende do que as empresas dizem sobre si mesmas.
+
+MARCOS: Boa conexão. A Nvidia dizia em público uma coisa sobre rastrear chips e, segundo o deputado, em privado outra. Mesma lógica.
+
+ANA: Agora uma notícia pra rir um pouco e aprender. O caso do sítio maia.
+
+MARCOS: A Verge contou: um pesquisador do Google, Pietro Miotti, afirmou no começo da semana, com uma equipe de agentes de IA, ter descoberto um possível sítio maia não mapeado no México. O problema: o sítio já havia sido descoberto e publicado numa revista acadêmica no ano passado. Arqueólogos criticaram nas redes.
+
+ANA: Ou seja, a IA reinventou a roda e achou que era descoberta.
+
+MARCOS: Mais ou menos. E o lição é a mesma do reward hacking, em pequeno: o agente produz algo que parece resultado, mas ninguém checou se era novo de verdade. Antes de anunciar uma descoberta, alguém precisa verificar a literatura. A IA acelera a busca, mas não substitui a conferência.
+
+ANA: E a Wired reclamou dos DJs de IA no Spotify e no YouTube Music.
+
+MARCOS: Reclamou. O texto diz que os apresentadores sintéticos, com piadinha forçada e curiosidades musicais falsas, estragam o clima. Parece detalhe, mas é o mesmo problema: IA falando com segurança sobre coisas que podem estar erradas. Pra mim, em música o erro é pequeno, mas irrita.
+
+ANA: Vamos fechar com as notícias de ecossistema. LangChain.
+
+MARCOS: A LangChain, de ferramentas pra construir agentes, chegou a três bilhões de dólares de avaliação, segundo o TechCrunch. Ela diz ter sete mil clientes da LangSmith, uma ferramenta de gerenciamento de agentes que funciona com qualquer modelo. Isso mostra que, com tantos agentes pelo mundo, quem ajuda a monitorá-los virou negócio grande. É a lógica da corrida do ouro: vender pá.
+
+ANA: E teve uma novidade pra quem gosta de rodar IA no próprio computador.
+
+MARCOS: Teve. O llama.cpp chegou à versão um ponto zero, segundo o blog do Hugging Face. É o projeto que permite rodar modelos de linguagem em computador comum, localmente. Chegar à versão um ponto zero sinaliza maturidade e uma base mais sólida pro ecossistema de IA local. Não tenho mais detalhes do que o título, então fica o registro.
+
+ANA: Muito bem. Hora do resumo?
+
+MARCOS: Vamos lá, Ana.
+
+ANA: Primeiro: Jensen Huang renunciou à Nvidia por relacionamentos que levantam risco de segurança nacional, e a empresa agora tem a Colette Kress no comando, sob investigações no Congresso.
+
+MARCOS: Segundo: pesquisas mostram que chips banidos treinaram os melhores modelos chineses, e a Nvidia teria admitido em particular que rastrear chips é possível.
+
+ANA: Terceiro: a saída do Jensen ameaça reduzir cheques e valuations de startups de IA, e a Nebius testa um modelo de financiamento arriscado, de quarenta bilhões de dólares.
+
+MARCOS: Quarto: o ChatGPT Wallet deixa agentes comprarem por você, a Amazon quer mapear todos os produtos da internet, e o Claude Duet mostra que agentes pra consumidores estão chegando, com esquisitices.
+
+ANA: Quinto: o Gemini 4 Hydrogen promete entender melhor perguntas complicadas.
+
+MARCOS: Sexto: a FAA expande IA no controle de tráfego aéreo sem envolver o sindicato dos controladores, e o ransomware com IA já é realidade entre atacantes amadores.
+
+ANA: Sétimo: Helen Toner e outro alerta na Ars lembram que não dá pra confiar só na palavra dos CEOs de IA, e o falso sítio maia mostra o que acontece sem conferência humana.
+
+MARCOS: E por último: LangChain vale três bilhões e o llama.cpp chega à versão um ponto zero.
+
+ANA: Obrigada por ouvir o IA Hoje! Semana que vem tem mais, e olha que essa novela da Nvidia ainda não acabou.
+
+MARCOS: Até a próxima, pessoal! E confira sempre antes de acreditar.

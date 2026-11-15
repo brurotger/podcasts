@@ -3212,6 +3212,321 @@
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "source": "TechCrunch",
       "seen_at": "2026-11-08T16:05:09.778419+00:00"
+    },
+    "f00e8ce4cc546cf5": {
+      "title": "An overview of Jensen Huang’s messy days",
+      "norm_title": "anoverviewofjensenhuangsmessydays",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "5e839cc8a14ab5a2": {
+      "title": "AI DJs Completely Kill My Groove",
+      "norm_title": "aidjscompletelykillmygroove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "988ea9bfc5f21f7b": {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "norm_title": "thisaitamagotchiturnseverydayobjectsintoneedyvirtualpets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "d7a564158c168db3": {
+      "title": "Where was Nvidia’s security team?",
+      "norm_title": "wherewasnvidiassecurityteam",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "9f6482bd1f4a23f3": {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "norm_title": "elonmuskothertechexecssignpetitioncallingonnvidiatoreinstatejensenhuang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "0c789487e65f48ec": {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "norm_title": "asiangovernmentsreacttonvidiaceojensenhuangsexit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "3c12b63c5281ea8b": {
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "norm_title": "theopenaiboardmemberwhofiredsamaltmansayswestillcanttrustaiceos",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "6778a94c6ae347cc": {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "norm_title": "bewarethenewaifueledransomwareboom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "20b9faa6a6f1fa2b": {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "norm_title": "jensenhuangandthedeclineofthevisionaryshowmanfounderceo",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "49d9bb7ede96797f": {
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "norm_title": "nopilotsfewairtrafficcontrollerswhatcouldgowrong",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "4f09d0f3193800c2": {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "norm_title": "amazonhasaplantoindextheworldsonlineshoppingdata",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "12025d2612cc5357": {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "norm_title": "jensenhuangsdepartureblastsbigholeinaistartupfundingvcsandfounderssay",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "e601799a7b472c7d": {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "norm_title": "faaexpandsaiadvicetomanageairtrafficcongestionacrossentireusairspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "5116c11bcc2f6329": {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "norm_title": "chatgptwalletletsopenaisdotsagentsmakepurchasesforyou",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "4a68ffff40cd1994": {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "norm_title": "aiagentstartuplangchainhits3bvaluation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "a35f2a28a40036f5": {
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "norm_title": "microsoft365crawlsbacktolifeaftera24houroutage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "ad7122b3f38cf8fb": {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "norm_title": "exportbannednvidiachipsarebehindchinasmostpowerfulaimodelsuhohjensen",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "61491634d6846eef": {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "norm_title": "buildarobotpickandplacesimulationwithsimreadyassets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "2aefbf2dbe1490bb": {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "norm_title": "openaiboardmemberworriesanaitakeoverofsocietycouldbemonthsaway",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "ca10a1094615ffb9": {
+      "title": "XYBench: Helping with the problem behind the question",
+      "norm_title": "xybenchhelpingwiththeproblembehindthequestion",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "29542d34bf48df64": {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "norm_title": "chatgptsnewwalletletsaiagentsshopandcheckoutforyou",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "386b41a5d11d0e50": {
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "norm_title": "jensenhuangandtheendofthefounderfairytale",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "8abd575aeb8bf38c": {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "norm_title": "theunfoldingjensenhuangscandalatimeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "1980e825f261221b": {
+      "title": "Introducing ChatGPT Wallet",
+      "norm_title": "introducingchatgptwallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "e320fb8d584af8db": {
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "norm_title": "whatsreallyatstakeinthejensenhuangsaga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "a66f6db4817f0d4a": {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "norm_title": "elevenlabsnewappcombinesmeetingnotetakinganddictationforteams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "3a1a3aacfe787d13": {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "norm_title": "llamacppv100astrongerfoundationforthelocalaiecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "3653966e2d789f51": {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "norm_title": "claudesduetagentisalittleneuroticandsurprisinglyhelpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "51764c4df84263ca": {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "norm_title": "israelsvcsseeopportunityforchallengersinnvidiasturmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "adbb3d3302cf1274": {
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "norm_title": "jensenhuangdidntshowconfidenceinhissuccessorreportsays",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "cb66607424c00643": {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "norm_title": "letstalkaboutjensenhuangsmanyaffairs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "ed4f4744281a53a2": {
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "norm_title": "thisstartupisbettingonaimicrodramastogetmoreblackstoriesinhollywood",
+      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "39a8f891f0a37c1d": {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "norm_title": "shieldhelpstechnicianshandofflegacyportalworkwithopenai",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "46b5482c96b96a35": {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "norm_title": "democratslaunchnvidiainvestigationwritescathingletteronhuangsschemewithtrump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "7e84d1f43d8cdaea": {
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "norm_title": "siliconvalleyisstilldefendingjensenhuang",
+      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "06b2ec3701bf183f": {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "norm_title": "musecannowplacecallstousbusinessesifyoupay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "0ea53a7871282a63": {
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "norm_title": "jensenhuangisoutwillnvidiasrivalscashin",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "548ec71af7f1a4da": {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "norm_title": "googlesnewgeminimodelisbetteratunderstandingcomplicatedquestions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "1ea6d61a04d16575": {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "norm_title": "nebiusteststheneocloudplaybookwith40billioninplannedspending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "586787c76496274d": {
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "norm_title": "jensenhuangdidntnamehisownreplacementasoneoftechsmostpowerfulwomen",
+      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "source": "Wired",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "901816d13c0966a6": {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "norm_title": "jensenhuangwashavingathirdaffairreutersreports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "0275e8d45eff9222": {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "norm_title": "nvidiaprivatelyconfirmeditcouldtrackchipstofightsmugglingevenasindustrypubliclyquestionedfeasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "c4023140163ccce1": {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "norm_title": "howamplitudeshipsproductimprovementsin12dayswithopenai",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "a74971675567e510": {
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "norm_title": "arslivewhatdroneattacksondatacentersmeanformodernlifeinthecloud",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "source": "Ars Technica",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "fef5287e8335d4a2": {
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "norm_title": "noaiagentsdidnotdiscoverapreviouslyunknownmayasite",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge",
+      "seen_at": "2026-11-15T16:25:44.332197+00:00"
     }
   }
 }

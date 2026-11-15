@@ -1,5 +1,240 @@
 [
   {
+    "date": "2026-11-15",
+    "title": "IA Hoje — 9 a 15 de novembro de 2026",
+    "file": "ia-hoje-2026-11-15.mp3",
+    "duration": 1485,
+    "size": 8912252,
+    "published_at": "2026-11-15T16:25:44.327300+00:00",
+    "news": [
+      {
+        "title": "An overview of Jensen Huang’s messy days",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+      },
+      {
+        "title": "AI DJs Completely Kill My Groove",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/"
+      },
+      {
+        "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+      },
+      {
+        "title": "Where was Nvidia’s security team?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+      },
+      {
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      },
+      {
+        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+      },
+      {
+        "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+      },
+      {
+        "title": "Beware the New AI-Fueled Ransomware Boom",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+      },
+      {
+        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+      },
+      {
+        "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
+      },
+      {
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+      },
+      {
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+      },
+      {
+        "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+      },
+      {
+        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+      },
+      {
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+      },
+      {
+        "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/"
+      },
+      {
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+      },
+      {
+        "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+      },
+      {
+        "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+      },
+      {
+        "title": "XYBench: Helping with the problem behind the question",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/allenai/xybench"
+      },
+      {
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+      },
+      {
+        "title": "Jensen Huang and the End of the Founder Fairy Tale",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      },
+      {
+        "title": "Introducing ChatGPT Wallet",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet"
+      },
+      {
+        "title": "What’s really at stake in the Jensen Huang saga",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+      },
+      {
+        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+      },
+      {
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+      },
+      {
+        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+      },
+      {
+        "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+      },
+      {
+        "title": "Jensen Huang didn’t show confidence in his successor, report says",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+      },
+      {
+        "title": "Let’s talk about Jensen Huang’s many affairs!",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+      },
+      {
+        "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"
+      },
+      {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "source": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/shield"
+      },
+      {
+        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+      },
+      {
+        "title": "Silicon Valley Is Still Defending Jensen Huang",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/"
+      },
+      {
+        "title": "Muse can now place calls to US businesses — if you pay",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+      },
+      {
+        "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/"
+      },
+      {
+        "title": "Google’s new Gemini model is better at understanding complicated questions",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+      },
+      {
+        "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+      },
+      {
+        "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/"
+      },
+      {
+        "title": "Jensen Huang was having a third affair, Reuters reports",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+      },
+      {
+        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+      },
+      {
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "source": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/amplitude"
+      },
+      {
+        "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
+      },
+      {
+        "title": "No, AI agents did not discover a previously unknown Maya site",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "title": "IA Hoje — 2 a 8 de novembro de 2026",
     "file": "ia-hoje-2026-11-08.mp3",
@@ -946,86 +1181,6 @@
         "title": "Websites are closing their doors to AI agents",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-17",
-    "title": "IA Hoje — 17 de outubro de 2026",
-    "file": "ia-hoje-2026-10-17.mp3",
-    "duration": 634,
-    "size": 3803277,
-    "published_at": "2026-10-17T12:36:15.096410+00:00",
-    "news": [
-      {
-        "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/"
-      },
-      {
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
-      },
-      {
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
-      },
-      {
-        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
-      },
-      {
-        "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/"
-      },
-      {
-        "title": "How Itaú is building generative AI for its entire customer base",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/itau-generative-ai"
-      },
-      {
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-      },
-      {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-      },
-      {
-        "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
-      },
-      {
-        "title": "Elorian’s first AI model wants to reason with images, not just about them",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-      },
-      {
-        "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
-      },
-      {
-        "title": "Jev is Vercel’s fastest-adopted AI model ever",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
-      },
-      {
-        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
-      },
-      {
-        "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/"
       }
     ]
   }
