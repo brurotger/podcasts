@@ -1,5 +1,240 @@
 [
   {
+    "date": "2026-11-22",
+    "title": "IA Hoje — 16 a 22 de novembro de 2026",
+    "file": "ia-hoje-2026-11-22.mp3",
+    "duration": 1282,
+    "size": 7694444,
+    "published_at": "2026-11-22T17:09:19.770838+00:00",
+    "news": [
+      {
+        "title": "The vibe-coding revolution is coming to all the gadgets",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+      },
+      {
+        "title": "Banks Have Had It Up to Here With Your AI Agent",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+      },
+      {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      },
+      {
+        "title": "A tale of two Nvidias",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+      },
+      {
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+      },
+      {
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+      },
+      {
+        "title": "Can Anthropic afford to put safety first?",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+      },
+      {
+        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+      },
+      {
+        "title": "The Outages Are Just Getting Started",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+      },
+      {
+        "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/"
+      },
+      {
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+      },
+      {
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+      },
+      {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+      },
+      {
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+      },
+      {
+        "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+      },
+      {
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+      },
+      {
+        "title": "The most misunderstood graph in AI just got a major update",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+      },
+      {
+        "title": "Chips can survive the space environment — can their financing?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+      },
+      {
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+      },
+      {
+        "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+      },
+      {
+        "title": "The week everything fell apart",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+      },
+      {
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+      },
+      {
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+      },
+      {
+        "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
+      },
+      {
+        "title": "Regular Tech Bros Are Worried About Honeypots",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"
+      },
+      {
+        "title": "Combatting adversarial distillation",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/combatting-adversarial-distillation"
+      },
+      {
+        "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
+      },
+      {
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+      },
+      {
+        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+      },
+      {
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "source": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/hebbia"
+      },
+      {
+        "title": "Can AI help scientists identify promising drug candidates?",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/introducing-medchembench"
+      },
+      {
+        "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/inkling2mini"
+      },
+      {
+        "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+      },
+      {
+        "title": "Apple is hiring engineers to build its own AI agent",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+      },
+      {
+        "title": "A brief history of Nvidia’s recent stock fluctuations",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+      },
+      {
+        "title": "Meta’s new Muse Charm device may cost $300",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+      },
+      {
+        "title": "What’s With All These Outages?",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
+      },
+      {
+        "title": "These tech outages are giving Y2K, AI agent style",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+      },
+      {
+        "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/"
+      },
+      {
+        "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+      },
+      {
+        "title": "Anthropic’s IPO could deliver $156B to charity",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+      },
+      {
+        "title": "Google gives Gemini the ability to use your Mac for you",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+      },
+      {
+        "title": "Introducing Tool Retrieval in the Gemini API",
+        "source": "Google AI",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+      },
+      {
+        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "title": "IA Hoje — 9 a 15 de novembro de 2026",
     "file": "ia-hoje-2026-11-15.mp3",
@@ -1136,51 +1371,6 @@
         "title": "Anthropic gives outside AI watchdog “employee-like” access",
         "source": "Ars Technica",
         "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-18",
-    "title": "IA Hoje — 18 de outubro de 2026",
-    "file": "ia-hoje-2026-10-18.mp3",
-    "duration": 610,
-    "size": 3660717,
-    "published_at": "2026-10-18T12:54:32.257093+00:00",
-    "news": [
-      {
-        "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/"
-      },
-      {
-        "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/"
-      },
-      {
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-      },
-      {
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
-      },
-      {
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-      },
-      {
-        "title": "Meta removes language that may have allowed it to scrape news sites",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
-      },
-      {
-        "title": "Websites are closing their doors to AI agents",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
       }
     ]
   }

@@ -1,0 +1,106 @@
+ANA: Olá, ouvinte! Bem-vindo ao I A Hoje, o resumo semanal do que aconteceu no mundo da inteligência artificial. Eu sou a Ana, e nesta semana, de 16 a 22 de novembro de 2026, teve muita coisa. Teve I P O gigante, apagão pra todo lado e até demissão de gente muito famosa. Marcos, por onde a gente começa?
+MARCOS: Oi, Ana! Oi, pessoal! Começa pelo dinheiro, que foi muita coisa. A Anthropic, a empresa que faz o Claude, abriu o capital na bolsa Nasdaq na quinta-feira passada.
+ANA: Abriu o capital, tipo, passou a vender ações pro público em geral?
+MARCOS: Isso. Antes, só investidores grandes e funcionários tinham pedaço da empresa. Agora qualquer pessoa pode comprar uma ação. Segundo o TechCrunch, o preço final ficou em oitenta e três dólares por ação, já acima do que se esperava inicialmente. A empresa levantou quase cento e cinco bilhões de dólares.
+ANA: Cento e cinco bilhões? Marcos, isso é mais que o P I B de muito país.
+MARCOS: É um recorde. E o TechCrunch também contou que os sete fundadores venderam ações e cada um levou cerca de duzentos e oitenta milhões de dólares, quase dois bilhões no total.
+ANA: Tá, mas dois bilhões divididos em sete... cada um fica rico, mas ainda não é o dono da empresa, certo?
+MARCOS: Certo. Eles venderam só uma fatia pequena. O que me chamou atenção foi outra reportagem do TechCrunch: a Anthropic tem uma estrutura diferente, com uma fundação de benefício público. Se a ação chegar a noventa e cinco dólares, a soma da fundação, das doações dos funcionários e do valor que a empresa promete igualar chegaria a cento e cinquenta e seis bilhões de dólares para caridade.
+ANA: Uau. Mas isso não é meio marketing? Prometer doar quando a ação sobe?
+MARCOS: Desconfiar faz sentido. Primeiro, o número depende do preço da ação, que é uma condição bem específica. Segundo, doação prometida de ação não é dinheiro no banco. Mas a estrutura existe de verdade e é incomum. O podcast do The Verge fez a pergunta certa: a Anthropic consegue pôr a segurança em primeiro lugar sendo uma empresa de capital aberto? Quando você tem acionista cobrando resultado trimestral, a pressão por lançar rápido aumenta. A empresa sempre vendeu a ideia de ser a mais cuidadosa. Agora vai ter que provar isso com Wall Street olhando.
+ANA: E o dinheiro vai pra onde?
+MARCOS: Em geral, pra computação, ou seja, chips e centros de dados, e pra contratar gente. O programa Uncanny Valley, da Wired, também discutiu pra onde esse dinheiro novo vai. E isso nos leva ao outro lado da moeda: a Nvidia, que vende esses chips.
+ANA: Ah, a novela da semana. Conta direito, porque eu li a manchete e achei que era brincadeira.
+MARCOS: Não é. O Jensen Huang, fundador e até agora C E O da Nvidia, renunciou. A Wired apurou que o problema principal, segundo fontes, não foi só o que se noticiou sobre casos pessoais, mas a chamada falta de franqueza dele com o conselho. Ou seja, o conselho achou que ele mentiu. A reportagem cita alegações de vários relacionamentos, incluindo com uma subordinada direta e com uma pessoa que seria uma suposta agente de inteligência chinesa. Isso são alegações, vale dizer, reportadas por fontes.
+ANA: E por que isso é um problema de negócio e não só de fofoca?
+MARCOS: Por dois motivos. Um: relacionamento com subordinada direta é problema clássico de governança. Dois: um possível vínculo com inteligência estrangeira, numa empresa que fabrica o chip mais estratégico do planeta, é questão de segurança nacional. A Nvidia vale trilhões, então o conselho não podia empurrar isso com a barriga.
+ANA: E a empresa em si, como ficou?
+MARCOS: Aqui está o contraste que o TechCrunch chamou de "uma história de duas Nvidias". Na terça à noite saiu o balanço do terceiro trimestre, com crescimento saudável e promessa de que os bons tempos continuam. A diretora financeira, Colette Kress, que está como C E O interina, encerrou dizendo "a gente dá conta". Só que, segundo o The Verge, na quinta a ação estava em torno de cento e cinquenta dólares, queda de quase quarenta por cento desde o recorde de seis de outubro.
+ANA: Então a empresa vai bem, mas o mercado tá nervoso.
+MARCOS: Exatamente. Lucro é uma coisa, confiança na liderança é outra. E tem mais: o TechCrunch conta que a Nvidia disse que vai parar de vender o chip H duzentos na China, e que alguns executivos de tecnologia estão pedindo publicamente a volta do Jensen.
+ANA: Pedindo a volta de alguém que o conselho acha que mentiu?
+MARCOS: É curioso, né? Isso mostra como ele é visto como o rosto da empresa. Mas eu acho difícil reverter. Conselho que tira um fundador desse tamanho não costuma recuar. O risco real é de cultura e de estratégia, porque o Jensen decidia muita coisa pessoalmente.
+ANA: E a Wired ainda fez duas matérias de lado, uma sobre restaurantes que ele frequentava em Taiwan e outra sobre homens da tecnologia com medo de armadilhas românticas.
+MARCOS: Pois é, é o efeito colateral. Algumas lojas se afastaram dele, outras ficaram do lado. Um dono disse que "não é como se ele tivesse matado alguém". Eu deixaria isso como curiosidade, o ponto sério é a questão de espionagem, que pode mudar como empresas de chips cuidam de seus executivos.
+ANA: Beleza. Agora a segunda grande história da semana, que eu confesso que ainda estou tentando entender: a hipótese de Riemann.
+MARCOS: Essa é a que mais me deixou de queixo caído, e com ressalvas. A hipótese de Riemann tem cento e sessenta e sete anos. É um dos sete problemas do Prêmio Millennium, que paga um milhão de dólares a quem resolver.
+ANA: E do que ela trata, em português de gente normal?
+MARCOS: Dos números primos, aqueles que só dividem por um e por eles mesmos: dois, três, cinco, sete... Eles parecem aparecer sem padrão. Riemann propôs, em mil oitocentos e cinquenta e nove, uma regra que explicaria como eles se distribuem. Ninguém conseguiu provar que a regra vale sempre.
+ANA: E agora alguém provou?
+MARCOS: Segundo o The Verge, o matemático Levent Alpöge, que trabalha na Anthropic, afirma ter provado com ajuda do Claude. Mas atenção: é uma afirmação, não está verificada. E o TechCrunch trouxe o plot twist: uma solução humana, independente, também apareceu.
+ANA: Duas provas ao mesmo tempo? Isso não é suspeito?
+MARCOS: Não necessariamente. Na história da matemática isso acontece, quando as ferramentas amadurecem várias pessoas chegam perto. Mas o processo agora é demorado: outros matemáticos precisam ler e checar cada passo. Provas desse porte levam meses, às vezes anos. O famoso caso do último teorema de Fermat teve um erro encontrado depois do anúncio.
+ANA: Então eu não posso comemorar ainda.
+MARCOS: Pode se empolgar, mas com o freio de mão puxado. Se for confirmado, é um marco: a I A deixa de ser ferramenta de cálculo e passa a ajudar a descobrir matemática nova. O TechCrunch disse que matemáticos estão impressionados. Meu ponto de vista: o valor mais provável no curto prazo é a I A como parceira do pesquisador, não como substituta. E repare no timing: a empresa que acabou de abrir o capital anuncia uma prova histórica. Isso não invalida nada, mas é um motivo extra pra esperar a verificação independente.
+ANA: Falando em medir progresso, vi uma matéria sobre "o gráfico mais mal compreendido da I A".
+MARCOS: Ah, esse é bom. É da MIT Technology Review. A organização sem fins lucrativos METR atualizou o gráfico do "horizonte de tempo". A ideia é medir quanto tempo de trabalho humano uma tarefa equivale, e que a I A consegue fazer sozinha com sucesso. Antes eram tarefas de minutos, depois de horas.
+ANA: Tipo, a I A consegue fazer uma tarefa que levaria duas horas pra uma pessoa?
+MARCOS: Isso. E o novo relatório diz que algumas capacidades continuam melhorando em ritmo exponencial, mas que os modelos não são tão bons em tarefas que exigem julgamento quanto são em programação.
+ANA: E por que o gráfico é "mal compreendido"?
+MARCOS: Porque as pessoas leem como "a I A vai fazer qualquer trabalho de semanas em breve". Mas o gráfico mede tipos específicos de tarefa, principalmente de código, onde dá pra verificar se deu certo. Tarefa com julgamento, como decidir o que priorizar, é mais difícil de medir e mais difícil pra I A. Isso conversa com a notícia da matemática: onde há verificação clara, a I A voa.
+ANA: Isso explica por que programação é onde a I A mais avança.
+MARCOS: Exatamente. E o The Verge trouxe uma coluna sobre o "vibe coding" chegando a todos os aparelhos: TV, câmera e outros gadgets. Vibe coding é você descrever em linguagem natural o que quer e a I A escreve o código. A ideia é que você personalize o seu aparelho conversando com ele.
+ANA: Legal, mas eu já imagino a minha TV travando porque eu pedi uma coisa estranha.
+MARCOS: É o ponto. Dar ao usuário poder de mudar o software é ótimo, mas segurança e suporte viram um pesadelo. Eu acho promissor, só que ainda no estágio de experimento.
+ANA: Marcos, essa semana também teve o tema que eu mais vi no noticiário: apagões. O The Verge chamou de "a semana em que tudo desabou".
+MARCOS: Foi estranho mesmo. Teve um apagão de dias no Outlook, uma parada nacional de voos nos Estados Unidos, só a segunda em vinte e cinco anos, bancos que pareceram parar de funcionar e até o iCloud caiu.
+ANA: Mas isso é coincidência ou tem a ver com I A?
+MARCOS: A Wired e o TechCrunch levantaram a mesma tese. A Wired diz que a I A está obrigando empresas a corrigir falhas mais rápido, porque atacantes usam I A pra achar e explorar vulnerabilidades recém-descobertas. O TechCrunch trouxe especialistas dizendo que isso lembra o bug do ano dois mil, só que na versão agentes de I A.
+ANA: Explica a lógica.
+MARCOS: Vulnerabilidade é um buraco no software. Antes, a empresa tinha semanas ou meses entre descobrirem o buraco e alguém explorar. Agora a I A reduz esse prazo pra horas. Então as empresas correm pra instalar correções às pressas, e correção apressada quebra coisa. Além disso, agentes de I A fazendo mudanças em sistemas aumentam o risco de erro em cadeia.
+ANA: Ou seja, o remédio também causa efeito colateral.
+MARCOS: Isso. Tenha cuidado com a certeza: não está provado que todos os apagões dessa semana tiveram a mesma causa. Os especialistas falam em algo mais profundo, mas é uma hipótese. A Wired apostou que isso é só o começo, com o título "os apagões estão apenas começando". Eu acho plausível que a gente veja mais incidentes, porque o ritmo de ataque e de correção só aumenta.
+ANA: E isso toca no que os bancos estão fazendo, certo?
+MARCOS: Sim. A Wired contou que grandes instituições financeiras americanas estão proibindo que bots de terceiros entrem na sua conta, e avisando que erros caros desses bots são problema seu.
+ANA: Como assim? Se eu der minha senha pra um agente e ele transferir dinheiro errado, o banco não responde?
+MARCOS: Segundo a reportagem, exatamente. Os bancos dizem que, se você autorizou o agente, a responsabilidade é sua. Do ponto de vista deles, é segurança: um bot logando com a sua senha é indistinguível de um invasor. Do ponto de vista do usuário, é um freio na ideia do assistente que cuida das suas finanças.
+ANA: E o que a pessoa faz?
+MARCOS: O caminho certo seria os bancos criarem acessos oficiais, com permissão limitada, tipo uma chave que só abre a porta da cozinha. Até lá, minha dica é não dar senha de banco a agente nenhum.
+ANA: E agora falando de agentes, essa semana teve uma enxurrada de notícia sobre eles, né?
+MARCOS: Teve. O TechCrunch contou que o Google deu ao Gemini a capacidade de usar o seu Mac por você: organizar arquivos, preencher formulários e fazer tarefas de vários passos. Aí a Apple, segundo a Bloomberg citada pelo The Verge, tinha uma vaga de emprego, depois removida, procurando um engenheiro pra liderar um agente próprio, que navegaria na web, trabalharia entre aplicativos, escreveria código e chamaria serviços.
+ANA: A Apple correndo atrás.
+MARCOS: Sim, e o TechCrunch cita que a concorrência inclui o Muse, da Meta, o Claude e o Dots, da OpenAI. Agente é a corrida do momento: em vez de só responder perguntas, a I A faz coisas no seu computador.
+ANA: E como está o Muse, da Meta?
+MARCOS: Não muito bem essa semana. O TechCrunch relatou que, segundo funcionários, o Muse estava misturando conversas e mostrando mensagens sobre pedidos que a pessoa nunca fez, conselhos de carreira que ninguém pediu e até saldos bancários que não eram da pessoa. Isso é grave, é vazamento de dados entre usuários.
+ANA: Mas a Wired mostrou o lado engraçado do Muse.
+MARCOS: É, o Muse consegue ver quem não te segue de volta no Instagram e deixar de seguir. Tem gente usando com gosto, a chamada pequenez digital. Mas o contraste é bom: o mesmo agente que serve pra picuinha de rede social estaria misturando dados privados. E a Meta ainda não negou que prepara um dispositivo vestível, o Muse Charm, que segundo o The Information, citado pelo TechCrunch, pode custar trezentos dólares.
+ANA: Marcos, todo esse acesso dos agentes me lembra a notícia do Signal.
+MARCOS: Exatamente. O Signal, aplicativo de mensagens focado em privacidade, passou a restringir capturas de tela no Android e no iOS. Segundo o The Verge, a ideia é impedir que agentes de I A do sistema, como o Gemini e a Siri, leiam suas mensagens. A presidente do Signal disse que essas capacidades prejudicam a possibilidade de o app garantir privacidade de forma independente. O TechCrunch usou a expressão "ameaça existencial".
+ANA: Mas se a mensagem é criptografada, como a I A lê?
+MARCOS: Criptografia protege a mensagem no caminho. Quando ela aparece na tela, está em texto aberto, e um agente que olha a tela vê tudo. É como mandar uma carta lacrada e a pessoa ler em voz alta com alguém olhando por cima do ombro.
+ANA: E o efeito prático pra mim?
+MARCOS: Você não vai conseguir tirar print das conversas, pelo menos por padrão. É um incômodo, mas mostra um conflito crescente: agentes querem ver tudo pra ajudar, aplicativos de privacidade querem esconder tudo. Acho que a decisão do Signal é radical, mas coerente. Precisamos de um mecanismo oficial pro app dizer "não leia aqui".
+ANA: E sobre privacidade, teve uma pesquisa assustadora da Ars Technica.
+MARCOS: Teve. Um pesquisador plantou dois milhões de canários na cadeia de suprimentos de I A. Canário aqui é um segredo único e rastreável, colocado em prompts, pra ver se aparece em outro lugar. E segundo a Ars Technica, o teste mostrou que os dados não ficam privados: apareceram vazamentos em várias partes dessa cadeia, que inclui as empresas intermediárias entre você e o modelo.
+ANA: Então aquilo que eu escrevo num aplicativo de I A pode ir parar em outro lugar?
+MARCOS: Pode, dependendo de quem está no meio. Muito aplicativo é só uma camada sobre modelos de outras empresas, e cada camada pode registrar dados. Minha recomendação é não colocar nada realmente sensível se você não sabe quem processa.
+ANA: Ainda no tema de I A errando, a Ars Technica contou o caso do Doritos.
+MARCOS: Que história triste. Adolescentes estão processando uma escola e a polícia depois que um pacote de Doritos disparou um alerta de arma de um sistema de I A. Segundo o processo, mais de noventa e nove por cento dos alertas do sistema daquela escola eram falsos positivos.
+ANA: Noventa e nove por cento? Então praticamente todo alerta é erro.
+MARCOS: Se for verdade, sim. E o custo é humano: jovens abordados por policiais armados, traumatizados. Quando a I A erra em segurança pública, o erro tem consequência física.
+ANA: E tem a ONU e os robôs assassinos.
+MARCOS: Pois é. Segundo o The Verge, citando a NPR, os diplomatas se reuniram em Genebra pra discutir regras para armas autônomas e saíram só concordando em "começar a discutir opções" depois de uma semana praticamente sem resultado. E a Wired mostrou um lado do outro extremo: um jovem de dezesseis anos, que largou o colégio pra entrar na Y Combinator, fundou uma startup de mísseis com I A e fala em "custo por morte".
+ANA: Isso é sinistro.
+MARCOS: É. E o contraste é claro: a tecnologia avança em meses, a regulamentação internacional não consegue nem definir o que discutir. Eu acho que quem diz "a I A militar ainda está longe" está desatualizado.
+ANA: Pra desacelerar um pouco, vamos pra política e energia. O Trump ameaçou taxar empresas que construam centros de dados fora do país?
+MARCOS: Sim, o The Verge citou que ele prometeu um "imposto tremendo" pra quem construir centros de dados fora dos Estados Unidos, enquanto estados e cidades americanos estão restringindo novas licenças de construção. Há uma contradição: querem os centros em casa, mas moradores reclamam de energia, água e barulho.
+ANA: E a Meta, nisso?
+MARCOS: A Ars Technica contou que a Meta está "reavaliando" sua meta de emissão líquida zero até dois mil e trinta, por causa de emissões recordes dos centros de dados de I A. O ponto é que, quando uma empresa grande recua, é um sinal pras outras. Prometer neutralidade é fácil quando a demanda de energia não está explodindo.
+ANA: E tem quem queira resolver com energia nova, tipo fusão.
+MARCOS: O TechCrunch contou que o fundador do Spotify, Daniel Ek, está apoiando a Europa Fusion, startup de fusão nuclear criada por um pesquisador de I A. Fusão é a energia do Sol, limpa em teoria, mas ninguém ainda produz de forma comercial. Eu trataria como aposta de longo prazo. E uma outra ideia ainda mais ousada: centros de dados no espaço. O TechCrunch apontou que credores não querem que a SpaceX lance as garantias deles pra órbita. O chip sobrevive ao espaço, mas o financiamento ainda não.
+ANA: Antes de fechar, Marcos, sobre a Google, o que mudou na busca?
+MARCOS: Segundo a Ars Technica, o Google lançou uma nova página inicial de busca com histórico de conversas com I A e sem o botão de buscar. É um sinal claro: a busca tradicional virando conversa.
+ANA: E a OpenAI teve novidade?
+MARCOS: Teve um texto no blog dela sobre combater a destilação adversarial. Destilação é treinar um modelo menor imitando as respostas de um modelo grande. Quando alguém faz isso sem autorização, é como copiar a lição de casa do colega. A OpenAI diz que combina treinamento, proteções, detecção e punição pra impedir isso. E ela lançou um teste chamado MedChemBench, que mede se a I A consegue ajudar na descoberta de remédios, interpretando moléculas e escolhendo compostos promissores. É pesquisa promissora, mas teste não é remédio aprovado.
+ANA: Vamos fechar então com o resumo.
+MARCOS: Vamos.
+ANA: A Anthropic abriu o capital com recorde de quase cento e cinco bilhões de dólares, e a pergunta é se a segurança sobrevive à pressão de Wall Street.
+MARCOS: A Nvidia vive uma crise de liderança com a saída de Jensen Huang, mesmo com resultados fortes.
+ANA: Duas provas da hipótese de Riemann, uma com o Claude e outra humana, esperam verificação.
+MARCOS: O gráfico da METR mostra que a I A segue evoluindo rápido, mas é melhor em código do que em julgamento.
+ANA: A onda de apagões pode ter a ver com a corrida entre ataque e correção acelerada por I A.
+MARCOS: Bancos, Signal e a pesquisa dos canários mostram que privacidade e responsabilidade viram o campo de batalha dos agentes.
+ANA: Google, Apple e Meta disputam quem tem o melhor agente, e o Muse já tropeçou em dados privados.
+MARCOS: E energia, regras para armas autônomas e erros de I A em segurança pública mostram que o mundo ainda não acompanha a tecnologia.
+ANA: Era isso, pessoal! Obrigada por ouvir o I A Hoje. Semana que vem tem mais!
+MARCOS: Até lá!

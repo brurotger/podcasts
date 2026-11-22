@@ -3527,6 +3527,321 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "source": "The Verge",
       "seen_at": "2026-11-15T16:25:44.332197+00:00"
+    },
+    "2123ce8a8281b489": {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "norm_title": "thevibecodingrevolutioniscomingtoallthegadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "c1145e8368d0892a": {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "norm_title": "bankshavehadituptoherewithyouraiagent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "4b8a8eea7f72f163": {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "norm_title": "signalrestrictsmobilescreenshotsasitconfrontsexistentialthreatofaisurveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "b37283666fa0557b": {
+      "title": "A tale of two Nvidias",
+      "norm_title": "ataleoftwonvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "8d8d01e95ee730ec": {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "norm_title": "theunfailstoagreeonrulesregulatingkillerrobots",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "97cd0a1fb9d4d16c": {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "norm_title": "issellinganaiversionofyourfacetothismicrodramastartupthefutureofhollywood",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "fc868eaae4526212": {
+      "title": "Can Anthropic afford to put safety first?",
+      "norm_title": "cananthropicaffordtoputsafetyfirst",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "c780555ef342684b": {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "norm_title": "chesscomsnextmoveisanewhubforclassicgamesfrommahjongtosudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "b82ed30a06f404ca": {
+      "title": "The Outages Are Just Getting Started",
+      "norm_title": "theoutagesarejustgettingstarted",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "4b7779ad0f1b1252": {
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "norm_title": "copsarepushingextremelycornygrandtheftauto6slop",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "ff3b78a30f411521": {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "norm_title": "googlerollsoutnewsearchhomepagewithaichathistoryandnosearchbutton",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "3784aa3910da10af": {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "norm_title": "metareconsiders2030netzerogoalamidrecordemissionsfromaidatacenters",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "source": "Ars Technica",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "30d5bd6585c57e6b": {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "norm_title": "researcherplants2mcanariesintotheaisupplychainaprivacydisastersurfaced",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "6674d210b58e60a5": {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "norm_title": "danielekbacksairesearchersfusionpowerstartuphereswhattheyrebuilding",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "8a725a0caaa52270": {
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "norm_title": "jensenhuangslyingalarmednvidiaboardaheadofhisresignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "28b84fe4cddf5c7b": {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "norm_title": "aiclaimedasolutiontothe167yearoldriemannhypothesisandahumandidtoo",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "c68e525898f7657a": {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "norm_title": "trumpthreatenstremendoustaxformovingaidatacentersoutsidetheus",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "2f4a4d47ae18293c": {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "norm_title": "themostmisunderstoodgraphinaijustgotamajorupdate",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "d9c0b278a3b6bf3c": {
+      "title": "Chips can survive the space environment — can their financing?",
+      "norm_title": "chipscansurvivethespaceenvironmentcantheirfinancing",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "547d9dd5869ecfd5": {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "norm_title": "anthropicmathematicianclaimstohavesolvedprestigiousmillenniumprizeproblemwithclaude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "3e2491a837ff9292": {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "norm_title": "thefalloutfromnvidiasjensenhuangscandalcontinues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "6636850a59094208": {
+      "title": "The week everything fell apart",
+      "norm_title": "theweekeverythingfellapart",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "16d8163e5d6b89dd": {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "norm_title": "sixaipoweredgadgetsthatcouldmakeyourhomeofficesmarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "1e6a5efd0516ad08": {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "norm_title": "signalisblockinggeminiandsiriaifromreadingyourscreen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "ccc6f3f4a30aef9b": {
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "norm_title": "museisunleashingaworldofpettinessoninstagram",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "a3833dcacfa6f4f3": {
+      "title": "Regular Tech Bros Are Worried About Honeypots",
+      "norm_title": "regulartechbrosareworriedabouthoneypots",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "dce0550b9e23a67e": {
+      "title": "Combatting adversarial distillation",
+      "norm_title": "combattingadversarialdistillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "caf6f5678965524d": {
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "norm_title": "this16yearoldfoundedanaimissilestartuphestargetingcostperkill",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "cf2961033d939ff9": {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "norm_title": "applemaybedevelopingitsownaiagentthatrunsyourmac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "81b65baeccc38a36": {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "norm_title": "anthropics7founderscashedoutnearly2binrecordbreakingipo",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "6409763bd1eccfc1": {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "norm_title": "hebbiaseesimprovementsinfinancialresearchwithgpt6astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "8e7b59ec4e147228": {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "norm_title": "canaihelpscientistsidentifypromisingdrugcandidates",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "186ef2c85421669e": {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "norm_title": "welcomeinkling2minicuttingedgeperformanceforyourlocalsetup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "3d3b93b0d230bcb0": {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "norm_title": "introducingharnessadaptersadaptyourfavoritemodeltoyourharnesstoimproveperformanceandcost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "db94d7b45a33a431": {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "norm_title": "appleishiringengineerstobuilditsownaiagent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "355c14a9af7800f3": {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "norm_title": "abriefhistoryofnvidiasrecentstockfluctuations",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "6c0199b904599ea6": {
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "norm_title": "metasnewmusecharmdevicemaycost300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "07b6eb1cd9af4b4c": {
+      "title": "What’s With All These Outages?",
+      "norm_title": "whatswithalltheseoutages",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "db6bdfe08ffc27d6": {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "norm_title": "thesetechoutagesaregivingy2kaiagentstyle",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "e0eef9c8b29db51e": {
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "norm_title": "thejensenhuangblastradiushashithisfavoriterestaurants",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "source": "Wired",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "ac1e41e140cb48b8": {
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "norm_title": "traumatizedteenssueschoolcopsafterdoritosbagtriggersaigunalert",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "source": "Ars Technica",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "ebf491646e0fa1f4": {
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "norm_title": "anthropicsipocoulddeliver156btocharity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "0d8bb3c5bf984369": {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "norm_title": "googlegivesgeminitheabilitytouseyourmacforyou",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "79b751c5780e70d9": {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "norm_title": "introducingtoolretrievalinthegeminiapi",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
+    },
+    "ec4b1936edba55fb": {
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "norm_title": "metasaiagentmuseismixingupconversationsandcouldbeexposingprivatedatareportsays",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch",
+      "seen_at": "2026-11-22T17:09:19.775430+00:00"
     }
   }
 }
